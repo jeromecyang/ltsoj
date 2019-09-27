@@ -33,4 +33,9 @@
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
 
+  <!-- Site Tags -->
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
 </head>
