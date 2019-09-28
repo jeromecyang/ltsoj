@@ -1,14 +1,8 @@
 ---
 layout: default
+title: {{ page.title }}
 ---
-<div class="post">
-<h1>Tag: {{ page.tag }}</h1>
-<ul>
+<h1>{{ page.title }}</h1>
 {% for post in site.tags[page.tag] %}
-  <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
-  </li>
+  {% include post-thumbnail.html %}
 {% endfor %}
-</ul>
-</div>
-<hr>

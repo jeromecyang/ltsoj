@@ -4,19 +4,11 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
-
-<article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
+  {% include post-thumbnail.html %}
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
+<!--div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
   {% else %}
@@ -37,4 +29,4 @@ title: Home
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 ]</span>
-</div>
+</div-->

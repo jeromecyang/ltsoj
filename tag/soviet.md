@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Soviet"
 tag: Soviet
+title: 前蘇聯國家 Soviet States
 ---

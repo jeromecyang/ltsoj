@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Travel"
 tag: Travel
+title: 旅行 Travel
 ---

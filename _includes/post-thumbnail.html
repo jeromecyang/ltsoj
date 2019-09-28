@@ -1,0 +1,15 @@
+
+
+<article>
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-posts" {% if post.image %}style="background-image:url({{ post.image }})"{% endif %}>
+      <div class="featured-posts-overlay">
+        {% if post.excerpt %}
+          <div>{{ post.excerpt }}</div>
+        {% endif %}
+        <h2>{{ post.title }}</h2>
+      </div>
+    </div>
+  </a>
+</article>
+
