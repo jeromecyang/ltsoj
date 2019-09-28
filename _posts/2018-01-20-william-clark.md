@@ -1,0 +1,311 @@
+---
+date: 2018-01-20 02:34:00+00:00
+excerpt: 1月中的麻州西部本應是蓋滿皚皚白雪，突如其來的暖意卻在兩天之內把盈尺的積雪給融光了，讓原本冬眠在雪裡的農地與牧場得以現身於藍天白雲之下，使這個隆冬裡的週六突然有了春天的風景。這天，我來到麻州西部的安默斯特（Amherst），為的是拜訪兩位失散多年的友人，也是為了要尋訪關於一個人的史蹟——麻州大學與北海道大學的創校者威廉·史密斯·克拉克（William
+  Smith Clark）。
+layout: post
+title: 一位19世紀美國學者在札幌的日子：麻州大學與北海道大學創校者克拉克的跨文化故事
+tags:
+- Cross-Culture
+- Japan
+permalink: 2018/01/20/william-clark
+image: https://upload.wikimedia.org/wikipedia/ja/a/a6/ClarkBoysBeAmbitious.jpg
+---
+
+1月中的麻州西部本應是蓋滿皚皚白雪，突如其來的暖意卻在兩天之內把盈尺的積雪給融光了，讓原本冬眠在雪裡的農地與牧場得以現身於藍天白雲之下，使這個隆冬裡的週六突然有了春天的風景。這天，我來到麻州西部的安默斯特（Amherst），為的是拜訪兩位失散多年的友人，也是為了要尋訪關於一個人的史蹟——麻州大學與北海道大學的創校者威廉·史密斯·克拉克（William Smith Clark）。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/ja/a/a6/ClarkBoysBeAmbitious.jpg)](https://upload.wikimedia.org/wikipedia/ja/a/a6/ClarkBoysBeAmbitious.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >札幌景點羊之丘展望台上的克拉克雕像 （圖片來源：https://ja.wikipedia.org/wiki/さっぽろ羊ヶ丘展望台）
+</td>
+</tr>
+</tbody>
+</table>
+打從決定要寫各種和麻州有關的跨文化故事開始，克拉克就在我的名單上。他是一位19世紀曾經被從麻州借調到北海道的農業學者，雖然只待了短短8個月的日子，卻對後來日本的現代化、教育、農業、信仰都留下深刻影響，今天札幌的景點[羊之丘展望台](http://www.hitsujigaoka.jp/han/second/)（さっぽろ羊ヶ丘展望台）上面矗立著他的雕像，許多地方都可以見到他的名言「少年啊，要胸懷大志！」（少年よ大志を抱け！）。我最早是從台灣朋友去北海道玩的遊記裡面知道他這號人物，後來看到的資料也大多是以亞洲的觀點來介紹他；然而，身為一位麻州居民，我是不是也能從他家鄉的視角來認識他這個人呢？於是我下了個決定，無論如何都要跑安默斯特一趟，只因為那裡有著他一手創建的麻州大學，還有全美唯一一座刻著他名字的紀念碑。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/c0aa0-img_3034.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/c0aa0-img_3034.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >麻州大學安默斯特分校裡的克拉克紀念碑
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 來自麻州西部的學者
+
+
+19世紀上半葉的麻州，是美國工業革命的前線，大量的紡織廠在羅威爾（Lowell）、勞倫斯（Lawrence）、伍斯特（Worcester）、春田（Springfield）等地如雨後春筍般出現，使這些小鎮在短短幾年之內蛻變成為工業大城；然而，在這些城鎮之外，大部分的新英格蘭仍然沒有太大變化，保留著從殖民地時期以來以農牧業為主的生活型態，數百人之譜的小鎮座落在大片靜謐安詳的田園與丘陵之間；1826年，克拉克就出生在這樣的一個新英格蘭小鎮裡。
+
+克拉克在成長與受教過程中的活動範圍非常小，他的出生地、高中、大學以及後來擔任教職的地方都是在方圓10哩內的幾個小鎮，除了1851到1852年之間在德國哥根廷大學（University of Göttingen）取得化學博士學位以及1861到1863年間因為參與南北戰爭而前往維吉尼亞之外。如此忠心不渝的一位麻州州民，又有著名校安默斯特學院（Amherst College）化學、動物學與植物學教授的穩定教職，實在很難想像他後來竟然會踏上跨越半個地球的一趟旅程。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/f/fd/William_S._Clark.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fd/William_S._Clark.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >威廉·史密斯·克拉克 （圖片來源：https://upload.wikimedia.org/wikipedia/commons/f/fd/William_S._Clark.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+1867年，麻州為了培養農業人才，在安默斯特成立麻州農業學院（Massachusetts Agricultural College），也就是現在的麻州大學安默斯特分校（University of Massachusetts Amherst），並決定聘請對農業教育充滿熱枕的克拉克擔任實質上的創校校長（前兩任校長僅擔任籌備工作，並沒有實際招生）。這段歷史不是麻州獨有的——南北戰爭期間，美國通過莫里爾土地贈與法（[Morrill Land-Grant Acts](https://en.wikipedia.org/wiki/Morrill_Land-Grant_Acts)），允許聯邦政府將土地無償給予州政府成立學校培養農業與機械人才，因此後來幾年裡，美國各州紛紛在州內尋找適合的大片土地成立州立農業學院，也就是我們今天所熟知的那些公立大學（例如伊利諾大學香檳分校、普度大學、馬里蘭大學、密西根州立大學、愛荷華州立大學等）的前身。這正是為什麼中西部許多知名大學都長在鳥不生蛋的玉米田裡，而且有著歷史悠久的農業系所。這些學校又被稱為「贈地大學」（[land-grant university](https://en.wikipedia.org/wiki/Land-grant_university)）。
+
+此時的克拉克，大概做夢也想不到自己會在幾年後前往一個遙遠的國度；然而就在同一年，太平洋的另一端發生了一件驚天動地的大事，間接促成克拉克幾年後的這趟跨文化旅程。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/1b831-land_grant_colleges_map.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/1b831-land_grant_colleges_map.png)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >因莫里爾土地贈與法而建立的「贈地大學」，其中包括不少眾人熟悉的知名公立大學 （圖片來源：https://upload.wikimedia.org/wikipedia/commons/2/2d/Land_Grant_Colleges_Map.svg）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 地球另一端的巨變
+
+
+同樣是在1867年，日本明治天皇即位，幕府與封建體制已經幾乎走到盡頭，德川幕府在倒幕派藩主的壓力下將政權交還天皇，日本脫離封建進入[明治維新](https://zh.wikipedia.org/zh-hant/%E6%98%8E%E6%B2%BB%E7%BB%B4%E6%96%B0)時代，並且開始引進西方技術與人才，進行大幅度的改革，使日本快速現代化甚至能與歐美強權抗衡。
+
+這段時間裡，日本最北邊的大島北海道（當時仍被稱作[蝦夷](https://zh.wikipedia.org/wiki/%E8%9D%A6%E5%A4%B7)）也開始受到前所未有的重視。在這之前的北海道是[愛奴人](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E5%8A%AA%E6%97%8F)世居的領域，日本人對這片土地沒有太大興趣，明治維新前實際上只控制了南方濱臨津輕海峽的一小塊區域（松前藩屬地）；但在明治維新期間，日本政府意識到已經擁有[庫頁島](https://zh.wikipedia.org/wiki/%E5%BA%93%E9%A1%B5%E5%B2%9B)的俄國，隨時都可能入侵僅有幾步之遙的北海道，為了強化日本在北海道的實際統治，決定大規模開發北海道，並且鼓勵國人從本州、四國與九州移民北海道。
+
+面對這樣一片地廣人稀的土地，日本該如何以最快的速度取得實際控制呢？日本政府馬上想到了美國快速向西擴張的經驗，將大片無人土地轉為農地或牧場不僅有效，而且能夠帶動經濟，顯然是最佳辦法，但這也使得培養農業人才刻不容緩。於是，他們在緯度與環境都和北海道類似的麻州，透過曾就讀安默斯特學院的明治時期教育家[新島襄](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E8%A5%84)（同志社大學創辦人），找到了甫成功建立麻州農業學院的克拉克，前往日本協助札幌農學校（也就是今天的北海道大學）建校。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/1/1a/17%E4%B8%96%E7%B4%80%E3%82%A2%E3%82%A4%E3%83%8C%E5%9C%B0%E5%9B%B3.png)](https://upload.wikimedia.org/wikipedia/commons/1/1a/17%E4%B8%96%E7%B4%80%E3%82%A2%E3%82%A4%E3%83%8C%E5%9C%B0%E5%9B%B3.png)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >江戶時代的北海道，僅有南方一小塊區域在大和族的勢力範圍內，其他都是愛奴人的傳統領域。 （圖片來源：https://upload.wikimedia.org/wikipedia/commons/1/1a/17%E4%B8%96%E7%B4%80%E3%82%A2%E3%82%A4%E3%83%8C%E5%9C%B0%E5%9B%B3.png）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 跨越半個地球的旅程
+
+
+克拉克在1876年5月15日從麻州安默斯特出發，帶著他的學生惠勒（William Wheeler）與潘浩羅（David Pearce Penhallow），前往地球另一端的北海道札幌。問題來了——在那個沒有飛機的年代，要如何從美國東岸跨越美洲大陸、再跨越太平洋前往日本？
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >1869年，美國第一條大陸橫貫鐵路通車，來自東西岸的列車在猶他州會合。 （圖片來源：https://en.wikipedia.org/wiki/First_Transcontinental_Railroad）
+</td>
+</tr>
+</tbody>
+</table>
+在克拉克啟程之前7年，由聯合太平洋（Union Pacific）鐵路公司興建的[美國第一條大陸橫貫鐵路](https://en.wikipedia.org/wiki/First_Transcontinental_Railroad)正好完工，因此克拉克一行人拜訪了幾個東岸大城之後，便坐著火車從費城經過芝加哥、奧馬哈、鹽湖城，看著窗外的風景從叢林、草原慢慢變成沙漠，來到一座不久前才因掏金潮而興起的嶄新城市：舊金山，這趟旅行花了整整8天的時間。停留了幾天之後，坐上了由舊金山前往香港、中停橫濱的「大共和號」（Great Republic）輪船。這趟長達1個月的旅途中，克拉克身邊大多數的乘客是因淘金或興建鐵路而來到美國的中國工人。6月底，他們到達橫濱港，隨即坐上4年前才剛完工的[日本第一條鐵路](https://gushi.tw/%E8%A7%80%E5%85%89%E6%99%82%E4%BB%A3%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%90%B5%E9%81%93%E6%97%85%E8%A1%8C%E7%9A%84%E8%AA%95%E7%94%9F/)，只花了一個小時就從橫濱抵達東京新橋。
+
+克拉克一行人在東京停留了一段時間，並且受到外賓的高規格禮遇，他們拜會了相關的政府官員、參觀了東京大學的前身開城學校，同時也有機會接觸日本的常民生活，在忙碌之餘還不忘學習日文50音。一直到7月下旬，他們啟程以當時最便利的方式前往札幌——先搭輪船到當時稱作箱館的函館，然後再騎馬經過內浦灣、小樽，於7月31日到達札幌。克拉克一行人當天便在政府提供的日式房屋裡安頓下來，隨即開始為兩週後札幌農學校的開學做準備。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://c1.staticflickr.com/1/8/9457813_c8f76ecbfa_z.jpg)](https://c1.staticflickr.com/1/8/9457813_c8f76ecbfa_z.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >明治維新時期的東京銀座 （圖片來源：https://c1.staticflickr.com/1/8/9457813_c8f76ecbfa_z.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 每個成功的外國人，背後都有個偉大的本國人——北海道開拓長官黑田清隆
+
+
+克拉克在札幌最重要的任務，就是將他在麻州農業學院的經驗直接複製到北海道；然而，身為一個不諳日語、也不了解日本文化的「歪果人」，要如何突破各種文化障礙執行他的建校計畫呢？這裡就必須要介紹一下一路罩他的幕後推手、當時的北海道開拓長官[黑田清隆](https://zh.wikipedia.org/wiki/%E9%BB%91%E7%94%B0%E6%B8%85%E9%9A%86)。
+
+黑田清隆出身於九州南方的薩摩藩，也就是今天的鹿兒島縣。為什麼要特別提到他的出身？在幕府末期，倒幕運動的主力是當時的四大雄藩：薩摩藩、長州藩（今山口縣）、土佐藩（今高知縣）、肥前藩（今佐賀縣與長崎縣）；大政奉還之後，「[薩長土肥](https://zh.wikipedia.org/wiki/%E8%96%A9%E9%95%B7%E5%9C%9F%E8%82%A5)」出身人士幾乎包辦了明治維新政府的所有官員；一直到今天，[山口縣](https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E5%8E%BF)仍然是一個出產大量日本首相與閣員的地方。黑田清隆也是因為其薩摩藩背景而被拔擢為陸軍參謀，並且在倒幕最後一戰的箱館戰爭中立下大功，而成為北海道開拓長官（地位相當於州長或知事），後來還成為日本第二任首相。
+
+克拉克一到北海道就和黑田一見如故，他們兩人的共通點是都有軍事背景：克拉克在美國南北戰爭期間成立學生志願軍參戰，官拜上校；黑田當時身兼北海道屯田憲兵事務總理，官階陸軍中將。除此之外，他們兩人對於教育的理念不謀而合，很快成為好友，克拉克得到黑田非常深厚的信任，幾乎是要什麼給什麼；後來克拉克之所以能夠在嚴禁基督教的環境中教導學生聖經，也是因為得到黑田的默許。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/6/67/Kiyotaka_Kuroda_formal.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/67/Kiyotaka_Kuroda_formal.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >黑田清隆 （圖片來源：https://upload.wikimedia.org/wikipedia/commons/6/67/Kiyotaka_Kuroda_formal.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 札幌農學校第一期開學
+
+
+八月中，札幌農學校正式開學，第一屆學生有24人，來自日本各地，事前已經由克拉克一行人親自面試，專程來此學習最先進的農業技術。克拉克和他的夥伴們也就開始為這些學生上課，一半時間教英文，另一半時間教專業科目，使用的語言當然是英文。根據克拉克本人的說法，這些日本學生英文閱讀與寫作程度相當好，甚至比他在安默斯特教的美國學生還要好。
+
+對這些日本學生來說，克拉克是一位前所未見的老師——他的教學非常注重互動，喜歡不斷問學生問題；他除了傳授知識，也常會花上一定時間分享信仰，以及自己在南北戰爭裡的經驗；他和學生完全沒有距離，會在晚上邀請學生到家裡閒聊。而這其中讓他們最印象深刻的，莫過於一次在野外採集標本時發生的軼事。
+
+那天，克拉克帶著學生們來到札幌東邊的手稻山裡，發現一種極為罕見的青苔，正好長在他無法直接搆到的地方；此時克拉克立馬彎下身子跪在地上，請其中一位身高較高的學生踩在他的背上把樣本取下來，這位學生瞬間大驚失色：小弟何德何能，怎麼敢踩在這位尊敬的克拉克「先生」的背上？這種事在日本從來沒發生過呀！只見克拉克不為所動，堅持要這位同學照他說的辦。這件事情後來成了札幌農學院裡廣為人知的校園傳說。
+
+這段時間克拉克與他的夥伴們相當的忙碌，不但每天要教好幾個小時的課，還得處理校內的各種行政決策，同時仍然肩負著開發北海道的任務。克拉克本身是個博物學家，無論旅行到什麼地方，第一件事情就是到處收集標本，觀察動植物與自然環境，他的這項特質在北海道得到很好的發揮——他四處考察氣候、土壤、水文，以便引進適合的農作物；他根據北海道農牧並行的開發方針，在當地建立可以由簡單人力與畜力運轉的新式穀倉；他也深入叢林大量調查植物，目的是要找到適合餵食桑蠶的樹葉。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/4/46/Sapporo_Agricultural_School_in_1880_(halftone_removed).jpg)](https://upload.wikimedia.org/wikipedia/commons/4/46/Sapporo_Agricultural_School_in_1880_(halftone_removed).jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >1880年的札幌農學校 （圖片來源：https://upload.wikimedia.org/wikipedia/commons/4/46/Sapporo_Agricultural_School_in_1880_%28halftone_removed%29.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 日式咖哩的流行風潮
+
+
+克拉克在日本留下的影響極其深遠，甚至還包括日本的飲食文化。
+
+咖哩源自印度，最早是作為一種「西方文明進步的象徵」，透過當時統治印度的大英帝國，被引入急欲脫亞入歐的日本；但對當時的日本人來說，這種有著奇怪顏色的醬汁本身不是日本人習慣的食物，因此初期並沒有受到很大的歡迎，直到克拉克在札幌農學校的食堂裡推廣，才開始讓咖哩風行全國。
+
+克拉克之所以選擇推廣咖哩，很可能是為了解決北海道的糧食問題，同時鼓勵日本人食用三種當時北海道新引進的作物：馬鈴薯、胡蘿蔔、洋蔥。在那之前，這三種作物已經被引進日本多年，但產量非常小，也沒有成為日本飲食文化的一部份；一直到北海道開拓時期，日本人開始在當地大量種植這三種適合高緯度環境的新作物，然後藉著和咖哩混合，讓它們逐漸融入日本人的日常飲食。除此之外，在不適合種植稻米的北海道，馬鈴薯正好能作為替代性主食，填補稻米的短缺。據說，把這三樣新作物加入咖哩的做法，就是克拉克本人的點子，也成為日本咖哩獨步全球的特徵。
+
+（關於日本咖哩的發展歷史，可參閱胡川安《[獨立領袖的家鄉味：印度咖哩、日式咖哩與亞細亞主義](https://global.udn.com/global_vision/story/8664/2360192)》。）
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Beef_curry_rice_003.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3b/Beef_curry_rice_003.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >（圖片來源：https://upload.wikimedia.org/wikipedia/commons/3/3b/Beef_curry_rice_003.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 知識要教，道德也要顧——以聖經為本的道德教育
+
+
+早在札幌農學校開學之前，克拉克和黑田就不約而同的注意到道德教育的重要性，他們都相信一間學校不能只教導學生知識，也要培養學生的道德觀。對來自19世紀的美國、篤信基督教的克拉克而言，基督教信仰就是他一切道德標準的來源，他不可能教導學生自己的道德觀而不提到聖經，剛開始黑田對此極其感冒；不過克拉克很快發現，黑田和當時的日本人之所以反對基督教，其實是因為害怕西方強權藉此滲透日本，因此經過各種折衝討論，黑田允許克拉克在課堂上講述他以聖經為本的道德觀。
+
+當時克拉克會在每天第一節課的前10分鐘，帶領學生研讀聖經著名篇章，如詩篇103篇、八福、以賽亞書53章與55章、哥林多前書13章等，然後為學生祈禱。不同於日本注重規範與秩序的道德教育，克拉克相信能使人變好的不是外在規範，而是內在意識，因此他幾乎沒有訂定什麼校規，卻反覆的提醒他的學生們行事為人要像個紳士，也要求同夥的美國同事注意自身言行。不僅如此，他雖然時常對學生提到信仰，卻也提醒學生們不要和信仰不同者陷入爭辯，而要以自身的言行活出信仰的精神。
+
+第一二屆的學生們在克拉克的要求下，必須簽署一份[盟約](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF#%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%92%E4%BF%A1%E3%81%9A%E3%82%8B%E8%80%85%E3%81%AE%E5%A5%91%E7%B4%84)（Covenant），內容包括行事為人的原則，以及跟隨基督的宣誓。史料指出，當時並非所有學生都願意簽字，而簽字的學生裡有一半在他離開之後馬上就「棄教」。但無論如何，學生們對於克拉克本人的身教與言教都相當推崇。一位學生表示，克拉克講的雖然是宗教，卻和他們從其他傳教士聽到的完全不一樣，非常實用而生活化，讓人嗅不到什麼宗教的味兒。他的其中兩位學生[內村鑑三](https://zh.wikipedia.org/wiki/%E5%85%A7%E6%9D%91%E9%91%91%E4%B8%89)與[新渡戶稻造](https://zh.wikipedia.org/wiki/%E6%96%B0%E6%B8%A1%E6%88%B6%E7%A8%BB%E9%80%A0)，後來成為日本教會史上的重要人物。（內村鑑三後來創立札幌獨立基督教會，是日本基督教會本土化的重要推手；新渡戶稻造後來留美深造，又代表日本出席[國際聯盟](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%81%AF%E7%9B%9F)會議，還曾任職台灣總督府殖產局長，史稱「台灣糖業之父」，是1984年至2004年間日幣5000元紙鈔上的人物。）
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://thumbnail.image.rakuten.co.jp/@0_mall/yamabun-r/cabinet/03293397/03293402/img58964207.jpg)](https://thumbnail.image.rakuten.co.jp/@0_mall/yamabun-r/cabinet/03293397/03293402/img58964207.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >克拉克的學生新渡戶稻造，曾任台灣總督府殖產局長，被稱為台灣糖業之父，是1984年到2004年日幣5000元鈔票上的人物 （圖片來源：https://thumbnail.image.rakuten.co.jp/@0_mall/yamabun-r/cabinet/03293397/03293402/img58964207.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 少年啊，要胸懷大志 ！（少年よ大志を抱け！）
+
+
+克拉克在札幌農學校的短短8個月很快來到尾聲。1877年4月16日，北海道的春天才剛降臨，克拉克返回美國的日子就已到來。那天，札幌農學校的師生們騎著馬護送他到市區南方21公里遠的鳥松，克拉克在那裡和他們道別，並且對他們說出了「Boys, be ambitious!」（少年啊，要胸懷大志 ！）這句後來成為名言的話，隨即踏上歸途。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/f/fe/Kitahiroshima_city_limit_sign.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fe/Kitahiroshima_city_limit_sign.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >克拉克說出這句名言的鳥松位在今天的北廣島市內 （圖片來源：https://upload.wikimedia.org/wikipedia/commons/f/fe/Kitahiroshima_city_limit_sign.jpg）
+</td>
+</tr>
+</tbody>
+</table>
+他並沒有從函館直接經由東京返回美國，反而又花了一個多月周遊日本，沿路觀察自然環境並收集標本。他先搭上了一艘開往長崎的船，拜訪了這個日本鎖國時代少數對外的窗口；接著又穿過瀨戶內海在神戶上岸，前往大阪和京都，在京都見到了他在安默斯特學院的第一位日本學生、當時已經創辦了同志社大學的新島襄；最後從神戶回到橫濱，再次來到一年前停留過的東京，曾經1個晚上收到5個送別飯局邀約，但他最後只接受了其中1個，那就是和他已建立起革命情感的黑田。
+
+雖然在日本有過這樣一段輝煌的歷史，克拉克回到美國之後的發展並不順利。從麻州農業學院退休之後，他原本打算推動「浮動式大學」的計畫，卻因為投資者逝世無疾而終；接著他又與人合夥投入礦業，但不久後便宣告失敗，晚年官司纏身，在安默斯特抑鬱而終。今天在美國或麻州幾乎沒有任何人聽過他，只有在他創辦的麻州大學校園裡，矗立著他的紀念碑，以及一座以他命名的建築。
+
+克拉克離開之後的札幌農學校又是什麼樣子呢？和他一起來到北海道的安默斯特畢業生惠勒、潘浩羅以及後來加入的布魯克斯（William Brooks），都繼續留在札幌農學校教書，布魯克斯甚至一路待到1891年。有趣的是，這三個人在日本的時間都比克拉克要久得多，而且回到美國之後的發展也都比克拉克要好，但後來被最多人記得的卻是當初擔任先鋒的克拉克。而札幌農學校，後來先成為北海道帝國大學（與台灣大學的前身台北帝國大學同樣名列於[日本9所帝國大學](https://zh.wikipedia.org/wiki/%E5%B8%9D%E5%9C%8B%E5%A4%A7%E5%AD%B8)之內），戰後再被改制為北海道大學；不變的是，他們的校訓至今依然是那句「少年よ大志を抱け」。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/e893e-img_3037.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/01/e893e-img_3037.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >麻州大學校園裡紀念克拉克的Clark Hall
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 後記：對於「跨文化」與「影響力」的一點省思
+
+
+在為了這篇文章搜尋資料、爬梳歷史甚至實地勘查的過程中，我突然意識到自己從小似乎就對「跨文化」這件事情懷有憧憬，曾經幻想著自己有一天會毅然放棄優渥舒適的生活，來到一個未開發國家的少數民族裡，披荊斬棘篳路藍縷，從不被信任慢慢變成他們的一份子，將自身所學傳授他們，最後改變了整個族群的命運⋯⋯（唉，這顯然是報章雜誌上的正面勵志故事看太多了）。克拉克的故事，讓我再次思考所謂的「跨文化」和「影響力」究竟是什麼。
+
+我個人覺得，其實克拉克壓根兒沒有把跨文化這件事情當成他的人生目標，他說穿了就只是在日本政府的高薪聘請下，決定到札幌8個月的時間，把他建立麻州農業學院的經驗在那裡複製出來。這個過程中其實他並沒有很認真的想要跨文化（從頭到尾都沒有打算要學日文），也沒有想要刻意發揮多大的影響力（只教了24個學生不到1年的時間），但最後卻在日本留下巨大而長遠的影響。他靠的究竟是什麼？
+
+就我個人的觀察，他有一顆非常單純認真的心，不隨著周遭環境而輕易改變；這讓他無論到什麼地方，都能在自身的專業上做到最好，並且在任何時候都能盡力地活出自己的價值和信仰。
+
+我想，比起整天做著改變世界的大夢，或許這種腳踏實地的精神才是一位跨文化工作者身上最重要而且寶貴的特質吧——我如此告訴自己。
+
+
+### 附錄：關於本文的參考資料
+
+
+寫這篇文章的過程中我參考了非常多的資料，大部分都已經放在文內的連結中；除了這些連結之外，最重要的是兩份英文著作：
+
+
+
+ 	
+  * Maki, John M. (2003) _[A Yankee in Hokkaido: The Life of William Smith Clark](https://books.google.com/books?id=coqg1GluRY0C&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false)_, Lexington Books.
+
+ 	
+  * Czerwien, Christy A. (2011) _["Boys be Ambitious!": The Moral Philosophy of William Smith Clark and the Creation of the Sapporo Band](http://d-scholarship.pitt.edu/8244/)_. Master's Thesis, University of Pittsburgh.
+
+
+

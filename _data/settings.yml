@@ -16,7 +16,7 @@ menu:
   tag: 'culture'
 - name: '城市 City'
   tag: 'city'
-- name: '關於我們 About'
+- name: '關於我 About'
   tag: 'about'
 
 social:

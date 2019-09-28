@@ -1,0 +1,297 @@
+---
+date: 2018-01-06 16:05:00+00:00
+excerpt: 自從搬到現在的住處之後，我一直都覺得自己生活在一個很特別的地方——這裡雖然是美國境內，離波士頓市中心也不遠，但卻有一半以上的人口是在美國以外出生；非尖峰時段搭地鐵，聽到的西班牙文對話數量遠遠超過英文；走在充滿西班牙文招牌的街上，幾乎所有店家都可以直接以西班牙文溝通；若是再更往北一些，則會遇到更多的東南亞面孔，以及貼著高棉文海報的櫥窗。
+layout: post
+title: 踏出認識波士頓移民的第一步：Shirley Avenue上的文化探索
+tags:
+- Boston
+- Cross-Culture
+permalink: 2018/01/06/boston-cambodian-1
+image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg
+---
+
+自從搬到現在的住處之後，我一直都覺得自己生活在一個很特別的地方——這裡雖然是美國境內，離波士頓市中心也不遠，但卻有一半以上的人口是在美國以外出生；非尖峰時段搭地鐵，聽到的西班牙文對話數量遠遠超過英文；走在充滿西班牙文招牌的街上，幾乎所有店家都可以直接以西班牙文溝通；若是再更往北一些，則會遇到更多的東南亞面孔，以及貼著高棉文海報的櫥窗。
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg)
+
+
+這個由波士頓地鐵藍線貫穿的帶狀區域，從南往北涵蓋了East Boston、Revere、Lynn三個城鎮，從美國還未獨立的18世紀上半葉開始就是少數族群（minority）移民的聚居區域，最早是不受英國移民歡迎的愛爾蘭人和猶太人，後來逐漸被義大利人取代，20世紀中期之後則先有東南亞移民來到，接著又慢慢被日漸增加的拉丁美洲移民填滿。有趣的是，幾百年下來，這裡的移民早就換過好幾批人了，最大移民來源也從歐洲、亞洲變成了拉丁美洲，但從未改變的是這裡依舊是移民區。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >從波士頓中心向東望，照片近處為觀光客雲集的昆西市場（Quincy Market）與金融區（Financial District），一水之隔的遠處則是我所居住的東波士頓（East Boston）與羅根機場（Logan Airport），也就是地鐵藍線上的移民區。
+</td>
+</tr>
+</tbody>
+</table>
+新的一年，我給自己的新功課之一就是要認真了解這片區域裡的移民，以及他們所屬的文化，於是我在2017年的倒數第二天來到了離家不遠、但過去一直不太熟悉的Revere，因為聽說那裡多年來聚集了不少來自柬埔寨的移民。我想從在街上散步與觀察開始，慢慢了解這裡的人，還有文化。
+
+
+## **在Shirley Avenue上逛柬埔寨商店**
+
+
+
+
+從藍線地鐵的倒數第二站Revere Beach走出來，正前方的Shirley Avenue是我探索的起點。這裡並不繁華，充其量就是條有幾間商店的典型美國小街，乍看之下平凡無奇，但仔細觀察兩邊的店家，馬上就會發現這裡的特別之處。
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/8ba83-img_2917.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/8ba83-img_2917.jpg)
+
+
+總共有4家店門面上有著高棉文字，兩家小型超市、一家餐廳、一家珠寶店。
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/dd57c-img_2913.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/dd57c-img_2913.jpg)
+
+
+造訪時正好是陽曆新年前兩天，店家櫥窗上貼著高棉文的新年晚會海報，地點是在Lowell，也就是麻州最大的柬埔寨社區。（這個設計風格和華埠裡可以見到的春節晚會海報還頗為相似啊！）
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/c5491-img_20171230_132953.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/01/c5491-img_20171230_132953.jpg)
+
+
+這幾年在世界各國走跳，我發現要開始認識一個族群或文化最好的方式，就是去逛他們的市場、超市或雜貨店，這些店裡的小細節往往可以透露出很多訊息。我喜歡觀察的幾個點是：
+
+
+
+ 	
+  * 食品較多，還是非食品較多？
+
+ 	
+  * 食品裡面生鮮比較多，還是罐頭與漬物比較多？
+
+ 	
+  * 食材裡面肉類比較多，還是蔬果比較多？
+
+ 	
+  * 肉品大多是新鮮的，還是醃肉、燻肉為主？有哪些部位？
+
+ 	
+  * 有什麼在別的國家或文化裡看不到的東西？
+
+
+
+
+於是我走入了其中兩家柬埔寨超市。從進門開始，馬上就感受到典型的亞洲商店氣氛——各種醬料、食材、貨品的氣味混雜在一起，走道狹窄，光線不太充足。雖然不像美國超市那樣俐落，但應有盡有。
+
+
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/123d3-img_20171230_134423.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/123d3-img_20171230_134423.jpg)
+
+
+
+
+
+
+
+即使是像7-elevan大小的店面，裡面仍然麻雀雖小五臟俱全，提供影印與傳真服務，連棉被都賣。
+
+
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/fef4e-img_20171230_140328.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/fef4e-img_20171230_140328.jpg)
+
+
+
+
+
+
+
+不同於豬肉種類最多的華人超市，這裡牛肉的數量超過豬肉，而且很容易看到牛肉片、牛百葉、牛腱、牛肉丸等，我猜是因為這些都是煮河粉的重要食材。
+
+
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/cdd6b-img_20171230_140131.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/01/cdd6b-img_20171230_140131.jpg)
+
+
+
+
+
+
+
+亞洲超市的共通點就是醬料的種類和數量永遠都很驚人。雖然是柬埔寨超市，但裡面仍然可以找到一些中日韓的品牌，只是數量相對少；同樣的在中日韓超市裡，也可以找到一些數量相對少的東南亞食材。
+
+
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/cc743-img_20171230_134656.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/cc743-img_20171230_134656.jpg)
+
+
+
+
+
+
+
+店裡的角落可以找到斗笠、蠟燭、線香。
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/b627f-img_20171230_134604.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/b627f-img_20171230_134604.jpg)
+
+
+
+
+店裡供奉著神像，注意神龕上面的漢字。
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/96722-img_20171230_143817.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/01/96722-img_20171230_143817.jpg)
+
+
+
+
+## **亞洲、拉丁美洲與非洲相遇的地方**
+
+
+
+
+
+
+
+只看這些照片，可能會誤以為這裡是很單純的柬埔寨社區——這裡的確有不小的柬埔寨社群，但這條街並不是像唐人街那樣，從裡到外都是華人店家；相反的，這條短短200公尺長的街上，竟然融合了來自三塊不同大陸的移民。
+
+
+
+
+
+
+
+拉丁美洲的店家數量比柬埔寨要多，他們來到這裡的時間雖然比柬埔寨人要晚，但目前正穩定且迅速的成長中，就連上述的幾家柬埔寨商店內都開始販售Goya的罐頭（Goya是美國境內最大的豆類罐頭廠牌，是拉丁美洲移民重要的食材，常去美國超市的人應該都不陌生）。
+
+
+
+
+
+
+
+雖然這些國家都使用西班牙文，各國文化還是有些差異，有些店家也因此會在店門口標示自己來自哪個國家。很有趣的是，有時候他們會直接把自己的招牌和國旗融合，而且似乎沒有什麼違和感。下面這兩家店都直接融合了哥倫比亞的國旗。
+
+
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/6129b-img_20171230_134106.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/6129b-img_20171230_134106.jpg)
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/65845-img_20171230_133940.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/65845-img_20171230_133940.jpg)
+
+
+
+
+
+再往前走，突然又看到另外一個我不太熟悉的國旗了，心裡便開始猜測，這又是哪個中南美洲或加勒比海國家的國旗呢？
+
+結果回家一查，天啊，這是摩洛哥！也就是說這條街上不只融合了美洲和亞洲的移民，連非洲移民都有！
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/405c5-img_2916.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/405c5-img_2916.jpg)
+
+
+
+
+
+
+
+離開前，我在其中一家柬埔寨商店買了些河粉食材，聽聽他們的高棉文對話。本來想要和店家聊聊的，不過他們當時似乎相當忙碌，我也就不好意思打擾。
+
+
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/d300f-img_20171230_190110.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/d300f-img_20171230_190110.jpg)
+
+
+
+
+
+這短短一小時的探索裡，我雖然發現了這條街上融合了亞洲、拉丁美洲與非洲多元文化，但充其量也只是觀察了些商店裡可見的事物，也沒能和店家有什麼對話，距離真正了解這些文化、這些人的故事還是相當遙遠。
+
+我發覺生活在美國，雖然接觸各國文化的機會很多，我們對一個文化的理解還是相當狹隘，常常僅限於他們的食物；我自己雖然本身就是個移民，也已經在這塊移民地帶住了兩年多，似乎對於身邊這些事物文化與族群了解和探索還是太少。
+
+於是我回到家，決定先來認真研究一下美國柬埔寨移民的歷史。
+
+
+## **柬埔寨移民是如何來到美國的？**
+
+
+故事要從第二次世界大戰說起。
+
+大戰的結束，對北美、中歐、西歐、北歐的國家來說是偉大勝利，也是和平的開始，自此安居樂業、經濟蓬勃發展；但對於多數東亞國家而言，一連串更嚴重的災難才正要開始。
+
+柬埔寨在19世紀中期之後與越南、寮國一樣成為法屬印度支那（French Indochina）殖民地。1945年大戰結束日軍撤退之際，由原本的皇室宣布柬埔寨獨立，但法國不願放棄中南半島，一直堅持到1953年才給予柬埔寨與寮國自治權，柬埔寨重新成為獨立王國。
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/4/40/Indochine_fran%C3%A7aise_(1913).jpg)](https://upload.wikimedia.org/wikipedia/commons/4/40/Indochine_fran%C3%A7aise_(1913).jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >1913年的中南半島，越柬寮三國都是法國殖民地。圖片取自wikipedia。
+</td>
+</tr>
+</tbody>
+</table>
+這個1953-1970的柬埔寨王國雖然奉行社會主義，卻一直維持某個程度的中立以避免陷入隔壁越南的烽火之中；直到越戰後期，親共的柬埔寨被視為對南越的威脅，原王國將領便在1970年趁國王出訪時叛變，建立一個親美的共和體制。這個政府理論上應該是美國抵抗共產勢力的希望，但這它的表現卻相當差強人意，在頻繁的衝突中搖搖欲墜，和它隔壁的難兄難弟南越相去不遠（這樣說起來和1945-1949年之間的中國國民黨政府也真有幾分神似呀）。接下來的20餘年，整個柬埔寨都處於動盪之中。
+
+1975年越戰接近尾聲時，早已壯大的柬埔寨共產黨（又稱紅色高棉、赤柬）立即攻下金邊，展開近4年惡名昭彰的恐怖統治；後來適逢中國和越南、蘇聯交惡，越南在1978年派兵入侵當時親中的柬埔寨，建立親越南的傀儡政權柬埔寨人民共和國，紅色高棉則退守泰國邊境，在中國支持下繼續維持聯合國代表權，境內親越與反越的衝突不斷，一直延續到1990年代柬埔寨恢復王室、紅色高棉解散後才逐漸落幕。
+
+最多戰爭難民選擇逃離柬埔寨的時期，就是1970到1990年代初期這段時間，其中很大一部份來到美國，被美國政府安排到特定幾個州落腳。然而，他們是如何從地球另一端的戰亂中來到美國的呢？
+<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
+<tbody >
+<tr >
+
+<td style="text-align:center;" >[![](http://www.websitesrcg.com/border/maps/Border-camps-1979-1984.jpg)](http://www.websitesrcg.com/border/maps/Border-camps-1979-1984.jpg)
+</td>
+</tr>
+<tr >
+
+<td style="text-align:center;" class="tr-caption" >1979-1984的柬埔寨與泰國邊界，注意地圖上的邊界聚落當時被數個不同的勢力控制。聯合國的人道救援行動就是利用這條邊界。圖片取自http://www.websitesrcg.com/border/maps.html。
+</td>
+</tr>
+</tbody>
+</table>
+對於當時想要逃離的柬埔寨人來說，東有越南北有寮國，唯一可行的路線就是向西，往泰國邊界跑，當時這條邊界在人道救援上發揮了不小的作用——當柬埔寨面臨糧食短缺時，柬埔寨政府嚴密控制各國送達金邊的援助，於是聯合國就利用這條邊界跳過當地政府，直接向柬埔寨平民發送糧食和種子；同時有數十萬的柬埔寨人跨過邊界，住在泰國境內距離邊界數公里遠的難民營，等待前往其他國家的機會。最後約有26萬人成功移居到其他國家，其中有15萬3千人來到美國，主要落腳在加州和麻州，在麻州境內有兩個主要的聚集區，分別是Lowell和Lynn-Revere。
+
+（該時期越南、柬埔寨與寮國落腳美國的難民總數約128萬7千人——這只是難民的數目，其他還有很多人是透過其他身份或管道進入美國。值得注意的是，當時的美國反移民的傾象比現在還要強烈得多，但仍然允許如此數量龐大的難民落腳。）
+
+
+## 下一步
+
+
+接下來我會繼續探索波士頓地區各族群移民的歷史和文化，以比較弱勢的族群優先（像中日韓這三個超級強勢的文化我就暫時不打算著墨）。如果你對於這類議題有興趣，歡迎多跟我交流！
