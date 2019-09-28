@@ -1,18 +1,14 @@
 ---
-author: jeromecyang
-comments: true
 date: 2019-08-04 02:29:50+00:00
 layout: post
-link: http://lifetimesojourner.travel.blog/2019/08/04/a-gorgeous-cathedral-ruin-tartu-toomkirikestonia/
-slug: estonia-tartu-cathedral
-title: 'A Gorgeous Cathedral Ruin: Tartu Toomkirik|Estonia'
-wordpress_id: 2496
+title: 'A Gorgeous Cathedral Ruin: Tartu Toomkirik, Estonia'
 tags:
 - Eastern Europe
 - English
 - Soviet
 - Travel
 permalink: '2019/08/04/estonia-tartu-cathedral'
+image: https://cdn-images-1.medium.com/max/800/0*KUXwB5KANHdN340P
 ---
 
 <blockquote>This is the first post of my travel series “Beating the Unbeaten Tracks”. Each post covers an off-the-beaten-track country I’ve been to. In each post, I’d share (1) a spot I really like, (2) other highlights, and (3) general tips for travelers. I’d really appreciate your claps, comments or questions. If there are things in each country you’d like to learn more about, do let me know, as I may write an in-depth post about that! You can also follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)! :)</blockquote>

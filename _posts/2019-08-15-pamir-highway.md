@@ -1,12 +1,7 @@
 ---
-author: jeromecyang
-comments: true
 date: 2019-08-15 02:51:43+00:00
 layout: post
-link: http://lifetimesojourner.travel.blog/2019/08/15/road-to-the-sky-pamir-highway-kyrgyzstan/
-slug: pamir-highway
-title: Road to the Sky | Pamir Highway, Kyrgyzstan
-wordpress_id: 2499
+title: 'Road to the Sky: Pamir Highway, Kyrgyzstan'
 tags:
 - Central Asia
 - English
@@ -15,6 +10,7 @@ tags:
 - Soviet
 - Travel
 permalink: '2019/08/15/pamir-highway'
+image: https://cdn-images-1.medium.com/max/800/0*1BKgp1EAAoYuIKtK
 ---
 
 <blockquote>This is the post #3 of my travel series “Beating the Unbeaten Tracks”. I’d really appreciate your claps, comments or questions. You can also follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)! :)</blockquote>

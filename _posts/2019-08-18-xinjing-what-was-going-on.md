@@ -15,6 +15,7 @@ tags:
 - Muslim
 - Travel
 permalink: '2019/08/18/xinjing-what-was-going-on'
+image: http://lifetimesojournertravel.files.wordpress.com/2019/08/4bcf5-0j_bxidnx94e_7gz_.jpg
 ---
 
 <blockquote>This is the post #4 of my travel series “Beating the Unbeaten Tracks”. In this post, I’d like to share what I saw as a backpacker in Xinjiang, and provided a bit more historic context behind the current tension. I’d really appreciate your claps, comments or questions. You can also follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)! :)</blockquote>

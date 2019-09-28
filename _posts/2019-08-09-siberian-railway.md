@@ -1,12 +1,7 @@
 ---
-author: jeromecyang
-comments: true
 date: 2019-08-09 02:39:49+00:00
 layout: post
-link: http://lifetimesojourner.travel.blog/2019/08/09/how-it-felt-like-to-spend-52-hours-on-a-train-siberia-russian/
-slug: siberian-railway
-title: How it felt like to spend 52 hours on a train | Siberia, Russian
-wordpress_id: 2504
+title: 'How it felt like to spend 52 hours on a train, Siberia, Russia'
 tags:
 - Eastern Europe
 - English
@@ -14,6 +9,7 @@ tags:
 - Soviet
 - Travel
 permalink: '2019/08/09/siberian-railway'
+image: https://cdn-images-1.medium.com/max/800/0*_PRhztht7avQuQ0n
 ---
 
 <blockquote>This is the second post of my travel series “Beating the Unbeaten Tracks”. I’d really appreciate your claps, comments or questions. You can also follow me at LifetimeSojourner’s [_Facebook_](https://www.facebook.com/lifetimesojourner/)_ or _[_Instagram_](https://www.instagram.com/lifetimesojourner/)_! :)_</blockquote>

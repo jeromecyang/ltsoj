@@ -1,18 +1,14 @@
 ---
-author: jeromecyang
-comments: true
 date: 2019-08-17 19:02:56+00:00
 excerpt: 喬治亞或許離歐洲不遠，在多數人心目中卻因為陌生而顯得遙遠；而這個遙遠的國家裡竟然還有著比遙遠更遙遠的所在，那就是西北方如同仙境般的淨土Svaneti，擁有未被玷污的地景，以及自己獨特的文化，由於地形崎嶇與世隔絕，幾千年的歷史於在地人的生活中相對完好的被保存下來。
 layout: post
-link: http://lifetimesojourner.travel.blog/2019/08/17/%e6%af%94%e9%81%99%e9%81%a0%e6%9b%b4%e9%81%99%e9%81%a0%e7%9a%84%e6%89%80%e5%9c%a8%ef%bc%9a%e5%96%ac%e6%b2%bb%e4%ba%9esvaneti%e5%9c%b0%e5%8d%80/
-slug: 'georgia-svaneti'
 title: 比遙遠更遙遠的所在：喬治亞Svaneti地區
-wordpress_id: 2500
 tags:
 - Caucasus
 - Soviet
 - Travel
 permalink: '2019/08/17/georgia-svaneti'
+image: https://cdn-images-1.medium.com/max/800/0*48JBcq7xiEL37CNm
 ---
 
 喬治亞或許離歐洲不遠，在多數人心目中卻因為陌生而顯得遙遠；而這個遙遠的國家裡竟然還有著比遙遠更遙遠的所在，那就是西北方如同仙境般的淨土Svaneti，擁有未被玷污的地景，以及自己獨特的文化，由於地形崎嶇與世隔絕，幾千年的歷史於在地人的生活中相對完好的被保存下來。
