@@ -4,18 +4,30 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+# google-ID: 'UA-112060364-2'
 
 menu:
-- {name: '旅行 Travel', tag: 'travel'}
+- name: '旅行 Travel'
+  tag: 'travel'
+  subitems:
+    - name: '前蘇聯國家 Soviet States'
+      tag: 'soviet'
+- name: '文化 Culture'
+  tag: 'culture'
+- name: '城市 City'
+  tag: 'city'
+- name: '關於我們 About'
+  tag: 'about'
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/lifetimesojourner'}
-- {icon: 'instagram', link: 'https://instagram.com/lifetimesojourner'}
-- {icon: 'medium', link: 'https://medium.com/@jeromecyang'}
-- {icon: 'envelope', link: 'mailto:hi@jeromeyang.com'}
+- icon: 'facebook'
+  link: 'https://www.facebook.com/lifetimesojourner'
+- icon: 'instagram'
+  link: 'https://instagram.com/lifetimesojourner'
+- icon: 'medium'
+  link: 'https://medium.com/@jeromecyang'
+- icon: 'envelope'
+  link: 'mailto:hi@jeromeyang.com'
 
 # Customize site text
 pagination:
