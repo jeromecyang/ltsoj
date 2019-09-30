@@ -12,7 +12,7 @@ tags:
 - Soviet
 - Travel
 permalink: 2019/06/23/yerevan-marshrutka-2
-image: http://lifetimesojournertravel.files.wordpress.com/2019/06/72300-1qcdqo5g-n_ornquf2mlina.png
+image: https://cdn-images-1.medium.com/max/800/0*w3irGPFofC83ybaL
 ---
 
 如同[前篇](https://medium.com/@jeromecyang/7e5723383f3a)所述，隨著海拔越來越高、道路向山嶺越來越接近，就表示喬治亞與亞美尼亞的邊界要到了。生長在一個海島國家，陸路出入境並不是個令我熟悉的經驗，因此每次碰到都還是會期待（但同時也多少會緊張）一番。（我之前曾經陸路跨過的邊界包括：美國→加拿大、美國→墨西哥、[吉爾吉斯→中國](http://blog.jeromeyang.com/2018/10/traversing-belt-and-road-backpacking.html)、[中國→俄羅斯](http://blog.jeromeyang.com/2018/06/fan-idzabaikalsk.html)、俄羅斯→芬蘭，還有這一趟已經走過的喬治亞→亞塞拜然。）

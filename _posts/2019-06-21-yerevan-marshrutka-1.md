@@ -10,7 +10,7 @@ tags:
 - Soviet
 - Travel
 permalink: 2019/06/21/yerevan-marshrutka-1
-image: https://cdn-images-1.medium.com/max/800/0*yxJ9EcgDF3lWztTc
+image: https://cdn-images-1.medium.com/max/800/0*8lgY83URvXAqXbAr
 ---
 
 5月26日早上九點半， 我剛從亞塞拜然首都巴庫搭臥鋪火車抵達喬治亞第比利斯，走出了火車站，對著車站門口如禿鷹一般等著肥肉（顧客）上門的計程車司機們這樣喊著。司機們都不諳英文，但喊了幾聲之後其中一人就叫我跟著他走了幾步，然後他對站前廣場上的某輛廂型車大吼了一句，接著便用手指著那部廂型車示意叫我走過去。

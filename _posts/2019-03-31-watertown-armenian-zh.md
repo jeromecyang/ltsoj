@@ -9,7 +9,7 @@ tags:
 - Boston
 - Cross-Culture
 permalink: 2019/03/31/watertown-armenian-zh
-image: https://lifetimesojournertravel.files.wordpress.com/2019/03/91e6d-img_20190324_095941.jpg
+image: https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_20190324_125413.jpg
 ---
 
 
