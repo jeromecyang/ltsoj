@@ -4,7 +4,11 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
-  {% include post-thumbnail.html %}
+  {% unless post.hidden %}
+    {% include post-thumbnail.html %}
+  {% endunless %}
+
+  
 {% endfor %}
 
 <!-- Pagination links -->
