@@ -8,6 +8,7 @@ tags:
 - Boston
 - Cross-Culture
 permalink: 2017/10/07/boston-world
+image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg
 ---
 
 來美國已經七年又三個月，這幾年我一直沒有認真的寫作，不像當年中學時期上課打混時常常都是在埋頭寫文章，或是像大學時認真經營ptt2上面的個版。我想其中最重要的原因是：我一直在思考要寫些什麼樣的東西，還有應該怎麼寫。

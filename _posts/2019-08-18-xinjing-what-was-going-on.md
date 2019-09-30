@@ -1,10 +1,7 @@
 ---
-author: jeromecyang
-comments: true
 date: 2019-08-18 02:32:04+00:00
+excerpt: 'Imagine a place like this: it has unparalleled natural beauty, many splendid snow-capped peaks above 7,000m, breathtaking view of alpine lakes, valleys and desserts, as well as people of great hospitality. But meanwhile, you’re overwhelmingly surveilled by an authoritarian government. You see police around every street corner, and security check (with walk-through metal detector) is necessary when entering a store, a hotel or any public space...'
 layout: post
-link: http://lifetimesojourner.travel.blog/2019/08/18/what-was-and-still-is-going-on-in-xinjiang-china%e2%80%8a-%e2%80%8afrom-a-backpackers-perspective/
-slug: xinjing-what-was-going-on
 title: What was (and still is) going on in Xinjiang, China? — from a backpacker’s
   perspective
 wordpress_id: 2497

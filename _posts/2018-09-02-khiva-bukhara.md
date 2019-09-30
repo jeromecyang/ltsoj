@@ -10,7 +10,7 @@ tags:
 - Soviet
 - Travel
 permalink: 2018/09/02/khiva-bukhara
-image: https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg?w=200
+image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg
 ---
 
 **前情提要 Before this post:**

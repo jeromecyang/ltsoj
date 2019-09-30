@@ -1,5 +1,6 @@
 ---
 date: 2019-08-04 02:29:50+00:00
+excerpt: 'The red-brick columns and facades were originally parts of the splendid Tartu Cathedral, completed in 1470. It was as magnificent as other Medieval Gothic cathedrals you may have seen in Europe. However it didn’t stand long. In 1525, when the reformers reached Tartu, the cathedral was heavily devastated as a result of their “iconoclast” efforts.'
 layout: post
 title: 'A Gorgeous Cathedral Ruin: Tartu Toomkirik, Estonia'
 tags:

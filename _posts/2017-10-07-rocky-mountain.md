@@ -1,18 +1,13 @@
 ---
 date: 2017-10-07 15:59:00+00:00
-excerpt: '去過了黃石（Yellowstone）和大提頓（Grand Teton）之後，冰河國家公園（Glacier National Park）便成了我繼續探索洛磯山脈（Rocky
-  Mountain）的下一個目標，但這個國家公園離所有的大城市都非常遙遠，直達國家公園門戶的班機則貴得嚇人，該怎麼前往才好呢？
-
-
-
-  我嘗試把北美洲地圖上的國界忽略掉，不去管哪裡是美國哪裡是加拿大，這樣看著看著很快就發現：最適合前往位在美國北界上的冰河國家公園的大城市，不就是加拿大的卡加利（Calgary）嗎？僅僅三小時不到的車程，比美國任何一個城市還要接近。同時正好有一直想要拜訪的好友住在卡加利，訂票時的失誤又讓我不小心多了兩天假，有充足的時間可以把卡加利當作基地往返班夫（Banff）和賈斯伯（Jasper）兩個名聞遐邇的國家公園，正好又逢最需要找地方避暑的七月初，還有什麼比這更適合去的時間點？於是才剛從波羅的海三小國回來的我馬上旅行魂再次躁動，立馬買了卡加利的往返機票。'
+excerpt: 位於美國蒙大拿州的冰河國家公園，離所有的大城市都非常遙遠；幸好距離加拿大的卡加利才不到三小時車程，又正好有一直想要拜訪的好友住在卡加利，於是便趁著七月初的假期，把卡加利當作基地，往返冰河、班夫和賈斯伯三個名聞遐邇的國家公園。
 layout: post
 title: 6/30-7/4 一座山脈、兩片領土、三個國家公園：洛磯山脈裡的無國界旅行
 tags:
 - North America
 - Travel
 permalink: 2017/10/07/rocky-mountain
-image: https://lifetimesojournertravel.files.wordpress.com/2017/10/f57fe-rockies2017.png
+image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2c6ca-20170701_121315.jpg
 ---
 
 去過了黃石（Yellowstone）和大提頓（Grand Teton）之後，冰河國家公園（Glacier National Park）便成了我繼續探索洛磯山脈（Rocky Mountain）的下一個目標，但這個國家公園離所有的大城市都非常遙遠，直達國家公園門戶的班機則貴得嚇人，該怎麼前往才好呢？

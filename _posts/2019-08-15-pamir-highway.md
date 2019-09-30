@@ -1,5 +1,6 @@
 ---
 date: 2019-08-15 02:51:43+00:00
+excerpt: 'The most adventurous part of my grand trip in 2018: from Bishkek, the capital of Kyrgyzstan to Kashgar, a major city in China’s Xinjiang (so-called) Autonomous Region. While it should take only an hour to fly, I chose a much more strenuous way: moving over the Pamir Mountains, where the average elevation is well above 10,000ft, by some unusual ways: cargo van, martshrutka, hitchhiking, and shared taxi.'
 layout: post
 title: 'Road to the Sky: Pamir Highway, Kyrgyzstan'
 tags:

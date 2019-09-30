@@ -3,6 +3,7 @@ date: 2019-03-31 19:08:00+00:00
 layout: post
 title: 'An Armenian Community Excursion: the Mysterious Oriental Church, and Authentic
   Gourmet'
+excerpt: "I visited an Armenian church last Sunday morning. What makes the Armenian church special is not just the language and culture -- historically speaking, Armenian church itself is a very special denomination, which has be separated from the mainstream Christian church since the 5th century. The separation results in some very unique traditions that you don't see in other parts of Christianity."
 tags:
 - Boston
 - Cross-Culture

@@ -1,5 +1,6 @@
 ---
 date: 2019-08-09 02:39:49+00:00
+excerpt: 'Last June (2018), I took the Trans-Siberian Railway from Zabaykalsk in the Far East all the way to St Petersburg via Lake Baikal, Ekaterinburg, Kazan and Moscow. Since it’s a week-long train ride, most travelers would divide it into several segments, so did I. Nevertheless, there was still an extremely long train ride from Irkutsk (gateway to Lake Baikal) and Ekaterinburg, which took 52 hours (3 nights and 2 days). This is the longest continuous train ride in my life...'
 layout: post
 title: 'How it felt like to spend 52 hours on a train, Siberia, Russia'
 tags:

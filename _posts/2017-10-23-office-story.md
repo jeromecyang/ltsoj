@@ -1,9 +1,6 @@
 ---
 date: 2017-10-23 01:28:00+00:00
-excerpt: '《校對女王》（地味にスゴイ！校閲ガール・河野悦子）是一部2016年秋季水10（週三晚上10點）的小說改編日劇，雖然收視率不低，卻被同檔期人氣超旺的《月薪嬌妻》（逃げるは恥だが役に立つ）強壓，一直到最近才被我注意到。
-
-
-  我開始看日劇也不過是半年多前的事情，但看過幾部之後就開始覺得日劇似乎很合我的胃口，或許是因為我喜歡看題材生活化、長度不會太長、但又能夠傳達一些道理的戲劇作品，而日劇一向以「職場劇多」、「集數短」、「愛說教」聞名，會吸引我的注意也不是件太奇怪的事。'
+excerpt: 《校對女王》描述的是主角河野悦子（石原聰美飾演）——一個一心想當光鮮亮麗的時尚雜誌編輯、卻被丟到出版社地下室陰暗角落裡當校對的年近30女性——在自己不喜歡的工作環境裡慢慢愛上自己原本討厭的工作、甚至改變了整個辦公室文化的故事。由於相當多情節讓我感到有所共鳴，我寫下了這篇文章，嘗試把一些劇中的情節和我這幾年在辦公室裡類似的際遇並列呈現，當作是看完劇之後的心得報告，同時也回顧這幾年在我現在公司裡苦盡甘來的過程。
 layout: post
 title: 談日劇《校對女王》，與我這幾年來的辦公室生存史
 tags:
@@ -12,7 +9,7 @@ tags:
 - Cross-Culture
 - Japan
 permalink: 2017/10/23/office-story
-image: https://lifetimesojournertravel.files.wordpress.com/2017/10/e60de-20171020_173535.jpg?w=169
+image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg
 ---
 
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >

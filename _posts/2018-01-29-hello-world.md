@@ -2,6 +2,7 @@
 date: 2018-01-29 00:03:00+00:00
 layout: post
 title: Hello World!
+excerpt: This is a post about myself, particularly how I came to the US as a first-generation Taiwanese immigrant, and some challenges I had faced. If you are from the US and would like to know where I am coming from, this is the one to read!
 tags:
 - About
 - Cross-Culture

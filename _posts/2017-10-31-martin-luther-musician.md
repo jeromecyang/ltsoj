@@ -2,6 +2,7 @@
 date: 2017-10-31 21:48:00+00:00
 layout: post
 title: Martin Luther, a revolutionary Christian musician
+excerpt: 'In addition to a church leader and a theologian, Martin Luther was also a hymn writer. He composed both lyrics and tunes for his congregation. His famous piece “A Mighty Fortress Is Our God” has been sung by Protestant churches till now. But this was all I knew about his music. As a church musician, more questions came to my mind: how did he write hymns? How did his life experiences shape his music? How did people worship with his music?'
 tags:
 - English
 - Western Europe

@@ -1,31 +1,13 @@
 ---
 date: 2017-12-11 04:28:00+00:00
-excerpt: '這篇要談的是關於語言和文化差異的故事，時間是剛到美國的前幾個月，場景是教室、實驗室與家裡。
-
-
-  “Hey Jerome, how’s it going?” （在學校的開學派對上遇到美國同學，對方很豪爽地問我。）
-
-
-  “...” （我完全不知道他到底在問什麼，連表情都不知道應該要怎麼擺才對。）
-
-
-  “How’s it going?” （他看出了我的疑惑，於是比較認真的又問了一次。）
-
-
-  “...” （我還是完全不知道怎麼回答，心裡一直想著他說的it到底是指什麼東西。）
-
-
-  大約五秒鐘過後，他可能終於猜到我是在什麼地方被卡住了，於是換了一個方式問我。
-
-
-  “How are you?”'
+excerpt: 這篇要談的是關於語言和文化差異的故事，時間是剛到美國的前幾個月，場景是教室、實驗室與家裡。
 layout: post
 title: 我的菜鳥移民故事 My Fresh-Off-the-Boat Story (2)
 tags:
 - About
 - Cross-Culture
 permalink: 2017/12/11/fresh-off-the-boat-2
-image: https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg
+image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_8036.jpg
 ---
 
 前情提要： [我的菜鳥移民故事 MY FRESH-OFF-THE-BOAT STORY (1)](http://blog.jeromeyang.com/2017/12/my-fresh-off-boat-story-1.html)

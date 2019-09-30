@@ -3,12 +3,13 @@ date: 2018-09-01 01:26:00+00:00
 layout: post
 title: “The Book of Mormon” musical, a comic conversation between Broadway and religions
   百老匯和宗教的搞笑對話：音樂劇《摩爾門經》
+excerpt: 前幾天終於去看了近期在波士頓巡演的當紅音樂劇《摩爾門經》（The Book of Mormon）。我個人覺得，這部劇就其劇本、音樂、表演而言都是上乘之作，是一齣精彩到會讓人看了大呼過癮的作品，製作班底和《南方四賤客》（South Park）是同一群人，劇情的主軸基本上就是拿「耶穌基督後期聖徒教會」（The Church of Jesus Christ of Latter-day Saints，一般習慣稱為摩門教）的來開玩笑。一起去看的朋友知道我的基督教信仰，出來時還特別問我，你會有被冒犯到的感覺嗎？
 tags:
 - Boston
 - Cross-Culture
 - Music
 permalink: 2018/09/01/book-of-mormon
-image: https://bookofmormonbroadway.com/images/gallery/second-national-tour-cast-b.jpg
+image: https://bookofmormonbroadway.com/images/gallery/DaveThomasBrownasElder%20Price-center-CodyJamisonStrandasElderCunningham-farright-and-company-inTheBookofMormon452.jpg
 ---
 
 Finally saw the popular Broadway show “The Book of Mormon” few days ago! IMO, its story, music and performance are all outstanding. It impressed and entertained me more than any other show I saw recently. Made by the South Park gang, this musical basically makes fun of the Church of Jesus Christ of Latter-day Saints, commonly known as the Mormons. A friend who went with me knew my Christian faith, and asked me after the show, are you offended?
