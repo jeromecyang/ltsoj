@@ -2,7 +2,7 @@
 date: 2018-09-02 20:59:00+00:00
 excerpt: 烏茲別克是中亞國家裡古絲路遺跡最為豐富的一個，三個主要古城（希瓦、布哈拉與撒馬爾罕）裡，一直存續到今天的突厥汗國建築都被完整的保存下來，也成為今日烏國最重要的觀光景點。本文分享我在前兩個城市（希瓦、布哈拉）的所見所聞。
 layout: post
-title: '藍綠色瓷瓦的世界：烏茲別克古城希瓦與布哈拉 A World of Blue Ceramic Tiles: Khiva & Bukhara, Uzbekistan'
+title: 藍綠色瓷瓦的世界：烏茲別克古城希瓦與布哈拉
 tags:
 - Central Asia
 - Grand Trip

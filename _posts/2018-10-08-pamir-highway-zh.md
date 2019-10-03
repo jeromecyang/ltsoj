@@ -2,8 +2,7 @@
 date: 2018-10-08 00:50:00+00:00
 excerpt: 帕米爾高原，一個台灣人地理課本上一定會讀到的名詞，歷史課本上通常叫蔥嶺，是從南疆往西必定會通過的一道天險，張騫通西域（西元前12 9年）、玄奘西行取經（西元628年）時都逃不掉。千餘年後的2018年5月19日，剛在人間仙境頌湖當了三天偽遊牧民族的我，馬不停蹄的踏上了這段驚險萬分的旅程，只是方向正好和張騫與玄奘相反——從來沒有去過中國新疆的我，要從更西邊進入中國最西的城市，新疆喀什。
 layout: post
-title: '沿著一帶一路，從帕米爾高原走進中國新疆 Traversing the Belt and Road: backpacking from Bishkek,
-  Kyrgyzstan to Kashgar, China via Pamir Highway'
+title: 沿著一帶一路，從帕米爾高原走進中國新疆
 tags:
 - Central Asia
 - Grand Trip

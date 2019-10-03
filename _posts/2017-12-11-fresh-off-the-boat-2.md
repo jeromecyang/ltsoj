@@ -2,7 +2,7 @@
 date: 2017-12-11 04:28:00+00:00
 excerpt: 這篇要談的是關於語言和文化差異的故事，時間是剛到美國的前幾個月，場景是教室、實驗室與家裡。
 layout: post
-title: 我的菜鳥移民故事 My Fresh-Off-the-Boat Story (2)
+title: 我的菜鳥移民故事 (2)
 tags:
 - About
 - Cross-Culture
