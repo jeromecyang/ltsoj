@@ -8,6 +8,7 @@ tags:
 - English
 - Soviet
 - Travel
+- Unbeaten
 permalink: '2019/08/04/estonia-tartu-cathedral'
 image: https://cdn-images-1.medium.com/max/800/0*KUXwB5KANHdN340P
 ---

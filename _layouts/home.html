@@ -3,12 +3,14 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
-  {% unless post.hidden %}
-    {% include post-thumbnail.html %}
-  {% endunless %}
+{% for post in site.data.settings.features %}
+  {% include post-thumbnail.html %}
+{% endfor %}
 
-  
+{% for post in paginator.posts %}
+  {% if post.featured %}
+    {% include post-thumbnail.html %}
+  {% endif %}
 {% endfor %}
 
 <!-- Pagination links -->
@@ -34,3 +36,5 @@ title: Home
   {% endfor %}
 ]</span>
 </div-->
+
+<div style="text-align: center; margin: 72px auto"><a href="pages/allposts.html">本站所有文章列表 All Posts</a></div>

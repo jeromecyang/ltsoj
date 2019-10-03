@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-tag: Grand Trip
-title: 2018大旅行
+tag: Morocco
+title: 摩洛哥
 reversed: true
 ---

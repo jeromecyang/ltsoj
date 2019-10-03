@@ -7,31 +7,48 @@ disqus:
 # google-ID: 'UA-112060364-2'
 
 menu:
-- name: '旅行 Travel'
+- name: '旅行'
   tag: 'Travel'
   subitems:
-    - name: '中亞 Central Asia'
-      tag: 'Central Asia'
-    - name: '北非 North Africa'
-      tag: 'North Africa'
-    - name: '高加索 Caucasus'
+    - name: '高加索'
       tag: 'Caucasus'
-    - name: '東歐 Eastern Europe'
-      tag: 'Eastern Europe'
-    - name: '西歐 Western Europe'
-      tag: 'Western Europe'
-    - name: '北美 North America'
-      tag: 'North America'
-    - name: '前蘇聯國家 Soviet States'
-      tag: 'Soviet'
-    - name: '穆斯林國家 Muslim States'
-      tag: 'Muslim'
-    - name: '大旅行 Grand Trip 2018'
+      reversed: true
+    - name: '摩洛哥'
+      tag: 'Morocco'
+      reversed: true
+    - name: '2018大旅行'
       tag: 'Grand Trip'
-- name: '跨文化 Cross-Culture'
+      reversed: true
+    - name: '中亞'
+      tag: 'Central Asia'
+    - name: '東歐'
+      tag: 'Eastern Europe'
+    - name: '前蘇聯國家'
+      tag: 'Soviet'
+    - name: '穆斯林國家'
+      tag: 'Muslim'
+    - name: '西歐'
+      tag: 'Western Europe'
+    - name: '北美'
+      tag: 'North America'
+- name: '跨文化'
   tag: 'Cross-Culture'
-- name: '波士頓 Boston'
+  subitems:
+    - name: '移民社區'
+      tag: 'Immigrant Community'
+    - name: '藝術、音樂與戲劇'
+      tag: 'Arts'
+    - name: '我的菜鳥移民故事'
+      tag: 'Fob'
+      reversed: true
+- name: '波士頓'
   tag: 'Boston'
+- name: 'English'
+  tag: 'English'
+  subitems:
+    - name: 'Beating the Unbeaten Tracks'
+      tag: 'Unbeaten'
+      reversed: true
 #- name: '關於我 About'
 #  tag: 'About'
 
@@ -55,3 +72,30 @@ sharing_button_prompt: 'Feel free to share!'
 related_posts: 'You may also enjoy...'
 
 post_date_prefix: 'Written on'
+
+# Featured on homepage
+features:
+  - title: 被打翻的族群調色盤：高加索三國（喬治亞、亞塞拜然、亞美尼亞）
+    excerpt: (placeholder)
+    image: https://cdn-images-1.medium.com/max/800/0*eLrIe92BpfKSWMqG
+    url: tag/Caucasus
+  - title: 北非，其實沒那麼神秘：摩洛哥
+    excerpt: (placeholder)
+    image: https://lifetimesojournertravel.files.wordpress.com/2018/12/b9dc3-img_9435.jpg
+    url: tag/Morocco
+  - title: 從絲路到西伯利亞鐵路：穿越中亞北亞的42天大旅行
+    excerpt: (placeholder)
+    image: https://lifetimesojournertravel.files.wordpress.com/2018/07/11a17-f12820224.jpg
+    url: tag/Grand%20Trip
+  - title: 波士頓觀察筆記
+    excerpt: (placeholder)
+    image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg
+    url: tag/Boston
+  - title: 我的菜鳥移民故事
+    excerpt: (placeholder)
+    image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg
+    url: tag/Fob
+  - title: Beating the Unbeaten Tracks
+    excerpt: (placeholder)
+    image: https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg
+    url: tag/Unbeaten

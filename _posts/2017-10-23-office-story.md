@@ -8,6 +8,7 @@ tags:
 - Boston
 - Cross-Culture
 - Japan
+- Arts
 permalink: 2017/10/23/office-story
 image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg
 ---

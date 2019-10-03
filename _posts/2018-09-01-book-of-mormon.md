@@ -8,6 +8,7 @@ tags:
 - Boston
 - Cross-Culture
 - Music
+- Arts
 permalink: 2018/09/01/book-of-mormon
 image: https://bookofmormonbroadway.com/images/gallery/DaveThomasBrownasElder%20Price-center-CodyJamisonStrandasElderCunningham-farright-and-company-inTheBookofMormon452.jpg
 ---

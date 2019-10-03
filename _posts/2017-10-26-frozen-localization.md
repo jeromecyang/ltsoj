@@ -7,6 +7,7 @@ tags:
 - Cross-Culture
 - Japan
 - Music
+- Arts
 permalink: 2017/10/26/frozen-localization
 image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d98fe-b1sirg_iuaeso_e.jpg
 ---

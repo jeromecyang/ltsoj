@@ -11,6 +11,7 @@ tags:
 - Grand Trip
 - Muslim
 - Travel
+- Unbeaten
 permalink: '2019/08/18/xinjing-what-was-going-on'
 image: http://lifetimesojournertravel.files.wordpress.com/2019/08/4bcf5-0j_bxidnx94e_7gz_.jpg
 ---

@@ -10,6 +10,7 @@ tags:
 - Muslim
 - Soviet
 - Travel
+- Unbeaten
 permalink: '2019/08/15/pamir-highway'
 image: https://cdn-images-1.medium.com/max/800/0*1BKgp1EAAoYuIKtK
 ---

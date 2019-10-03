@@ -6,6 +6,7 @@ title: 我的菜鳥移民故事 (2)
 tags:
 - About
 - Cross-Culture
+- Fob
 permalink: 2017/12/11/fresh-off-the-boat-2
 image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_8036.jpg
 ---

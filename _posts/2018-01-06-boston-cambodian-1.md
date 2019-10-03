@@ -6,6 +6,7 @@ title: 踏出認識波士頓移民的第一步：Shirley Avenue上的文化探�
 tags:
 - Boston
 - Cross-Culture
+- Immigrant Community
 permalink: 2018/01/06/boston-cambodian-1
 image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg
 ---

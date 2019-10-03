@@ -6,9 +6,9 @@ excerpt: 目前大多數國家給予台灣護照的待遇大多不錯，即使�
 layout: post
 title: 「中華人民共和國旅行證」使用經驗談（中國、喬治亞、亞塞拜然）
 tags:
-- Caucasus
-- Central Asia
-- Soviet
+#- Caucasus
+#- Central Asia
+#- Soviet
 - Travel
 permalink: 2019/06/06/china-travel-document
 image: http://lifetimesojournertravel.files.wordpress.com/2019/06/3edd3-1s_6-lixsecadiyyfajfscq.jpeg

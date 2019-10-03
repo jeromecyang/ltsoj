@@ -6,6 +6,7 @@ title: 我的菜鳥移民故事 (3)
 tags:
 - About
 - Cross-Culture
+- Fob
 permalink: 2017/12/23/fresh-off-the-boat-3
 image: https://lh5.googleusercontent.com/W_pll5WQGKeOkQrk8aiGKDr2AZlzMCu7UHBKWQ1ZlGY9pg0luEK-xfOFip9jgrNtawD25hvv6nJs1jVejl03sQElxfQvaavNETeXDZs-G-ABE9ALgdohoFhlYLdA51WyT1wwqBcD
 ---

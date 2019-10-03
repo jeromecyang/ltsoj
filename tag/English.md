@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-tag: Central Asia
-title: 中亞
+tag: English
+title: English
 reversed: false
 ---

@@ -1,5 +1,6 @@
 ---
 layout: tagpage
 tag: Soviet
-title: 前蘇聯國家 Soviet States
+title: 前蘇聯國家
+reversed: false
 ---
