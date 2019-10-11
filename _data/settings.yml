@@ -69,33 +69,33 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_posts: '相關推薦文章'
 
 post_date_prefix: 'Written on'
 
 # Featured on homepage
 features:
   - title: 被打翻的族群調色盤：高加索三國（喬治亞、亞塞拜然、亞美尼亞）
-    excerpt: (placeholder)
-    image: https://cdn-images-1.medium.com/max/800/0*eLrIe92BpfKSWMqG
+    excerpt: 歐亞交界處、面積不大的一片山區裡，有著積累數千年的獨特文化，無數個互不相通的語言，又可以見到拜占庭、波斯、土耳其、蘇聯影響的痕跡，簡直就像個被打翻了的族群調色盤。這究竟是一個怎樣的地方？一起來看看我2019年5月的旅行見聞吧！
+    image: /assets/img/IMG_3379.JPG
     url: /tag/Caucasus
   - title: 北非，其實沒那麼神秘：摩洛哥
-    excerpt: (placeholder)
+    excerpt: 聽到北非，想到的不外乎是撒哈拉沙漠、阿拉伯語、遊牧民族等充滿神秘色彩的元素，而這種神秘感更讓人心生嚮往；不過就在我2018年11月親自前往之後，才發現原來這裡不但一點都不神秘，反而是個觀光化程度高到嚇人的國家⋯⋯
     image: https://lifetimesojournertravel.files.wordpress.com/2018/12/b9dc3-img_9435.jpg
     url: /tag/Morocco
   - title: 從絲路到西伯利亞鐵路：穿越中亞北亞的42天大旅行
-    excerpt: (placeholder)
-    image: https://lifetimesojournertravel.files.wordpress.com/2018/07/11a17-f12820224.jpg
+    excerpt: 2018年5到6月之間，利用換工作的空檔，我從烏茲別克出發，沿著絲路通過吉爾吉斯進入中國新疆，再由內蒙古進入西伯利亞，然後橫跨整個俄羅斯，旅程結束在芬蘭赫爾辛基。這趟翻過了帕米爾高原、造訪了貝加爾湖、搭乘了西伯利亞鐵路的42天大旅行，是我自主旅行迄今最勇敢的嘗試，也讓我看到短途旅遊中難以察覺的複雜地理現象⋯⋯
+    image: https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg
     url: /tag/Grand%20Trip
   - title: 波士頓觀察筆記
-    excerpt: (placeholder)
+    excerpt: 從2014年12月開始，波士頓就是我居住和生活的地方。這個在美國相對多元的城市裡，來自全球各地的移民們把各自的文化、生活方式以及故事也都帶了過來；我平常週末假日最大的興趣，就是探索這些和一般想像中的美國不太一樣的角落⋯⋯
     image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg
     url: /tag/Boston
   - title: 我的菜鳥移民故事
-    excerpt: (placeholder)
+    excerpt: 2010年8月，我以菜鳥移民的身份來到美國，在人生地不熟的環境裡經歷了各種挑戰與趣事；多年之後回顧，我決定把自己的故事寫下來，和大家分享，也讓自己不要忘記那段既辛苦卻又令人回味無窮的日子。
     image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg
     url: /tag/Fob
   - title: Beating the Unbeaten Tracks
-    excerpt: (placeholder)
+    excerpt: This is my first series in English. It's about my trips to the off-the-beaten-track countries. Each post covers a country I’ve been to. For each country, I’d share (1) a spot I really like, (2) other highlights, and (3) general tips for travelers.
     image: https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg
     url: /tag/Unbeaten
