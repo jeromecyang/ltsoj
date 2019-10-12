@@ -95,5 +95,7 @@ Worcester是個麻州中部的後工業化城市，瀰漫著繁華褪盡的蕭�
 
 下一篇會談談當時上課以外的生活：和室友相處、和老美打交道、來往波士頓的固定通勤以及找教會的過程等。
 
-**繼續閱讀： **[我的菜鳥移民故事 MY FRESH-OFF-THE-BOAT STORY (2)](http://blog.jeromeyang.com/2017/12/my-freshly-off-boat-story-2.html) [我的菜鳥移民故事 MY FRESH-OFF-THE-BOAT STORY (3)](http://blog.jeromeyang.com/2017/12/my-fresh-off-boat-story-3.html)
+### 繼續閱讀：
 
+* [我的菜鳥移民故事 (2)](../../../2017/12/11/fresh-off-the-boat-2)
+* [我的菜鳥移民故事 (3)](../../../2017/12/23/fresh-off-the-boat-3)

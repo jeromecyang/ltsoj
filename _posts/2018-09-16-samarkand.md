@@ -503,29 +503,3 @@ Next place, Kyrgyzstan!
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)
-
-
-
-
-### **本系列文目錄 Table of content**
-
-
-
-
-
- 	
-  1. [規劃一趟42天的自助背包旅行 HOW I PLANNED A 42-DAY SOLO BACKPACKING TRIP](http://blog.jeromeyang.com/2018/07/42-how-i-planned-42-day-solo.html)
-
- 	
-  2. [塔什干的考驗 Trials of Tashkent](https://www.facebook.com/jeromeyangencounters/posts/127987544731868)
-
- 	
-  3. [開往西方的列車 Train to the west](https://www.facebook.com/jeromeyangencounters/posts/130983687765587)
-
- 	
-  4. [在希瓦和我同框的烏茲別克青年 the young men who intruded my solo photo](https://www.facebook.com/jeromeyangencounters/posts/218650205665601)
-
- 	
-  5. [藍綠色瓷瓦的世界：烏茲別克古城希瓦與布哈拉 A WORLD OF BLUE CERAMIC TILES: KHIVA & BUKHARA, UZBEKISTAN](http://blog.jeromeyang.com/2018/09/blog-post.html)
-
-

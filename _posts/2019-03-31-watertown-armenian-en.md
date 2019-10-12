@@ -13,7 +13,7 @@ permalink: 2019/03/31/watertown-armenian-en
 image: https://lifetimesojournertravel.files.wordpress.com/2019/03/91e6d-img_20190324_095941.jpg
 ---
 
-（中文版：[亞美尼亞社區小旅行：來自東方的神祕教會，以及令人驚豔的美食](http://blog.jeromeyang.com/2019/03/blog-post_31.html)）
+（中文版：[亞美尼亞社區小旅行：來自東方的神祕教會，以及令人驚豔的美食](../../../2019/03/31/watertown-armenian-zh)）
 
 **"Soorp, soorp, soorp."**
 

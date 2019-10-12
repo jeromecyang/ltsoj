@@ -116,8 +116,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 
 這篇已經提了大部分初期經歷到的文化差異，本來打算把找教會的過程也一併包含在這篇，不過實在是太長了，只好下回分曉啦！
 
-繼續閱讀： [我的菜鳥移民故事 MY FRESH-OFF-THE-BOAT STORY (3)](http://blog.jeromeyang.com/2017/12/my-fresh-off-boat-story-3.html)
+### 繼續閱讀：
 
-
-
-
+* [我的菜鳥移民故事 (1)](../../../2017/12/03/fresh-off-the-boat-1)
+* [我的菜鳥移民故事 (3)](../../../2017/12/23/fresh-off-the-boat-3)

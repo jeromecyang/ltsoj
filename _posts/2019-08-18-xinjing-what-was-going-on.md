@@ -16,12 +16,7 @@ permalink: '2019/08/18/xinjing-what-was-going-on'
 image: http://lifetimesojournertravel.files.wordpress.com/2019/08/4bcf5-0j_bxidnx94e_7gz_.jpg
 ---
 
-<blockquote>This is the post #4 of my travel series “Beating the Unbeaten Tracks”. In this post, I’d like to share what I saw as a backpacker in Xinjiang, and provided a bit more historic context behind the current tension. I’d really appreciate your claps, comments or questions. You can also follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)! :)</blockquote>
-
-
-
-
-<blockquote>A similar post I wrote earlier in Mandarin: [2018年5月，我的「新疆經驗」](http://blog.jeromeyang.com/2018/11/20185-my-time-in-xinjiang-china-in-may.html).</blockquote>
+> A similar post I wrote earlier in Mandarin: [2018年5月，我的「新疆經驗」](../../../2018/11/04/xinjiang-experience).
 
 
 Imagine a place like this: it has unparalleled natural beauty, many splendid snow-capped peaks above 7,000m, breathtaking view of alpine lakes, valleys and desserts, as well as people of great hospitality. But meanwhile, you’re overwhelmingly surveilled by an authoritarian government. You see police around every street corner, and security check (with walk-through metal detector) is necessary when entering a store, a hotel or any public space. When moving from one city to another, you‘re stopped every 30km for a roadside check, and gas stations are fortified with barbed wire and barricades. Last but not least, you’re obligated to let the police install a client to scan the content of your phone, at least once a day.

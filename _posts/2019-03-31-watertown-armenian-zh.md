@@ -16,7 +16,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_201
 
 
 
-（English version: [An Armenian Community Excursion: the Mysterious Oriental Church, and Authentic Gourmet](http://blog.jeromeyang.com/2019/03/an-armenian-community-excursion.html)）
+（English version: [An Armenian Community Excursion: the Mysterious Oriental Church, and Authentic Gourmet](../../../2019/03/31/watertown-armenian-en)）
 
 
 

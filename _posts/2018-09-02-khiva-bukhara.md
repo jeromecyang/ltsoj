@@ -13,31 +13,7 @@ permalink: 2018/09/02/khiva-bukhara
 image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg
 ---
 
-**前情提要 Before this post:**
-
-
-
- 	
-  1. [規劃一趟42天的自助背包旅行 HOW I PLANNED A 42-DAY SOLO BACKPACKING TRIP](http://blog.jeromeyang.com/2018/07/42-how-i-planned-42-day-solo.html)
-
- 	
-  2. [塔什干的考驗 Trials of Tashkent](https://www.facebook.com/jeromeyangencounters/posts/127987544731868)
-
- 	
-  3. [開往西方的列車 Train to the west](https://www.facebook.com/jeromeyangencounters/posts/130983687765587)
-
- 	
-  4. [在希瓦和我同框的烏茲別克青年 the young men who intruded my solo photo](https://www.facebook.com/jeromeyangencounters/posts/218650205665601)
-
-
-
-
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg)
-
-
-
-
-
 
 
 ## 消失的青旅 Where is my hostel?
