@@ -16,94 +16,28 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f659315
 5月12日傍晚，來到烏茲別克第三個城市撒馬爾罕的心情是雀躍的——比起前兩個，這裡更像座真正的大城市，雖然不像西方那樣現代化，其規模、機能與繁華程度都比較接近我對一座大城市的想像。想到前幾天搭了接近8個小時的無空調計程車、住了水準不佳的青年旅社，到了這裡終於可以暫時回歸大城市的生活，還能見到帖木兒帝國時代留存至今的輝煌建築，走出火車站時的腳步彷彿都輕盈了起來。
 
 In the late afternoon of May 12, I arrived in the third ancient Uzbek city, Samarkand. Immediately I liked the city more than the previous two, as it's a bigger and more contemporary city, and it is quite vibrant! Not to mention all the gorgeous heritages that I was going to see. I had an extraordinary excitement when I got here.
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg)
+*撒馬爾罕最重要的景點雷吉斯坦廣場（Registon）*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >撒馬爾罕最重要的景點雷吉斯坦廣場（Registon）
-</td>
-</tr>
-</tbody>
-</table>
 
 
 
 接著來到住宿的青年旅社Amir Hostel的時候更是興奮——終於住到了一間符合國際標準的青年旅社！每一個床位都做成獨立隔間、床位旁邊都有插座和閱讀燈、每人有一個可以上鎖的置物櫃，而且整間青旅從上到下都非常的新穎乾淨！不禁慶幸自己是先經過了希瓦和布哈拉的克難生活才來到這裡，要是反過來走的話大概只會越走越痛苦吧。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e8918-img_20180512_180016.jpg?w=169)
+*Amir Hostel的設備和清潔度都達到國際標準，是我在烏茲別克境內住過最舒服的地方*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e8918-img_20180512_180016.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e8918-img_20180512_180016.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)
+*傍晚在市區閒晃，看到屬於有錢人的宴會餐廳*
 
-<td style="text-align:center;" class="tr-caption" >Amir Hostel的設備和清潔度都達到國際標準，是我在烏茲別克境內住過最舒服的地方
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/88b3d-img_20180512_190213.jpg?w=170)
+*撒馬爾罕鬧區街景，注意中間的ZARA招牌，在這個沒有太多西方連鎖店的國家裡，「代售」品牌服飾似乎是個不錯的生意*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)
+*街頭偶然遇見的演唱會*
 
-<td style="text-align:center;" class="tr-caption" >傍晚在市區閒晃，看到屬於有錢人的宴會餐廳
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg)
+*這個國家的人顏值都好高啊！*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/88b3d-img_20180512_190213.jpg?w=170)](https://lifetimesojournertravel.files.wordpress.com/2018/09/88b3d-img_20180512_190213.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >撒馬爾罕鬧區街景，注意中間的ZARA招牌，在這個沒有太多西方連鎖店的國家裡，「代售」品牌服飾似乎是個不錯的生意
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >街頭偶然遇見的演唱會
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >這個國家的人顏值都好高啊！
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ### 雷吉斯坦的燈光秀 Light show at Registon
@@ -266,20 +200,9 @@ I got back in Registon on the second day (May 13). It was rainy, so I stayed mos
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8c7dd-f8854656.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8c7dd-f8854656.jpg)
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg)
+*當時還喝著燉湯的我，完全不知道大難即將臨頭*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >當時還喝著燉湯的我，完全不知道大難即將臨頭
-</td>
-</tr>
-</tbody>
-</table>
 坐在我身後的是一位烏茲別克的青少年，和家人一起從布哈拉來這邊遊玩，在家人的慫恿下主動找我練習英文。英文不錯的他和我聊了不少，他告訴我他以後也想要到美國讀書並且從事科技業，我也和他分享了些自己在美國的經驗。而我也終於有機會問他這幾天最想問當地人的問題：
 
 「請問你在家裡是講烏茲別克語，還是塔吉克語？」
@@ -404,34 +327,12 @@ The next afternoon, when I finally felt better, I stepped out again to explore m
 
 
 這天就這樣把撒馬爾罕最後剩下的幾個景點踩完，包括考古學博物館、建於15世紀的烏魯伯格天文台（Ulugh Beg Observatory）等，其中還有個神奇的景點，是舊約先知但以理（Daniel）的陵墓。根據當地傳說，但以理逝世之後遺體仍然繼續成長，到了幾千年後的今天已經有18公尺長，因此其陵墓也做得特別長。（附帶一題，全世界另外還有好幾個但以理的陵墓，不過裡面大概沒有任何一個是真正的。）
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg)
+*舊約先知但以理之墓（假的！），傳說由於其遺體會繼續生長，目前有18公尺長*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg)
+*建於15世紀的烏魯伯格天文台（Ulugh Beg Observatory）裡的日晷，至今仍在堪用狀態*
 
-<td style="text-align:center;" class="tr-caption" >舊約先知但以理之墓（假的！），傳說由於其遺體會繼續生長，目前有18公尺長
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >建於15世紀的烏魯伯格天文台（Ulugh Beg Observatory）裡的日晷，至今仍在堪用狀態
-</td>
-</tr>
-</tbody>
-</table>
 最後，我們一起在圓頂市場附近吃飯，食物仍然是這裡常見的抓飯（pilaf）和烤牛肉串，一邊吃著旁邊的當地年輕人又開始搭話，一個男大學生用非常流利的英文和我們聊著，說他的父母在美國紐約布魯克林區（Brooklyn），他自己則在韓國讀書，朋友裡有很多台灣人⋯⋯。不得不說這真的是我拜訪過最熱情的國家，後面的幾個國家都不像烏茲別克人這麼會主動和人攀談。
 
 The last day (May 15) before taking the train back to Tashkent, I spent more time in Registon. This time I went with a Malaysian girl I met at the hostel. The experience was a bit different from the last time -- probably due to her beauty and fashionable outfit, many locals asked her if they could take photos with her, and I was also asked. That day we also explored the Ulugh Beg Observatory (built in the 15th century), and the tomb of the old testament prophet Daniel. One interesting fact is that they believe Daniel's body continues to grow after his death, and thus it's now 18 meters long (about 60 feet). Daniel's tomb, however, can be also found in many other places.
@@ -539,20 +440,9 @@ I happened to take the first class on this train ride. It was spacious with a go
 I met two Mandarin-speaking backpackers at the hostel in Tashkent, one from China and the other from Taiwan. The one from Taiwan is especially cool -- while looking like a single young adult like me, he is actually married and has a teenage daughter. He said he's able to come here because his daughter is finally old enough and that frees up some time for him. A really admirable backpacker, I thought.
 
 Since I had been without a nail clipper for over a week, I asked them if either of them had one. The Taiwanese backpacker immediately joined me and asked the same question, as he already found it hard to swipe his smartphone with the growing nails. Fortunately the Chinese guy did have one. We felt really thankful for this nail clipper, which saved 3 lives that night.
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e659c-img_20180516_083520.jpg?w=169)
+*塔什干青年旅館的早餐*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e659c-img_20180516_083520.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e659c-img_20180516_083520.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >塔什干青年旅館的早餐
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ### 飛往吉爾吉斯

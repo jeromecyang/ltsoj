@@ -16,20 +16,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_201
 我目前（2018年6月）正在進行一趟從中亞到新疆到內蒙古再穿越俄羅斯的大旅行，旅行中的其中一個環節是要從中國滿洲里陸路入境俄羅斯後貝加爾。俄羅斯簽證向來是出了名的難辦，但今年世界盃期間可以憑觀賽的FAN ID免簽入境，可用的第一天是6/4，因此我兩個月前就買好了世界盃的票並且申請了FAN ID，6/3便來到滿洲里，準備隔天中午開始搭車入境俄羅斯，銜接20:14（GMT+9）從後貝加爾發的火車。
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/06/86059-img_20180604_114112.jpg)
+*滿洲里客運站旁商場懸掛的中國、俄羅斯、蒙古國旗*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/86059-img_20180604_114112.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/86059-img_20180604_114112.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >滿洲里客運站旁商場懸掛的中國、俄羅斯、蒙古國旗
-</td>
-</tr>
-</tbody>
-</table>
 
 
 
@@ -53,20 +42,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_201
 
 
 搭車的地點是在滿洲里的國際客運站，就在市區北邊，距離步行街只有2公里，搭公交車或走路就可以到。原本以為搭車的流程就是買票上車，到了之後才發現沒有那麼簡單。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/06/14990-img_20180604_115413.jpg)
+*仿歐式建築的滿洲里國際客運站*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/14990-img_20180604_115413.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/14990-img_20180604_115413.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >仿歐式建築的滿洲里國際客運站
-</td>
-</tr>
-</tbody>
-</table>
 
 
 
@@ -200,20 +178,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_201
 
 
 17:45 到達後貝加爾車站，從下車點必須跨過鐵軌才能到車站，面對車站右邊有天橋可走，如果有帶大件行李則可以往左走，有一條直接跨過鐵軌的穿越道。在這裡偶然遇到了一位在赤塔做生意的中國大姐，有他帶著我走連路都不用認了XD。車站附近非常荒涼，但是站內有一家中國人開的俄羅斯餐廳。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_20180604_194329.jpg)
+*後貝加爾車站*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_20180604_194329.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_20180604_194329.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >後貝加爾車站
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ## 後記
@@ -240,20 +207,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_201
 2. 出發前吃飽並且準備足夠食物，也先換好一些盧布，因為後貝加爾那邊真的比較荒涼，車站附近沒有銀行或餐廳。
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/06/4a6b2-img_20180604_113632.jpg)
+*滿洲里街頭中蘇一家親的雕塑*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/4a6b2-img_20180604_113632.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/4a6b2-img_20180604_113632.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >滿洲里街頭中蘇一家親的雕塑
-</td>
-</tr>
-</tbody>
-</table>
 
 
 

@@ -16,25 +16,9 @@ image: https://bookofmormonbroadway.com/images/gallery/DaveThomasBrownasElder%20
 Finally saw the popular Broadway show “The Book of Mormon” few days ago! IMO, its story, music and performance are all outstanding. It impressed and entertained me more than any other show I saw recently. Made by the South Park gang, this musical basically makes fun of the Church of Jesus Christ of Latter-day Saints, commonly known as the Mormons. A friend who went with me knew my Christian faith, and asked me after the show, are you offended?
 
 前幾天終於去看了近期在波士頓巡演的當紅音樂劇《摩爾門經》（The Book of Mormon）。我個人覺得，這部劇就其劇本、音樂、表演而言都是上乘之作，是一齣精彩到會讓人看了大呼過癮的作品，製作班底和《南方四賤客》（South Park）是同一群人，劇情的主軸基本上就是拿「耶穌基督後期聖徒教會」（The Church of Jesus Christ of Latter-day Saints，一般習慣稱為摩門教）的來開玩笑。一起去看的朋友知道我的基督教信仰，出來時還特別問我，你會有被冒犯到的感覺嗎？
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://bookofmormonbroadway.com/images/gallery/second-national-tour-cast-b.jpg)
+**
 
-<td style="text-align:center;" >[![](https://bookofmormonbroadway.com/images/gallery/second-national-tour-cast-b.jpg)](https://bookofmormonbroadway.com/images/gallery/second-national-tour-cast-b.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >(Source: https://bookofmormonbroadway.com/)
-</td>
-</tr>
-</tbody>
-</table>
 
 </td>
 </tr>
@@ -51,20 +35,9 @@ My answer is, not at all! Indeed I wouldn’t say all the jokes and satires are 
 （這裡稍微說明一下——摩門教的教義和所有派別的基督教都不相容，基本上是一個完全不同的宗教；不過由於他們的經典仍然包括聖經正典，因此這部戲還是有稍微惡搞到一點聖經的內容。我想這是為什麼友人會特別問我是否有被冒犯到的感覺。）
 
 （警告：下面有微量劇情雷，但不會提到劇情如何發展，還未看過劇者仍可安心服用；另外，有少量兒童不宜議題，特此提醒。）
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)
+*The Mormon Temple in Salt Lake City, UT, where the headquarters of the Latter-Day Saints Church are located.*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >The Mormon Temple in Salt Lake City, UT, where the headquarters of the Latter-Day Saints Church are located.
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ### 1. “Hasa Diga Eebowai” - a expression of “truth” in human heart 說出真心話的大冒險
@@ -73,20 +46,9 @@ My answer is, not at all! Indeed I wouldn’t say all the jokes and satires are 
 The story is about two young Mormon missionaries who are sent from Salt Lake City to Uganda unexpectedly. After arrival, they find out that the locals are not interested in the gospel as the answer to difficulties in life; instead, in these difficulties, they always sing an energetic and moving local tune “Hasa Diga Eebowai”. The missionaries find it pleasant to join their singing and dancing, until they are surprised by the meaning of the words: “F*** you, God!”
 
 本劇的故事主線是兩位摩門傳教士到非洲傳教。在那裡，他們聽到當地人每次碰到困難時就會唱的一首歌，《Hasa Diga Eebowai》，配上舞蹈有著非洲獨特的律動感，兩人也在歡愉的氣氛裡加入一同唱和，直到他們發現這句話的意思是：「F*** You, God!」。身為一個對語言學小有興趣的人，看完之後我第一個想問的問題是，這是哪個語言呀？是史瓦希利語（Swahili）嗎？（同樣以非洲為背景的迪士尼動畫《獅子王》就有使用一些史瓦希利語的名字。）結果回家一查發現——這句話其實是編劇自己亂掰的，世界上並不存在這種語言，是我自己太認真啦XD。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://bookofmormonbroadway.com/images/gallery/1st-ntnl-tour-a.jpg)
+*(Source: https://bookofmormonbroadway.com/)*
 
-<td style="text-align:center;" >[![](https://bookofmormonbroadway.com/images/gallery/1st-ntnl-tour-a.jpg)](https://bookofmormonbroadway.com/images/gallery/1st-ntnl-tour-a.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >(Source: https://bookofmormonbroadway.com/)
-</td>
-</tr>
-</tbody>
-</table>
 People laughed with excitement at this moment, and I could see why -- for typical Americans, whether religious or not, saying the f-word to God implies a revolt against traditional religious authorities. The actors on the stage say out loud something that they want to but cannot say, and that’s what made the audience insane.
 
 Although I personally would not say the f-word to God (just like I won’t do so to anyone), as a believer of Christianity, I think it’s totally ok to express one’s true feeling toward God, and even to “blame” Him for the bad things happen in life. Many cases in the Bible show how people complaint or even battled with God. Is God ok with that? I think He is. We all know that one indicator of a healthy relationship is whether both sides are able to share feelings honestly with the other person, even if this sometimes involves conflicts. So is one’s interaction with God. Moreover, although the locals sing the f-word again and again, their emotion says the opposite -- perhaps when knowing everything whether good or bad is from God, they eventually embrace things as they are and enjoy the real life. Being truthful about our feelings and directing them to the Creator, I think this is something we can learn here.
@@ -104,25 +66,9 @@ Although I personally would not say the f-word to God (just like I won’t do so
 This is another song that made people laugh out loud, and probably due to the same reason -- it again ridicules religious traditions. In this song, baptism is expressed with lyrics and actions full of sex implications. I could understand why this seemed hilarious to the audience -- sex, probably the most secular, irreligious and even “sinful” thing, was employed to describe the sacred ritual baptism! This huge contrast can be really entertaining. However, if you really feel this way, then it’s probably worth for you to open the bible and read it carefully.
 
 《Baptize Me》是另一首引發全場大笑的歌曲，故意用了各種充滿性暗示的語言和動作來表現洗禮（baptism）。同樣的，我猜大多數美國觀眾會喜歡這個哏，大概也是因為他們覺得宗教權威被挑戰了——一個看起來最世俗、不堪入目的行為被用來描述基督教裡的一項神聖禮儀，那種巨大反差和黑色幽默很難讓人不興奮吧。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://bookofmormonbroadway.com/images/gallery/candace-quarrels_cody-jamison-strand.jpg)
+**
 
-<td style="text-align:center;" >[![](https://bookofmormonbroadway.com/images/gallery/candace-quarrels_cody-jamison-strand.jpg)](https://bookofmormonbroadway.com/images/gallery/candace-quarrels_cody-jamison-strand.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >(Source: https://bookofmormonbroadway.com/)
-</td>
-</tr>
-</tbody>
-</table>
 
 </td>
 </tr>
@@ -147,20 +93,9 @@ A couple of things are worth noting here. First, the view above is held by the C
 Performed on the 2011 Tony Award stage, “I Believe” is probably the most known number in The Book of Mormon. In this song, one of the leading characters genuinely articulate his faith: “I believe that the Lord God created the universe; I believe that he sent his only son to die for my sins; and I believe that ancient Jews built boats and sailed to America...” As he gains more and more passion, the lyrics also become more and more silly. Some commenters noticed that the repetitive “I believe...” phrases actually mimic a special form of literature in Christian church history: the creed.
 
 喜劇幽默的最高境界之一就是一本正經的搞笑，劇中歌曲《I believe》把這個精神發揚得淋漓盡致。這是首其中一位主角的獨唱曲，無論在曲調和歌詞上都帶有教會音樂的色彩，主角慷慨激昂的唱著「我相信上帝創造了宇宙、我相信祂差派他的獨生子來為我的罪而死、我也相信古代的猶太人建造了船隻並且航行到美洲大陸⋯⋯」，隨著情緒越來越高漲，歌詞的內容也越來越光怪陸離，但這首歌的幽默之處不僅在於此；有些評論者注意到，這首歌的歌詞寫作方式，也就是「我相信⋯⋯」這樣的句子結構，很像是在刻意模仿教會歷史上存在的一種文體：信經（creed）。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://bookofmormonbroadway.com/images/gallery/ryan-bondy_david-aron-damane.jpg)
+*(Source: https://bookofmormonbroadway.com/)*
 
-<td style="text-align:center;" >[![](https://bookofmormonbroadway.com/images/gallery/ryan-bondy_david-aron-damane.jpg)](https://bookofmormonbroadway.com/images/gallery/ryan-bondy_david-aron-damane.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >(Source: https://bookofmormonbroadway.com/)
-</td>
-</tr>
-</tbody>
-</table>
 A creed, or a statement of faith, is the expression of one’s faith. It was originally developed to teach believers and flight against heresies, but later became part of church worship. The most known one is the Apostle’s Creed. Rather than a text possessing miraculous power, a creed is essentially a plain articulation of what one believes. For example, the creed of an educated person may be: “I believe that one plus one equals two; I believe in the universal existence of gravity; I believe in Newton’s First Law...”
 
 “Just believe and have no doubt!” is the big idea of the song, and also what makes the audience laugh so loud -- that dude believes that the Garden of Eden is in Jackson County, Missouri, with no doubt? In my own opinion, I don’t think a healthy belief leaves no room for doubt; instead, a solid belief often comes from doubt, as doubt prompts people to investigate deeper. And by the way, while the song is making fun of the Mormon belief, some Mormon said after watching the show: they didn’t feel offended by this song; instead, they could totally relate to what the actor was singing.
@@ -192,25 +127,9 @@ Overall I think The Book of Mormon is an outstanding musical, whether in terms o
   4. 對於摩門教覺得感冒、不願意有任何一點接觸的人
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://bookofmormonbroadway.com/images/gallery/nic-rouleau.jpg)
+**
 
-<td style="text-align:center;" >[![](https://bookofmormonbroadway.com/images/gallery/nic-rouleau.jpg)](https://bookofmormonbroadway.com/images/gallery/nic-rouleau.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >(Source: https://bookofmormonbroadway.com/)
-</td>
-</tr>
-</tbody>
-</table>
 
 </td>
 </tr>

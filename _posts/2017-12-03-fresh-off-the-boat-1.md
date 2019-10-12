@@ -30,143 +30,55 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-2017042
 不少大學時期的情侶都得在畢業前後面臨一個現實的問題：畢業之後兩個人要如何繼續走在一起？我們兩人都想到美國留學，也都希望可以取得博士學位，但我們的領域非常不一樣，因此各自領域內的學校排名當然也很不一樣，如果完全不把兩人之間的距離納入考量，最後很可能就是動輒幾千公里的距離。那時候的我，天真的認定著對方就是要一起走一輩子的那個人，因此追尋各自的夢想固然重要，但同時也應該要把對方當成夢想的一部分呀！於是我們打開了Google Maps，在上面標記各自理想學校的位置，然後看看除了兩個人都能申請的學校之外，有沒有一些不同學校但是距離不會太遠的可能。
 
 就在2009年接近年底、所有學校的申請期限都快到的時候，我正苦惱著好像找不到什麼新英格蘭的學校有地理系，卻偶然發現原來全美國第一所成立地理研究所的Clark University就在麻州中部的Worcester這個城市，算是在廣義的波士頓都會區範圍內，也是地理系的傳統名校。後來等到申請學校結果全部出來之後，我們發現兩個人都選擇麻州的學校很明顯是最佳解，於是就這樣決定飛到這裡來讀書。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg)
+*2010年8月10日飛波士頓前，在洛杉磯入境美國並轉機*
 
-<td >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >2010年8月10日飛波士頓前，在洛杉磯入境美國並轉機
-</td>
-</tr>
-</tbody>
-</table>
 **菜鳥移民的第一天**
 
 下飛機之後第一件事情就是買早餐。我隨便找了機場裡的麥當勞，嘗試用不太熟悉的語言點餐，為了要省錢還不敢點套餐，只買了個滿福堡（McMuffin），完成了在美國的第一筆消費；接著來到行李轉盤，順利的拿到了裝滿禦寒衣物、生活用品加上一個大同電鍋的兩個行李箱；走出航廈之後，Clark台灣學生會的學長姐幫忙預定的機場接送專車很快就出現，把我載到機場西邊80公里處、Clark University所在的城市，Worcester。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg)
+*我生活了兩年的地方，Worcester的Main Street，是個已經凋零的後工業老市區，街上來往的大多數拉丁美洲裔的移民，從第一天就開始被告誡絕對不能一個人在這條街上走。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >我生活了兩年的地方，Worcester的Main Street，是個已經凋零的後工業老市區，街上來往的大多數拉丁美洲裔的移民，從第一天就開始被告誡絕對不能一個人在這條街上走。
-</td>
-</tr>
-</tbody>
-</table>
 Worcester是個麻州中部的後工業化城市，瀰漫著繁華褪盡的蕭條氛圍，隨處可見人去樓空的廠房、倉庫、空地，老舊殘破的建物上屢見塗鴉，周圍佈滿雜草，主要街道Main Street上奔跑嬉鬧的多數是拉丁美洲裔的小孩。如此頹廢的一個城市仍然能夠生存，很大一部分是依賴著轄區裡的13所大專院校。我的接送專車穿過了這條街道，停在一棟由舊工廠翻新而成、有著規律單調的紅磚牆與一根大煙囪的公寓大廈前面。下了車，打電話給負責接待我的台灣人學長說我到了。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg)
+*麻州中部很常見到由舊紅磚廠房整修而成的公寓或辦公大廈*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >麻州中部很常見到由舊紅磚廠房整修而成的公寓或辦公大廈
-</td>
-</tr>
-</tbody>
-</table>
 學長先帶我來到學校的行政大樓辦理宿舍的入住手續，取得了鑰匙，然後便前往宿舍。那宿舍是典型的新英格蘭三層式街屋，一樓是店面，二三樓則是公寓，地板、門框和外牆都是木造，相當有歷史感。一開門，襲來的是陳舊的木頭味，樓梯被我們兩人踩得吱吱作響。我是在一段時間之後才意識到，這種進屋時的味道和聲響根本就是新英格蘭的日常。
 
 放下了行李、稍微認識了室友，接著我們便來到惡名昭彰的美國銀行（Bank of America）辦帳戶，身邊的其他客人幾乎都是來開戶的中國籍學生。行員用英文說明的細節我大多是聽得一知半解，心裡想著反正確定錢有個地方可以放就好了。中午學長帶我來到學校附近一家越南河粉（Pho）店，那是我這輩子第一次吃越南河粉，還不知道原來越南河粉是美國非常常見的平價食物，尤其是在有著大量越南移民的波士頓郊區。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg)
+*越南超市裡的佈告牆*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >越南超市裡的佈告牆
-</td>
-</tr>
-</tbody>
-</table>
 午餐後另外拜訪了幾位台灣人學長姐，接收了一些生活用品，接著下一步就是到傳說中的沃爾瑪採購。由於台灣沒有沃爾瑪，我對這家店的理解完全來自於大二社會學的指定讀物《The Wal-Mart Effect》（中譯：沃爾瑪效應），內心早已有著「這家店就是不斷用壟斷和降低成本來壓榨第三世界勞工」的成見，不過既然被學長帶來了，該買的東西還是要買吧？於是簡單抓了幾樣生活用品，接著便告別了學長，在傍晚時分回到宿舍，準備度過在美國的第一個夜晚。
 
 第一個晚上就用沃爾瑪買來的吐司和義大利麵果腹，並且第一次感受晚上八點半才天黑的高緯度夏季日照。印象中那天沒有特別想家，也沒有覺得不習慣，而且似乎沒什麼時差一覺到天明，接下來第二天就開始在家開伙煮飯。一個菜鳥移民在美國的新生活，就這樣開始了。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg)
+*一街之隔，左邊是我每天宅在裡面的實驗室，右邊是我第一年的家*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >一街之隔，左邊是我每天宅在裡面的實驗室，右邊是我第一年的家
-</td>
-</tr>
-</tbody>
-</table>
 **第一次踏進美國的教室**
 
 開學前的生活是無止境的新生訓練（orientation），除了有一天校級、一天系級的新生訓練之外，我所屬的學系還要求國際學生要額外參加四天的課程，此外我自己的地理資訊系統組也提供了四個整天的工作坊（workshop），也就是說我在開學前就已經先上了整整兩週的課程，還外加一個工作坊的期末考！雖然這意味著我少放了兩週假，但也讓我多了一些適應美國課堂的緩衝時間。
 
 初次踏入教室的那天心情當然是忐忑不安的。那天我提早從宿舍出發，穿過美國老字號學院必備、周圍被紅磚建築環繞的的中央廣場（yard），不用一分鐘的路程就來到了位在校園正中央的教學大樓，這棟樓並不大，四層樓紅磚建築，中央是樓梯，兩側各約3間教室的長度，僅僅這樣的尺寸就容納了我那兩年幾乎所有的必修課。推開厚重的木頭大門，踩著凡走過必發出聲音的木造樓梯來到二樓，暑假間唯一一間亮著燈的教室就是我和同學們初次見面的地方。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/227c4-cimg0021.jpg?w=225)
+*小小校園裡唯一一棟教學大樓*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/227c4-cimg0021.jpg?w=225)](https://lifetimesojournertravel.files.wordpress.com/2017/12/227c4-cimg0021.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >小小校園裡唯一一棟教學大樓
-</td>
-</tr>
-</tbody>
-</table>
 第一天是給全系（包括地理資訊系統以外的其他三個專業分組）國際學生的課程，因此教室內的全都是國際學生，其中以中國籍和越南籍最多，上課前各自成群用各自的語言聊著，直到老師進來，宣布了這門課的第一條規定：English only（當然，之後很多人還是無視這個規定，繼續跟自己國家的人講自己的語言）。課程內容大概就是讓國際學生適應美國的教室文化、練習寫一點短文（essay）和上台報告等等，大部分內容我都已經忘記了，只記得最後覺得一群國際學生聚在一起似乎也學不到太多東西，還不如出去跟真正的老美聊天來得實際。
 
 第二天開始則是地理資訊系統專業的工作坊，無論是美國人或國際學生都得參加，因此也就是我和「全班同學」的第一次見面。這個工作坊的內容基本上就是大學部的初階地理資訊系統課程，讓來自不同學校、程度不一的同學可以一起把之前學過的東西複習一次，四天的工作坊結束之後會有一次期末考，合格者可以直接修進階課程，不合格者則必須從初階課程開始。
 
 這是我第一堂真正和美國人一起上的課程，上課的第一件事情當然是自我介紹，我也因此對班上的同學組成有了粗略了解。簡單來說，我地理資訊系統組全班20個人，其中大概可以均分成三種人。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg)
+*第一次全系retreat，和同學在草地上進行破冰（ice breaker）*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >第一次全系retreat，和同學在草地上進行破冰（ice breaker）
-</td>
-</tr>
-</tbody>
-</table>
 第一種人是美國人，大多是男生，大學畢業之後已經先有幾年的工作經驗，之後才決定回來讀研究所，年紀比我大一些些。他們大學部讀的幾乎都是地理、環境科學、生態學等專業，本身不見得對地理資訊系統很熟悉，也沒什麼電腦科學的背景，但大多是帶著對這個領域的興趣來唸的。
 
 第二種人則是中國學生，很意外的清一色是女生（相較於我的母校裡總是陽盛陰衰的地理資訊系統組，此景讓我相當吃驚），全部都是本科（大學部）畢業之後馬上到美國讀書，年紀當然就比服完兵役才出國的我要小一些。在許多中國的大學裡，地理資訊系統本身是一個獨立的專業，他們大學部就是學這個專業，而且每個都有編程（寫程式）的能力，至少幾種基本的程式語言都懂。
 
 這兩種以外的人則是來自其他國家的少數國際學生，包括我自己在內。雖然我嚴格來說不能被歸入這兩種的其中一種，我卻感覺到自己和這兩群人各有一些相似的地方。以學習歷程來說，我比較像是第一種人，大學讀地理、沒寫過程式、算是帶著興趣來念，但文化背景上則比較接近第二種人。（題外話，我一直很感激我們組的主任，他從頭到尾都記得我是台灣人，從來沒有忘記或搞錯我的國籍，即使我常常和中國籍的同學們混在一起講中文。）
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/1cb02-mobile25281012529.jpg?w=225)
+*在開學活動上見到這面旗子，內心是相當激動的*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/1cb02-mobile25281012529.jpg?w=225)](https://lifetimesojournertravel.files.wordpress.com/2017/12/1cb02-mobile25281012529.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >在開學活動上見到這面旗子，內心是相當激動的
-</td>
-</tr>
-</tbody>
-</table>
 雖然是這輩子第一次完全用英文上課，一路聽下來並沒有像我想像的這個困難，或許是因為所有內容幾乎大學的時候的基礎課都學過，加上理工類的課程比較不需要靠閱讀理解能力。但即使是如此，那整週我還是上的如坐針氈呀！一方面是怕自己沒聽懂或錯過了老師給的指示，另一方面則是擔心自己無法通過工作坊的期末考——我才不要浪費時間回去把以前上過的基礎課重新上一次咧！為了這件事情，我甚至下課之後還自己花時間跑到圖書館去複習，還沒開學就被迫進入期末考狀態。
 
 我必須很誠實地說，工作坊期末考成績出來時，我除了想知道自己沒有通過之外，其實更感興趣的事情是：我在班上的程度到底在哪裡。之前申請學校放榜時，Clark並沒有直接錄取我，只把我先放在備取名單上，多等了快一個月才給我錄取通知。既然我是備取，那我的同學們應該都很強吧？尤其是那些大學四年都在學地理資訊系統、會寫好幾種程式語言的同學們。

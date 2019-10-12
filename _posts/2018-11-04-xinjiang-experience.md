@@ -14,34 +14,12 @@ featured: true
 ---
 
 新疆可以說是我的42天大旅行裡故事最多的地方。幾度試圖開始寫自己在那裡的經歷，卻也好幾次不知道如何下筆，或許是因為最近西方媒體實在太「關注」這個地方，每讀完一篇網路文章就迫使我重新思考應該要如何呈現自己的經歷。想來想去，最後覺得最好的還是回到出發時的心境吧，很誠實地把自己看到、聽到的一切寫出來；至於新疆現在到底是個什麼樣的地方、有沒有所謂的人權問題，就交給各位自己判斷（這句話講起來好像政論節目片尾的「以上言論不代表本台立場」呀XD）。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)
+*喀喇崑崙山上的塔什庫爾干*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg)
+*高台民居，喀什市區僅存的土陶建築社區，少數還保留當地傳統特色的市區，即將被政府拆除改建。*
 
-<td style="text-align:center;" class="tr-caption" >喀喇崑崙山上的塔什庫爾干
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >高台民居，喀什市區僅存的土陶建築社區，少數還保留當地傳統特色的市區，即將被政府拆除改建。
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/11/87f8e-f13199872.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/87f8e-f13199872.jpg)
@@ -361,20 +339,9 @@ featured: true
 「那你喝喝看。」
 
 我乖乖地照他說的辦，但內心早就已經整個愣住了——我就說這是紅茶了，包裝也是全中國到處都買得到、一瓶2.5元的統一冰紅茶，為什麼你會覺得是汽油？不過畢竟是新疆嘛，幾天走下來開始覺得見怪不怪了。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e58a2-img_20180522_182141.jpg?w=169)
+*這就是那罐被當成汽油的統一冰紅茶，注意頂上的維吾爾文字。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e58a2-img_20180522_182141.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e58a2-img_20180522_182141.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >這就是那罐被當成汽油的統一冰紅茶，注意頂上的維吾爾文字。
-</td>
-</tr>
-</tbody>
-</table>
 「你好。身分證看一下。」
 
 我馬上把手邊準備好了的旅行證遞給櫃檯阿姨。
@@ -472,20 +439,9 @@ featured: true
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/11/92f98-f17446592.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/92f98-f17446592.jpg)
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg)
+*習近平同志和維吾爾族兒童的合照（不知道為什麼讓我馬上想到了台灣的花蓮王）*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >習近平同志和維吾爾族兒童的合照（不知道為什麼讓我馬上想到了台灣的花蓮王）
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/11/85891-20180525_205919.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/85891-20180525_205919.jpg)
@@ -553,34 +509,12 @@ featured: true
 
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg)
+*這就是那盤用「被鐵鏈鎖在廚房裡的菜刀」切出來的西瓜*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg)
+*大盤雞燴麵*
 
-<td style="text-align:center;" class="tr-caption" >這就是那盤用「被鐵鏈鎖在廚房裡的菜刀」切出來的西瓜
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >大盤雞燴麵
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ## 離開新疆，從河西走廊進入甘肅

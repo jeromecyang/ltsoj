@@ -32,76 +32,32 @@ But, what should my official first post be about? After thinking of a bunch of t
 I’m from Taipei, Taiwan, where I spent more than a half of my life.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/5405e-20170916_180132.jpg)
+*A "night market" near my home*
 
-<td style="text-align:center;" >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/5405e-20170916_180132.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/5367e-20170916_180132.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >A "night market" near my home
-</td>
-</tr>
-</tbody>
-</table>
 
 In case you don’t know, Taiwan is universally considered a sovereign state. The formal name is currently “Republic of China” (ROC), a continuation of the former mainland China government in 1912-1949 before the People’s Republic of China (PRC) took over the mainland. We have our own constitution and armed forces (which I used to be part of), maintain our own diplomatic relations, and elect our own president. We are currently not subject to any external sovereignty, although the Communist China loves to claim the opposite. Due to the separation since 1949, younger generations tend to identify themselves as Taiwanese rather than Chinese.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/bd677-img_7275_hdr.jpg)
+*My favorite part of the island: the east coast*
 
-<td style="text-align:center;" >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/bd677-img_7275_hdr.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/3a332-img_7275_hdr.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >My favorite part of the island: the east coast
-</td>
-</tr>
-</tbody>
-</table>
 
 Growing up in Taiwan is really fun. The island is small but diverse, which creates a wide range of things to do. My home city Taipei is a typical vibrant, over-crowded East Asian metropolis (with about 7 millions population in its greater urban area), but beaches, farmlands, alpines, and even indigenous tribes are within the reach of a couple of hours. I was by far more interested in those than the normal life in the city. Therefore, before I could drive legally (the minimal age in Taiwan is 18), riding my bike to explore within and outside the city has been my most important pastime. I particularly enjoyed seeing different facets of a city - not only the shiny skyscrapers and burgeon shopping malls, but also the rusted streetscapes, slums, abandoned buildings and even graveyards. “The backdoor of a city” is the nickname I gave them. Seeing different people and observing their actual lives have always been my interest.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/dc5ee-20160913_091434.jpg)
+*View of a typical Taiwanese city: a mixture of old and new, which always looks a bit sketchy*
 
-<td style="text-align:center;" >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/dc5ee-20160913_091434.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/8c92b-20160913_091434.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >View of a typical Taiwanese city: a mixture of old and new, which always looks a bit sketchy
-</td>
-</tr>
-</tbody>
-</table>
 
 I also grew up in a Christian family and a Christian church. Since I made my personal decision to be a Christ-follower when I was 13, church has been an indispensable component in my life -- not out of obligation, but because I was convinced that faith makes people different, and I’d like to be with people like that. I attended church events and served as a group leader, worship leader and pianist since middle school.
 
 Other than that, I was raised as a very typical Taiwanese kid. I went through the public school system (which bases high school and college admission on test scores), and had to complete an one-year military duty after college. Nevertheless, before graduating from National Taiwan University (NTU), an important decision changed the course of my life.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/d18a6-img_1241.jpg)
+*Another iconic view of Taiwan: motor bikes are omnipresent and outnumber cars*
 
-<td >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/d18a6-img_1241.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/8b6b4-img_1241.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >Another iconic view of Taiwan: motor bikes are omnipresent and outnumber cars
-</td>
-</tr>
-</tbody>
-</table>
 
 
 
@@ -120,20 +76,9 @@ It was common for NTU graduates to go to top universities in the US, primarily f
 This finally changed when I realized my desire to see a bigger world -- Taiwan is great, but there are many other people and places that are drastically different. I’d like to experience that not just as a tourist, but as someone who actually lives there. As an adventurous explorer, it was too stupid to dismiss my ambition of going abroad simply because of my poor foreign language skills! In addition, my dream job then was college professor. It would be very helpful if I could obtain a doctoral degree from a US university. Therefore, I decided to go to graduate school in the US, as an opportunity to explore other parts of the world and pave the road to academic career.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/8b9bd-20170918_095804.jpg)
+*Daily routine in my college: rushing to classes with a bike*
 
-<td style="text-align:center;" >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/8b9bd-20170918_095804.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/b1a0d-20170918_095804.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Daily routine in my college: rushing to classes with a bike
-</td>
-</tr>
-</tbody>
-</table>
 
 As we all know, applying for a graduate school is a long and tedious process -- GRE, statement of purpose, letters of recommendation, user-unfriendly online systems and endless deadlines. It is hard enough for an American student to do all these, let along for an international student like me, who had to go through all these in an unfamiliar language. There were also a couple of extra challenges I had to overcome:
 
@@ -166,20 +111,9 @@ It’s a nightmare for many, as the English we learned at schools is very far fr
 After all the hassles, it also took some efforts to choose the right school. Foreign students usually learn about the ranking of a school via web forums and US News, but they know very little about the atmosphere on a campus, and almost nothing about the life in a city or town. Many of them have to make decision based on fairly limited information. My choices were limited to southern California, Massachusetts and upstate New York. Considering various constraints, I chose the geographic information science program at Clark University in Worcester, Massachusetts.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/1a13d-backtoworcestermy2010-2012-28.jpg)
+*I spent two years at Clark University in Worcester, Massachusetts*
 
-<td style="text-align:center;" >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/1a13d-backtoworcestermy2010-2012-28.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/85acc-backtoworcestermy2010-2012-28.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >I spent two years at Clark University in Worcester, Massachusetts
-</td>
-</tr>
-</tbody>
-</table>
 
 This is how I came to the US. There were a lot more interesting stories after I actually moved here, but I will save them for future posts.
 
@@ -208,20 +142,9 @@ Therefore, my blog has restarted. It’s currently titled **“from Boston to th
   * **Other topics I’m interested in.** Those can range from software engineering, linguistics, history, theology to comments/recommendations on TV shows, movies and other performances.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lifetimesojournertravel.files.wordpress.com/2018/01/386f2-img_1731.jpg)
+*A major focus of my posts is the multiethnic facets of Boston*
 
-<td style="text-align:center;" >[![](http://lifetimesojournertravel.files.wordpress.com/2018/01/386f2-img_1731.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/01/fc112-img_1731.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >A major focus of my posts is the multiethnic facets of Boston
-</td>
-</tr>
-</tbody>
-</table>
 
 
 

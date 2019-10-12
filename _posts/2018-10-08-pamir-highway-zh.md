@@ -38,65 +38,21 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 冒險之路的起點是比什凱克最大的市集、同時也是亞洲最大的市集之一，Dordoy Bazaar，是個位在市區北緣的批發市場。搭市區小巴來到這裡，眼前所見是一排接著一排幾乎看不到盡頭的商家，賣的東西琳瑯滿目什麼都有；各種車輛穿梭於市場中，每次經過總會在沙土路面上掀起一陣霧霾。我的目標很簡單也很困難：在市場靠近某區的一個角落，找到一個載貨小巴的集散地，在那裡搭載人兼載貨的貨車前往第二大城奧什。那時候時間大約是下午3點半，網路上的資訊是大部分的貨車會在6點左右離開，因此得在有限時間內盡快找到車並且議好價。
 
 喔差點忘了說，那天會踏上這段路其實是臨時變更行程的結果——原本從頌湖下來的時候，唯一的念頭就是回到比什凱克市區好好洗個澡然後大吃一頓，畢竟已經過了三天沒有自來水的生活，而冒險之路則是預定隔天才啟程；然而，由於回到比什凱克的時間比預期得早，如果提早啟程、次日拉到帕米爾高原上過夜，就可以降低因為突發狀況（如天氣或入境被拒）而被困在路上的風險；因此下山路上我立刻改變計劃，跟原本預定的青年旅館說我不去了， 然後告訴自己，洗澡這種事就不用太糾結了吧！為了順利跨越高原，多等兩天再洗澡絕對是值得的。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg)
+*Dordoy Bazaar內的貨櫃集中區*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Dordoy Bazaar內的貨櫃集中區
-</td>
-</tr>
-</tbody>
-</table>
 後來我在市場裡繞了整整半個多小時——除了穿越大得像迷宮般的市場需要不少時間之外，一路上我不斷用肢體語言問攤販到底貨車在哪裡，有的人不知道、有的人隨便指了個方向結果走過去還是看不出個所以然，最後才終於在一塊鋼棚下找到傳說中的貨車集散地。那裡有近20輛比一般廂型車稍大的廂型貨車，大部分早已裝滿貨物蓄勢待發，貨物中有不少寫著中文字的紙箱和布袋，暗示著我這裡離中國邊境已經不遠。這些貨車司機們通常會利用副駕駛座以及貨物上方架起的一片木板，除了貨物之外再載上3-4個客人，傍晚從比什凱克出發，早晨到達奧什，是來往這兩大城市之間最便宜、最舒服也最不浪費時間的辦法——可以在木板床上躺平睡覺，比起白天的小型巴士或共乘計程車要寬敞許多，還可以省下一晚住宿費。
 
 議價的過程當然不太容易。首先其中一個司機接受我開出的價錢，但看了看他的車之後，發現車上沒有木板床可以休息，於是我嘗試開始其他司機表達，有沒有哪輛車是有木板床可以睡覺的？這段溝通是最辛苦的，我雙手合十擺在臉頰邊、很努力地表現出「睡覺」，而司機們也很努力的猜測我想要表達什麼，無奈雙方就是沒有交集；在這過程中還有一位熱心的當地中學生加入，打電話請他正在學英文的朋友幫忙翻譯，但他仍然沒能理解我意思；最後我終於看到一輛有木板床的車，趕緊向司機群表達我想要的就是這種，談妥價錢後立刻上了車。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg)
+*前往奧什的廂型貨車，與我的紅色背包，左邊是正在學中文的吉爾吉斯中學生。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg)
+*箱型車內部利用貨物上方空間架設木板床，兼載客使用，是來往於兩個城市間的陽春版臥鋪巴士。*
 
-<td style="text-align:center;" class="tr-caption" >前往奧什的廂型貨車，與我的紅色背包，左邊是正在學中文的吉爾吉斯中學生。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg)
+*車子開動時只有兩個乘客能坐在座位上，其他人就直接躺在木板床上移動。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >箱型車內部利用貨物上方空間架設木板床，兼載客使用，是來往於兩個城市間的陽春版臥鋪巴士。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >車子開動時只有兩個乘客能坐在座位上，其他人就直接躺在木板床上移動。
-</td>
-</tr>
-</tbody>
-</table>
 車上的另一位乘客是一位正在學中文的中學生，用簡單的中文和我對話，並且帶我在市場裡面做出發前的最後準備（上廁所、買水等）。在這個和中國來往密切、堪稱「一帶一路」典範的國家，路上偶有中文字見怪不怪，碰到努力學中文的年輕人更不令人意外。下午5點，載著滿車貨物和4位乘客的貨車正式開出市場，連夜前往700公里外的奧什。
 
 傍晚的這段路走在高原上，相當筆直寬敞，除了市區交通稍嫌混亂、路上不斷被警察攔下來（看司機的應對方式感覺是在索賄）之外都很平順；但1個多小時之後，車子開始往山間的一條峽谷開去，路幅也縮小成雙向各一線，通過一個收費站之後就開始進入了山路。
@@ -115,20 +71,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/eeab7-img_20180519_191407.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/eeab7-img_20180519_191407.jpg)
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg)
+*進入山區前的最後收費站。注意左側收費亭前方有當地人在販賣飲料和零嘴。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >進入山區前的最後收費站。注意左側收費亭前方有當地人在販賣飲料和零嘴。
-</td>
-</tr>
-</tbody>
-</table>
 在蘇聯劃定成員國的國界時，吉爾吉斯算是相對倒霉的一個國家——由於吉爾吉斯人大多住在山地，畫給他們的疆域也就幾乎都是山區，鄰近的平地則大多被劃入烏茲別克，這使得境內交通非常不便——從比什凱克到奧什要翻過三座山脈，每座山脈的爬升高度和寬度都等同台灣中央山脈甚至更高，因此這段路不只風景很像台灣的橫貫公路，試想一個晚上走三遍台中到花蓮的橫貫公路，這兩個城市之間的交通就是如此困難。此外，有些路段明明就可以走平地，卻因為會穿過烏茲別克國境，所有車輛都得繞道山路。
 
 
@@ -179,67 +124,23 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg)
+*Töö Ashuu的公路最高點有個單線隧道，車輛在此等待號誌通行。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg)
+*從Töö Ashuu可以遠眺下一座要跨越的山脈，從比什凱克到奧什總共要跨過三道山脈。*
 
-<td style="text-align:center;" class="tr-caption" >Töö Ashuu的公路最高點有個單線隧道，車輛在此等待號誌通行。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >從Töö Ashuu可以遠眺下一座要跨越的山脈，從比什凱克到奧什總共要跨過三道山脈。
-</td>
-</tr>
-</tbody>
-</table>
 從那裡開始我就躺在木板床上沉沉睡去，除了午夜時分被挖起來，在路邊飯館吃飯。同時從比什凱克出發的司機們都是差不多時間到達這裡，讓這家小餐館突然熱鬧了起來。我因為有自備麵包（同時也是真的開始厭倦中亞食物了）就沒有點餐，但身邊其他人仍熱心地不斷為我倒茶。飯後回到車上，身子躺平了繼續一路睡，對於路上的蜿蜒險峻毫無知覺。
-<table cellpadding="0" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://too.kg/en/wp-content/uploads/Too-Ashuu-1-1024x576.jpg)
+*天氣晴朗時的Töö Ashuu。 Image source: https://too.kg/en/wp-content/uploads/Too-Ashuu-1-1024x576.jpg*
 
-<td style="text-align:center;" >[![](https://too.kg/en/wp-content/uploads/Too-Ashuu-1-1024x576.jpg)](https://too.kg/en/wp-content/uploads/Too-Ashuu-1-1024x576.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >天氣晴朗時的Töö Ashuu。 Image source: https://too.kg/en/wp-content/uploads/Too-Ashuu-1-1024x576.jpg
-</td>
-</tr>
-</tbody>
-</table>
 **2. 奧什 Osh — 黃石 Sary-Tash （185km，吉爾吉斯境內 In Kyrgyzstan，5/20）**
 **挑戰：在奧什市區裡找到不知道何時何地發車的小巴，或是找不到就只好半路攔便車，前往帕米爾高原上的小鎮黃石。**
 
 後半夜睡睡醒醒，不知道是第幾次醒來的時候發現天已經亮了，於是離開木板床坐到副駕駛座上讓自己慢慢清醒。這裡的景色不同於前夜的險峻，兩旁是相對圓潤的丘陵地，眼前的晨霧中可以隱約見到一片廣闊平坦的谷地，看地圖估計離奧什大約只剩2小時車程。這裡叫費爾干那谷地（Fergana Valley），數千年來一直都是一片肥沃富裕的土地（相對於中亞其他地方）——西元前129年，張騫出使西域時拜訪的大宛國就位在這裡，他們從這裡引入了號稱可以日行千里的汗血馬。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg)
+*費爾干納谷地，也就是張騫通西域時造訪的大宛國所在地。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >費爾干納谷地，也就是張騫通西域時造訪的大宛國所在地。
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8ae22-img_20180520_062259.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8ae22-img_20180520_062259.jpg)
@@ -256,62 +157,18 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 眼前雖有平地卻行不得——如同前面所說，這片平地是烏茲別克領土，要前往谷地另一端的吉爾吉斯人只能繞道山路而行。大約早上7點，司機在距離奧什市中心不遠的一片荒地放我下車，我找到一處公園裡的座椅稍微休息、早餐並整理裝備，並且用公園內天然湧出的泉水稍微盥洗，此後也到奧什市區的景點Sulayman Mountain走走。山頂有間小清真寺，在那裡遇見不少來此郊遊的吉爾吉斯少男少女，各個都精心打扮，在山頂拍下美美的照片，和我們這些邋遢不堪的背包客形成強烈對比。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg)
+*奧什的市區地標——Sulayman Mountain*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg)
+*公園裡的老式摩天輪與退役的前蘇聯客機*
 
-<td style="text-align:center;" class="tr-caption" >奧什的市區地標——Sulayman Mountain
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)
+*Sulayman Mountain上所見*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b3ff6-img_20180520_093719.jpg?w=169)
+*Sulayman Mountain山頂的清真寺（左側）*
 
-<td style="text-align:center;" class="tr-caption" >公園裡的老式摩天輪與退役的前蘇聯客機
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Sulayman Mountain上所見
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b3ff6-img_20180520_093719.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b3ff6-img_20180520_093719.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Sulayman Mountain山頂的清真寺（左側）
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c5034-img_20180520_093133.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c5034-img_20180520_093133.jpg)
@@ -325,53 +182,20 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 接下來回到市區，第二個挑戰正式展開：我要找到開往帕米爾高原小鎮Sary-Tash（意思是黃色的石頭）的車，最好是共乘計程車或小型巴士。這個任務比我想的要困難——Google Maps在這裡毫無用武之地，旅遊論壇上的少少幾句話讓我在現場完全沒有頭緒，走在市場裡用簡單俄文配上Google Translate問當地人，他們也不知道是否有前往Sary-Tash的車存在。眼看時間慢慢流逝，過了中午再不趕快出發可能就得在這裡多留一天，我甚至一度想跑到一旁中國人經營的餐館裡去求助，最後卻很意外的，是在一群準備好要把外國人當肥羊宰的計程車司機裡找到救星。
 
 那時候我算是不小心走入了計程車司機的聚集區，一群人湧上來問我要去哪，一聽到Sary-Tash馬上漫天開價，開出來的當然是我不會接受的高價；這樣一來一往幾次之後，一位司機突然叫住我，問我想要開多少錢，我給了一個比較願意付的價錢，他用手勢示意叫我跟他走。我們穿過了幾個街區，走過了幾個空地，還經過了早上下車的地方，來到市中心讓我摸不著頭緒的高架橋下，只見他一指，橋下停著的正是我遍尋不著、前往Sary-Tash的小巴！那一刻真的覺得遇到貴人了，身為計程車司機的他大可以不讓我發現小巴的地點，被迫搭他的車，然而他卻如此大方地待我到這裡來搭車。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/49e6a-img_20180520_095835.jpg?w=169)
+*當地人在舶來精品專賣店前排隊等待開門*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/49e6a-img_20180520_095835.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/49e6a-img_20180520_095835.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)
+*奧什的中央市場，其中一部份懸吊在河流上*
 
-<td style="text-align:center;" class="tr-caption" >當地人在舶來精品專賣店前排隊等待開門
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >奧什的中央市場，其中一部份懸吊在河流上
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8da80-img_20180520_105828.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8da80-img_20180520_105828.jpg)
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)
+*市場內景象*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >市場內景象
-</td>
-</tr>
-</tbody>
-</table>
 往Sary-Tash的小巴一天只有一班，除了運送乘客之外，更重要的任務是幫沿線的居民載運補給品，因此還未出發前，整輛車上就堆滿了各種貨物、行李、食品，甚至還帶上了一台洗衣機和一輛腳踏車。在橋下等了整整兩個小時車子終於開出（旅行了快兩週，已經開始習慣中亞的時間觀念），一路上到處停車，大多是放人下車，也不少是上下貨品。常見的景象是到了路上的某個小村，提前跟司機聯絡好的村民已經在路邊等待，司機便從車上把他們委託載運的物品（包括那台洗衣機和那輛腳踏車）卸下。其中最神奇的是在深山裡的一個小村，有位婦女在路邊等著，請司機幫她帶幾個空的牛奶桶上山，猜測是要向山上的牧民購買馬奶或羊奶吧。
 
 隨著海拔越來越高，原本就陰沈的天氣也越來越糟，先是變成大雨，接著又變成大雪。沿途好幾次碰到利用公路趕羊群的牧民，把整個路面站滿，帶有點戰鬥民族氣息的司機總會開著車用力逼近，然後猛烈的長按喇叭，試圖讓羊群早點讓開。這些景象讓我開始比較理解各種動物的習性，例如羊就是種反應相對遲鈍的動物，牧民們通常會騎著馬趕羊，配合傳說中的牧羊犬幫忙引導羊群，每到了季節就這樣趕著大群動物上山下山。
@@ -385,20 +209,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/4d31f-img_20180520_152512.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/4d31f-img_20180520_152512.jpg)
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg)
+*在公路上遇到大群牲畜是常有的，這時候司機會持續長按喇叭，試圖嚇跑動物*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >在公路上遇到大群牲畜是常有的，這時候司機會持續長按喇叭，試圖嚇跑動物
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d722e-img_20180520_162445.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d722e-img_20180520_162445.jpg)
@@ -410,62 +223,18 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 接近Sary-Tash的時候，公路通過進入帕米爾高原前的最後一到山脈，這裡的窗外已經是接近大風雪的景象，視野裡完全是白茫茫的一片，原本預期可以看到的崇山峻嶺連個影子都沒有；翻過了最高點公路開始下降，天氣也稍微好轉，最後我們來到了高原上一個沒什麼人煙的小村，這裡就是今晚要過夜的Sary-Tash。這個偏僻的小村之所以重要，是因為它位在一個四通八達的十字路口上：往北是吉爾吉斯奧什，往東是中國喀什，往南是塔吉克東部山區，往西則是塔吉克首都杜尚別。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg)
+*到達Sary-Tash之前的高點，海拔約4,000公尺。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg)
+*帕米爾高原上的小村Sary-Tash，是掌握通往吉爾吉斯、塔吉克、中國的咽喉所在。*
 
-<td style="text-align:center;" class="tr-caption" >到達Sary-Tash之前的高點，海拔約4,000公尺。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg)
+*在路邊被司機放下車，回望方才翻過的雪山。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg)
+*草原上的小村，生活非常簡樸。*
 
-<td style="text-align:center;" class="tr-caption" >帕米爾高原上的小村Sary-Tash，是掌握通往吉爾吉斯、塔吉克、中國的咽喉所在。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >在路邊被司機放下車，回望方才翻過的雪山。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >草原上的小村，生活非常簡樸。
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/26f65-img_20180520_173712.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/26f65-img_20180520_173712.jpg)
@@ -479,52 +248,19 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 到達的時候是下午5:30，天氣正好不算太差，我在村裡裡面繞了幾圈，試圖找出在訂房網站上看到的青年旅社——雖然下車地點附近已經看到有間正在營業、網路論壇上也推薦的客棧，我還是想找找青年旅社，心想這樣比較有機會碰到同樣前往中國的背包客同行。結果令人意外的是，所有訂房網站上可見的青年旅社都是人去樓空、大門深鎖的狀態，四周只有動物沒有人煙，最後我才理解——這些地方雖然在訂房網站上有，其實應該只有在旺季的時候才營業，平常像這種季節這種天氣哪有什麼生意？於是我走回下車時看到的客棧，除了住宿外也包早晚兩餐，客棧主人可以用英文溝通，在這個荒涼偏僻的地方簡直是背包客唯一的希望。
 
 那晚，整間客棧裡面只有我一個人，我把握時間確認了進入中國的資訊、下載了最重要的翻牆app就上床睡覺，主人很貼心的提供了暖爐，至於熱水——什麼？這裡連自來水都沒有，還熱水咧！主人為我準備了一壺水洗臉，廁所則是位在戶外的旱廁，這讓我在半夜想起身上廁所的時候萬分糾結，畢竟室外可是攝氏0度以下的低溫呀！總之，在吉爾吉斯的最後一晚不算完美，但還是被我熬過來了。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg)
+*客棧裡相當溫暖舒適，當天晚上我是唯一一位客人。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg)
+*客棧提供的豐富晚餐，並沒有因為在高原上而偷工減料，但連續吃了中亞食物兩週之後已經開始不甚感興趣了。*
 
-<td style="text-align:center;" class="tr-caption" >客棧裡相當溫暖舒適，當天晚上我是唯一一位客人。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >客棧提供的豐富晚餐，並沒有因為在高原上而偷工減料，但連續吃了中亞食物兩週之後已經開始不甚感興趣了。
-</td>
-</tr>
-</tbody>
-</table>
 **3. 黃石 Sary-Tash — 伊爾克什坦 Irkeshtam （70km，吉爾吉斯境內 In Kyrgyzstan，5/21）**
 **挑戰：從黃石開始，真的是完全沒有交通工具了，要站在近4,000米高的十字路口，攔下一輛便車前往位在荒山野嶺中的中吉邊界。**
 
 冒臉之路的重頭戲終於來了！今天的唯一任務就是離開吉爾吉斯進入中國，早上睜開眼睛時無暇去擔心萬一被拒絕入境或找不到車要怎麼辦，滿腦子想的就只有趕快吃完早餐出門，早早到村裡路口攔便車，越早出發越好。正吃著早餐的時候，餐廳的門突然打開，走進來的是一群說著中文的遊客，聽他們的對話像是來旅遊的，於是開始用中文攀談，得知他們是來吉爾吉斯爬山的。有趣的是這裡雖然離中國國境很近，不到100公里，這些人卻是飛到吉爾吉斯大城之後坐車上來的，可見我接下來要走的路是真的只有背包客會走的冷門路線。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg)
+*前夜過夜的客棧*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >前夜過夜的客棧
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c6f4e-img_20180521_064942.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c6f4e-img_20180521_064942.jpg)
@@ -543,20 +279,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 昨夜下了大雪，出門時發現前一天見到的短草地完全消失了！大地是白茫茫一片，遍地積雪和迷濛的天空連成一氣，整幅畫面非黑即白。我來到了前往邊界的路口，站在附近開始等待車輛到來。不知是否因為天氣不好，那天早上的車子非常少，等了45分鐘只有兩輛小客車通過；拒絕了第一輛明顯是要賺我觀光客錢的計程車，正擔心還會不會碰到下一輛車的時候，一輛小客車就從山的另一邊滑進我的視線，聽到我嘴裡說著Irkeshtam，就毫不猶豫地叫我上車。時間：早上7:40。
 
 車上載著的是兩個和我年紀相當的吉爾吉斯人，其中開車的那位名叫阿瓦茲，很意外的英文不錯，我們便慢慢聊了起來。剛上車時的一段對話讓我誤以為他叫我先付錢，便掏出了幾張鈔票，沒想到卻被他婉拒，原來他完全沒有要收我錢的意思！接下來的對話裡，我才知道原來他們兩位就是在邊界上班的邊檢人員，禮拜一一大早從奧什出發到山上來上工，對於這條路瞭若指掌。那一刻我再次覺得碰到天使了——那天天氣不是很好，不只視線不佳，下過雪的路也還未清雪，甚至連積雪和公路的邊界都不一定看得清楚，要是不熟的司機不是不敢開就是風險較大，但我竟然就這麼剛好的碰上了每天在這裡工作的人！感謝上帝。由於溝通基本上無障礙，我們沿路愉快的聊著。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg)
+*堆滿白雪的帕米爾高原上*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >堆滿白雪的帕米爾高原上
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f94bb-img_20180521_075416.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/f94bb-img_20180521_075416.jpg)
@@ -591,48 +316,15 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 至於在這裡上班的他，年紀29，已經結婚多年，家裡有5個小孩，他告訴我像他這樣在吉爾吉斯是常態。老實說這趟旅行沿路下來，我的年紀總會成為和路人攀談的主要話題之一——我造訪的地區大多不是大城市，產業活動相對傳統，多數人都在20出頭就結婚，這使得我這個31歲還單身四處旅行的人讓他們感到很特別。
 
 接近邊界的最後一段路得翻過一到分水嶺，我們在這裡再次遇上了大風雪，連對於這裡瞭若指掌的阿瓦茲都必須將低速度，路上還見到許多前往中國的大卡車，停在路邊動彈不得，大概是在等待大風雪過去；幸好這段路並沒有耽誤到我的行程，畢竟我車上的兩個吉爾吉斯人是要去上班的，他們可不能遲到。不久之後道路開始下降，我們也順利脫離了大雪，道路轉入一片堪稱窮山惡水的溪谷裡，接著在一個大彎道旁出現了一座崗哨。這裡是邊界管制區的入口，他們告訴我因為我是外國人，得拿護照下車登記才能進入，而前面距離真正的出境檢查處還有10公里。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg)
+*接近邊界的村落*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg)
-</td>
-</tr>
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg)
+*再次與動物群相遇*
 
-<td style="text-align:center;" class="tr-caption" >接近邊界的村落
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg)
+*窮山惡水，寸草不生。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >再次與動物群相遇
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >窮山惡水，寸草不生。
-</td>
-</tr>
-</tbody>
-</table>
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5eacf-img_20180521_084348.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5eacf-img_20180521_084348.jpg)
@@ -651,41 +343,13 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e11a6-img_20180521_084925.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e11a6-img_20180521_084925.jpg)
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg)
+*接近邊境時的最後村落*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >接近邊境時的最後村落
-</td>
-</tr>
-</tbody>
-</table>
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b85ff-img_20180521_085428.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b85ff-img_20180521_085428.jpg)
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://www.dangerousroads.org/images/stories/__Roads00000an/Irkeshtam%20Pass0.jpg)
+*天氣好的時候應該是很漂亮的，可惜無緣見到。 Image source: https://www.dangerousroads.org/images/stories/__Roads00000an/Irkeshtam%20Pass0.jpg*
 
-<td style="text-align:center;" >[![](https://www.dangerousroads.org/images/stories/__Roads00000an/Irkeshtam%20Pass0.jpg)](https://www.dangerousroads.org/images/stories/__Roads00000an/Irkeshtam%20Pass0.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >天氣好的時候應該是很漂亮的，可惜無緣見到。 Image source: https://www.dangerousroads.org/images/stories/__Roads00000an/Irkeshtam%20Pass0.jpg
-</td>
-
-<td class="tr-caption" >
-</td>
-
-<td class="tr-caption" >
-</td>
-</tr>
-</tbody>
-</table>
 走陸路來往於吉爾吉斯與中國之間的人非常少，整個檢查站裡面包含我在內只有3到4位旅客，移民官看了我的護照與電子簽證之後，若無其事地叫我到後面的窗口問幾句話，幾分鐘後我的護照就帶著出境章回到我手中了。由於往前還要大概1公里才到真正的國界，移民官便叫我隨便上一輛載貨的大卡車。司機是漢人，對於有外人突然上車似乎有點不開心，好在這段路不長；當大卡車再次陷入排隊車陣中，司機就讓我先下車，跟我說旅客直接用腳走過去比較快。
 
 真正的國界究竟是長什麼樣子呢？宏偉壯觀的國門？旅人可以自由留念的界碑？別傻了，那種是給觀光客去拍到此一遊照的「樣板國門」，真正的國門就是軍事管制區，我從頭走到尾手機根本連拿出來都不敢。我沿著大貨車的車龍往前走，首先通過的是吉爾吉斯的最後一個崗哨，一樣護照看一眼就通過了；接下來大概有300公尺的路是真正位在兩國之間的緩衝區，路邊有個低調不起眼的中文界碑，路上一個人都沒有；這段路走完之後就是中國的第一個崗哨，公路上的一道鐵門正敞開著，車龍裡的大卡車以極慢的速度一輛一輛放行，路邊可以見到幾個穿著制服的武警忙著檢查入境車輛。
@@ -694,21 +358,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 **4. 伊爾克什坦 Irkeshtam — 喀什 Kashgar （240km，中國境內 In China）**
 **挑戰：從中吉邊界，拿著一張不正常的證件（中國旅行證），以一個不正常的身份（台胞）進入中國，並且找車前往喀什。**
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=a87241eea9014c080d3620f76b12696d/42166d224f4a20a40775f08090529822720ed00a.jpg)
+*進入中國的第一個崗哨，圖片取自百度。 Image source: https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=a87241eea9014c080d3620f76b12696d/42166d224f4a20a40775f08090529822720ed00a.jpg*
 
-<td >[![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=a87241eea9014c080d3620f76b12696d/42166d224f4a20a40775f08090529822720ed00a.jpg)](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=a87241eea9014c080d3620f76b12696d/42166d224f4a20a40775f08090529822720ed00a.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >進入中國的第一個崗哨，圖片取自百度。 Image source: https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/
-sign=a87241eea9014c080d3620f76b12696d/42166d224f4a20a40775f08090529822720ed00a.jpg
-</td>
-</tr>
-</tbody>
-</table>
 「你好！」我主動對鐵門旁的中國武警這樣說，並且把旅行證遞到他面前。
 
 邊界處大概有4、5位武警執勤，其中一人坐在一套類似小學教室裡的木造桌椅上負責登記，其他人則負責檢查，這番情境讓我不禁想起在陸軍服役時每個週日晚上回營安檢的景象。他們對我的證件多看了幾眼，我便主動說明——
@@ -722,21 +374,9 @@ sign=a87241eea9014c080d3620f76b12696d/42166d224f4a20a40775f08090529822720ed00a.j
 你真的以為有這麼順利嗎？
 
 當然沒有——如果你以為這個國家的入境手續這麼簡單，那真的是小看了「厲害了，我的國」。這裡只是邊界上的一個崗哨，真正的入境大作戰根本還沒開始呢。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg)
+*圖片取自百度。 Image source: https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg*
 
-<td style="text-align:center;" >[![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg)](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >圖片取自百度。 Image source: https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=
-ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg
-</td>
-</tr>
-</tbody>
-</table>
 通過崗哨的時間是早上9:20（北京時間11:20），而吉爾吉斯—中國邊界的入境檢查點位在崗哨往東約8公里處的伊爾克什坦口岸，規模如同高速公路收費站般，從外觀看來應該才剛落成不久。同樣的，由於旅客和貨車必須分開檢查，貨車司機就把我在口岸前的廣場丟了下來，我自己往旅客入口走去。
 
 來到伊爾克什坦口岸的旅客通道，一進門就看到新穎寬敞的檢查廳裡有著各種先進的掃描儀器。那裡的武警一看到我，就請我先把行李還有身上衣物以外的東西全部卸下，然後⋯⋯我就和其他3個旅客被留置在一個房間裡等待。那個房間很像早期的台灣公家單位——少少幾排制式化的塑膠座椅、牆上掛著錶框加上壓克力板的樣板文宣，此外空無一物，我們在這裡等了大概10分鐘。由於所有旅客都要先進入等待區，我當時就沒有特別緊張，只是旅行了這麼多國家，這是第一次還沒開始檢查就先被請到小房間裡的經驗。
@@ -752,34 +392,12 @@ ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg
 「我剛剛看到一下您這個中國民國護照，也太小家子氣了吧！裡面全部都是台灣的東西，如果真的是『中華民國』的話，好歹也放點大陸的東西吧？⋯⋯」我一度想要當個好人，跟他介紹一下咱們前輩是用了多大的力氣才讓這本護照反映出中華民國真實現狀的，不過想到自己還沒正式入境、講話不宜大意，於是就微笑點頭以對。最後，伊爾克什坦這一關花了大約90分鐘，我們4個旅客被叫上一輛官方指定的廂型車，往140公里外的下一個檢查點烏恰口岸走去。離開伊爾克什坦的時間是早上11:00（北京時間13:00）。
 
 這140公里路上的風景和吉爾吉斯那邊如出一徹，基本上就是窮山惡水、寸草不生，道路沿著滾滾黃流而行，窗外陰雨濛濛；差別比較大的是，中國這邊基礎建設要好很多，雙線道路上的柏油看起來才剛鋪過，兩旁的護欄也才剛完工不久，道路平坦筆直，甚至邊境區裡的民房看起來都嶄新且整齊劃一——當然不是因為這裡經濟有多好，而是中國政府投入了大筆資金。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg)
+*一進入中國境內，道路品質與建設水平馬上提高一個層次。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg)
-</td>
-</tr>
-<tr >
+![](http://www.xjjjjt.com/data/upload/image/201507/b83032dc80411be6b9b16724d7a52f2d.jpg)
+*天氣好的時候風景應該也是不錯的，圖片取自百度。 Image source: http://www.xjjjjt.com/data/upload/image/201507/b83032dc80411be6b9b16724d7a52f2d.jpg*
 
-<td style="text-align:center;" class="tr-caption" >一進入中國境內，道路品質與建設水平馬上提高一個層次。
-</td>
-</tr>
-</tbody>
-</table>
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
-
-<td style="text-align:center;" >[![](http://www.xjjjjt.com/data/upload/image/201507/b83032dc80411be6b9b16724d7a52f2d.jpg)](http://www.xjjjjt.com/data/upload/image/201507/b83032dc80411be6b9b16724d7a52f2d.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >天氣好的時候風景應該也是不錯的，圖片取自百度。 Image source: http://www.xjjjjt.com/data/upload/image/201507/b83032dc80411be6b9b16724d7a52f2d.jpg
-</td>
-</tr>
-</tbody>
-</table>
 大約2小時後（13:00，北京時間15:00），我們來到了一道深鎖的鐵柵門前，這裡是烏恰口岸，理論上在這裡通關完就算是真正入境了；然而，就在我們來到的時候正好午休時間開始，深鎖的鐵柵門外則什麼都沒有，外頭還不停的下著雨，於是我們就這樣在廂型車上乾等了整整兩個小時！這裡唯一的設施是一間半廢棄的廁所，地板上鋪著滿滿一層垃圾，前來使用的人們索性直接「解放」在這層垃圾上，然後上面又蓋著另一層垃圾⋯⋯（這聽起來或許很噁心，但都是真的）。在這個前不著村後不著店的等待，加上那天有點感冒，這兩個小時相當漫長。
 
 終於等到口岸開門的時刻（15:00，北京時間17:00）。這個口岸規模非常大，車子進門後又開了數百公尺，載著我們一路來到旅客入境大廳前。這個入境大廳比伊爾克什坦更加富麗堂皇，從入境檢查、行李掃描到檢疫，每一關都標示得清清楚楚，各式先進設備一應俱全，還有親和力十足的中國邊檢企業識別設計，什麼都有、什麼都很高端，但整個入境大廳卻一個人都沒有，也沒有任何一樣機器正在運轉。把我們送來的司機也不知道發生什麼事情，帶著我們4個旅客的護照跑到旁邊的辦公室問，接下來⋯⋯又是無止境的等待，然後要求出示中華民國護照的情節又再次上演⋯⋯。
@@ -810,17 +428,6 @@ ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg
 那天晚上19:30（北京時間21:30），一路只靠乾糧果腹的我找了家大盤雞餐廳，點了一碗久違的麵條好好犒賞自己，並且一邊吃一邊回想著這段路。走的時候不覺得、後來回頭看才感覺到這一路有多坎坷——各種的不確定無法預測，還有出入境時候無止盡的等待，加上惡劣的天氣與微恙的身體，能大致平安的走完，只能說真的是上帝一路幫忙啊。
 
 報告習大大，我這個手持「中華人民共和國旅行證」的「中國台灣省公民」，終於通過偉大的「一帶一路」成功「歸國」啦！
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)
+*在喀什第一晚吃了盤油潑肉燴麵，慶祝自己成功回歸祖國。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >在喀什第一晚吃了盤油潑肉燴麵，慶祝自己成功回歸祖國。
-</td>
-</tr>
-</tbody>
-</table>

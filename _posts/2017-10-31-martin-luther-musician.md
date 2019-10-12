@@ -13,20 +13,9 @@ image: http://lutheranreformation.org/wp-content/uploads/2016/02/Luther-and-Fami
 This year, 2017, we celebrate the 500th anniversary of the Protestant Reformation. While the event on October 31, 1517 was by no means the beginning of this movement (as many forerunners had emerged before then), Martin Luther is considered one of the greatest reformer, and his written protest against the sale of indulgences (known to us as The Ninety-Five Theses) is recognized as the start of the Reformation.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://lutheranreformation.org/wp-content/uploads/2016/02/Luther-and-Family.jpg)
+*Source: http://lutheranreformation.org/wp-content/uploads/2016/02/Luther-and-Family.jpg*
 
-<td style="text-align:center;" >[![](http://lutheranreformation.org/wp-content/uploads/2016/02/Luther-and-Family.jpg)](http://lutheranreformation.org/wp-content/uploads/2016/02/Luther-and-Family.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Source: http://lutheranreformation.org/wp-content/uploads/2016/02/Luther-and-Family.jpg
-</td>
-</tr>
-</tbody>
-</table>
 
 As I looked deeper into the life of Luther and era he lived, a few other things interested me, and one of them is his music. We know that in addition to a church leader and a theologian, Luther was also a hymn writer. He composed both lyrics and tunes for his congregation. His famous piece “A Mighty Fortress Is Our God” has been sung by Protestant churches till now. But this was all I knew about his music. As a church musician, more questions came to my mind: how did he write hymns? How did his life experiences shape his music? How did people worship with his music?
 
@@ -39,20 +28,9 @@ In this article, I will first go through Luther’s life briefly, and explain wh
 Luther was born in Eisleben in 1483. He went to University of Erfurt and received his master's degree in 1505. Afterward, he attended a law school briefly, but then dropped out and entered a monastery as a monk in the same year. In 1508, he was appointed to teach theology in Wittenberg, where he spent almost the rest of his life ministering. In the following years, he ministered in Wittenberg while seeing the corruption of the Roman Catholicism. Reading the Books of Hebrews, Galatians and Romans in the bible led him to be convinced that human are saved by grace alone, and no human effort can contribute to salvation. On October 31, 2517, he sent a letter to his bishop to protest against the sale of indulgence.
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Der_Anschlag_von_Luthers_95_Thesen.jpg/800px-Der_Anschlag_von_Luthers_95_Thesen.jpg)
+*Source: https://commons.wikimedia.org/wiki/File:Der_Anschlag_von_Luthers_95_Thesen.jpg*
 
-<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Der_Anschlag_von_Luthers_95_Thesen.jpg/800px-Der_Anschlag_von_Luthers_95_Thesen.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Der_Anschlag_von_Luthers_95_Thesen.jpg/800px-Der_Anschlag_von_Luthers_95_Thesen.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Source: https://commons.wikimedia.org/wiki/File:Der_Anschlag_von_Luthers_95_Thesen.jpg
-</td>
-</tr>
-</tbody>
-</table>
 While having no intention to split from the the Roman Catholic initially, this act and following movements quickly developed into a schism. After his excommunication, his church was no longer subject to the Pope, as well as all the Catholic doctrines and rules. However, built on top of the reformed theology and doctrines, how should the new church be organized? How should they worship? What should be taught? As the church leader of Wittenberg, these are things he inevitably had to deal with.
 
 When establishing the new order of worship, Luther's approach clearly reflected his teaching on "universal priesthood": all Christians have direct access to God. Before then, in Catholicism, the Scripture was read in Latin, and the congregation rarely sang hymns. Laymen had very little involvement in a worship service. Luther’s worship introduced several innovations to the church: **(1) congregational singing**, where everyone opened their mouth and sing the same hymn together; **(2) service in local language**, instead of Latin, which was understandable to all attendees throughout the service; and **(3) reciting the creed in unison**, which put fundamental biblical truth in the center of the service.
@@ -216,20 +194,9 @@ Learning church history is a good way to understand the historic context of the 
 
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://upload.wikimedia.org/wikipedia/en/thumb/9/90/EinFesteBurg.jpg/1010px-EinFesteBurg.jpg)
+*Source: https://en.wikipedia.org/wiki/File:EinFesteBurg.jpg*
 
-<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/en/thumb/9/90/EinFesteBurg.jpg/1010px-EinFesteBurg.jpg)](https://upload.wikimedia.org/wikipedia/en/thumb/9/90/EinFesteBurg.jpg/1010px-EinFesteBurg.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Source: https://en.wikipedia.org/wiki/File:EinFesteBurg.jpg
-</td>
-</tr>
-</tbody>
-</table>
 
 
 

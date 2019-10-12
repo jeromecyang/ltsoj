@@ -35,20 +35,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 “How are you?”
 
 這時候我才知道他到底在問什麼。這種鬼打牆式的溝通過程在剛來得前半年屢見不鮮，我把它們統稱作「接不住的變化球」——我們從小就學英文，該通過的考試也都有通過，但我們學的往往都是所謂的「直球」，也就是最標準的教材式講法，從來沒有用英文跟任何真正的美國人對話過，也不知道原來即使是這種膚淺的問候語還是可以有這麼多種講法。但這類鬼打牆的經驗往往帶來很大的挫折感，除了語言不好的挫折之外，更多的是擔心自己給人不好的第一印象。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg)
+*開學活動的現場，就位在學校中央的草坪上*
 
-<td >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="font-size:12.8px;" class="tr-caption" >開學活動的現場，就位在學校中央的草坪上
-</td>
-</tr>
-</tbody>
-</table>
 那時候身邊朋友、學長姐都會說，這需要一段時間，大概半年左右就會比較好了。我自己的感覺則是，的確在累積半年之後，基本的生活用語、進對應對大概都有辦法掌握了，但許多語言、文化裡更深層的東西，像是美國人在對話裡不經意提到小時候讀的課文（就像台灣人讀過的《背影》那樣）、經典電影裡的橋段、球賽裡使用的術語等等，人家累積了20幾年的東西要在幾個月內學起來，根本就不可能啊！即使寫這篇文的時候我已經來美國7年半，每個禮拜我還是會在辦公室裡學到幾個沒聽過（或者曾經聽過但沒聽懂）的新字，或者一些要去google才會懂的人事物。
 
 類似的例子不勝枚舉。記得剛來不久之後，有時到別人家去拜訪，被問到一些二選一的問題，偶爾患有選擇恐懼症的我，用中文便會回答「兩個都可以」，那這句話英文應該怎麼講？剛來的時候我腦袋還處於中翻英模式，便會回答「both are ok」這種答案，後來就被糾正：沒有這種講法啦！中文說的「兩個都可以」，其實準確的說應該是「這兩個裡任何一個都可以」而非「兩個都要」，所以對應的英文應該是「either is fine」。
@@ -73,20 +62,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 對以前的我來說，上課就像去麥當勞買外帶，只要確定我點的東西都有拿到（也就是課堂上筆記和必考重點都有抄到）就好了，東西等回到家再慢慢消化（雖然通常到最後都是累積考試前才狼吞虎嚥）。但是美國人上課是一種「內用」的概念，他們一邊聽，一邊會把內容拿來跟自己過去知道的東西拿來對話（無論是否已經真的聽懂），因而碰撞出許多可以拿來提問的材料，所以才有辦法在老師話還沒說完的時候就開始舉手；有些問題聽起來很基本、很沒必要，但那些都是他們當下真實的疑惑，反映的是他們的思考過程。
 
 除了教室之外，碩士班那兩年裡我最常待的地方就是實驗室，我每天幾乎從早上八點到晚上十點都宅在實驗室裡（除了中間回家吃午餐晚餐之外），實驗室也就成為我平常和美國同學最多互動的地方，某個程度上來說也是我學最多英文的地方。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg)
+*碩士兩年的日常：窩在實驗室裡面，對著一個叫做ArcGIS的軟體進行各種操控*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >碩士兩年的日常：窩在實驗室裡面，對著一個叫做ArcGIS的軟體進行各種操控
-</td>
-</tr>
-</tbody>
-</table>
 旁人打噴嚏之後要回應「祝福你」（bless you）是來自中世紀歐洲的傳統，在美國對大多數人來說是反射動作，每聽到一次打噴嚏聲就得說一次。我的鼻子一向比較敏感，因此聽到這句話的頻率也特別高，這對我來說這是很奇怪的經驗——在東亞文化裡，旁人打噴嚏時的SOP標準處理程序是直接忽略，如果刻意每次都回應反而會讓人有種受到太多關注、很有壓力的感覺；另一方面，bless you其實是God bless you的簡化說法，因此我每次聽到心裡就會覺得，啊你又不相信神，講這句話是誰要祝福誰？
 
 美國人對於打噴嚏的回應雖然以「bless you」為大宗，但這也不是唯一的說法。當時在實驗室裡便有一位同學從來不說「bless you」，而是以「gesundheit」取代。第一次聽到這個不像英文的字，哪會知道這是什麼意思，但那個老美似乎已經講習慣了。後來我真的忍不住而問了他，才知道原來這是個德文字，意思是「健康」（health），也就是類似於中文裡講「保重」的意思。
@@ -94,40 +72,18 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 （關於不同文化、語言對打噴嚏的回應語，詳見https://en.wikipedia.org/wiki/Responses_to_sneezing 。維基百科有特別寫到，中日韓的社會規範其實是不回應別人打噴嚏。）
 
 最後，晚上要離開實驗室時，要如何向別人道別？以前課本上教的標準英文good-bye當然是沒有人在用，至少我從來美國到現在還沒在對話中聽過；東亞地區會使用的bye-bye（兩個bye連用的講法），在美國其實也很少在用，我只有在新英格蘭鄉下聽到過；最常聽到的似乎還是see you，或者take care之類的祝福語。我後來漸漸發現，這件事似乎不是只有英文特有，很多語言都會儘量以see you的講法代替good-bye，例如西班牙文常講「hasta luego」（until later，意思是下次見）而非「adios」，日文常講「また」（mata，相當於英文的see you）而非「さよなら」（sayonara） 。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg)
+*另一個文化差異：老美去retreat，看到有湖水，衣服直接脫了就跳下去了*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >另一個文化差異：老美去retreat，看到有湖水，衣服直接脫了就跳下去了
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ## 意料之外的文化衝擊：兩岸人民的第一次接觸
 
 
 對許多我這輩的台灣留學生來說，留學經驗裡很重要的一部分是和中國大陸籍同學的第一次接觸，這是除了適應美國文化之外另一種意外的文化衝擊經驗。為什麼特別強調是我們這輩？因為我們在台灣時正好錯過了開放陸生來台就讀的時間點（2011年），而留學時正好碰上了中國留學生以最快速度成長的期間，因此我們來美國留學就是從「和中國大陸籍同學完全沒有接觸」直接跳到「身邊滿滿的都是中國人」。用文字描述可能不夠具體，我整理了從1950年以來在美就讀的台灣與中國學生數據：
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lh5.googleusercontent.com/u4G9e8f9_mwSWah4MEyyJ-XRb_wrCR68y66ArSCZikzyRY5Htqkzo7cXZGwqUkm3oDTuyLiXHRXzCG0ILs_vvHgEXBTw7uFT-mYUYIW_1j0F49fIPzOdLucEZ-lwLupmGGxb51AY)
+*Data Source: All Places of Origin: Previous Years, Open Doors Report on International Educational Exchange, https://www.iie.org/Research-and-Insights/Open-Doors/Data/International-Students/Places-of-Origin/All-Places-of-Origin.*
 
-<td style="text-align:center;" >![](https://lh5.googleusercontent.com/u4G9e8f9_mwSWah4MEyyJ-XRb_wrCR68y66ArSCZikzyRY5Htqkzo7cXZGwqUkm3oDTuyLiXHRXzCG0ILs_vvHgEXBTw7uFT-mYUYIW_1j0F49fIPzOdLucEZ-lwLupmGGxb51AY)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Data Source: All Places of Origin: Previous Years, Open Doors Report on International Educational Exchange, https://www.iie.org/Research-and-Insights/Open-Doors/Data/International-Students/Places-of-Origin/All-Places-of-Origin.
-</td>
-</tr>
-</tbody>
-</table>
 雖然中國在1980年代就開始改革開放，但其實到了2000年，中國籍的學生數大概還只是台灣籍的2倍（約5.4萬人），以兩邊的人口基數來說比例相當懸殊；我來到美國的2010年時則是大約12.7萬人，之後在我就學、畢業這短短幾年裡幾乎直接往上翻2倍，最新2016/2017的統計是35萬人，雖然還在增加但是成長率已經開始下降。台灣留學生人數的高峰是在1995年的3.6萬人（可能和1990年代後半台灣、香港因恐懼中國共產黨而引起的移民潮有關），之後逐漸下降到現在2.1萬。
 
 我還沒出發到美國時，就已經透過學校知道我未來同房的室友是個中國人（我的宿舍是兩人一間房），於是先寫了一封email跟對方打招呼，順便介紹自己是台灣人。對方是這樣回應的（我把他的email翻譯成中文）：
@@ -141,20 +97,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 我們四個人都是在差不多的時間入住，也都是新生，都是第一次出國讀書，因此在宿舍安頓下來之後，面對的第一個共同問題就是：要吃什麼？
 
 四個人裡只有我過去比較常在家裡煮飯，因此一開始我便自告奮勇煮飯給大家吃。或許是因為我們四人都來自南方，口味相對接近，我煮的東西大家接受度似乎非常高，但靠我一個人畢竟不是長久之計，於是我們就開發出了屬於我們家的自己meal plan（這個字原本指的是美國大學宿舍費裡包含在學校食堂用餐的額度，例如一週7餐、10餐、14餐這樣）：我們四個人平均分擔每週14餐（午餐與晚餐）煮飯的工作，食材費用大家平分，預算是一餐2美元，每個月底我負責結帳，如果有人偶爾不在家吃飯就依照不在的餐數減免費用。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg)
+*跟學校在同一條街上的越南超市是附近最大的亞洲超市，也是我們食材主要的來源之一。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >跟學校在同一條街上的越南超市是附近最大的亞洲超市，也是我們食材主要的來源之一。
-</td>
-</tr>
-</tbody>
-</table>
 這個制度剛開始的時候身邊朋友都不看好，覺得可能很難維持，或者讓大家有被綁住的感覺；但最後出乎意料的，我們的meal plan運作得非常好，好到讓我們整整維持了1年，直到第一年結束4個人都搬走。除了省錢省事，這個制度的好處之一是每次煮飯都是4人份，從來沒有剩菜的問題，每一餐都是新鮮現煮然後馬上吃完。也因為這個制度，我們4個人每天都會一起吃午晚餐，餐桌上的中式食物和對話給了我們像家一般的溫暖；雖然偶爾還是會出現兩個人搞廣東話小圈圈的情況，不過整體來說大家感情相當不錯。
 
 煮飯和食材也是認識兩岸差異的好時機。從最基本的馬鈴薯＝土豆、番茄＝西紅柿、青花菜＝西蘭花到進階版的延長線＝插線板，這些還只是詞彙上的差異。我後來慢慢了解，廣東室友們其實不喜歡每餐都煮湯，但是如果要煮一定是認真煲湯，作為整餐飯的亮點，他們對於湯的概念不像我們臺灣人的紫菜蛋花湯那麼隨便；還有一次，我心血來潮決定做皮蛋豆腐，結果發現我的室友們有人無法接受皮蛋生吃，有人無法接受豆腐生吃，最後只好一個人默默吃掉。

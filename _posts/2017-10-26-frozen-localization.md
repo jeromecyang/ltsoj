@@ -90,20 +90,9 @@ featured: true
 *Source: http://www.disney.co.jp/movie/anayuki/character/character01.html*
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/4b9b9-avcw-63011.jpg)
+*Source: http://www.disney.co.jp/movie/anayuki/character/character01.html*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/4b9b9-avcw-63011.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/4b9b9-avcw-63011.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Source: http://www.disney.co.jp/movie/anayuki/character/character01.html
-</td>
-</tr>
-</tbody>
-</table>
 
 ## 有哪些東西需要本地化？
 
@@ -115,43 +104,18 @@ featured: true
 
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/88b39-decimalseparator.png)
+*綠色：小數點使用逗號的地區藍色：小數點使用一點的地區紅色：小數點使用阿拉伯式逗號的地區By NuclearVacuum - File:BlankMap-World6.svgiThe source code of this SVG is valid., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10843055*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/88b39-decimalseparator.png)](https://lifetimesojournertravel.files.wordpress.com/2017/10/88b39-decimalseparator.png)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >綠色：小數點使用逗號的地區
-藍色：小數點使用一點的地區
-紅色：小數點使用阿拉伯式逗號的地區
-By NuclearVacuum - File:BlankMap-World6.svgiThe source code of this SVG is valid., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10843055
-</td>
-</tr>
-</tbody>
-</table>
 至於《冰雪奇緣》的本地化，除了配音和字幕之外，比較有趣的部分是如何在41個語言裡面找到艾莎（Elsa）和安娜（Anna），不僅要為他們配對白，也要能夠唱他們的歌曲。讓我意外的是，這個高難度的任務並不是像軟體翻譯那樣直接外包出去，而是由Disney Character Voices International這個迪士尼的子公司全權負責。迪士尼對配音與配唱者的要求是：聲線必須和原本的艾莎與安娜相似、是該語言的母語使用者、在當地有一定知名度，所以光是為了找41種語言裡的艾莎就試鏡了200多人。除此之外，迪士尼也有考慮到各國在音樂上的偏好，例如廣東話以及台灣版本的艾莎聲音必須比其他國家的細一些，「因為那是（這些地方）文化的一部分。」除此之外，更不用說翻譯的歌詞如何和動畫完美對嘴、有的配音者必須由其他人代唱這些細節了。
 
 由此可見為了要真正打入一個市場，《冰雪奇緣》的本地化已經完全超越了語言和文字的層次，連挑選歌手、如何演唱這些細節都本地化了。如果迪士尼真的這麼有誠意，不知道有沒有考慮下一部動畫真的請柏慎唱台語版主題曲，或是採用類似台灣版《我們這一家》（あたしんち）裡面花媽式的國台語夾雜配音？
 
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/3aa64-4884.jpg?w=210)
+*Source: https://tw.movies.yahoo.com/movieinfo_main.html/id=4884*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/3aa64-4884.jpg?w=210)](https://lifetimesojournertravel.files.wordpress.com/2017/10/3aa64-4884.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Source: https://tw.movies.yahoo.com/movieinfo_main.html/id=4884
-</td>
-</tr>
-</tbody>
-</table>
 
 ## 使用者介面的本地化
 
@@ -204,20 +168,9 @@ Cancel
 
 
 
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d98fe-b1sirg_iuaeso_e.jpg)
+*Source: https://www.boston.com/culture/movies/2014/10/31/they-cant-let-it-go-elsa-costumes-are-here-to-stay*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d98fe-b1sirg_iuaeso_e.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d98fe-b1sirg_iuaeso_e.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >Source: https://www.boston.com/culture/movies/2014/10/31/they-cant-let-it-go-elsa-costumes-are-here-to-stay
-</td>
-</tr>
-</tbody>
-</table>
 
 
 

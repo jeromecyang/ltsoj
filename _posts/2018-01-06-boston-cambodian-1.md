@@ -18,20 +18,9 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 這個由波士頓地鐵藍線貫穿的帶狀區域，從南往北涵蓋了East Boston、Revere、Lynn三個城鎮，從美國還未獨立的18世紀上半葉開始就是少數族群（minority）移民的聚居區域，最早是不受英國移民歡迎的愛爾蘭人和猶太人，後來逐漸被義大利人取代，20世紀中期之後則先有東南亞移民來到，接著又慢慢被日漸增加的拉丁美洲移民填滿。有趣的是，幾百年下來，這裡的移民早就換過好幾批人了，最大移民來源也從歐洲、亞洲變成了拉丁美洲，但從未改變的是這裡依舊是移民區。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)
+*從波士頓中心向東望，照片近處為觀光客雲集的昆西市場（Quincy Market）與金融區（Financial District），一水之隔的遠處則是我所居住的東波士頓（East Boston）與羅根機場（Logan Airport），也就是地鐵藍線上的移民區。*
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >從波士頓中心向東望，照片近處為觀光客雲集的昆西市場（Quincy Market）與金融區（Financial District），一水之隔的遠處則是我所居住的東波士頓（East Boston）與羅根機場（Logan Airport），也就是地鐵藍線上的移民區。
-</td>
-</tr>
-</tbody>
-</table>
 新的一年，我給自己的新功課之一就是要認真了解這片區域裡的移民，以及他們所屬的文化，於是我在2017年的倒數第二天來到了離家不遠、但過去一直不太熟悉的Revere，因為聽說那裡多年來聚集了不少來自柬埔寨的移民。我想從在街上散步與觀察開始，慢慢了解這裡的人，還有文化。
 
 
@@ -254,39 +243,17 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 大戰的結束，對北美、中歐、西歐、北歐的國家來說是偉大勝利，也是和平的開始，自此安居樂業、經濟蓬勃發展；但對於多數東亞國家而言，一連串更嚴重的災難才正要開始。
 
 柬埔寨在19世紀中期之後與越南、寮國一樣成為法屬印度支那（French Indochina）殖民地。1945年大戰結束日軍撤退之際，由原本的皇室宣布柬埔寨獨立，但法國不願放棄中南半島，一直堅持到1953年才給予柬埔寨與寮國自治權，柬埔寨重新成為獨立王國。
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://upload.wikimedia.org/wikipedia/commons/4/40/Indochine_fran%C3%A7aise_(1913)
+*1913年的中南半島，越柬寮三國都是法國殖民地。圖片取自wikipedia。*
 
-<td style="text-align:center;" >[![](https://upload.wikimedia.org/wikipedia/commons/4/40/Indochine_fran%C3%A7aise_(1913).jpg)](https://upload.wikimedia.org/wikipedia/commons/4/40/Indochine_fran%C3%A7aise_(1913).jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >1913年的中南半島，越柬寮三國都是法國殖民地。圖片取自wikipedia。
-</td>
-</tr>
-</tbody>
-</table>
 這個1953-1970的柬埔寨王國雖然奉行社會主義，卻一直維持某個程度的中立以避免陷入隔壁越南的烽火之中；直到越戰後期，親共的柬埔寨被視為對南越的威脅，原王國將領便在1970年趁國王出訪時叛變，建立一個親美的共和體制。這個政府理論上應該是美國抵抗共產勢力的希望，但這它的表現卻相當差強人意，在頻繁的衝突中搖搖欲墜，和它隔壁的難兄難弟南越相去不遠（這樣說起來和1945-1949年之間的中國國民黨政府也真有幾分神似呀）。接下來的20餘年，整個柬埔寨都處於動盪之中。
 
 1975年越戰接近尾聲時，早已壯大的柬埔寨共產黨（又稱紅色高棉、赤柬）立即攻下金邊，展開近4年惡名昭彰的恐怖統治；後來適逢中國和越南、蘇聯交惡，越南在1978年派兵入侵當時親中的柬埔寨，建立親越南的傀儡政權柬埔寨人民共和國，紅色高棉則退守泰國邊境，在中國支持下繼續維持聯合國代表權，境內親越與反越的衝突不斷，一直延續到1990年代柬埔寨恢復王室、紅色高棉解散後才逐漸落幕。
 
 最多戰爭難民選擇逃離柬埔寨的時期，就是1970到1990年代初期這段時間，其中很大一部份來到美國，被美國政府安排到特定幾個州落腳。然而，他們是如何從地球另一端的戰亂中來到美國的呢？
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](http://www.websitesrcg.com/border/maps/Border-camps-1979-1984.jpg)
+*1979-1984的柬埔寨與泰國邊界，注意地圖上的邊界聚落當時被數個不同的勢力控制。聯合國的人道救援行動就是利用這條邊界。圖片取自http://www.websitesrcg.com/border/maps.html。*
 
-<td style="text-align:center;" >[![](http://www.websitesrcg.com/border/maps/Border-camps-1979-1984.jpg)](http://www.websitesrcg.com/border/maps/Border-camps-1979-1984.jpg)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >1979-1984的柬埔寨與泰國邊界，注意地圖上的邊界聚落當時被數個不同的勢力控制。聯合國的人道救援行動就是利用這條邊界。圖片取自http://www.websitesrcg.com/border/maps.html。
-</td>
-</tr>
-</tbody>
-</table>
 對於當時想要逃離的柬埔寨人來說，東有越南北有寮國，唯一可行的路線就是向西，往泰國邊界跑，當時這條邊界在人道救援上發揮了不小的作用——當柬埔寨面臨糧食短缺時，柬埔寨政府嚴密控制各國送達金邊的援助，於是聯合國就利用這條邊界跳過當地政府，直接向柬埔寨平民發送糧食和種子；同時有數十萬的柬埔寨人跨過邊界，住在泰國境內距離邊界數公里遠的難民營，等待前往其他國家的機會。最後約有26萬人成功移居到其他國家，其中有15萬3千人來到美國，主要落腳在加州和麻州，在麻州境內有兩個主要的聚集區，分別是Lowell和Lynn-Revere。
 
 （該時期越南、柬埔寨與寮國落腳美國的難民總數約128萬7千人——這只是難民的數目，其他還有很多人是透過其他身份或管道進入美國。值得注意的是，當時的美國反移民的傾象比現在還要強烈得多，但仍然允許如此數量龐大的難民落腳。）

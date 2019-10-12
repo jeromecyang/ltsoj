@@ -46,20 +46,9 @@ Hope Fellowship Church是我第一個多次到訪的教會，位在劍橋市（C
 咦，這不是我不久前才剛在台灣學生會活動上認識的那對情侶，麥特和喬西嗎？
 
 剛到波士頓的時候我還沒什麼朋友，頂多就是迎新活動上一群人彼此自我介紹過的那種，除了名字和科系之外根本就一無所知，更不可能知道誰有去哪間教會。因此，在這個非華人而且國際學生比例不高的教會裡，竟然能夠碰到其他的台灣留學生，那一刻整個人興奮得不得了。短短幾分鐘裡我們再次互相自我介紹，發現他們竟然還是我大學的學長姐呢！然而，更讓我驚訝的還在後頭。既然都是台灣人也都參加教會，便順理成章地問對方，你們在台灣是去哪個教會啊？
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lh4.googleusercontent.com/8OyqTmf2Yaa2xd5UlvebisrmhQytbXnHE9g0Rja3zD1YDZxhotOjO81bgaqSOlyGH45587UfT0fkrNz8DNDhmK3-qLbLah-AsHGzAd4KjzUJ64peKiO74Yr_J-nlPSrTZN9T1RVF)
+*圖片取自 https://www.hopefellowshipchurch.org/services-and-directions/*
 
-<td style="text-align:center;" >![](https://lh4.googleusercontent.com/8OyqTmf2Yaa2xd5UlvebisrmhQytbXnHE9g0Rja3zD1YDZxhotOjO81bgaqSOlyGH45587UfT0fkrNz8DNDhmK3-qLbLah-AsHGzAd4KjzUJ64peKiO74Yr_J-nlPSrTZN9T1RVF)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >圖片取自 https://www.hopefellowshipchurch.org/services-and-directions/
-</td>
-</tr>
-</tbody>
-</table>
 「信友堂。」
 
 「啊？我也是去信友堂欸！」
@@ -81,20 +70,9 @@ Park Street Church是波士頓知名度最高的教會之一，因為它所在�
 到Park Street Church參加禮拜的流程大致是這樣：進入教會大門，順著玄關裡彎曲的樓梯走上樓，進入二樓大堂，會堂裡有著一排一排的傳統長條木椅（pew），前方有著簡潔但莊嚴的講台，左右兩邊與後方是三樓的閣樓座位（balcony），頭頂上是水晶吊燈；禮拜開始，首先響起的是管風琴聲，接著會眾起立拿著有四部和聲的教會聖詩本唱歌，講道之前全體誦讀主禱文（the Lord’s prayer）並聆聽詩班獻詩，偶爾有其他古典樂器加入；禮拜結束後順著樓梯下到一樓交誼廳，那裡早已準備好了咖啡，有些人會留下來接著上主日學，或者參加下午的團契。
 
 第一次去的感覺是，好熟悉的感覺呀！Park Street Church和我在台灣的教會相似度很高，從建築物本身的設計、聚會程序到教會的大小甚至組織架構都非常像，要不是因為使用的語言是英文，我還以為自己回到了台灣的教會呢！
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lh6.googleusercontent.com/jFxomwjo0aBQYSAm7m90hIDJjmrHsbqNmlB-REXXmOdKbIlzYAz807K3FIcj3A2KbLBcnPlUXtmiS_35WuW2drDNwKrDKQ3Vi9aVX1OXpWOMuc6WDwYejYmR1afvM5bqBmikK9y2)
+*圖片取自 https://www.parkstreet.org/afternoon-service*
 
-<td style="text-align:center;" >![](https://lh6.googleusercontent.com/jFxomwjo0aBQYSAm7m90hIDJjmrHsbqNmlB-REXXmOdKbIlzYAz807K3FIcj3A2KbLBcnPlUXtmiS_35WuW2drDNwKrDKQ3Vi9aVX1OXpWOMuc6WDwYejYmR1afvM5bqBmikK9y2)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >圖片取自 https://www.parkstreet.org/afternoon-service
-</td>
-</tr>
-</tbody>
-</table>
 這個教會已經有超過200年歷史，這在新英格蘭一點都不罕見，年紀更老的教會在這裡比比皆是；然而，要說有哪個教會過了200年還是始終如一的認真看待信仰，沒有轉型成社會福利機構、博物館或被轉賣成辦公大樓的，除了Park Street Church之外我很難想到第二個。更難能可貴的是，雖然Park Street Church是自由之路上重要的獨立革命歷史景點，但他們並沒有以美國中心主義自居，反而非常努力的國際化——我去參加的時候，兩位主要牧師之一是韓裔美國人，週日下午的國際學生團契（Park Street International Fellowship, PSIF）更是我許多留學生好朋友的第二個家。
 
 過去的經驗告訴我，歷史悠久的大型教會往往有些無奈而沈重的包袱，而且常常面對著明明教會很大卻找不到人做事的窘境，我猜Park Street Church或許也有類似的問題吧！然而，我仍然看到他們在這些限制中努力創新，對外發揮影響力。印象最深刻的是每年的12月31日，當一旁的波士頓公園（Boston Common）擠滿著看跨年煙火的人潮的時候，這個教會總是敞開著大門，邀請所有路過的人到教會裡喝杯熱可可，並且到樓上會堂裡欣賞3小時不間斷的民謠（folk）與藍草（blue grass）音樂現場表演。在低於冰點的氣溫裡，他們努力把教會裡的溫暖分享給週遭的人。
@@ -105,20 +83,9 @@ Park Street Church是波士頓知名度最高的教會之一，因為它所在�
 
 http://www.citylifeboston.org/
 Founded in 2002
-<table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
-<tbody >
-<tr >
+![](https://lh4.googleusercontent.com/5mE8wz8qBsMfgEkTmu23ti9O8loosV2HsqzsvAS-OdVcVFjT2grLcdNPUs7Gvo-x8lWI9Hx4dLesPH4GzC9HWHTLqDV3e2SVeNeJGN70yWlKs4MbfLZLw3oatZHQOgzeH2m4k2fG)
+*圖片取自 http://www.citylifeboston.org/2017/09/citylife-voices/*
 
-<td style="text-align:center;" >![](https://lh4.googleusercontent.com/5mE8wz8qBsMfgEkTmu23ti9O8loosV2HsqzsvAS-OdVcVFjT2grLcdNPUs7Gvo-x8lWI9Hx4dLesPH4GzC9HWHTLqDV3e2SVeNeJGN70yWlKs4MbfLZLw3oatZHQOgzeH2m4k2fG)
-</td>
-</tr>
-<tr >
-
-<td style="text-align:center;" class="tr-caption" >圖片取自 http://www.citylifeboston.org/2017/09/citylife-voices/
-</td>
-</tr>
-</tbody>
-</table>
 在我眼中，CityLife Presbyterian Church是一間非常有個性的教會，其中很大一部分遺傳自它的兄長、紐約的Redeemer Presbyterian Church（Timothy Keller的教會）。它是個長老會，也承襲了長老會注重禮拜儀式（liturgy）的傳統，主日崇拜中有著集體誦讀禱文、個人認罪禱告等一個接著一個的程序，但同時也使用著非常獨樹一幟的音樂——會唱傳統古典聖詩，但卻是改編成近代室內樂風格的版本；會唱現代詩歌，但唱的不是美國基督教電台上無限循環的那種CCM（Contemporary Christian Music），而是他們自己的創作與改編，具有強烈的獨立搖滾（indie rock）色彩。
 
 這個教會另一個獨特之處是它的氛圍。由於他們沒有自己的建築物，必須固定租用Revere Hotel Boston的其中一個宴會廳（ballroom），導致每次走進去都覺得像是去參加一場高雅的宴會；其次，這個教會有著比例相當高的第二代亞裔人口，身邊不少人看起來都是一副ABK（American-born Korean）或ABC（American-born Chinese）臉，教會週報上的人名大半有著韓裔與華裔的姓氏。
