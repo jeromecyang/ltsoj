@@ -23,7 +23,7 @@ After my Spain trip in January, I had been thinking about another Europe trip to
 While calling it "the Baltic States trip", I actually dropped Lithuania (which is in the further south) and added Finland (which is not far from Estonia's capital Tallinn) due to my time constraint. In this album/blog, what I refer to as the Baltic States are: Latvia, Estonia, and Finland.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/b2a36-baltic.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/b2a36-baltic.png)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/b2a36-baltic.png)](https://lifetimesojournertravel.files.wordpress.com/2017/08/b2a36-baltic.png)
 
 
 **Vecrīga (Old Riga), Riga, Latvia | 拉脫維亞·里加·舊城**
@@ -35,7 +35,7 @@ Riga is the capital of Latvia, as well as one of the best preserved Medieval tow
 I toured the old town on a Sunday morning, when the entire city was still sleeping. Businesses were still shut down except few. The city was filled with bell sounds from cathedrals, reminding people that was a Sunday (although it only matters to very few of them).
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/fba5c-img_9830.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/fba5c-img_9830.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/fba5c-img_9830.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/fba5c-img_9830.jpg)
 
 
 
@@ -43,17 +43,17 @@ I toured the old town on a Sunday morning, when the entire city was still sleepi
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/f1d8b-img_9768_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/f1d8b-img_9768_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/f1d8b-img_9768_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/f1d8b-img_9768_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/6494b-img_9776_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/6494b-img_9776_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/6494b-img_9776_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/6494b-img_9776_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/a6515-img_9787_1.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/a6515-img_9787_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/a6515-img_9787_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/a6515-img_9787_1.jpg)
 
 
 
@@ -82,7 +82,7 @@ Tram is a typical byproduct of previous Russian and Soviet dominions, as well as
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/04978-20170528_093540252802529.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/04978-20170528_093540252802529.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/04978-20170528_093540252802529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/04978-20170528_093540252802529.jpg)
 
 
 **Centrāltirgus (Central Market), Riga, Latvia | 拉脫維亞·里加·中央市場**
@@ -92,7 +92,7 @@ Tram is a typical byproduct of previous Russian and Soviet dominions, as well as
 Wherever I go, I always like to check out public markets. There is no better place to observe the real life of a place than a market. Attracted by fancy (while incredibly cheap) pastries at a shop, I grabbed a few as lunch without hesitation.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/20fbc-20170528_123948.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/20fbc-20170528_123948.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/20fbc-20170528_123948.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/20fbc-20170528_123948.jpg)
 
 
 
@@ -107,17 +107,17 @@ Wherever I go, I always like to check out public markets. There is no better pla
 Turaida Castle played a vital role in defense in the thirteen century. Back then, it was a key spot that determined the fate of a nation. The castle had fallen into ruins in the next few centuries, and was restored as a tourist spot in early twentieth century, while the river next to it has stayed intact and silent over the course of 800 years.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/bdc0b-img_9889_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/bdc0b-img_9889_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/bdc0b-img_9889_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/bdc0b-img_9889_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/57236-img_9875.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/57236-img_9875.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/57236-img_9875.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/57236-img_9875.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/57b32-img_9882_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/57b32-img_9882_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/57b32-img_9882_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/57b32-img_9882_1.jpg)
 
 
 **Svētā Jāņa baznīca (Saint John Cathedral), Cēsis, Latvia | 拉脫維亞·塞希斯·聖約翰大教堂**
@@ -135,12 +135,12 @@ Before Russia gained its power few centuries ago, Latvia was mostly influenced b
 Unlike the cathedrals with magnificent relief and stain glass in southern Europe, churches here look aged and ragged, although the bell towers are as tall as those elsewhere. Sadly, those earliest Protestant countries are now nations with the lowest church attendance.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/86849-img_9975.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/86849-img_9975.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/86849-img_9975.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/86849-img_9975.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/9c7c9-img_9979.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/9c7c9-img_9979.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/9c7c9-img_9979.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/9c7c9-img_9979.jpg)
 
 
 晚餐：鱒魚佐馬鈴薯泥；早餐：各式各樣的香腸和燻肉。
@@ -148,12 +148,12 @@ Unlike the cathedrals with magnificent relief and stain glass in southern Europe
 Dinner: trout, served with mashed potato; breakfast: various sausages and smoked meats.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/66c3b-20170528_204831.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/66c3b-20170528_204831.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/66c3b-20170528_204831.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/66c3b-20170528_204831.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/6d4aa-20170529_080542.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/6d4aa-20170529_080542.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/6d4aa-20170529_080542.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/6d4aa-20170529_080542.jpg)
 
 
 **Cēsis Castle, Cēsis, Latvia | 拉脫維亞·塞西斯·塞西斯城堡**
@@ -165,17 +165,17 @@ Dinner: trout, served with mashed potato; breakfast: various sausages and smoked
 Cēsis Castle functioned similarly as Turaida Castle, and was restored for the same purpose. A memorable experience of the castle visit is: there is no light inside. You have to navigate the dark rooms and spiral stairs with a candle provided by the castle museum. While feeling creepy in the beginning, I soon realized that was the best way to explore the castle, as what people centuries back would do.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/7c162-img_0035.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/7c162-img_0035.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/7c162-img_0035.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/7c162-img_0035.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/db532-img_0005.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/db532-img_0005.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/db532-img_0005.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/db532-img_0005.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/8aa5b-img_0020_1.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/8aa5b-img_0020_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/8aa5b-img_0020_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/8aa5b-img_0020_1.jpg)
 
 
 **Railway Station, Valga, Estonia | 愛沙尼亞·Valga·火車站**
@@ -189,17 +189,17 @@ A two-hour non-AC train ride brought me to the Lativia-Estonia border. Except a 
 Chimneys, cargo trains and warehouses are relics of the Soviet industrialization.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/03d5d-20170529_141027.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/03d5d-20170529_141027.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/03d5d-20170529_141027.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/03d5d-20170529_141027.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/8428c-20170529_140008.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/8428c-20170529_140008.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/8428c-20170529_140008.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/8428c-20170529_140008.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/bf65e-20170529_141511.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/bf65e-20170529_141511.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/bf65e-20170529_141511.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/bf65e-20170529_141511.jpg)
 
 
 **Tartu, Estonia | 愛沙尼亞·塔爾圖**
@@ -213,27 +213,27 @@ As a college town, Tartu is vibrant and neat. German influence can be observed i
 Tartu cathedral has stayed as a ruin since the sixteen century, when it was destroyed by Protestants during the reformation. The front sanctuary was later renovated as a university library, while the rest of the building stay uncovered and weathered, and became an iconic symbol of this city.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/1dd21-20170529_155551.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/1dd21-20170529_155551.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/1dd21-20170529_155551.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/1dd21-20170529_155551.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3e8c2-20170529_155615.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3e8c2-20170529_155615.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3e8c2-20170529_155615.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3e8c2-20170529_155615.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/8bdb2-img_0079.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/8bdb2-img_0079.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/8bdb2-img_0079.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/8bdb2-img_0079.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/0fb57-img_0059_1.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/0fb57-img_0059_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/0fb57-img_0059_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/0fb57-img_0059_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/5339f-img_0071.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/5339f-img_0071.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/5339f-img_0071.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/5339f-img_0071.jpg)
 
 
 **Rahva Raamat, Tartu, Estonia | 愛沙尼亞·塔爾圖·人民書店**
@@ -243,7 +243,7 @@ Tartu cathedral has stayed as a ruin since the sixteen century, when it was dest
 Unlike the only remaining US-nationwide bookstore Barnes and Noble, the Estonian equivalent (Rahva Raamat, which means "people's bookstore") is still vibrant and full of books and arts. Here I started looking for Estonian maps and children books, which I could bring back as souvenirs.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/72d40-20170529_185014.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/72d40-20170529_185014.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/72d40-20170529_185014.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/72d40-20170529_185014.jpg)
 
 
 **Eesti Vabaõhumuuseum (Estonian Open Air Museum), Tallinn, Estonia | 愛沙尼亞·塔林·露天博物館**
@@ -255,12 +255,12 @@ The next morning, I rode an early morning train to Tallinn. The train in Estonia
 After a 30-minute delay due to the ticket problem, I arrived at the Estonian Open Air Museum. The specious park possess residences collected from all over the country. An walk-through trip is longer than 4 km. Here you can see some interesting contrasts - for example, the island houses are packed and encircled by stone walls, whereas the inland farm houses are more spaced.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/c7730-img_0154_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/c7730-img_0154_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/c7730-img_0154_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/c7730-img_0154_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/511f7-img_0178.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/511f7-img_0178.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/511f7-img_0178.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/511f7-img_0178.jpg)
 
 
 **Paldiski, Estonia | 愛沙尼亞· Paldiski**
@@ -270,12 +270,12 @@ After a 30-minute delay due to the ticket problem, I arrived at the Estonian Ope
 Paldiski is not really a tourist destination, but I decided to go in search for the former Soviet monotone architecture. The town was once an forbidden city - a navy base, where the Soviet Union accessed to the Baltic. Surprisingly almost 30 years after the dissolution of the Soviet Union, the entire city was still monotonous and depressing. Even a sushi restaurant is only marked by five black-and-white single-letter posters on the window.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/77ab3-20170530_151822.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/77ab3-20170530_151822.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/77ab3-20170530_151822.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/77ab3-20170530_151822.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/775c3-20170530_163145.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/775c3-20170530_163145.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/775c3-20170530_163145.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/775c3-20170530_163145.jpg)
 
 
 **Old Town, Tallinn, Estonia | 愛沙尼亞·塔林·舊城**
@@ -292,12 +292,12 @@ A good location to spot the city is a hill at its back. The red roofs within the
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/b34b2-img_0320.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/b34b2-img_0320.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/b34b2-img_0320.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/b34b2-img_0320.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/6ec4a-img_0356_2.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/6ec4a-img_0356_2.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/6ec4a-img_0356_2.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/6ec4a-img_0356_2.jpg)
 
 
 **Rotermann Quarter, Tallinn, Estonia | 愛沙尼亞·塔林·Rotermann Quarter**
@@ -309,12 +309,12 @@ A good location to spot the city is a hill at its back. The red roofs within the
 Across the street from the old town, Rotermann Quarter, the innovation district, is filled with a drastically different atmosphere. Old buildings and warehouses are revitalized as office and apartment buildings. Estonia has had a start-up friendly culture for decades. The well-known communication software Skype was also invented here.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/2c9de-img_0281.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/2c9de-img_0281.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/2c9de-img_0281.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/2c9de-img_0281.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/f3ece-img_0277.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/08/f3ece-img_0277.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/f3ece-img_0277.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/f3ece-img_0277.jpg)
 
 
 **Port of Helsinki, Helsinki, Finland | 芬蘭·赫爾辛基·赫爾辛基港**
@@ -328,17 +328,17 @@ The ferry from Tallinn to Estonia took only 90 minutes. It was a rainy and cloud
 Right next to the ferry terminal sits the Old Market Hall. The first thing that caught my attention was the dozen of variations of smoked salmon.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/ae3dd-img_0415_2.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/ae3dd-img_0415_2.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/ae3dd-img_0415_2.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/ae3dd-img_0415_2.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/56002-img_0427_2.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/56002-img_0427_2.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/56002-img_0427_2.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/56002-img_0427_2.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/e9947-20170531_101723.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/e9947-20170531_101723.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/e9947-20170531_101723.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/e9947-20170531_101723.jpg)
 
 
 **Churches, Helsinki, Finland | 芬蘭·赫爾辛基·教堂**
@@ -354,22 +354,22 @@ Just like all Scandinavian and Baltic states, Lutheranism is the so-called prima
 I tried to ask for a Finnish bible from every church I went to. Unsurprisingly, none of these churches could provide one.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3222c-20170531_105426.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3222c-20170531_105426.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3222c-20170531_105426.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3222c-20170531_105426.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/5c30d-20170531_120852.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/5c30d-20170531_120852.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/5c30d-20170531_120852.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/5c30d-20170531_120852.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/d09d3-img_0525.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/d09d3-img_0525.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/d09d3-img_0525.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/d09d3-img_0525.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/cbefe-img_0668.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/cbefe-img_0668.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/cbefe-img_0668.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/cbefe-img_0668.jpg)
 
 
 **Streets & Trams, Helsinki, Finland | 芬蘭·赫爾辛基·街道與路面電車**
@@ -383,7 +383,7 @@ Trams always make a city more charming, and they are still a vital part of Helsi
 The late afternoon sun conquered the cloud and rain. The entire city became warmer and more inviting under the gentle sunshine. At the time I visited, the length of daytime in Helsinki was: 18 hours.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/d4d03-img_0555.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/d4d03-img_0555.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/d4d03-img_0555.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/d4d03-img_0555.jpg)
 
 
 
@@ -393,17 +393,17 @@ The late afternoon sun conquered the cloud and rain. The entire city became warm
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/4a04d-img_0574.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/4a04d-img_0574.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/4a04d-img_0574.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/4a04d-img_0574.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/59488-20170531_170430.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/59488-20170531_170430.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/59488-20170531_170430.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/59488-20170531_170430.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3af90-img_0658_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3af90-img_0658_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3af90-img_0658_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3af90-img_0658_1.jpg)
 
 
 **The Little Mermaid & Nyhavn, Copenhagen, Denmark | 丹麥·哥本哈根·小美人魚與新港**
@@ -419,13 +419,13 @@ During my 4.5-hour stopover in Copenhagen, I took a short trip into the city. Th
 Nyhavn (namely "new port") has colorful shops and restaurants. Coupled with the channel and ships, it forms most people's stereotypical impression of Copenhagen.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/420b4-img_0684.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/420b4-img_0684.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/420b4-img_0684.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/420b4-img_0684.jpg)
 
 
 
 
 [
-](https://lifetimesojournertravel.files.wordpress.com/2017/08/59c6a-20170601_214948.jpg)[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/a1b6e-img_0726_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/a1b6e-img_0726_1.jpg)
+](https://lifetimesojournertravel.files.wordpress.com/2017/08/59c6a-20170601_214948.jpg)[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/a1b6e-img_0726_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/a1b6e-img_0726_1.jpg)
 
 
 
@@ -491,7 +491,7 @@ Unexpectedly, glaciers became the primary theme of my next trip after a month.
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/59c6a-20170601_214948.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/08/59c6a-20170601_214948.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/59c6a-20170601_214948.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/59c6a-20170601_214948.jpg)
 
 
 

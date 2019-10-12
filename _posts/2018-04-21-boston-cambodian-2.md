@@ -14,7 +14,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_201
 波士頓地區有兩個主要的柬埔寨移民區：林恩（Lynn）與羅威爾（Lowell），幾家值得推薦的高棉菜也坐落於這些地方。不過，在介紹美食之前，我們先來探討一下為什麼柬埔寨人會聚集在這些地方。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg)
 
 
 
@@ -45,7 +45,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_201
 林恩的柬埔寨移民目前約有7,000人，在麻州城市裡面僅次於羅威爾；這邊要介紹的餐廳，則位在南方不遠處的Revere。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b376b-20160813_151135.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b376b-20160813_151135.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b376b-20160813_151135.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b376b-20160813_151135.jpg)
 
 
 
@@ -56,7 +56,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_201
 144 Shirley Ave, Revere, MA 02151
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b6604-img_20171230_133107.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b6604-img_20171230_133107.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b6604-img_20171230_133107.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b6604-img_20171230_133107.jpg)
 
 
 
@@ -72,7 +72,7 @@ Thmor Da是Shirley Ave上面僅存的一家柬埔寨餐廳，隨著拉丁美洲�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_20180127_191717.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_20180127_191717.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_20180127_191717.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_20180127_191717.jpg)
 
 
 
@@ -88,7 +88,7 @@ Thmor Da是Shirley Ave上面僅存的一家柬埔寨餐廳，隨著拉丁美洲�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/1cafa-img_20180127_191654.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/1cafa-img_20180127_191654.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/1cafa-img_20180127_191654.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/1cafa-img_20180127_191654.jpg)
 
 
 
@@ -104,7 +104,7 @@ Thmor Da是Shirley Ave上面僅存的一家柬埔寨餐廳，隨著拉丁美洲�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/c15c9-img_20180127_193209.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/c15c9-img_20180127_193209.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/c15c9-img_20180127_193209.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/c15c9-img_20180127_193209.jpg)
 
 
 Special Thmor Da Rice Noodle Soup (約$8)
@@ -130,7 +130,7 @@ Special Thmor Da Rice Noodle Soup (約$8)
 
 麻州第一大、全美第二大的柬埔寨社區，位於波士頓西北方的羅威爾。這個城市曾經是全美首屈一指的工業城，現在也是目前保存狀況最好的新英格蘭工業城。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/64237-img_20180224_151951.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/64237-img_20180224_151951.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/64237-img_20180224_151951.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/64237-img_20180224_151951.jpg)
 
 19世紀的新英格蘭，由以小鎮為中心的農業經濟快速工業化，讓新大陸上首度出現了工業城市，紅磚廠房、煙囪、運河與鐵道改變了幾個麻州大城的風景。這些工廠在1920年代開始人去樓空，有的廢棄有的被拆除，剩下當今保存最好的地方非羅威爾（Lowell）莫屬。羅威爾保存了相當完整的紡織廠與運河，而且部分被改造成為博物館，由美國國家公園管理處（National Park Service）經營管理，非常適合對美國歷史有興趣的人前去拜訪。
 
@@ -142,7 +142,7 @@ Special Thmor Da Rice Noodle Soup (約$8)
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/09a1f-img_20180224_140431.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/09a1f-img_20180224_140431.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/09a1f-img_20180224_140431.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/09a1f-img_20180224_140431.jpg)
 
 
 
@@ -155,12 +155,12 @@ Liberty St, Lowell, MA 01851
 那天特別去找了住在羅威爾市區的朋友提摩西，然後一起到這家離他家不遠的小店吃午餐。同樣是家相當不起眼、家庭式經營、卻在網路上評價相當好的餐廳。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/14d5c-img_20180224_150852.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/14d5c-img_20180224_150852.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/14d5c-img_20180224_150852.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/14d5c-img_20180224_150852.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/a8596-img_20180224_122109.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/a8596-img_20180224_122109.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/a8596-img_20180224_122109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/a8596-img_20180224_122109.jpg)
 
 
 Special Noodle Soup ($9)
@@ -168,7 +168,7 @@ Special Noodle Soup ($9)
 我還是依照慣例點了碗河粉，和前面Thmur Da不一樣的是，他的河粉是寬條的，配料則多了切成薄片的魚板，其他方面則沒有太大差別。這道似乎是在任何柬埔寨餐廳點了都不會出錯的選項。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/028ba-img_20180224_122622.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/028ba-img_20180224_122622.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/028ba-img_20180224_122622.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/028ba-img_20180224_122622.jpg)
 
 
 
@@ -189,7 +189,7 @@ Chicken Wings ($7)
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/cd4ef-img_20180224_123002.jpg)
 
 
 
@@ -213,7 +213,7 @@ Beef Fried Dwarf Noodles ($10)
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/5542f-img_20180224_151842.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/5542f-img_20180224_151842.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/5542f-img_20180224_151842.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/5542f-img_20180224_151842.jpg)
 
 
 
@@ -252,7 +252,7 @@ https://www.numpangkitchen.com/
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/5dcd9-img_20180127_182541.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/5dcd9-img_20180127_182541.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/5dcd9-img_20180127_182541.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/5dcd9-img_20180127_182541.jpg)
 
 
 
@@ -273,7 +273,7 @@ https://www.numpangkitchen.com/
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b3afd-img_20180127_182448.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b3afd-img_20180127_182448.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b3afd-img_20180127_182448.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b3afd-img_20180127_182448.jpg)
 
 
 
@@ -313,13 +313,13 @@ https://www.numpangkitchen.com/
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b7f6e-img_20180323_185433.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b7f6e-img_20180323_185433.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/b7f6e-img_20180323_185433.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/b7f6e-img_20180323_185433.jpg)
 
 
 在購物中心一隅的純白色店面，三明治是這裡的主打。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/c882e-img_20180323_185530.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/04/c882e-img_20180323_185530.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/c882e-img_20180323_185530.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/c882e-img_20180323_185530.jpg)
 
 
 

@@ -32,7 +32,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/271e9-32939062_134428630754426_1006579144059781120_n.jpg)
 
 
 
@@ -52,7 +52,7 @@ I arrived in Urgench around noon on May 10. Not sure if this is the place I shou
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ae874-img_20180510_111712_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ae874-img_20180510_111712_1.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ae874-img_20180510_111712_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ae874-img_20180510_111712_1.jpg)
 </td>
 </tr>
 <tr >
@@ -66,7 +66,7 @@ I arrived in Urgench around noon on May 10. Not sure if this is the place I shou
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/566e5-img_20180510_111726.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/566e5-img_20180510_111726.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/566e5-img_20180510_111726.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/566e5-img_20180510_111726.jpg)
 </td>
 </tr>
 <tr >
@@ -85,7 +85,7 @@ The drivers in front of the station are really aggressive. They don't speak Engl
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ce339-img_20180510_113803.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ce339-img_20180510_113803.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ce339-img_20180510_113803.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ce339-img_20180510_113803.jpg)
 </td>
 </tr>
 <tr >
@@ -106,7 +106,7 @@ Khiva is a small town, and the driver easily took me to the location I showed hi
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/823f5-img_20180511_082109.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/823f5-img_20180511_082109.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/823f5-img_20180511_082109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/823f5-img_20180511_082109.jpg)
 </td>
 </tr>
 <tr >
@@ -120,7 +120,7 @@ Khiva is a small town, and the driver easily took me to the location I showed hi
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8f6c6-img_20180511_082103.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8f6c6-img_20180511_082103.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8f6c6-img_20180511_082103.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8f6c6-img_20180511_082103.jpg)
 </td>
 </tr>
 <tr >
@@ -139,7 +139,7 @@ Khiva is a small town, and the driver easily took me to the location I showed hi
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa6fa-20180510_190055.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa6fa-20180510_190055.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa6fa-20180510_190055.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa6fa-20180510_190055.jpg)
 </td>
 </tr>
 <tr >
@@ -156,33 +156,33 @@ There are three typical ancient architectures in Khiva:
 **1. 經學院（madrasah, religious school in Islam world）**，泛指所有伊斯蘭文化圈裡的學校，並非僅限於宗教學校，其特色是有著至少兩層樓高的宏偉大門，裡面呈現四合院格局並且有個偌大的露天中庭，周圍環繞著許多的房間，最大看點就是建築表面上以不同層次的藍綠色磁磚融合阿拉伯文字創造出的美麗幾何圖案。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fd1e8-f3776832.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/fd1e8-f3776832.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fd1e8-f3776832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/fd1e8-f3776832.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc555-f3892992.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc555-f3892992.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc555-f3892992.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc555-f3892992.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg)
 
 
 **2. 清真寺（mosque）**，伊斯蘭教的禮拜場所，格局和經學院有非常顯著的不同，其中最明顯的便是開放空間很多，從露天中庭一直延伸的屋頂下的柱廊。希瓦的清真寺不大，卻擁有非常特別的木造柱廊，數百根柱子貫穿全寺，每根上面都有著精美的浮雕。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/45e06-f0410112.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/45e06-f0410112.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/45e06-f0410112.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/45e06-f0410112.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)
 
 
 **3. 宣禮塔（minaret, a tower to call Muslims to worship）**，挺拔高大的圓塔，用途是叫喚伊斯蘭教徒前往禮拜。希瓦擁有一棟45公尺高的Islam Khoja Minaret，但最知名的地標卻是一棟開了工卻從未完成的小宣禮塔Kalta Minor，原本預計要蓋到70至80公尺高，卻在蓋到29公尺時就停工，已經蓋好的部分一點都不像是宣禮塔，反而比較像是一個大水槽，但因為這個大水槽的青藍色表面實在太過漂亮，因此成為希瓦最知名的地標。
@@ -190,7 +190,7 @@ There are three typical ancient architectures in Khiva:
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5864c-f0397248.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5864c-f0397248.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5864c-f0397248.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5864c-f0397248.jpg)
 </td>
 </tr>
 <tr >
@@ -202,7 +202,7 @@ There are three typical ancient architectures in Khiva:
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc856-f0628672.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc856-f0628672.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc856-f0628672.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc856-f0628672.jpg)
 
 
 
@@ -212,7 +212,7 @@ There are three typical ancient architectures in Khiva:
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/6ba21-img_3568-01.jpeg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/6ba21-img_3568-01.jpeg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/6ba21-img_3568-01.jpeg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/6ba21-img_3568-01.jpeg)
 </td>
 </tr>
 <tr >
@@ -229,12 +229,12 @@ There are three typical ancient architectures in Khiva:
 All tourist spots admit locals for a much cheaper price; if you're a foreigner, not only the admission is more expensive, but you have to buy the all-in-one ticket, which costs 100,000som. My experience is, it's NOT needed to get that all-in-one ticket, as not all spots are worth checking out. Also, some spots you can just walk in. No one is actually there to collect fares.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/46021-f4504896.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/46021-f4504896.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/46021-f4504896.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/46021-f4504896.jpg)
 
 
 下午大約5點，我來到古城西隅的Kunya-Ark Citadel，也就是以前希瓦汗國的行政中心所在，過去繁華的宮殿如今裡面空無一物，只剩下賣紀念品的小販。原本並沒有打算要進去，但後來發現有個可以眺望全城的高台，入口就在裡面，這是不是意味著我需要回到古城大門口去買那100,000som的通票？
@@ -244,7 +244,7 @@ All tourist spots admit locals for a much cheaper price; if you're a foreigner, 
 Kunya-Ark Citadel was the palace of the Khiva Khanate, and inside the citadel there is an overlook where tourists can go up to see the entire city. But that means I had to buy the all-in-one admission to enter the citadel, and pay some extra to go up on the overlook. How can I get around this? While thinking, a boy was playing a coin on a slope. Upon seeing my DSLR, he held the coin and turned to me with a smily face. I caught a great picture at that moment.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg)
 
 
 這時候來了一群似乎也是想要上去高台的遊客，到了城堡門口跟管理員好說歹說，結果不知怎的就真的這樣沒付錢就進去了；一看到這個畫面我馬上衝到門口，比手畫腳跟管理員說我要進去，並且指指方才免費進去的那批遊客。就這樣，我成功進入了城堡與宮殿區，然後花了10,000som爬上裡面的高台。
@@ -258,7 +258,7 @@ It was extremely hot then, so I hid myself in the shadow on top of the overlook 
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/abf97-f5612480.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/abf97-f5612480.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/abf97-f5612480.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/abf97-f5612480.jpg)
 </td>
 </tr>
 <tr >
@@ -272,7 +272,7 @@ It was extremely hot then, so I hid myself in the shadow on top of the overlook 
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg)
 </td>
 </tr>
 <tr >
@@ -306,20 +306,20 @@ I took another few strokes around the city in the late afternoon and evening.
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bf832-f5896576.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bf832-f5896576.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bf832-f5896576.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bf832-f5896576.jpg)
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/3ebb3-img_3916.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/3ebb3-img_3916.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/3ebb3-img_3916.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/3ebb3-img_3916.jpg)
 </td>
 </tr>
 <tr >
@@ -347,7 +347,7 @@ Realizing that I didn't have to spend two days in Khiva, I decided to move on to
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e5edb-20180511_110639.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e5edb-20180511_110639.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e5edb-20180511_110639.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e5edb-20180511_110639.jpg)
 </td>
 </tr>
 <tr >
@@ -364,7 +364,7 @@ Realizing that I didn't have to spend two days in Khiva, I decided to move on to
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/da3de-20180511_112045.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/da3de-20180511_112045.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/da3de-20180511_112045.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/da3de-20180511_112045.jpg)
 </td>
 </tr>
 <tr >
@@ -378,7 +378,7 @@ Realizing that I didn't have to spend two days in Khiva, I decided to move on to
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf39e-20180511_115327.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf39e-20180511_115327.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf39e-20180511_115327.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf39e-20180511_115327.jpg)
 </td>
 </tr>
 <tr >
@@ -392,7 +392,7 @@ Realizing that I didn't have to spend two days in Khiva, I decided to move on to
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/b4359-20180511_121227.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/b4359-20180511_121227.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/b4359-20180511_121227.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/b4359-20180511_121227.jpg)
 </td>
 </tr>
 <tr >
@@ -411,7 +411,7 @@ Around 2pm, we stopped at a local restaurants. Toon and I didn't know what to or
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c826d-20180511_142704.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c826d-20180511_142704.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c826d-20180511_142704.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c826d-20180511_142704.jpg)
 </td>
 </tr>
 <tr >
@@ -425,7 +425,7 @@ Around 2pm, we stopped at a local restaurants. Toon and I didn't know what to or
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4c2c0-img_20180512_084100.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4c2c0-img_20180512_084100.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4c2c0-img_20180512_084100.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4c2c0-img_20180512_084100.jpg)
 </td>
 </tr>
 <tr >
@@ -445,22 +445,22 @@ Around 2pm, we stopped at a local restaurants. Toon and I didn't know what to or
 On web forums, Bukhara and Samarkand each has its advocates. Some said Bukhara is more like an ancient city, and has more to see as a world heritage site. However, I was greatly disappointed immediately after reaching the old city.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/922c8-f1499456.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/922c8-f1499456.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/922c8-f1499456.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/922c8-f1499456.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18659-f1526144.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/18659-f1526144.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18659-f1526144.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/18659-f1526144.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/b90b7-f6173312.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/b90b7-f6173312.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/b90b7-f6173312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/b90b7-f6173312.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/d0b89-f0910592.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/d0b89-f0910592.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/d0b89-f0910592.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/d0b89-f0910592.jpg)
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/71611-f1003776.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/71611-f1003776.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/71611-f1003776.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/71611-f1003776.jpg)
 
 事實證明，我的感受和他們大相徑庭。布哈拉的確伊斯蘭建築不少，而且非常的集中，多少會讓人有種沈浸在幾世紀前的中亞草原汗國中的感覺；然而，這些古蹟內部商業化的程度可以說是三座古城之首——過去的市集與經學院，如今都充斥著販賣手工藝品的店家，或者變成專門做觀光客生意的餐廳，其中不少小販還能用流利的英文向我們推銷商品。最讓我驚嚇的是到了晚上，這些建築都會點燈，但點上的可不是那種照在建築外牆上的投射燈，而是沿著建築輪廓伸展的霓虹燈，活生生的把這個古城弄得像夜總會一樣⋯⋯。我和Toon一起繞了幾圈，在市中心池塘Labi Hovuz邊的景觀餐廳吃了個飯，我決定自己背著腳架往外面走，看看能不能找到銅臭味比較沒那麼重的角落。
 
@@ -469,7 +469,7 @@ The old city was very commercialized. Most madrassas have been turned into resta
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/15788-f0678272.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/15788-f0678272.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/15788-f0678272.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/15788-f0678272.jpg)
 </td>
 </tr>
 <tr >
@@ -483,7 +483,7 @@ The old city was very commercialized. Most madrassas have been turned into resta
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/94d9c-f1085568.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/94d9c-f1085568.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/94d9c-f1085568.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/94d9c-f1085568.jpg)
 </td>
 </tr>
 <tr >
@@ -498,22 +498,22 @@ The old city was very commercialized. Most madrassas have been turned into resta
 Finally, on the northwest side of the city, the Kalon mosque and the Mir-i-Arab madrasa brought me back to a genuine ancient city. The mosque and the madrasa were both functioning, and therefore were not intruded by restaurants and gift shops.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/51828-f0852928.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/51828-f0852928.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/51828-f0852928.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/51828-f0852928.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/009b2-f1142976.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/009b2-f1142976.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/009b2-f1142976.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/009b2-f1142976.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/15340-f1161152.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/15340-f1161152.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/15340-f1161152.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/15340-f1161152.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/946bc-f1200640.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/946bc-f1200640.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/946bc-f1200640.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/946bc-f1200640.jpg)
 
 
 隔天（5月12日）早上，我和Toon都決定可以當天就往下一個城市移動——Toon覺得這裡太無聊了，雖然建築到了晚上看起來像夜總會但又沒有真正的酒吧，我則覺得這裡商業氣氛太過濃厚。因此我們早上起來第一件事情，就是一起到青旅附近的火車票代售點買下午前往撒馬爾罕的高鐵車票。事先已經請青旅老闆幫忙在地圖標記好代售點的位置，因此覺得應該不會有太大問題吧。
@@ -523,7 +523,7 @@ Finally, on the northwest side of the city, the Kalon mosque and the Mir-i-Arab 
 The next day (May 12), Toon and I both felt we've got enough from this city, and we again decided to move together to the next city Samarkand. It took us some effort to find the ticket office in the city, as the locals had a hard time showing the location on map apps. One lesson we learned is: don't overly rely on map apps, as the locals are unlikely to relate a marker on the map to the actual location accurately.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/656b4-f1292096.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/656b4-f1292096.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/656b4-f1292096.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/656b4-f1292096.jpg)
 
 
 買好票距離火車出發還有半天時間，Toon覺得自己已經把這個城市逛透了，乾脆就在房間休息，我則繼續滑著trip advisor和wiki travel，深怕自己遺漏了什麼重要的景點。突然我發現了一個自己還沒有去的地方——Lonely planet中亞篇封面照片裡的清真寺，Chor Minor。這間藏在住宅區小巷裡的瑰寶並不好找，但當地人似乎一看到外國人就知道是要來看Chor Minor的，不等你開口就直接把路指給你看。我就這樣在豔陽高照下來到這間有著四根藍綠色圓塔的清真寺，如同其他景點，裡面有著賣東西兼收門票的小販，英文未必好但至少知道怎麼向觀光客收錢。
@@ -531,12 +531,12 @@ The next day (May 12), Toon and I both felt we've got enough from this city, and
 Before leaving the city, I visited Chor Minor, the building on the cover page of Lonely Planet Central Asia. It's a bit away from the city center and hidden in a residential area, but the locals are always happy to point the direction to you. Again you have to pay extra 5,000som to get on the roof. I think taking photos around it should be enough.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/01833-32939062_134428630754426_1006579144059781120_n.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/01833-32939062_134428630754426_1006579144059781120_n.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/01833-32939062_134428630754426_1006579144059781120_n.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/01833-32939062_134428630754426_1006579144059781120_n.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/13018-f1316992.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/13018-f1316992.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/13018-f1316992.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/13018-f1316992.jpg)
 
 
 最後的漏網之魚反而是布哈拉最重要的景點，The Ark，也就是以前汗國時代的城堡與統治中心。這裡從西元第5世紀就已經被建成要塞，即使後來成為沙俄附庸之後仍然被傀儡統治者使用，直到1920年被蘇聯廢除為止。這裡觀光客（包括本國與外國的）非常多，多到讓我有點猶豫要不要花15,000som的門票錢進去，但事後證明進去是對的——除了能夠看到保存至今的建築、遠眺整個城市之外，最重要的是裡面有許多關於歷史、文化與藝術的展覽，能夠對過去汗國的歷史有更多了解。
@@ -544,17 +544,17 @@ Before leaving the city, I visited Chor Minor, the building on the cover page of
 The Ark was the palace of the Bukhara Khanate until the early 20th century. There are many tourists (both foreign and domestic), and the admission costed 15,000som for foreigners. I hesitated but later found it worth -- not only I was able to see the architecture and overlook the city, the exhibition provided some useful information and context to understand the history and culture of the khanate. It's definitely worth.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9f149-f5461760.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9f149-f5461760.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9f149-f5461760.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9f149-f5461760.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/138a4-f5865344.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/138a4-f5865344.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/138a4-f5865344.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/138a4-f5865344.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/0b8fc-f6088576.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/0b8fc-f6088576.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/0b8fc-f6088576.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/0b8fc-f6088576.jpg)
 
 
 
@@ -569,7 +569,7 @@ Uzbekistan doesn't have the best economy in Central Asia, but it does possess th
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4077a-img_20180512_152433.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4077a-img_20180512_152433.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4077a-img_20180512_152433.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4077a-img_20180512_152433.jpg)
 </td>
 </tr>
 <tr >
@@ -583,7 +583,7 @@ Uzbekistan doesn't have the best economy in Central Asia, but it does possess th
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad65e-img_20180512_153117.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad65e-img_20180512_153117.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad65e-img_20180512_153117.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad65e-img_20180512_153117.jpg)
 </td>
 </tr>
 <tr >
@@ -645,7 +645,7 @@ Drastically different from the trip from Khiva to Bukhara, it was fast (at the s
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/61813-img_20180512_163915_1.jpg?w=300)](http://lifetimesojournertravel.files.wordpress.com/2018/09/61813-img_20180512_163915_1.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/61813-img_20180512_163915_1.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/09/61813-img_20180512_163915_1.jpg)
 </td>
 </tr>
 <tr >

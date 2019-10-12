@@ -17,7 +17,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_6214.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_6214.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_6214.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_6214.jpg)
 
 
 
@@ -34,7 +34,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 （話說上車前知道這一路風景一定好，我不斷跟司機說我要坐前座拍照，但不知什麼原因他一直不答應，我只好從後面第一排用長鏡頭往前伸。）
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/fedbb-img_5968.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/06/fedbb-img_5968.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/fedbb-img_5968.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/fedbb-img_5968.jpg)
 
 
 
@@ -42,7 +42,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/d1347-img_6022.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/d1347-img_6022.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/d1347-img_6022.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/d1347-img_6022.jpg)
 
 
 
@@ -50,7 +50,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/9651d-img_6033.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/9651d-img_6033.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/9651d-img_6033.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/9651d-img_6033.jpg)
 
 
 
@@ -66,7 +66,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/c6b14-img_6259.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/c6b14-img_6259.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/c6b14-img_6259.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/c6b14-img_6259.jpg)
 
 
 
@@ -74,7 +74,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/102b6-img_6044.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/102b6-img_6044.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/102b6-img_6044.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/102b6-img_6044.jpg)
 
 
 
@@ -90,7 +90,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/dd1a6-img_6255.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/dd1a6-img_6255.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/dd1a6-img_6255.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/dd1a6-img_6255.jpg)
 
 
 
@@ -98,7 +98,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/52727-img_6075.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/52727-img_6075.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/52727-img_6075.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/52727-img_6075.jpg)
 
 
 
@@ -125,7 +125,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/8fedf-img_6136.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/8fedf-img_6136.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/8fedf-img_6136.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/8fedf-img_6136.jpg)
 
 
 
@@ -155,7 +155,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/5667f-img_6089.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/5667f-img_6089.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/5667f-img_6089.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/5667f-img_6089.jpg)
 
 
 
@@ -182,7 +182,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/af79e-img_6096.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/af79e-img_6096.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/af79e-img_6096.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/af79e-img_6096.jpg)
 
 
 
@@ -190,7 +190,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/e4c96-img_6116.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/e4c96-img_6116.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/e4c96-img_6116.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/e4c96-img_6116.jpg)
 
 
 
@@ -198,7 +198,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/9c81a-img_6118.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/9c81a-img_6118.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/9c81a-img_6118.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/9c81a-img_6118.jpg)
 
 
 
@@ -214,7 +214,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_621
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/89e29-img_6216.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/06/89e29-img_6216.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/89e29-img_6216.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/89e29-img_6216.jpg)
 
 
 
@@ -270,7 +270,7 @@ Nikita's的晚餐也讓我印象深刻，當晚光是魚肉料理就有魚湯、
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/9281c-img_6175.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/9281c-img_6175.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/9281c-img_6175.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/9281c-img_6175.jpg)
 
 
 
@@ -294,7 +294,7 @@ Nikita's的晚餐也讓我印象深刻，當晚光是魚肉料理就有魚湯、
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/040f4-img_6221.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/040f4-img_6221.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/040f4-img_6221.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/040f4-img_6221.jpg)
 
 
 
@@ -329,7 +329,7 @@ Nikita's的晚餐也讓我印象深刻，當晚光是魚肉料理就有魚湯、
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/0d490-img_6140.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/06/0d490-img_6140.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/06/0d490-img_6140.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/06/0d490-img_6140.jpg)
 
 
 

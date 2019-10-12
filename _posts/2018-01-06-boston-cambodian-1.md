@@ -14,7 +14,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 自從搬到現在的住處之後，我一直都覺得自己生活在一個很特別的地方——這裡雖然是美國境內，離波士頓市中心也不遠，但卻有一半以上的人口是在美國以外出生；非尖峰時段搭地鐵，聽到的西班牙文對話數量遠遠超過英文；走在充滿西班牙文招牌的街上，幾乎所有店家都可以直接以西班牙文溝通；若是再更往北一些，則會遇到更多的東南亞面孔，以及貼著高棉文海報的櫥窗。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_2919.jpg)
 
 
 這個由波士頓地鐵藍線貫穿的帶狀區域，從南往北涵蓋了East Boston、Revere、Lynn三個城鎮，從美國還未獨立的18世紀上半葉開始就是少數族群（minority）移民的聚居區域，最早是不受英國移民歡迎的愛爾蘭人和猶太人，後來逐漸被義大利人取代，20世紀中期之後則先有東南亞移民來到，接著又慢慢被日漸增加的拉丁美洲移民填滿。有趣的是，幾百年下來，這裡的移民早就換過好幾批人了，最大移民來源也從歐洲、亞洲變成了拉丁美洲，但從未改變的是這裡依舊是移民區。
@@ -22,7 +22,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/45c2f-20170424_105256.jpg)
 </td>
 </tr>
 <tr >
@@ -45,13 +45,13 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/8ba83-img_2917.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/8ba83-img_2917.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/8ba83-img_2917.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/8ba83-img_2917.jpg)
 
 
 總共有4家店門面上有著高棉文字，兩家小型超市、一家餐廳、一家珠寶店。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/dd57c-img_2913.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/dd57c-img_2913.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/dd57c-img_2913.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/dd57c-img_2913.jpg)
 
 
 造訪時正好是陽曆新年前兩天，店家櫥窗上貼著高棉文的新年晚會海報，地點是在Lowell，也就是麻州最大的柬埔寨社區。（這個設計風格和華埠裡可以見到的春節晚會海報還頗為相似啊！）
@@ -93,7 +93,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/123d3-img_20171230_134423.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/123d3-img_20171230_134423.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/123d3-img_20171230_134423.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/123d3-img_20171230_134423.jpg)
 
 
 
@@ -109,7 +109,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/fef4e-img_20171230_140328.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/fef4e-img_20171230_140328.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/fef4e-img_20171230_140328.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/fef4e-img_20171230_140328.jpg)
 
 
 
@@ -141,7 +141,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/cc743-img_20171230_134656.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/cc743-img_20171230_134656.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/cc743-img_20171230_134656.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/cc743-img_20171230_134656.jpg)
 
 
 
@@ -154,7 +154,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/b627f-img_20171230_134604.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/b627f-img_20171230_134604.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/b627f-img_20171230_134604.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/b627f-img_20171230_134604.jpg)
 
 
 
@@ -201,12 +201,12 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/6129b-img_20171230_134106.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/6129b-img_20171230_134106.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/6129b-img_20171230_134106.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/6129b-img_20171230_134106.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/65845-img_20171230_133940.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/65845-img_20171230_133940.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/65845-img_20171230_133940.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/65845-img_20171230_133940.jpg)
 
 
 
@@ -217,7 +217,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 結果回家一查，天啊，這是摩洛哥！也就是說這條街上不只融合了美洲和亞洲的移民，連非洲移民都有！
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/405c5-img_2916.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/405c5-img_2916.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/405c5-img_2916.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/405c5-img_2916.jpg)
 
 
 
@@ -233,7 +233,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/d300f-img_20171230_190110.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/01/d300f-img_20171230_190110.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/d300f-img_20171230_190110.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/d300f-img_20171230_190110.jpg)
 
 
 

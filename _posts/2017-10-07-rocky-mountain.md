@@ -35,7 +35,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/f57fe-rockies2017.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/f57fe-rockies2017.png)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/f57fe-rockies2017.png)](https://lifetimesojournertravel.files.wordpress.com/2017/10/f57fe-rockies2017.png)
 
 
 
@@ -56,12 +56,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/4d9d7-20170630_092044.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/4d9d7-20170630_092044.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/4d9d7-20170630_092044.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/4d9d7-20170630_092044.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c7693-20170630_110817.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c7693-20170630_110817.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c7693-20170630_110817.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c7693-20170630_110817.jpg)
 
 
 
@@ -82,12 +82,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/792cf-img_0790_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/792cf-img_0790_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/792cf-img_0790_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/792cf-img_0790_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/eea3f-img_0787_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/eea3f-img_0787_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/eea3f-img_0787_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/eea3f-img_0787_1.jpg)
 
 
 
@@ -116,12 +116,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c4708-img_0791_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c4708-img_0791_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c4708-img_0791_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c4708-img_0791_1.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d1e4-20170630_142412.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d1e4-20170630_142412.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d1e4-20170630_142412.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d1e4-20170630_142412.jpg)
 
 
 
@@ -134,17 +134,17 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c224-img_0799.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c224-img_0799.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c224-img_0799.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c224-img_0799.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/2a294-20170630_161902.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/2a294-20170630_161902.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/2a294-20170630_161902.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/2a294-20170630_161902.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/66b70-20170630_171042.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/66b70-20170630_171042.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/66b70-20170630_171042.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/66b70-20170630_171042.jpg)
 
 
 
@@ -157,12 +157,12 @@ The Loop Trail的終點是Granite Park Chalet，一棟早期興建提供登山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/f80ab-20170630_175119.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/f80ab-20170630_175119.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/f80ab-20170630_175119.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/f80ab-20170630_175119.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/9d64d-img_0808_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/9d64d-img_0808_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/9d64d-img_0808_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/9d64d-img_0808_1.jpg)
 
 
 
@@ -217,12 +217,12 @@ Going-To-The-Sun Road類似台灣的台14甲線（中橫霧社支線），在連
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5d28b-img_0825.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5d28b-img_0825.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5d28b-img_0825.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5d28b-img_0825.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/78b2a-img_0832.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/78b2a-img_0832.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/78b2a-img_0832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/78b2a-img_0832.jpg)
 
 
 
@@ -235,12 +235,12 @@ Going-To-The-Sun Road類似台灣的台14甲線（中橫霧社支線），在連
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/70808-img_0849.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/70808-img_0849.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/70808-img_0849.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/70808-img_0849.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/9ef0c-img_0860_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/9ef0c-img_0860_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/9ef0c-img_0860_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/9ef0c-img_0860_1.jpg)
 
 
 
@@ -258,12 +258,12 @@ Going-To-The-Sun Road類似台灣的台14甲線（中橫霧社支線），在連
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c278-20170701_113339.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c278-20170701_113339.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c278-20170701_113339.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0c278-20170701_113339.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c0d33-img_0884.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c0d33-img_0884.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c0d33-img_0884.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c0d33-img_0884.jpg)
 
 
 
@@ -284,17 +284,17 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/2c6ca-20170701_121315.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/2c6ca-20170701_121315.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/2c6ca-20170701_121315.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/2c6ca-20170701_121315.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c5e66-img_0874.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c5e66-img_0874.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/c5e66-img_0874.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/c5e66-img_0874.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/7bcdb-20170701_124151.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/7bcdb-20170701_124151.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/7bcdb-20170701_124151.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/7bcdb-20170701_124151.jpg)
 
 
 
@@ -307,7 +307,7 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/3a8f1-img_0898_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/3a8f1-img_0898_1.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/3a8f1-img_0898_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/3a8f1-img_0898_1.jpg)
 
 
 
@@ -328,7 +328,7 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0748d-20170701_160806.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0748d-20170701_160806.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0748d-20170701_160806.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0748d-20170701_160806.jpg)
 
 
 
@@ -357,12 +357,12 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/aae81-20170703_142218.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/aae81-20170703_142218.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/aae81-20170703_142218.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/aae81-20170703_142218.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1170f-20170703_141118.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1170f-20170703_141118.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1170f-20170703_141118.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1170f-20170703_141118.jpg)
 
 
 
@@ -391,12 +391,12 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f310-img_0935.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f310-img_0935.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f310-img_0935.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f310-img_0935.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/15e5a-img_0944.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/15e5a-img_0944.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/15e5a-img_0944.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/15e5a-img_0944.jpg)
 
 
 
@@ -417,17 +417,17 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/520f0-img_0997.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/520f0-img_0997.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/520f0-img_0997.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/520f0-img_0997.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6cc3-img_0982.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6cc3-img_0982.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6cc3-img_0982.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6cc3-img_0982.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/a106b-img_1037.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/a106b-img_1037.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/a106b-img_1037.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/a106b-img_1037.jpg)
 
 
 
@@ -448,12 +448,12 @@ Iceberg Lake的湖水是靛藍色的，後方環繞的層理分明的弧形山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/b620d-img_1009.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/b620d-img_1009.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/b620d-img_1009.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/b620d-img_1009.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/833e1-img_1031.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/833e1-img_1031.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/833e1-img_1031.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/833e1-img_1031.jpg)
 
 
 
@@ -482,22 +482,22 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/8dcda-img_1056.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/8dcda-img_1056.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/8dcda-img_1056.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/8dcda-img_1056.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/cad15-img_1057.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/cad15-img_1057.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/cad15-img_1057.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/cad15-img_1057.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1f5f0-img_1066.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1f5f0-img_1066.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1f5f0-img_1066.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1f5f0-img_1066.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/994c2-img_1081.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/994c2-img_1081.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/994c2-img_1081.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/994c2-img_1081.jpg)
 
 
 
@@ -518,12 +518,12 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/bcff1-img_1089.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/bcff1-img_1089.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/bcff1-img_1089.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/bcff1-img_1089.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0e145-img_1092.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0e145-img_1092.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0e145-img_1092.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/0e145-img_1092.jpg)
 
 
 
@@ -536,12 +536,12 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/67f41-img_1111.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/67f41-img_1111.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/67f41-img_1111.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/67f41-img_1111.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/caa98-img_1116.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/caa98-img_1116.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/caa98-img_1116.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/caa98-img_1116.jpg)
 
 
 
@@ -554,7 +554,7 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f76c-img_1121.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f76c-img_1121.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f76c-img_1121.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5f76c-img_1121.jpg)
 
 
 
@@ -567,7 +567,7 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/6376c-img_1128.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/6376c-img_1128.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/6376c-img_1128.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/6376c-img_1128.jpg)
 
 
 
@@ -580,7 +580,7 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/056c6-img_1139.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/056c6-img_1139.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/056c6-img_1139.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/056c6-img_1139.jpg)
 
 
 
@@ -593,7 +593,7 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e9fda-20170704_180556.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/e9fda-20170704_180556.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e9fda-20170704_180556.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/e9fda-20170704_180556.jpg)
 
 
 
@@ -614,12 +614,12 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/79928-img_1156.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/79928-img_1156.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/79928-img_1156.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/79928-img_1156.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/eb67d-img_1165.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/eb67d-img_1165.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/eb67d-img_1165.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/eb67d-img_1165.jpg)
 
 
 
@@ -632,7 +632,7 @@ Mt Edith Cavell在那裡看起來非常巨大，聳立在眼前如同金字塔�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e6379-img_1172.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/e6379-img_1172.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e6379-img_1172.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/e6379-img_1172.jpg)
 
 
 

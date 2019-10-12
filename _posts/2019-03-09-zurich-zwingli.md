@@ -18,7 +18,7 @@ featured: true
 中學時期讀歐洲歷史的時候，通常講到宗教改革，老師大概都會提到馬丁路德的95條和加爾文的預定論（predestination）；至於其他的人物，學識比較淵博的老師可能會稍微補充，但是也會馬上以台式教育的邏輯告訴你「這個不會考」，慈運理就是一個這樣的人物——他算是加爾文的前輩、馬丁路德的「同梯」，但無論是在歷史課本上或是在教會歷史上都往往被遺忘；唯獨到了蘇黎世，會發現他是這裡最重要的歷史人物，即使是短短幾個小時的停留也很難忽略他的存在。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/35b1d-img_2137.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/35b1d-img_2137.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/35b1d-img_2137.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/35b1d-img_2137.jpg)
 
 
 
@@ -29,23 +29,23 @@ featured: true
 從非申根區抵達蘇黎世，飛機通常會停靠在比較遠的E航廈，得搭乘無人駕駛電車和主航廈連結，不過位置非常好找，只要下飛機之後找往下的電扶梯，就會到達連結航廈的電車站。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/e4f84-img_20190112_104535.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/e4f84-img_20190112_104535.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/e4f84-img_20190112_104535.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/e4f84-img_20190112_104535.jpg)
 
 
 通過入境檢查、行李提取與海關之後，從入境大廳跟著輕軌電車（Tram）的指示方向走，會再次上樓並且通過一塊中央被天井挑空的商場，繼續往前出門就是輕軌與巴士站。此外，入境大廳處有提供蘇黎世的官方旅遊地圖，可以拿一份方便參考。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/ed437-img_20190112_152841.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/ed437-img_20190112_152841.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/ed437-img_20190112_152841.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/ed437-img_20190112_152841.jpg)
 
 
 一出機場門馬上就可以看到輕軌月台，右邊有一部自動售票機可以買票。市區內單一票價2.70CHF，而24小時內有效一日票只要5.40CHF，因此當然是買一日票啦。車票資訊可參閱[蘇黎世交通官網](https://www.zvv.ch/zvv/en/travelcards-and-tickets/tickets.html)。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/16de9-img_20190112_152451.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/16de9-img_20190112_152451.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/16de9-img_20190112_152451.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/16de9-img_20190112_152451.jpg)
 
 在這裡要注意的是機場出發的輕軌有兩條線：10號線與12號線，其中只有10號線前往市中心，因此上車前要確認一下。（我那天就是沒看清楚就衝上車，結果只好在反向搭回來換車，耽誤了半個小時@@。）
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/353cf-img_2051.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/353cf-img_2051.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/353cf-img_2051.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/353cf-img_2051.jpg)
 
 
 
@@ -72,18 +72,18 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/99c57-img_2062.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/99c57-img_2062.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/99c57-img_2062.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/99c57-img_2062.jpg)
 
 
 學校面向市區方向有一塊頗大的觀景平台，可以眺望市區全景。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/2b1c6-img_2066.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/2b1c6-img_2066.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/2b1c6-img_2066.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/2b1c6-img_2066.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/21861-img_2071.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/21861-img_2071.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/21861-img_2071.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/21861-img_2071.jpg)
 
 
 
@@ -99,12 +99,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/442b6-img_2073.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/442b6-img_2073.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/442b6-img_2073.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/442b6-img_2073.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/932a3-img_2074.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/932a3-img_2074.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/932a3-img_2074.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/932a3-img_2074.jpg)
 
 
 
@@ -112,7 +112,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/adb97-img_2078.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/adb97-img_2078.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/adb97-img_2078.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/adb97-img_2078.jpg)
 
 
 
@@ -125,17 +125,17 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a735f-img_2082.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a735f-img_2082.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a735f-img_2082.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a735f-img_2082.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/f7ac6-img_2093.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/f7ac6-img_2093.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/f7ac6-img_2093.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/f7ac6-img_2093.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/f718b-img_2095.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/f718b-img_2095.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/f718b-img_2095.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/f718b-img_2095.jpg)
 
 
 
@@ -156,7 +156,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/862df-img_2107.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/862df-img_2107.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/862df-img_2107.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/862df-img_2107.jpg)
 
 
 
@@ -180,7 +180,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/6caf0-img_2110.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/6caf0-img_2110.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/6caf0-img_2110.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/6caf0-img_2110.jpg)
 
 
 
@@ -222,30 +222,30 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/1aeca-img_2109.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/1aeca-img_2109.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/1aeca-img_2109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/1aeca-img_2109.jpg)
 
 
 教堂頂上據說可以眺望蘇黎世全景，不過因為要另外收費就沒有特別上去了，而教堂本身包括地下室都是可以免費自由參觀的。和歐洲許多大教堂一樣，在觀光客動線之外刻意保留了一些讓教友安靜禱告的區域。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/57e1c-img_2112.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/57e1c-img_2112.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/57e1c-img_2112.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/57e1c-img_2112.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/94fc2-img_2114.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/94fc2-img_2114.jpg)
-
-
-
-
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/64626-img_2115.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/64626-img_2115.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/94fc2-img_2114.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/94fc2-img_2114.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/280e5-img_2116.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/280e5-img_2116.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/64626-img_2115.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/64626-img_2115.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/15579-img_2133.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/15579-img_2133.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/280e5-img_2116.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/280e5-img_2116.jpg)
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/15579-img_2133.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/15579-img_2133.jpg)
 
 
 
@@ -256,7 +256,7 @@ featured: true
 沿著同一條路繼續前進，不用5分鐘就來到蘇黎世湖邊。到訪時天色陰沈，地上杳無綠意，但湖邊的景色仍然為蘇黎世增添了幾分風采。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a3b1f-img_2129.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a3b1f-img_2129.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a3b1f-img_2129.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a3b1f-img_2129.jpg)
 
 
 
@@ -269,43 +269,43 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/2840d-img_2125.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/2840d-img_2125.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/2840d-img_2125.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/2840d-img_2125.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/c87b2-img_2127.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/c87b2-img_2127.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/c87b2-img_2127.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/c87b2-img_2127.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/e10ad-img_2131.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/e10ad-img_2131.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/e10ad-img_2131.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/e10ad-img_2131.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/988bc-img_2139.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/988bc-img_2139.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/988bc-img_2139.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/988bc-img_2139.jpg)
 
 
 跨越貫穿蘇黎世市中心的立馬特河（Limmat），從橋上可以看到一整排沿河而建的房屋，中間穿插著幾棟哥德式教堂的尖塔，配合河上優雅的拱橋，非常適合拿來當instagram用圖（因為我本人就真的這麼做了XD）。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/3fb59-img_2137.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/3fb59-img_2137.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/3fb59-img_2137.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/3fb59-img_2137.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/6c95e-img_2145.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/6c95e-img_2145.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/6c95e-img_2145.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/6c95e-img_2145.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/91198-img_2138.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/91198-img_2138.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/91198-img_2138.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/91198-img_2138.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a4020-img_2148.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a4020-img_2148.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a4020-img_2148.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a4020-img_2148.jpg)
 
 
 接著向北走入市區，即使天氣不好路上仍有不少遊客，一對夫婦特別用英文請我幫他們照相，而我接過了手機看到的是希伯來文，於是便問他們，你們是從以色列來的嗎？他們說是，寒暄兩句之後又各自往各自的方向走。和不同國家的旅人在意想不到的地方相遇，這是旅行讓我最享受的地方之一。
@@ -313,7 +313,7 @@ featured: true
 沿著立馬特河西岸向北走，路上可以再次回望大教堂。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/ff4b2-img_2150.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/ff4b2-img_2150.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/ff4b2-img_2150.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/ff4b2-img_2150.jpg)
 
 
 
@@ -342,7 +342,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/faa09-img_2161.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/faa09-img_2161.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/faa09-img_2161.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/faa09-img_2161.jpg)
 
 
 
@@ -350,7 +350,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/2fdef-img_2158.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/2fdef-img_2158.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/2fdef-img_2158.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/2fdef-img_2158.jpg)
 
 
 以上介紹的這兩棟教堂建築都可以看出宗教改革對歷史的影響，特別是教堂的外觀以及建築用途的轉變，慈運理當年改教的影響在今天的蘇黎世仍然清晰可見；不過，他的作為當然也並非全無爭議，值得一提的兩件事情，一是他和馬丁路德的對話，二是他對於重洗派（Anabapsitm）的迫害。
@@ -383,12 +383,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/eb125-img_2156.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/eb125-img_2156.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/eb125-img_2156.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/eb125-img_2156.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/d2a63-img_2157.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/d2a63-img_2157.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/d2a63-img_2157.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/d2a63-img_2157.jpg)
 
 
 
@@ -412,51 +412,51 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/8e575-img_2154.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/8e575-img_2154.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/8e575-img_2154.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/8e575-img_2154.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/35e9e-img_2165.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2019/03/35e9e-img_2165.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/35e9e-img_2165.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/35e9e-img_2165.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/5dac0-img_2195.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/5dac0-img_2195.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/5dac0-img_2195.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/5dac0-img_2195.jpg)
 
 
 在老城區如果迷路迷到累了，稍微往西一點點就可以切換到站前路（Bahnhofstrasse），顧名思義就是火車站前的主要街道，同時也是蘇黎世主要的購物區，不少名店都在這裡設點。我沒有太多時間慢慢逛，但即使是在街上漫步、體會美國少有的歐洲典雅氛圍也是一種享受。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/346ca-img_2177.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/346ca-img_2177.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/346ca-img_2177.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/346ca-img_2177.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/f32be-img_2162.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/f32be-img_2162.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/f32be-img_2162.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/f32be-img_2162.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/681ff-img_2176.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/681ff-img_2176.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/681ff-img_2176.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/681ff-img_2176.jpg)
 
 
 這條街走到底就是火車站，和歐洲大多數車站一樣是開放式的，可以自由進出並且隨意走到月台上看火車（相對於到處都要安檢的某泱泱大國啊XD）。十幾個月台一字排開的終端式車站，是另一個在美國和台灣都不太容易見到的場景。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/b6300-img_2194.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/b6300-img_2194.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/b6300-img_2194.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/b6300-img_2194.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/08e92-img_2184.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/08e92-img_2184.jpg)
-
-
-
-
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/af37d-img_2187.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/af37d-img_2187.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/08e92-img_2184.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/08e92-img_2184.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/860b3-img_2189.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/860b3-img_2189.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/af37d-img_2187.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/af37d-img_2187.jpg)
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/860b3-img_2189.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/860b3-img_2189.jpg)
 
 
 
@@ -472,12 +472,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/effc2-img_2200.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/effc2-img_2200.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/effc2-img_2200.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/effc2-img_2200.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/871fc-img_2199.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/871fc-img_2199.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/871fc-img_2199.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/871fc-img_2199.jpg)
 
 
 
@@ -493,22 +493,22 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/6475c-img_20190112_153720.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/6475c-img_20190112_153720.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/6475c-img_20190112_153720.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/6475c-img_20190112_153720.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/9bf75-img_20190112_160115.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/9bf75-img_20190112_160115.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/9bf75-img_20190112_160115.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/9bf75-img_20190112_160115.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/d7b1d-img_20190112_164445.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/d7b1d-img_20190112_164445.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/d7b1d-img_20190112_164445.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/d7b1d-img_20190112_164445.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/fb469-img_20190112_164754.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/fb469-img_20190112_164754.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/fb469-img_20190112_164754.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/fb469-img_20190112_164754.jpg)
 
 
 

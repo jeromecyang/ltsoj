@@ -55,7 +55,7 @@ My answer is, not at all! Indeed I wouldn’t say all the jokes and satires are 
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)
 </td>
 </tr>
 <tr >

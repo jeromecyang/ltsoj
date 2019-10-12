@@ -19,7 +19,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_1736.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_1736.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_1736.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_1736.jpg)
 
 
 
@@ -35,7 +35,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/b28e7-img_1749.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/b28e7-img_1749.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/b28e7-img_1749.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/b28e7-img_1749.jpg)
 
 
 
@@ -43,7 +43,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/ba51b-img_1743.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/ba51b-img_1743.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/ba51b-img_1743.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/ba51b-img_1743.jpg)
 
 
 
@@ -67,7 +67,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/77c7e-img_1730.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/77c7e-img_1730.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/77c7e-img_1730.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/77c7e-img_1730.jpg)
 
 
 
@@ -75,7 +75,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/74990-img_1747.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/74990-img_1747.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/74990-img_1747.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/74990-img_1747.jpg)
 
 
 
@@ -131,7 +131,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d2fd-img_1728.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d2fd-img_1728.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d2fd-img_1728.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1d2fd-img_1728.jpg)
 
 
 
@@ -147,7 +147,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/674b0-img_1744.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/674b0-img_1744.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/674b0-img_1744.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/674b0-img_1744.jpg)
 
 
 
@@ -163,7 +163,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1354e-img_1734.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1354e-img_1734.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/1354e-img_1734.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/1354e-img_1734.jpg)
 
 
 
@@ -179,7 +179,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/56b58-img_1729.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/56b58-img_1729.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/56b58-img_1729.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/56b58-img_1729.jpg)
 
 
 
@@ -195,7 +195,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/40deb-img_1748.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/40deb-img_1748.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/40deb-img_1748.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/40deb-img_1748.jpg)
 
 
 
@@ -203,7 +203,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/284a2-img_1746.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/284a2-img_1746.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/284a2-img_1746.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/284a2-img_1746.jpg)
 
 
 
@@ -219,7 +219,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/13b59-img_1735.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/13b59-img_1735.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/13b59-img_1735.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/13b59-img_1735.jpg)
 
 
 
@@ -227,7 +227,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/ea740-img_1742.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/ea740-img_1742.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/ea740-img_1742.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/ea740-img_1742.jpg)
 
 
 
@@ -235,7 +235,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5010b-img_1737.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5010b-img_1737.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/5010b-img_1737.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/5010b-img_1737.jpg)
 
 
 
@@ -243,7 +243,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_173
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/baac2-20170719_191126.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/baac2-20170719_191126.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/baac2-20170719_191126.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/baac2-20170719_191126.jpg)
 
 
 
@@ -260,9 +260,9 @@ ROC是一面我們從小就熟悉的旗幟，但總是要長大了之後才知�
 所謂的華人，或者英文裡所說的Chinese，一定要用PRC政府規定的旗幟來代表嗎？這無關對於PRC政權是否支持，存粹只是針對「什麼旗幟或符號可以代表這一群人」。在這裡我看到了多種可能性，而且這些可能性在2017年的波士頓，可以毫不衝突的同時展現在華埠裡面。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6858-img_1731.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6858-img_1731.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6858-img_1731.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d6858-img_1731.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg)

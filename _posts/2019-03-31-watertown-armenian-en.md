@@ -22,7 +22,7 @@ This means "Holy, holy, holy" in Armenian.
 I visited an Armenian church last Sunday morning. What makes the Armenian church (officially known as the "Armenian Apostolic Church") special is not just the language and culture -- historically speaking, Armenian church itself is a very special "denomination", which has be separated from the mainstream Christian church since the 5th century. The separation results in some very unique traditions that you don't see in other parts of Christianity.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/91e6d-img_20190324_095941.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/91e6d-img_20190324_095941.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/91e6d-img_20190324_095941.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/91e6d-img_20190324_095941.jpg)
 
 
 The service started on time at 10am with only 20 people, in a sanctuary that fits at least 200. More people arrived gradually after the service began. Since it was during the Lent, all the splendid icons in front were veiled by a huge black curtain. Almost every word said during the service -- from the priest's calling to the congregation's response -- was "scripted" in a liturgy book in classical Armenian, and the words were mostly "chanted" in tunes, instead of spoken. Now here's a challenge -- as an Asian immigrant in the US, how would I understand what they said during the service?
@@ -32,7 +32,7 @@ Apparently the Armenian church is also aware of the language barrier, as it exis
 With the help of the English translation, I was able to understand what was going on during the service. The liturgy integrates the Nicene Creed, the Lord's Prayer, prayer for the saints as well as Mother Mary, prayer for the Armenian people, etc. There was also a fairly long section of eucharist, even though no bread or juice was distributed during the service. As the service went on, more and more people got in, and eventually filled the entire sanctuary.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/54380-img_20190324_111055.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/54380-img_20190324_111055.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/54380-img_20190324_111055.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/54380-img_20190324_111055.jpg)
 
 
 The sermon was about 15-minute long. It was the time when people were focused most during the entire service, probably because it was the only part done completely in English. This interesting sermon was about the historic St Patrick, since the St Patrick's Day just took place a week before. The pastor said it's possible that St Patrick, who introduced Christianity to Ireland, might have been an Armenian, given that Armenians were sold to Ireland as slaves, and that an Armenian with the same name was recorded in literature. His conclusion is, St Patrick was very strong in his faith, even when he went on exile in a foreign country. Keeping your faith in all circumstances -- this is what we can learn from him. Happy St Patrick's Day!
@@ -40,7 +40,7 @@ The sermon was about 15-minute long. It was the time when people were focused mo
 Finally near the end of the service, the sanctuary was entirely filled. Most people didn't seem quite into the service, and only very few of them opened the liturgy book to follow like I did. This disengagement continued until the end of the service, when people started interact with one another. It wasn't until this moment I realized this is actually a congregation with much warmth and hospitality, as I couldn't see much of that during the service.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/fc7c6-img_20190324_120437.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/fc7c6-img_20190324_120437.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/fc7c6-img_20190324_120437.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/fc7c6-img_20190324_120437.jpg)
 
 
 If I'm to highlight one thing in this entire service, I'd say it's the piece of bread I got in an envelope at the end of the service. It is the bread of the eucharist, just like I'd get at any other church service, but here's what the liturgy book says about it: **"The faithful will receive the bread at the end of the service and say, 'the Lord is my portion forever.'"** It's adopted from Psalm 73:26. In a plain language, this means "the body of Christ is broken and becomes part of our body". As a Protestant, I didn't get to see this aspect of the eucharist often. The experience at this Armenian church again reminded me the rich and diverse traditions of the broader Christian church.
@@ -52,9 +52,9 @@ If I'm to highlight one thing in this entire service, I'd say it's the piece of 
 I ended this little Armenian culture tour with an authentic Armenian lunch at [Jana's Grill & Bakery](https://www.janagrill.com/). I had a **Losh Kebab** (aka Armenian burger), made of 1/2 ground beef and 1/2 ground lamb with parsley, cilantro, beet, onion and pickle. The sausage was very juicy and had a little smoky smell, and various spices also greatly enriched the flavor. Good food often makes you appreciate a culture/people even more -- this is exactly what happened to me that day.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/26ec8-img_20190324_131103.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/26ec8-img_20190324_131103.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/26ec8-img_20190324_131103.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/26ec8-img_20190324_131103.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_20190324_125413.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_20190324_125413.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_20190324_125413.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_20190324_125413.jpg)

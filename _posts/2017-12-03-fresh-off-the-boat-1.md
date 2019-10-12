@@ -16,7 +16,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-2017042
 來到一個新的城市就像認識一個人，你對他的第一印象通常會特別深刻，但是往往得相處一段時間之後才會發現他真實的面貌。這天來到波士頓，對我來說就像是去見一位第一次碰面的網友，而且還是一位相當不熟、碰面之前沒有太多互動的網友。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg)
 
 
 **我為什麼會到麻州與波士頓**
@@ -34,7 +34,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-2017042
 <tbody >
 <tr >
 
-<td >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg)
+<td >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/df932-cimg0012.jpg)
 </td>
 </tr>
 <tr >
@@ -51,7 +51,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-2017042
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/fdbc3-backtoworcestermy2010-2012-17.jpg)
 </td>
 </tr>
 <tr >
@@ -66,7 +66,7 @@ Worcester是個麻州中部的後工業化城市，瀰漫著繁華褪盡的蕭�
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/a5596-cimg0028.jpg)
 </td>
 </tr>
 <tr >
@@ -83,7 +83,7 @@ Worcester是個麻州中部的後工業化城市，瀰漫著繁華褪盡的蕭�
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/6afe3-backtoworcestermy2010-2012-19.jpg)
 </td>
 </tr>
 <tr >
@@ -100,7 +100,7 @@ Worcester是個麻州中部的後工業化城市，瀰漫著繁華褪盡的蕭�
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/08fcd-backtoworcestermy2010-2012-26.jpg)
 </td>
 </tr>
 <tr >
@@ -138,7 +138,7 @@ Worcester是個麻州中部的後工業化城市，瀰漫著繁華褪盡的蕭�
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/0dcf4-mobile25281232529.jpg)
 </td>
 </tr>
 <tr >

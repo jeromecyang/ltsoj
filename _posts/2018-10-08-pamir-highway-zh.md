@@ -16,7 +16,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 帕米爾高原，一個台灣人地理課本上一定會讀到的名詞，歷史課本上通常叫蔥嶺，是從南疆往西必定會通過的一道天險，張騫通西域（西元前12 9年）、玄奘西行取經（西元628年）時都逃不掉。千餘年後的2018年5月19日，剛在人間仙境頌湖當了三天偽遊牧民族的我，馬不停蹄的踏上了這段驚險萬分的旅程，只是方向正好和張騫與玄奘相反——從來沒有去過中國新疆的我，要從更西邊進入中國最西的城市，新疆喀什。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_20180521_074720.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_20180521_074720.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_20180521_074720.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_20180521_074720.jpg)
 
 
 這段1,200公里長的旅程大致可以分成四段，每一段都有其獨特的挑戰，其中前2段甚至都是在語言不通的情境下進行的：
@@ -27,7 +27,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 4. 伊爾克什坦 Irkeshtam — 喀什 Kashgar （240km，中國境內 In China）
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4e2-from2bbishkeke2bto2bkashgar.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4e2-from2bbishkeke2bto2bkashgar.png)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4e2-from2bbishkeke2bto2bkashgar.png)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4e2-from2bbishkeke2bto2bkashgar.png)
 
 
 以下就一一回顧我的這4段冒險旅程。
@@ -42,7 +42,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/18cec-img_20180519_153235_1.jpg)
 </td>
 </tr>
 <tr >
@@ -59,7 +59,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5a030-img_20180519_162312.jpg)
 </td>
 </tr>
 <tr >
@@ -73,7 +73,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/df1d5-img_20180519_162318.jpg)
 </td>
 </tr>
 <tr >
@@ -87,7 +87,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec546-img_20180519_172109.jpg)
 </td>
 </tr>
 <tr >
@@ -102,24 +102,24 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 傍晚的這段路走在高原上，相當筆直寬敞，除了市區交通稍嫌混亂、路上不斷被警察攔下來（看司機的應對方式感覺是在索賄）之外都很平順；但1個多小時之後，車子開始往山間的一條峽谷開去，路幅也縮小成雙向各一線，通過一個收費站之後就開始進入了山路。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0b295-img_20180519_172113.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0b295-img_20180519_172113.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0b295-img_20180519_172113.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0b295-img_20180519_172113.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/61331-img_20180519_173827.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/61331-img_20180519_173827.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/61331-img_20180519_173827.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/61331-img_20180519_173827.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/eeab7-img_20180519_191407.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/eeab7-img_20180519_191407.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/eeab7-img_20180519_191407.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/eeab7-img_20180519_191407.jpg)
 
 
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e1d95-img_20180519_191546.jpg)
 </td>
 </tr>
 <tr >
@@ -132,12 +132,12 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 在蘇聯劃定成員國的國界時，吉爾吉斯算是相對倒霉的一個國家——由於吉爾吉斯人大多住在山地，畫給他們的疆域也就幾乎都是山區，鄰近的平地則大多被劃入烏茲別克，這使得境內交通非常不便——從比什凱克到奧什要翻過三座山脈，每座山脈的爬升高度和寬度都等同台灣中央山脈甚至更高，因此這段路不只風景很像台灣的橫貫公路，試想一個晚上走三遍台中到花蓮的橫貫公路，這兩個城市之間的交通就是如此困難。此外，有些路段明明就可以走平地，卻因為會穿過烏茲別克國境，所有車輛都得繞道山路。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8ac0-img_20180519_192109.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8ac0-img_20180519_192109.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8ac0-img_20180519_192109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8ac0-img_20180519_192109.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0dcf4-img_20180519_193302.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0dcf4-img_20180519_193302.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0dcf4-img_20180519_193302.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0dcf4-img_20180519_193302.jpg)
 
 
 
@@ -163,12 +163,12 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/21154-img_20180519_202103.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/21154-img_20180519_202103.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/21154-img_20180519_202103.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/21154-img_20180519_202103.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe542-img_20180519_201431.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe542-img_20180519_201431.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe542-img_20180519_201431.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe542-img_20180519_201431.jpg)
 
 
 
@@ -183,7 +183,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0388c-img_20180519_204013.jpg)
 </td>
 </tr>
 <tr >
@@ -197,7 +197,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/729f1-img_20180519_203959.jpg)
 </td>
 </tr>
 <tr >
@@ -230,7 +230,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/186d6-img_20180520_055912.jpg)
 </td>
 </tr>
 <tr >
@@ -242,17 +242,17 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8ae22-img_20180520_062259.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8ae22-img_20180520_062259.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8ae22-img_20180520_062259.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8ae22-img_20180520_062259.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/1180a-img_20180520_062849.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/1180a-img_20180520_062849.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/1180a-img_20180520_062849.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/1180a-img_20180520_062849.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5f627-img_20180520_063615.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5f627-img_20180520_063615.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5f627-img_20180520_063615.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5f627-img_20180520_063615.jpg)
 
 
 眼前雖有平地卻行不得——如同前面所說，這片平地是烏茲別克領土，要前往谷地另一端的吉爾吉斯人只能繞道山路而行。大約早上7點，司機在距離奧什市中心不遠的一片荒地放我下車，我找到一處公園裡的座椅稍微休息、早餐並整理裝備，並且用公園內天然湧出的泉水稍微盥洗，此後也到奧什市區的景點Sulayman Mountain走走。山頂有間小清真寺，在那裡遇見不少來此郊遊的吉爾吉斯少男少女，各個都精心打扮，在山頂拍下美美的照片，和我們這些邋遢不堪的背包客形成強烈對比。
@@ -260,7 +260,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ec551-img_20180520_080359.jpg)
 </td>
 </tr>
 <tr >
@@ -274,7 +274,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8a1c7-img_20180520_085802.jpg)
 </td>
 </tr>
 <tr >
@@ -288,7 +288,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)
 </td>
 </tr>
 <tr >
@@ -314,7 +314,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c5034-img_20180520_093133.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c5034-img_20180520_093133.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c5034-img_20180520_093133.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c5034-img_20180520_093133.jpg)
 
 
 
@@ -343,7 +343,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)
 </td>
 </tr>
 <tr >
@@ -362,7 +362,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)
 </td>
 </tr>
 <tr >
@@ -377,19 +377,19 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 隨著海拔越來越高，原本就陰沈的天氣也越來越糟，先是變成大雨，接著又變成大雪。沿途好幾次碰到利用公路趕羊群的牧民，把整個路面站滿，帶有點戰鬥民族氣息的司機總會開著車用力逼近，然後猛烈的長按喇叭，試圖讓羊群早點讓開。這些景象讓我開始比較理解各種動物的習性，例如羊就是種反應相對遲鈍的動物，牧民們通常會騎著馬趕羊，配合傳說中的牧羊犬幫忙引導羊群，每到了季節就這樣趕著大群動物上山下山。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/18ef4-img_20180520_150736.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/18ef4-img_20180520_150736.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/18ef4-img_20180520_150736.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/18ef4-img_20180520_150736.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/4d31f-img_20180520_152512.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/4d31f-img_20180520_152512.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/4d31f-img_20180520_152512.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/4d31f-img_20180520_152512.jpg)
 
 
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/10f44-img_20180520_155813.jpg)
 </td>
 </tr>
 <tr >
@@ -401,12 +401,12 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d722e-img_20180520_162445.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d722e-img_20180520_162445.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d722e-img_20180520_162445.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d722e-img_20180520_162445.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fde5d-img_20180520_162456.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fde5d-img_20180520_162456.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fde5d-img_20180520_162456.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fde5d-img_20180520_162456.jpg)
 
 
 接近Sary-Tash的時候，公路通過進入帕米爾高原前的最後一到山脈，這裡的窗外已經是接近大風雪的景象，視野裡完全是白茫茫的一片，原本預期可以看到的崇山峻嶺連個影子都沒有；翻過了最高點公路開始下降，天氣也稍微好轉，最後我們來到了高原上一個沒什麼人煙的小村，這裡就是今晚要過夜的Sary-Tash。這個偏僻的小村之所以重要，是因為它位在一個四通八達的十字路口上：往北是吉爾吉斯奧什，往東是中國喀什，往南是塔吉克東部山區，往西則是塔吉克首都杜尚別。
@@ -414,7 +414,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e820-img_20180520_171612.jpg)
 </td>
 </tr>
 <tr >
@@ -428,7 +428,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e3e7b-img_20180520_172900.jpg)
 </td>
 </tr>
 <tr >
@@ -442,7 +442,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/3150b-img_20180520_172908.jpg)
 </td>
 </tr>
 <tr >
@@ -456,7 +456,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b19dc-img_20180520_173709.jpg)
 </td>
 </tr>
 <tr >
@@ -468,12 +468,12 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/26f65-img_20180520_173712.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/26f65-img_20180520_173712.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/26f65-img_20180520_173712.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/26f65-img_20180520_173712.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/88d57-img_20180520_181610.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/88d57-img_20180520_181610.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/88d57-img_20180520_181610.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/88d57-img_20180520_181610.jpg)
 
 
 到達的時候是下午5:30，天氣正好不算太差，我在村裡裡面繞了幾圈，試圖找出在訂房網站上看到的青年旅社——雖然下車地點附近已經看到有間正在營業、網路論壇上也推薦的客棧，我還是想找找青年旅社，心想這樣比較有機會碰到同樣前往中國的背包客同行。結果令人意外的是，所有訂房網站上可見的青年旅社都是人去樓空、大門深鎖的狀態，四周只有動物沒有人煙，最後我才理解——這些地方雖然在訂房網站上有，其實應該只有在旺季的時候才營業，平常像這種季節這種天氣哪有什麼生意？於是我走回下車時看到的客棧，除了住宿外也包早晚兩餐，客棧主人可以用英文溝通，在這個荒涼偏僻的地方簡直是背包客唯一的希望。
@@ -483,7 +483,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/fe784-img_20180520_185411.jpg)
 </td>
 </tr>
 <tr >
@@ -497,7 +497,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5448e-img_20180520_191050.jpg)
 </td>
 </tr>
 <tr >
@@ -515,7 +515,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/f466d-img_20180521_064953.jpg)
 </td>
 </tr>
 <tr >
@@ -527,17 +527,17 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c6f4e-img_20180521_064942.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c6f4e-img_20180521_064942.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c6f4e-img_20180521_064942.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c6f4e-img_20180521_064942.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ad5d9-img_20180521_064948.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ad5d9-img_20180521_064948.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/ad5d9-img_20180521_064948.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/ad5d9-img_20180521_064948.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/47441-img_20180521_072444.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/47441-img_20180521_072444.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/47441-img_20180521_072444.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/47441-img_20180521_072444.jpg)
 
 
 昨夜下了大雪，出門時發現前一天見到的短草地完全消失了！大地是白茫茫一片，遍地積雪和迷濛的天空連成一氣，整幅畫面非黑即白。我來到了前往邊界的路口，站在附近開始等待車輛到來。不知是否因為天氣不好，那天早上的車子非常少，等了45分鐘只有兩輛小客車通過；拒絕了第一輛明顯是要賺我觀光客錢的計程車，正擔心還會不會碰到下一輛車的時候，一輛小客車就從山的另一邊滑進我的視線，聽到我嘴裡說著Irkeshtam，就毫不猶豫地叫我上車。時間：早上7:40。
@@ -547,7 +547,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/76215-img_20180521_075944.jpg)
 </td>
 </tr>
 <tr >
@@ -559,17 +559,17 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f94bb-img_20180521_075416.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/f94bb-img_20180521_075416.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/f94bb-img_20180521_075416.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/f94bb-img_20180521_075416.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c8322-img_20180521_074720.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c8322-img_20180521_074720.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c8322-img_20180521_074720.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c8322-img_20180521_074720.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/9c214-img_20180521_075052.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/9c214-img_20180521_075052.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/9c214-img_20180521_075052.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/9c214-img_20180521_075052.jpg)
 
 
 「請問你幾歲？」阿瓦茲突然問我。
@@ -595,7 +595,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d53fd-img_20180520_182115.jpg)
 </td>
 </tr>
 <tr >
@@ -609,7 +609,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b2b9e-img_20180521_084109.jpg)
 </td>
 </tr>
 <tr >
@@ -623,7 +623,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/91968-img_20180521_084225.jpg)
 </td>
 </tr>
 <tr >
@@ -635,7 +635,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5eacf-img_20180521_084348.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5eacf-img_20180521_084348.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/5eacf-img_20180521_084348.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/5eacf-img_20180521_084348.jpg)
 
 
 
@@ -648,14 +648,14 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e11a6-img_20180521_084925.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e11a6-img_20180521_084925.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e11a6-img_20180521_084925.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e11a6-img_20180521_084925.jpg)
 
 
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/100e4-img_20180521_085121.jpg)
 </td>
 </tr>
 <tr >
@@ -665,7 +665,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 </tr>
 </tbody>
 </table>
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b85ff-img_20180521_085428.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b85ff-img_20180521_085428.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b85ff-img_20180521_085428.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/b85ff-img_20180521_085428.jpg)
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
@@ -756,7 +756,7 @@ ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/a0322-img_20180521_110524.jpg)
 </td>
 </tr>
 <tr >
@@ -793,12 +793,12 @@ ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg
 接著從口岸到客運站又是兩公里路，口岸門外景象荒涼，唯一可以換人民幣的地方是右邊的一家機車行（可想而知匯率有多差），我索性沿著馬路慢慢往客運站走，順便看看這個城市。這區的道路都蓋的又新又寬，路上號誌、人行道甚至公車站都有，但轉頭看兩旁全部都是空地呀，偶爾出現一兩棟嶄新的房子也不像是真的有在使用，像極了台灣開發失敗的那些新市鎮。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8924-img_20180521_182604.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8924-img_20180521_182604.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8924-img_20180521_182604.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/e8924-img_20180521_182604.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8b458-img_20180521_182609.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8b458-img_20180521_182609.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8b458-img_20180521_182609.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8b458-img_20180521_182609.jpg)
 
 
 進到客運站第一件事情依然是安檢，接著買了前往喀什的客運車票，並且進入大廳打算休息一下。這時身邊一個大哥突然過來，用我不是聽得很懂的口音很激動的對我說了一串話；我一回沒聽懂，後來慢慢懂了——從烏恰到喀什的「客運」其實就是出租車，湊滿4人就會開車，現在加我的話有3個人，所以如果我們每個人多付一些錢的話現在就可以出發了。他一直重複著「一包菸的錢」，就是這句話讓我一直聽不明白，因為我真的不知道一包菸的錢是多少呀。
@@ -814,7 +814,7 @@ ea74b57f6e061d95694b3f6a1a9d61b4/4e4a20a4462309f7d3276155720e0cf3d7cad629.jpg
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)
 </td>
 </tr>
 <tr >

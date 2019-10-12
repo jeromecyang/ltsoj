@@ -38,7 +38,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/28251-main-img.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/28251-main-img.png)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/28251-main-img.png)](https://lifetimesojournertravel.files.wordpress.com/2017/10/28251-main-img.png)
 </td>
 </tr>
 <tr >
@@ -63,7 +63,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg)
 </td>
 </tr>
 <tr >
@@ -80,7 +80,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 《校閱女王》裡的河野悦子是個熱情而且富有創意的人，踏入校閱部辦公室之後馬上覺得這個地方既沈悶又無聊，因此開始想辦法讓辦公室變得有趣，甚至刻意趁一大早同事都還沒到達辦公室的時候在所有人的座位旁放上可愛的章魚吊飾（因為劇中和她不打不相識的編輯綽號叫做章魚）。這幾年我也嘗試在辦公室裡開發各種小樂趣。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/893c8-screen2bshot2b2017-10-222bat2b7.30.422bpm.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/893c8-screen2bshot2b2017-10-222bat2b7.30.422bpm.png)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/893c8-screen2bshot2b2017-10-222bat2b7.30.422bpm.png)](https://lifetimesojournertravel.files.wordpress.com/2017/10/893c8-screen2bshot2b2017-10-222bat2b7.30.422bpm.png)
 
 
 **1. 整個辦公室都是我的飛機觀景台**
@@ -90,7 +90,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/a5a4f-img_6549.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/a5a4f-img_6549.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/a5a4f-img_6549.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/a5a4f-img_6549.jpg)
 </td>
 </tr>
 <tr >
@@ -173,7 +173,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/91cce-20170414_131547.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/91cce-20170414_131547.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/91cce-20170414_131547.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/91cce-20170414_131547.jpg)
 </td>
 </tr>
 <tr >
@@ -186,7 +186,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 **夢想的職業與天賦所在的職業**
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/63d16-screen2bshot2b2017-10-222bat2b7.27.412bpm.png?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/10/63d16-screen2bshot2b2017-10-222bat2b7.27.412bpm.png)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/63d16-screen2bshot2b2017-10-222bat2b7.27.412bpm.png)](https://lifetimesojournertravel.files.wordpress.com/2017/10/63d16-screen2bshot2b2017-10-222bat2b7.27.412bpm.png)
 
 
 日劇向來愛說教，《校對女王》特別篇的結尾，總結全劇核心價值的說教台詞讓我特別有感：「畢竟夢想所在的職業並不等於天賦所在的職業。」夢想是成為時尚雜誌編輯的河野悅子，在特別篇裡達成了夢想，但最後卻發現原來比起編輯，自己的天賦和熱情似乎更適合校對，這也讓我馬上想到自己——在研究所畢業之前，進入科技業從來就不是我的夢想，甚至這五年多工作下來很多時候我都想要逃離，也付諸行動嘗試了一些可能性。但最近我卻意識到一件事：即使當一輩子的軟體工程師仍然不是我的夢想，繼續留在科技業卻可能是對我來說最好的選項。

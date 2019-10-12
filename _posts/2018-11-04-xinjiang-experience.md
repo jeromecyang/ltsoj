@@ -18,7 +18,7 @@ featured: true
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)
 </td>
 </tr>
 <tr >
@@ -32,7 +32,7 @@ featured: true
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7d7bf-img_20180523_085507.jpg)
 </td>
 </tr>
 <tr >
@@ -44,7 +44,7 @@ featured: true
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/87f8e-f13199872.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/87f8e-f13199872.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/87f8e-f13199872.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/87f8e-f13199872.jpg)
 
 
 
@@ -52,7 +52,7 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/3bd43-f13836864.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/3bd43-f13836864.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/3bd43-f13836864.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/3bd43-f13836864.jpg)
 
 
 
@@ -67,27 +67,27 @@ featured: true
 我決定先不下結論，先多觀察一些再說。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0fd6e-img_20180522_153511.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0fd6e-img_20180522_153511.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0fd6e-img_20180522_153511.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0fd6e-img_20180522_153511.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d0473-img_20180522_132335.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d0473-img_20180522_132335.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d0473-img_20180522_132335.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d0473-img_20180522_132335.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e7e7-img_20180523_082336.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e7e7-img_20180523_082336.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e7e7-img_20180523_082336.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e7e7-img_20180523_082336.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/60b39-f13911936.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/60b39-f13911936.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/60b39-f13911936.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/60b39-f13911936.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a05e-f13438272.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a05e-f13438272.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a05e-f13438272.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a05e-f13438272.jpg)
 
 
 
@@ -108,22 +108,17 @@ featured: true
 身邊的中國朋友在我出發前告訴我，這就是中國的特色啊，到處都要安檢；但問題是後來我離開新疆之後馬上就發現：其實不是全中國都這樣。在新疆以外的地方，只有進入候車大廳需要一次安檢，而且也不會要求掃描手機內容。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/9437e-f14046080.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/11/9437e-f14046080.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/9437e-f14046080.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/9437e-f14046080.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/52bde-f14243200.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/52bde-f14243200.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/52bde-f14243200.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/52bde-f14243200.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/b1302-f13546944.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/11/b1302-f13546944.jpg)
-
-
-
-
-
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/b1302-f13546944.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/b1302-f13546944.jpg)
 
 
 
@@ -132,7 +127,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/55ef8-f13449280.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/11/55ef8-f13449280.jpg)
+
+
+
+
+
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/55ef8-f13449280.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/55ef8-f13449280.jpg)
 
 
 
@@ -151,17 +151,17 @@ featured: true
 塔什庫爾干是南疆通往巴基斯坦必須經過的山區，也就是以前地理課本上的喀喇崑崙山所在地，距離喀什約300公里，途經海拔5,000米以上的雪山與冰河，風景壯麗不輸西藏。背包客走這條路有兩種方法，一是搭便宜但速度較慢的大巴，二是花多一點的錢，坐載貨兼載人的皮卡。當皮卡師傅對著我吆喝的時候我心裡算了一下，才300公里路耶，就算平均時速50公里也不可能需要10個小時呀，你擺明是看我觀光客路不熟要騙我錢吧？
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/25e38-img_20180523_105312.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/25e38-img_20180523_105312.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/25e38-img_20180523_105312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/25e38-img_20180523_105312.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/751c2-img_20180523_110017.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/751c2-img_20180523_110017.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/751c2-img_20180523_110017.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/751c2-img_20180523_110017.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2c157-f14447680.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2c157-f14447680.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2c157-f14447680.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2c157-f14447680.jpg)
 
 
 北京時間早上11點（新疆時間早上9點），大巴從喀什出發，車子本身又新又舒適，前段道路既平又直，我開始樂觀了起來。「照這個速度，搞不好不用5個小時就可以到了呢！還好沒有被皮卡師傅騙。」我在心裡這樣想著，直到發現車子開始龜速前進，而且一次接著一次停下來安檢，才意識到這條路可能沒有我以為的那麼容易。
@@ -171,22 +171,22 @@ featured: true
 原來，車上有乘客沒帶邊防證，被要求回到喀什重辦。漢族師傅很好心的幫他們聯絡了下一班上山大巴的司機，拜託他在喀什等這兩個人辦好證件再出發；無奈這兩位非漢族的乘客似乎不諳中文，對於司機的安排一知半解，一路上師父焦急的打電話給他們好幾次，「你辦好就到那個ＯＯ路那邊啊。啊什麼？ＯＯ路啊，Ｏ—Ｏ—路！⋯⋯」講到最後師傅的口氣幾乎像是在罵人了。即使都是在地人，雙方溝通顯然十分困難。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/08166-f14588800.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/08166-f14588800.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/08166-f14588800.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/08166-f14588800.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2116b-f14627712.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2116b-f14627712.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2116b-f14627712.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2116b-f14627712.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9fc3-f15041088.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9fc3-f15041088.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9fc3-f15041088.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9fc3-f15041088.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/dff46-f15070848.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/dff46-f15070848.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/dff46-f15070848.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/dff46-f15070848.jpg)
 
 
 終於，經過一次又一次的安檢（這300公里路總共停了8次之多），大巴緩緩從山坡上滑入群山圍繞的美麗小鎮塔什庫爾干，只見往前一個路口轉個彎就到達目的地，我們卻硬是在路邊被攔了下來。司機打開了車門，一位武警隨即走了上來。
@@ -200,27 +200,27 @@ featured: true
 這讓我馬上想到前一天在喀什跟青旅認識的朋友逛老城的時候，她熟練地從老城入口安檢門旁繞過、旁邊的武警也一聲未吭的景象。「漢人他們通常都不檢查的。」朋友這麼對我說。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/01c8d-f15120960.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/01c8d-f15120960.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/01c8d-f15120960.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/01c8d-f15120960.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/694e4-f15152384.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/694e4-f15152384.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/694e4-f15152384.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/694e4-f15152384.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7cac0-f15348416.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7cac0-f15348416.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7cac0-f15348416.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7cac0-f15348416.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e24d7-f15672704.jpg?w=300)](http://lifetimesojournertravel.files.wordpress.com/2018/11/e24d7-f15672704.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e24d7-f15672704.jpg)](http://lifetimesojournertravel.files.wordpress.com/2018/11/e24d7-f15672704.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d4c6a-f15435776.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d4c6a-f15435776.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d4c6a-f15435776.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d4c6a-f15435776.jpg)
 
 
 
@@ -243,12 +243,12 @@ featured: true
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/79d54-img_20180524_085312.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f63fd-img_20180524_101118.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f63fd-img_20180524_101118.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f63fd-img_20180524_101118.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f63fd-img_20180524_101118.jpg)
 
 
 「你看這些房子，每個都蓋得很漂亮，那都是政府出錢給他們修的。前幾年還每家發一輛機車！」
@@ -262,57 +262,57 @@ featured: true
 「之前西藏也是這樣，後來也是換個人上去，幾年之後就好了，現在藏族人很多都出來工廠上班了；以後就看新疆會不會也好一些⋯⋯。」
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7fa5f-f15722688.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7fa5f-f15722688.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7fa5f-f15722688.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7fa5f-f15722688.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d5613-f15774336.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d5613-f15774336.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d5613-f15774336.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d5613-f15774336.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f087a-f15809856.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f087a-f15809856.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f087a-f15809856.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f087a-f15809856.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9dab-f15818496.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9dab-f15818496.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9dab-f15818496.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f9dab-f15818496.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/ecb3b-f15966400.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/ecb3b-f15966400.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/ecb3b-f15966400.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/ecb3b-f15966400.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e6a22-f16046592.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e6a22-f16046592.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e6a22-f16046592.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e6a22-f16046592.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/360da-f16145344.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/360da-f16145344.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/360da-f16145344.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/360da-f16145344.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f0525-f16419456.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f0525-f16419456.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f0525-f16419456.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f0525-f16419456.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e499-f16484544.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e499-f16484544.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e499-f16484544.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0e499-f16484544.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a5b5-f16373120.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a5b5-f16373120.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a5b5-f16373120.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2a5b5-f16373120.jpg)
 
 
 
@@ -322,21 +322,21 @@ featured: true
 
 眼前這座建築，我當然看得出來是加氣站，不過⋯⋯怎麼看起來更像是個營區？整個加油站用圍牆加上蛇龍鐵絲網圍起來，只留下一個大門固定緊閉的出口，門外放著大大的拒馬。阿伯開車到了門口，先給保安出示身份證並進行簡單安檢，安檢過了之後放行進入加氣站，加氣前當然也要先刷身分證，加完氣之後出來我才能上車，整個過程就和出入軍營一模一樣。「這年頭沒帶身份證啥都辦不了。」阿伯對我說。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/220d3-f17021312.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/220d3-f17021312.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/220d3-f17021312.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/220d3-f17021312.jpg)
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4c4de-f17036416.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4c4de-f17036416.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4c4de-f17036416.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4c4de-f17036416.jpg)
 
 接下來我們經過了昨天大巴龜速前進的路段。「這個區間測速可煩了，你要是沒有花一定時間通過他就給你開罰單。前幾年這裡出過事情，後來就規定速限60，大車40⋯⋯。」說著說著，阿伯似乎對於現在新疆的現狀也不太滿意，「唉，你他媽的現在整個新疆搞的草木皆兵的，做什麼都很麻煩⋯⋯。」
 
 中午時分回到喀什，阿伯找了家他常去的麵店吃飯，店裡的大姐來自內地南方，聽到我的口音就熱情的聊了起來，也提到了我的台灣人以及海外移民身份。吃完飯加了微信，走出店門幾步才發現忘了付錢，於是我馬上跑回去；大姐收了我的錢之後語重心長地跟我說，「你在國內自己要小心啊，儘量不要讓別人知道你是台灣人或是住海外，自己注意安全。」
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/01925-img_20180524_174808.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/01925-img_20180524_174808.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/01925-img_20180524_174808.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/01925-img_20180524_174808.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c0707-img_20180524_170529.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c0707-img_20180524_170529.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c0707-img_20180524_170529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c0707-img_20180524_170529.jpg)
 
 
 
@@ -349,7 +349,7 @@ featured: true
 「就住這裡吧，大概100元左右的。」抵達阿克蘇的時候已經是北京時間22:30（新疆時間20:30），阿伯把我載到阿克蘇最繁華的十字路口。阿克蘇和南疆的其他城市不太一樣，是個漢人為主、歷史不太悠久的城市，十字路口四週道路都是旅店、餐廳、購物商場甚至KTV，夜裡燈火輝煌，街上也相當熱鬧，讓人完全感覺不出來這裡是塔克拉瑪干沙漠的邊緣。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c78a4-img_20180524_222606.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c78a4-img_20180524_222606.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c78a4-img_20180524_222606.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c78a4-img_20180524_222606.jpg)
 
 
 我沒有在阿伯推薦的賓館住下，下了車直接往馬蜂窩上面看到評價不錯的老字號旅店走去。不令人意外的是，儘管是相當有年紀的家庭式賓館，進門第一件事情仍然是安檢，不過一般家庭客廳大的大廳硬是被塞入了一座電子感測門和X光機，一位頗有年紀的保安坐在那裡，對著我的紅色背包反覆查看，順手抽起了插在背包外邊的一罐統一冰紅茶。
@@ -390,12 +390,12 @@ featured: true
 於是，我攔了另外一輛出租車，回到了剛剛的路口，先參考派出所員警的建議，去了他們說「肯定涉外」的漢庭酒店（全國連鎖商務型），在櫃檯前等了15分鐘之後再次被打槍；最後，我照著之前阿姨所說「高級酒店通常都可以涉外」的原則，放棄所有三星以下的選擇，來到一家路口附近最高級的四星酒店，時間已經是23:00（北京時間凌晨01:00）。通過了酒店門口的安檢，櫃檯看了我的旅行證愣了一下，上下打量了幾番，然後打電話向上級求救。那時候我心裡想的是，拜託，你們已經是我最後的希望了，再不行我就真的要流落街頭了啊！
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/775e7-img_20180525_005535.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/775e7-img_20180525_005535.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/775e7-img_20180525_005535.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/775e7-img_20180525_005535.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/46499-img_20180525_100249.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/46499-img_20180525_100249.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/46499-img_20180525_100249.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/46499-img_20180525_100249.jpg)
 
 
 最後，櫃檯接獲指示把我的證件先全部複印，然後讓我入住。價格是比我原本預算高出許多的人民幣260元——幸好中國的住宿費用整體而言偏低，雖然住的是超出原本預算的四星酒店（雙人標準間附帶自助式早餐），花費卻和紐約青年旅館裡面一張床位差不多，就當作是風塵僕僕了兩週半之後稍微犒賞一下自己吧！
@@ -403,17 +403,17 @@ featured: true
 那一刻才意識到自己忙著找地方住，連晚餐都還沒吃，但街上的餐廳幾乎都已關門，只好到路口還未打烊的便利商店買康師傅。我一邊用麵碗裡附的小叉子吃著泡麵，一邊回想著剛剛的經歷——自己的確是大意了，中國賓館有分涉外和不涉外，這是個背包客常識（雖然全世界沒幾個國家有這種規定）；但一路走來的經歷也頗令人玩味——外賓登記了就可以隨便住？哪家涉外哪家不涉外？似乎沒有人知道真正的規定到底是什麼，只是每個人都緊張兮兮的，深怕出了事就準備倒大楣。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/bdf5e-20180525_122609.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/bdf5e-20180525_122609.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/bdf5e-20180525_122609.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/bdf5e-20180525_122609.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4e8b6-20180525_122620.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4e8b6-20180525_122620.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4e8b6-20180525_122620.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4e8b6-20180525_122620.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0a2ac-20180525_141604.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0a2ac-20180525_141604.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0a2ac-20180525_141604.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0a2ac-20180525_141604.jpg)
 
 
 
@@ -426,12 +426,12 @@ featured: true
 我試圖想要進入迷宮般的老城裡，卻發現幾乎每個路口都設有安檢，彷彿是一座設了門禁的老城。觀察這些檢查站，很容易察覺它們都是被「硬塞」到老城裡的，像是其中許多地方因為街口空間不足，乾脆把一旁的民房直接改裝成檢查站，民房旁邊的街道被封鎖起來，要進入老城裡不是直接從街道進入，而是先進入民房、穿過檢查站裡的電子感測門，然後再從民房另一端進入城內。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/a45cc-f17515520.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/a45cc-f17515520.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/a45cc-f17515520.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/a45cc-f17515520.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/37764-f17528832.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/37764-f17528832.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/37764-f17528832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/37764-f17528832.jpg)
 
 
 不過除了安檢之外，這裡仍然有著老城該有的愜意。城裡多為平房，其中許多都在門板與樑柱上畫著繁複奪目的圖案；老城旁的清真寺前有著市集，路邊的攤販前排著一袋袋色彩鮮豔的香料，路上仍然可以見到牛車來往，漢族面孔在這裡並不多見，街道上的孩子仍然以維吾爾語交談。「這才是我期待看到的新疆」，我在心裡默默想著。
@@ -439,44 +439,44 @@ featured: true
 然而現實的改變仍是不可阻擋。即使像庫車保有這麼純樸的古城，大多數的商業活動早就移到河對岸的新城，那裡的一切就像中國大多數三四線城市一樣——農田剷平改成20層樓以上的小區，市集被購物商場取代，人們過著典型的中國城市生活。或許，一個文化或語言的存亡之秋，不是它被強行消滅的時候，而是它的重要性在不知不覺中持續下降的時候。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/41be8-f17218752.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/41be8-f17218752.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/41be8-f17218752.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/41be8-f17218752.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2326e-f17291904.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2326e-f17291904.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/2326e-f17291904.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/2326e-f17291904.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/5fc8f-f17314816.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/5fc8f-f17314816.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/5fc8f-f17314816.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/5fc8f-f17314816.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e9955-f17357952.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e9955-f17357952.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e9955-f17357952.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e9955-f17357952.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/feafe-f17382720.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/feafe-f17382720.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/feafe-f17382720.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/feafe-f17382720.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/933f3-f17409216.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/933f3-f17409216.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/933f3-f17409216.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/933f3-f17409216.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/92f98-f17446592.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/92f98-f17446592.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/92f98-f17446592.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/92f98-f17446592.jpg)
 
 
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/4f728-20180525_204326.jpg)
 </td>
 </tr>
 <tr >
@@ -488,12 +488,12 @@ featured: true
 </table>
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/85891-20180525_205919.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/85891-20180525_205919.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/85891-20180525_205919.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/85891-20180525_205919.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/52711-20180525_205927.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/52711-20180525_205927.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/52711-20180525_205927.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/52711-20180525_205927.jpg)
 
 
 
@@ -512,42 +512,42 @@ featured: true
 這下子意外印證了大家路上一直在討論的——在新疆，菜刀是不能自由販賣的，家用菜刀上面必須烙上二維碼裝載個人身份信息，餐廳用菜刀必須用鐵鏈鎖在廚房裡，不能拿出來。這一切為的是什麼，大家都心理有數。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f925c-f17696256.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f925c-f17696256.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/f925c-f17696256.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/f925c-f17696256.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0da09-f17732608.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0da09-f17732608.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0da09-f17732608.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0da09-f17732608.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/58cdc-f17967936.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/58cdc-f17967936.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/58cdc-f17967936.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/58cdc-f17967936.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/5ffe3-f18016896.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/5ffe3-f18016896.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/5ffe3-f18016896.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/5ffe3-f18016896.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0c002-f18170368.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0c002-f18170368.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0c002-f18170368.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0c002-f18170368.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e0fb5-f18378368.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e0fb5-f18378368.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e0fb5-f18378368.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/e0fb5-f18378368.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0dc3f-f18620544.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0dc3f-f18620544.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/0dc3f-f18620544.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/0dc3f-f18620544.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7171f-f18956608.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7171f-f18956608.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/7171f-f18956608.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/7171f-f18956608.jpg)
 
 
 
@@ -557,7 +557,7 @@ featured: true
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/c06ff-img_20180526_142357.jpg)
 </td>
 </tr>
 <tr >
@@ -571,7 +571,7 @@ featured: true
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/42513-img_20180526_143529.jpg)
 </td>
 </tr>
 <tr >
@@ -589,17 +589,17 @@ featured: true
 「我這手機已經被你們掃至少5次了，能不能不要再掃啦？」那天晚上當我在吐魯番火車站安檢、準備搭夜車前往敦煌的時候忍不住向車站的武警抱怨，同時一邊苦笑一邊認份地交出手機，並且準備幫他們開那個他們不認識的瀏覽器Chrome。站裡人潮擁擠，大多數是從內地省份過來工作的漢人，每個人不只大包小包，身上還帶滿了在火車上待兩天所需要的泡麵、零嘴、水果，甚至棉被枕頭都備齊了；頭頂上的電子顯示器寫著許多遙遠的地名：福州、上海、北京、南寧，我正前往的敦煌反而是裡面最接近的一個地方；我知道當我次日早上在火車上醒來的時候，人就離開新疆了。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/bf468-20180526_205010.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/bf468-20180526_205010.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/bf468-20180526_205010.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/bf468-20180526_205010.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/9a032-20180526_212426.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/9a032-20180526_212426.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/9a032-20180526_212426.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/9a032-20180526_212426.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/a1588-20180526_212434.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/a1588-20180526_212434.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/a1588-20180526_212434.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/a1588-20180526_212434.jpg)
 
 
 回頭看這幾天的經驗，我再次問自己，新疆，到底是個什麼樣的地方？
@@ -611,9 +611,9 @@ featured: true
 最後，如果有人問我現在是否適合去新疆旅遊，我會說，去吧！很多方面的確會比中國其他地方麻煩一點，但也不用太擔心——反正，只要你和我一樣有一張漢族面孔，中華人民共和國政府基本上不會太介意你在這裡出入的。我想他們的精力都拿去關注那些「民族的朋友」啦。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/87aad-img_20180526_155653.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/87aad-img_20180526_155653.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/87aad-img_20180526_155653.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/87aad-img_20180526_155653.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d2f23-img_20180526_153736.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d2f23-img_20180526_153736.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d2f23-img_20180526_153736.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d2f23-img_20180526_153736.jpg)

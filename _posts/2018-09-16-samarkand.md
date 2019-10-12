@@ -20,7 +20,7 @@ In the late afternoon of May 12, I arrived in the third ancient Uzbek city, Sama
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg)
 </td>
 </tr>
 <tr >
@@ -52,7 +52,7 @@ In the late afternoon of May 12, I arrived in the third ancient Uzbek city, Sama
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)
 </td>
 </tr>
 <tr >
@@ -80,7 +80,7 @@ In the late afternoon of May 12, I arrived in the third ancient Uzbek city, Sama
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)
 </td>
 </tr>
 <tr >
@@ -94,7 +94,7 @@ In the late afternoon of May 12, I arrived in the third ancient Uzbek city, Sama
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/60005-f6241472.jpg)
 </td>
 </tr>
 <tr >
@@ -114,7 +114,7 @@ There is a nightly light show at Registon, the tourism center of Samarkand. It c
 簡單吃了晚餐，便趕緊到撒馬爾罕——不對，應該說是全中亞最重要的旅遊景點，同時也是歷史文化的樞紐所在「雷吉斯坦」（Registon），準備看晚上的燈光秀表演。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/54c08-img_4141.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/54c08-img_4141.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/54c08-img_4141.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/54c08-img_4141.jpg)
 
 
 西元13世紀，成吉思汗在短短幾十年內橫掃歐亞，建立了人類史上最大的帝國，不過這個帝國瓦解的速度也是相當之快，四大汗國有的滅亡、有的繼續分裂，14世紀的突厥蒙古人帖木兒（Amir Timur）抓到了這個中亞沒有任何強權的時機，於1370年稱帝，並自封為成吉思汗的繼承人四處征伐，其帝國範圍從中亞、波斯一路涵蓋到高加索山，是蒙古之後的中亞第一大帝國，帖木兒也成了烏茲別克人心目中的歷史英雄，一直到現在其雕像在境內仍然到處可見。
@@ -124,7 +124,7 @@ There is a nightly light show at Registon, the tourism center of Samarkand. It c
 Ulugh Beg Madrasah (1417–1420) 位於左側（西側），是三者中間最老的一座。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d90e-f6440576.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d90e-f6440576.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d90e-f6440576.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d90e-f6440576.jpg)
 
 
 
@@ -135,12 +135,12 @@ Ulugh Beg Madrasah (1417–1420) 位於左側（西側），是三者中間最�
 
 Sher-Dor Madrasah (1619–1636) 位於右側（東側）。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e439b-f8576832.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e439b-f8576832.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e439b-f8576832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e439b-f8576832.jpg)
 
 Tilya-Kori Madrasah (1646–1660) 位於中間（北側），由於其位置在拍照時通常是主角。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec38d-f6330880.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec38d-f6330880.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec38d-f6330880.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec38d-f6330880.jpg)
 
 
 
@@ -149,43 +149,43 @@ Tilya-Kori Madrasah (1646–1660) 位於中間（北側），由於其位置在�
 晚上8:30開始的燈光秀結合了音樂與旁白，把三座經學院瞬間變成三個超大螢幕，內容涵蓋了烏茲別克和絲路的歷史，並且說明其在世界歷史中扮演的角色，語言是英文所以觀光客不用擔心聽不懂。燈光有時結合建築物本身的拱門與花紋加以點綴，有時候則完全改變了經學院的風貌把人帶到另一個世界，是烏茲別克境內少數可以看到高科技與歷史古蹟結合的景點。重點是——免費！（雖然說如果有付錢似乎可以買到更好的VIP席，可以坐著欣賞而且視線不會被擋住。）
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/0deb0-f6686592.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/0deb0-f6686592.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/0deb0-f6686592.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/0deb0-f6686592.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/d332b-f6708608.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/d332b-f6708608.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/d332b-f6708608.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/d332b-f6708608.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/42501-f6744192.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/42501-f6744192.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/42501-f6744192.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/42501-f6744192.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/86100-f6837120.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/86100-f6837120.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/86100-f6837120.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/86100-f6837120.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68333-f6875840.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/68333-f6875840.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68333-f6875840.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/68333-f6875840.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/623f3-f6888832.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/623f3-f6888832.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/623f3-f6888832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/623f3-f6888832.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/0a12d-f6943808.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/0a12d-f6943808.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/0a12d-f6943808.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/0a12d-f6943808.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7ed11-f7042688.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7ed11-f7042688.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7ed11-f7042688.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7ed11-f7042688.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f9bc-f7096128.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f9bc-f7096128.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f9bc-f7096128.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f9bc-f7096128.jpg)
 
 
 
@@ -205,13 +205,13 @@ Tilya-Kori Madrasah (1646–1660) 位於中間（北側），由於其位置在�
 I ran into some Uzbek teenagers at Registon, who were going around to make friends Japanese tourists. They kept asking "are you Japanese" in Japanese. As someone who understands a little bit of Japanese, I replied to them in Japanese, "I am not a Japanese!" The got super excited at my response, ran over to me and started asking me where I went, what I ate and what I'm going to do, until they realized my Japanese wan't fluent enough to have a real conversation. Regardless, it was great to be able to interact with the locals by my East Asian face.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/6e570-img_20180512_200615.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/6e570-img_20180512_200615.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/6e570-img_20180512_200615.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/6e570-img_20180512_200615.jpg)
 
 
 同樣一個廣場上的同一個夜晚，還遇到一團來自新加坡的旅行團，其中幾個人講著神似台灣腔的國語，害我差點以為自己碰到了台灣人（事實上我在烏茲別克全程只碰到了一個台灣人，還是在要離開的前一天晚上，後面會提到）。這些經歷讓我覺得有趣——幾百年前這裡曾是各國文化相遇之處，因為它當時是絲路上最大的城市；幾百年後我仍然和來自世界各國旅人在此相會，因為這裡是世界知名的觀光景點。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9a7e0-f6593152.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9a7e0-f6593152.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9a7e0-f6593152.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9a7e0-f6593152.jpg)
 
 
 
@@ -232,12 +232,12 @@ I ran into some Uzbek teenagers at Registon, who were going around to make frien
 I got back in Registon on the second day (May 13). It was rainy, so I stayed mostly inside the madrassas, where there are exhibitions of art and history about the country. Sadly, there are also many vendors, who are never tired of selling you artifacts and souvenirs.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfde3-img_20180513_112815.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfde3-img_20180513_112815.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfde3-img_20180513_112815.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfde3-img_20180513_112815.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/239ec-img_20180513_113157.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/239ec-img_20180513_113157.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/239ec-img_20180513_113157.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/239ec-img_20180513_113157.jpg)
 
 
 
@@ -253,24 +253,24 @@ I got back in Registon on the second day (May 13). It was rainy, so I stayed mos
 中午時分來到中亞城市必備的圓頂市集（Chorsu）躲雨，觀察到市場內販賣著種類豐富多元的香料；同時也在市集旁的一家餐廳午餐，決定嘗試這幾天一直沒有吃到的燉湯，一位會講英文的店員把我帶到迴廊下的一座涼床上坐下，照例附上一份囊餅和一壺茶。在那個既濕又冷的天氣裡，能夠坐下來喝點熱的，感覺是很幸福的。正當我打算一人獨自享受午餐的寧靜時，身後傳來的問候又改變了我的計畫。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/28f50-f8830400.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/28f50-f8830400.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/28f50-f8830400.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/28f50-f8830400.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/757d0-f8843008.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/757d0-f8843008.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/757d0-f8843008.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/757d0-f8843008.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8c7dd-f8854656.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8c7dd-f8854656.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8c7dd-f8854656.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8c7dd-f8854656.jpg)
 
 
 <table cellpadding="0" align="center" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" class="tr-caption-container" >
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ad72b-img_20180513_130852.jpg)
 </td>
 </tr>
 <tr >
@@ -298,7 +298,7 @@ Knowing that he is from Bukhara, where a half of the population is ethnically Ta
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cb1ef-img_20180513_133430.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cb1ef-img_20180513_133430.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cb1ef-img_20180513_133430.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/cb1ef-img_20180513_133430.jpg)
 
 
 
@@ -316,7 +316,7 @@ Knowing that he is from Bukhara, where a half of the population is ethnically Ta
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e71b6-img_20180514_180109.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e71b6-img_20180514_180109.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e71b6-img_20180514_180109.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e71b6-img_20180514_180109.jpg)
 
 
 嘔吐之後整個人稍微好了一些，也慶幸自己還記得附近公共廁所的位置，趕緊過去簡單清洗了一番，然後便搭公車回去青年旅館休息。那天我從午餐後一路躺到晚上，無法下嚥任何食物，體溫也逐漸升高⋯⋯。當時躺在床上的我開始想著，旅行這麼多國家下來，這還是第一次身體出狀況，而且偏偏又是在烏茲別克這個醫療水平相對較低的國家，該不會就因為生了這場病而得被迫撤退吧？是說我有買保險所以不用擔心費用，但是這旅途才剛開始不到一個禮拜呀！後面還有五個禮拜的行程不會就此腰斬吧？
@@ -332,42 +332,42 @@ I still don't know if it was a food poisoning or my inability to adjust to the e
 The next afternoon, when I finally felt better, I stepped out again to explore mausoleums, including the one of Amir Timur. The one that impressed me most, however, is Shah-i-Zinda Ensemble, where dozens of midsize mausoleums connect together and form a beautiful street full of blue tiles.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/74dd0-f7811520.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/74dd0-f7811520.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/74dd0-f7811520.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/74dd0-f7811520.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c0a3b-f7988352.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c0a3b-f7988352.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c0a3b-f7988352.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c0a3b-f7988352.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f2e6b-f8046592.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f2e6b-f8046592.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f2e6b-f8046592.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f2e6b-f8046592.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9be5-f8091648.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9be5-f8091648.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9be5-f8091648.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9be5-f8091648.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/950a1-f8149632.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/950a1-f8149632.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/950a1-f8149632.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/950a1-f8149632.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/08e87-f8162176.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/08e87-f8162176.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/08e87-f8162176.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/08e87-f8162176.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f8bb9-f8225280.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f8bb9-f8225280.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f8bb9-f8225280.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f8bb9-f8225280.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c1ab9-f8236352.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c1ab9-f8236352.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c1ab9-f8236352.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c1ab9-f8236352.jpg)
 
 
 
@@ -377,9 +377,9 @@ The next afternoon, when I finally felt better, I stepped out again to explore m
 
 在撒馬爾罕待了三晚，到了最後一天（5月15日）身體已經回復到活蹦亂跳的正常水準，我也重新開始食用青旅提供的早餐。這天在飯廳裡認識了幾個年輕背包客，一個住在瑞士的波蘭女孩，還有一個正在從英國搬家到澳洲的馬來西亞女生，聊了好多自助旅行的經驗。我們共同的心得就是，身邊親友似乎都覺得中亞很危險，但事實上這裡是我們去過的國家裡面數一數二安全的。後來馬來西亞女孩想要去市區走走，我也還有一整個白天要打發，我們便決定一起同行，再次前往每天都要報到的雷吉斯坦。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68901-f8335296.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/68901-f8335296.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68901-f8335296.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/68901-f8335296.jpg)
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c9f3f-f8617088.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c9f3f-f8617088.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/c9f3f-f8617088.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/c9f3f-f8617088.jpg)
 
 同樣是經學院、同樣天氣不太好，這次前來的感受卻特別不同，拜和我一起同行的馬來西亞女孩之賜——外國人在這裡本來就容易受到當地人的注目，外貌出眾、打扮時髦的她更是當地人爭相合影的對象。烏茲別克人大多相當有禮貌，會事先詢問是否可以和你合影，會主動詢問的也多半是小朋友或青少年（或者家長替他們問），不會讓人有一絲不舒服的感覺。馬來西亞女孩似乎已經習以為常，若無其事的告訴我她在這個國家每天就是這樣度過的；不過她大概是和別人合影到累了，因此其中幾張照片就由我代打，擔任外國人代表和烏茲別克人合影。
 
@@ -400,7 +400,7 @@ The next afternoon, when I finally felt better, I stepped out again to explore m
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5f04c-f8490496.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5f04c-f8490496.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5f04c-f8490496.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5f04c-f8490496.jpg)
 
 
 這天就這樣把撒馬爾罕最後剩下的幾個景點踩完，包括考古學博物館、建於15世紀的烏魯伯格天文台（Ulugh Beg Observatory）等，其中還有個神奇的景點，是舊約先知但以理（Daniel）的陵墓。根據當地傳說，但以理逝世之後遺體仍然繼續成長，到了幾千年後的今天已經有18公尺長，因此其陵墓也做得特別長。（附帶一題，全世界另外還有好幾個但以理的陵墓，不過裡面大概沒有任何一個是真正的。）
@@ -408,7 +408,7 @@ The next afternoon, when I finally felt better, I stepped out again to explore m
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/98d01-f8688960.jpg)
 </td>
 </tr>
 <tr >
@@ -422,7 +422,7 @@ The next afternoon, when I finally felt better, I stepped out again to explore m
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/492b2-f8767296.jpg)
 </td>
 </tr>
 <tr >
@@ -443,31 +443,31 @@ The last day (May 15) before taking the train back to Tashkent, I spent more tim
 傍晚從青旅前往火車站搭高鐵回塔什干。原本一直遺憾沒有機會搭到撒馬爾罕路面電車，結果由於我攔到的公車沒有直達火車站、必須轉車，我因此有機會在離開前搭到了路面電車。路面電車是前蘇聯國家的重要地景，可惜的是首都塔什干的電車系統在兩年前被完全廢除，留下來的電車則被移轉到撒馬爾罕來使用；至於撒馬爾罕，本來是沒有電車的，近幾年卻開始新建路網，也因此彌補了我無法在塔什干搭電車的遺憾。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/17848-f8913536.jpg?w=200)](https://lifetimesojournertravel.files.wordpress.com/2018/09/17848-f8913536.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/17848-f8913536.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/17848-f8913536.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec9ea-f9018240.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec9ea-f9018240.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec9ea-f9018240.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/ec9ea-f9018240.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/04e9c-f9061504.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/04e9c-f9061504.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/04e9c-f9061504.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/04e9c-f9061504.jpg)
 
 
 火車站又大又漂亮，站前廣場有著草地與噴泉，水花在陽光下變成光點，當地人在廣場上愉悅而愜意的走著，離開時的風景是如此美好，這我很感恩前幾天的陰雨和不適都已煙消雲散。我想撒馬爾罕將會是座讓我懷念再三的城市。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/64c12-f9320832.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/64c12-f9320832.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/64c12-f9320832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/64c12-f9320832.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2cee0-f9334336.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2cee0-f9334336.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2cee0-f9334336.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2cee0-f9334336.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4011c-img_20180515_171647.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4011c-img_20180515_171647.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4011c-img_20180515_171647.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4011c-img_20180515_171647.jpg)
 
 回程意外搭到了高鐵頭等艙，一排三座極其寬敞舒適，還有免費奉上的茶水與三明治，幾乎讓人忘記了自己身在中亞；一路上窗外的夕陽慢慢從地平線上退下，乾燥草原的顏色也漸漸從翠綠披上橘紅，最後悄悄沒入黑夜之中。
 
@@ -476,18 +476,18 @@ Took the high-speed rail back to Tashkent. The sun finally broke the cloud that 
 I happened to take the first class on this train ride. It was spacious with a good view, and there was complimentary sandwich and tea! Still hard to believe this is in Uzbekistan.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/89bd5-img_20180515_175248.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/89bd5-img_20180515_175248.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/89bd5-img_20180515_175248.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/89bd5-img_20180515_175248.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4f4a9-img_20180515_175642.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4f4a9-img_20180515_175642.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4f4a9-img_20180515_175642.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4f4a9-img_20180515_175642.jpg)
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/b465e-img_20180515_180445.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/b465e-img_20180515_180445.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/b465e-img_20180515_180445.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/b465e-img_20180515_180445.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9567-img_20180515_185841.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9567-img_20180515_185841.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9567-img_20180515_185841.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/a9567-img_20180515_185841.jpg)
 
 
 
@@ -500,12 +500,12 @@ I happened to take the first class on this train ride. It was spacious with a go
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9defd-img_20180515_201029.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9defd-img_20180515_201029.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9defd-img_20180515_201029.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/9defd-img_20180515_201029.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7b171-img_20180515_201700.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7b171-img_20180515_201700.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7b171-img_20180515_201700.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7b171-img_20180515_201700.jpg)
 
 
 到達塔什干已經是夜幕低垂後的晚上8點，我跨過那大到讓人生畏的站前廣場，幸運地沒等太久便搭上了前往青旅的公車，對於上車、付錢、下車的程序也已經瞭若指掌。找到床位後唯一想做的事情就是洗澡睡覺，但洗完澡出來卻聽到耳邊傳來中文對話，而且似乎是熟悉的台灣腔！已經一整個禮拜沒有聽到中文的我馬上找到這對話的來源，住在同一個大房間裡的兩位男生，一位來自中國大陸，平常工作就是旅遊業，但身為背包客還是得在工作以外的時間繼續旅遊；一位來自台灣，乍看之下年紀和我差不多，而且也在科技業任職，直到我們聊到⋯⋯
@@ -561,7 +561,7 @@ Since I had been without a nail clipper for over a week, I asked them if either 
 在烏茲別克的最後一天（5/16），下午2點才要飛往吉爾吉斯首都比什凱克，因此利用早上的時間回到圓頂市集附近逛逛，並且採購紀念品。因為之前已經來過，步調就不像一個禮拜前那樣緊湊，也終於有時間慢慢逛慢慢殺價。由於一直找不到明信片，最後以兩個喝茶用的瓷器加上一枚抓飯造型的磁鐵作收。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2b583-img_20180516_094727.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2b583-img_20180516_094727.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2b583-img_20180516_094727.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2b583-img_20180516_094727.jpg)
 
 
 
@@ -571,17 +571,17 @@ Since I had been without a nail clipper for over a week, I asked them if either 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/efdd3-img_20180516_101537.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/efdd3-img_20180516_101537.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/efdd3-img_20180516_101537.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/efdd3-img_20180516_101537.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f0b0-img_20180516_101602.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f0b0-img_20180516_101602.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f0b0-img_20180516_101602.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7f0b0-img_20180516_101602.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/182a6-img_20180516_102232.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/182a6-img_20180516_102232.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/182a6-img_20180516_102232.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/182a6-img_20180516_102232.jpg)
 
 
 就像火車站一樣，機場裡的烏茲別克像是另外一個世界，從免稅店到餐廳樣樣不缺（雖然看上去還是比其他國家要來得陽春一些），甚至還出現了我在機場外未曾見過的速食漢堡店，當然以價錢來說比機場外要昂貴許多。我在候機室裡等著，看著這個即將告別的國家，想著過去一週所見——這不是個生活水準非常好的國家，各方面都和歐美或東亞已開發國家有著相當顯著的差距，要我住在這裡我大概也無法；然而在這個國家裡人們的單純和熱情，是我離開之後再也沒有遇見過的，更不用說這裡帥哥美女的密度之高（尤其在首都）絕對是排得上全球前幾的。我想，有機會我還會再來的。
@@ -589,22 +589,22 @@ Since I had been without a nail clipper for over a week, I asked them if either 
 Before flying to Kyrgyzstan on May 16, I went back to the chorsu to buy souvenirs. This time I was able to explore the market at a slower pace and take a closer look at what they sell there. After lunch I arrived at airport and was about to fly to Bishkek, Kyrgyzstan. The world in the airport was drastically different from the rest of the country -- tax-free store, restaurant, etc (although still a bit less stocked than those in developed countries). While waiting for the flight, I recalled the people I met here. Economically this country is not doing that good, but the passion and friendliness I encountered here are unbeatable. I would like to come back if there is a chance, I thought.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/80628-img_20180516_115118.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/80628-img_20180516_115118.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/80628-img_20180516_115118.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/80628-img_20180516_115118.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/80385-img_20180516_115924.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/80385-img_20180516_115924.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/80385-img_20180516_115924.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/80385-img_20180516_115924.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d43d-img_20180516_122338.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d43d-img_20180516_122338.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d43d-img_20180516_122338.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7d43d-img_20180516_122338.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f1753-img_20180516_121903.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f1753-img_20180516_121903.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/f1753-img_20180516_121903.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/f1753-img_20180516_121903.jpg)
 
 
 下一站，吉爾吉斯！
@@ -612,7 +612,7 @@ Before flying to Kyrgyzstan on May 16, I went back to the chorsu to buy souvenir
 Next place, Kyrgyzstan!
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)
 
 
 

@@ -39,7 +39,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 <tbody >
 <tr >
 
-<td >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg)
+<td >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/abb13-mobile25281032529.jpg)
 </td>
 </tr>
 <tr >
@@ -63,7 +63,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_8036.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_8036.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_8036.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_8036.jpg)
 
 
 我到現在還記得，第一次在課堂裡看到美國同學把穿著鞋子的腳放在桌上的時候，內心馬上出現一種好像有什麼東西不對、但又不知道應該要怎麼講的感覺，或許是很直覺的認為這件事不該被社會接受吧！雖然說我求學過程裡，一路讀的都是台灣數一數二自由開放的學校，但在老師面前直接把穿著鞋子的腳放在桌上（而且老師看在眼裡也可以無動於衷）這種場面，在我來美國之前可是從來沒見過。
@@ -77,7 +77,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/53ee2-cimg2035.jpg)
 </td>
 </tr>
 <tr >
@@ -98,7 +98,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/2e856-mobile25281272529.jpg)
 </td>
 </tr>
 <tr >
@@ -145,7 +145,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/12/de772-img_803
 <tbody >
 <tr >
 
-<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg?w=300)](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg)
+<td style="text-align:center;" >[![](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/12/84474-backtoworcestermy2010-2012-20.jpg)
 </td>
 </tr>
 <tr >
