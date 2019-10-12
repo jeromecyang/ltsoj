@@ -46,7 +46,7 @@ Finally near the end of the service, the sanctuary was entirely filled. Most peo
 If I'm to highlight one thing in this entire service, I'd say it's the piece of bread I got in an envelope at the end of the service. It is the bread of the eucharist, just like I'd get at any other church service, but here's what the liturgy book says about it: **"The faithful will receive the bread at the end of the service and say, 'the Lord is my portion forever.'"** It's adopted from Psalm 73:26. In a plain language, this means "the body of Christ is broken and becomes part of our body". As a Protestant, I didn't get to see this aspect of the eucharist often. The experience at this Armenian church again reminded me the rich and diverse traditions of the broader Christian church.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg)
 
 
 I ended this little Armenian culture tour with an authentic Armenian lunch at [Jana's Grill & Bakery](https://www.janagrill.com/). I had a **Losh Kebab** (aka Armenian burger), made of 1/2 ground beef and 1/2 ground lamb with parsley, cilantro, beet, onion and pickle. The sausage was very juicy and had a little smoky smell, and various spices also greatly enriched the flavor. Good food often makes you appreciate a culture/people even more -- this is exactly what happened to me that day.

@@ -287,7 +287,7 @@ Also a world heritage site, the old town of Tallinn has a well-preserved wall an
 A good location to spot the city is a hill at its back. The red roofs within the wall distinguish the old town from the rest of the city.
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3f182-20170530_175652.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3f182-20170530_175652.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/3f182-20170530_175652.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/3f182-20170530_175652.jpg)
 
 
 
@@ -388,7 +388,7 @@ The late afternoon sun conquered the cloud and rain. The entire city became warm
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/f7cf0-20170531_162157.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2017/08/f7cf0-20170531_162157.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/08/f7cf0-20170531_162157.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/08/f7cf0-20170531_162157.jpg)
 
 
 

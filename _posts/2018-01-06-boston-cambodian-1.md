@@ -49,7 +49,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/c5491-img_20171230_132953.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/01/c5491-img_20171230_132953.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/c5491-img_20171230_132953.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/c5491-img_20171230_132953.jpg)
 
 
 這幾年在世界各國走跳，我發現要開始認識一個族群或文化最好的方式，就是去逛他們的市場、超市或雜貨店，這些店裡的小細節往往可以透露出很多訊息。我喜歡觀察的幾個點是：
@@ -114,7 +114,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/cdd6b-img_20171230_140131.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/01/cdd6b-img_20171230_140131.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/cdd6b-img_20171230_140131.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/cdd6b-img_20171230_140131.jpg)
 
 
 
@@ -153,7 +153,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/01/2d4ca-img_291
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/96722-img_20171230_143817.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/01/96722-img_20171230_143817.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/01/96722-img_20171230_143817.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/01/96722-img_20171230_143817.jpg)
 
 
 

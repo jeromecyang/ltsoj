@@ -112,7 +112,7 @@ Special Thmor Da Rice Noodle Soup (約$8)
 看起來非常平凡的一碗河粉，但用料相當豐富，裡面有著碎肉、肉丸、花枝、蝦仁等配料；湯頭本身偏向清甜，和我們在美國最常吃到的越南河粉（Pho）不太一樣；一旁的豆芽靜靜躺在盤子上，等著饕客把它摻入湯裡；上面撒上了大量的蔥花、香菜、油蔥酥提味，這點和台灣小吃的做法有些相似，這也讓我一直都對柬埔寨河粉的喜愛度高過越南河粉一些。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/a1920-img_20180127_191732.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/04/a1920-img_20180127_191732.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/04/a1920-img_20180127_191732.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/04/a1920-img_20180127_191732.jpg)
 
 
 

@@ -13,7 +13,7 @@ permalink: 2017/10/23/office-story
 image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-20161117_161919.jpg
 ---
 
-![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e60de-20171020_173535.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e60de-20171020_173535.jpg)
 *我的辦公室一角*
 
 《校對女王》（地味にスゴイ！校閲ガール・河野悦子）是一部2016年秋季水10（週三晚上10點）的小說改編日劇，雖然收視率不低，卻被同檔期人氣超旺的《月薪嬌妻》（逃げるは恥だが役に立つ）強壓，一直到最近才被我注意到。
@@ -64,7 +64,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 [![](https://2.bp.blogspot.com/-22gJLX4E8kQ/We09WocT50I/AAAAAAAAYAU/s1600/20171011_171422.jpg)](https://2.bp.blogspot.com/-22gJLX4E8kQ/We09WocT50I/AAAAAAAAYAU/s1600/20171011_171422.jpg)
 
 
-![](https://lifetimesojournertravel.files.wordpress.com/2017/10/36757-20171011_171450.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/36757-20171011_171450.jpg)
 *在辦公室裡練習各國語言*
 
 **3. 裝飾（惡搞）自己和別人的座位**
@@ -72,7 +72,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 以前在Esri的時候我的辦公室當然是貼滿了地圖，最近由於對語言學相當有興趣，我座位旁貼著的是日文50音的片假名，以及國際音標（International Phonetic Alphabet，簡稱IPA，用來標示全世界各國語言的通用音標），利用平常寫code抬起頭來休息的空檔加減背一背。同事吃完壽司店takeout剩下、寫著漢字的紙袋，也被我當成辦公室內的「裝置藝術」。
 
 當然除了自己的座位之外，我有時候也「順手」佈置一下別人的座位。我有個很喜歡有事沒事驚呼「Holy Guacamole」（用來替代Holy Sxxt）的主管，他的座位名牌有一天就被我換上了「Holy Guacamole」的牌子（而且我當時還笨笨的以為是Wholly Guacamole）。當我在《校對女王》裡看到用章魚吊飾暗地裡嘲笑綽號章魚的編輯的橋段時，馬上就覺得，這傢伙根本就和我師出同門呀！
-![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0b07c-20171011_171422.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/0b07c-20171011_171422.jpg)
 *我座位旁的「裝飾品」*
 
 **4. 透過吃喝和同事搏感情**
@@ -80,7 +80,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2ac80-2016111
 吃，在辦公室永遠是件大事，這件事情舉世皆然。在台灣大家會叫便當或訂飲料，在美國的我們也不遑多讓，而我正好就是那個辦公室裡永遠負責幫大家訂食物的小弟。進入公司不久，我就得到了一個「馬芬英雄」（Muffin Hero）的頭銜，負責把每週四早上免費提供的馬芬運送到辦公室；每個週三早上，我則固定到上班路上經過的Panera Bread去拿大家的早餐貝果（Bagel），還得負責檢查是否有附上足夠的奶油奶酪（Cream Cheese）（對美國人來說Bagel和Cream Cheese是像夫妻一樣如膠似漆、無法分離的組合，兩者一定要同時出現，否則難以下嚥）。公司裡的聚餐也大多是我在安排。
 
 由於公司附近的食物大多比較貴，也不符合我們這些外國人的飲食習慣，大多數人選擇各自帶飯盒到辦公室，但即使如此我們還是固定會聚在一起午餐，生菜沙拉、美式手撕豬肉（Pull Pork）、各種印度馬撒拉（Masala）、台式紅燒牛肉麵出現在同一張餐桌上是我們的日常。這個默契讓我們這些工作狂養成了中午離開座位休息的習慣，每天午餐時間的交流也間接讓公司裡的溝通變得更加順暢。
-![](https://lifetimesojournertravel.files.wordpress.com/2017/10/ec624-20161121_115522.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/ec624-20161121_115522.jpg)
 *公司內部potluck*
 
 其他的小樂趣還有很多，從投玩具球、射玩具槍到沒事突然開始唱聖誕節歌曲這類無厘頭的行徑都有，這裡就不一一贅述。這家原本讓我每天只想逃離的公司，後來經歷組織重整，惡劣的主管被高層拔掉、換上充滿幽默感和活力的新主管，這些樂趣也累積的越來越多，去辦公室的心情也不再像過去那麼不甘願了。

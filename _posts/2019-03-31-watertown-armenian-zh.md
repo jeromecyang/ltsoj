@@ -104,7 +104,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/458a9-img_20190324_120622.jpg)
 
 
 

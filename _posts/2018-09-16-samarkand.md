@@ -23,13 +23,13 @@ In the late afternoon of May 12, I arrived in the third ancient Uzbek city, Sama
 
 
 接著來到住宿的青年旅社Amir Hostel的時候更是興奮——終於住到了一間符合國際標準的青年旅社！每一個床位都做成獨立隔間、床位旁邊都有插座和閱讀燈、每人有一個可以上鎖的置物櫃，而且整間青旅從上到下都非常的新穎乾淨！不禁慶幸自己是先經過了希瓦和布哈拉的克難生活才來到這裡，要是反過來走的話大概只會越走越痛苦吧。
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e8918-img_20180512_180016.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e8918-img_20180512_180016.jpg)
 *Amir Hostel的設備和清潔度都達到國際標準，是我在烏茲別克境內住過最舒服的地方*
 
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/cf9f6-img_20180512_185631.jpg)
 *傍晚在市區閒晃，看到屬於有錢人的宴會餐廳*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/88b3d-img_20180512_190213.jpg?w=170)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/88b3d-img_20180512_190213.jpg)
 *撒馬爾罕鬧區街景，注意中間的ZARA招牌，在這個沒有太多西方連鎖店的國家裡，「代售」品牌服飾似乎是個不錯的生意*
 
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5cfc4-f6193984.jpg)
@@ -176,7 +176,7 @@ I got back in Registon on the second day (May 13). It was rainy, so I stayed mos
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/dc61f-img_20180513_113553.jpg?w=170)](https://lifetimesojournertravel.files.wordpress.com/2018/09/dc61f-img_20180513_113553.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/dc61f-img_20180513_113553.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/dc61f-img_20180513_113553.jpg)
 
 
 
@@ -234,7 +234,7 @@ Knowing that he is from Bukhara, where a half of the population is ethnically Ta
 從圓頂市集回到青年旅館並不容易，得先在雨中走上10分鐘的路到公車站牌，然後再搭15分鐘的公車到青旅，在腸胃非常不適的狀態下就更加困難。最後我還沒走到公車站牌，在雷吉斯坦門口就撐不下去了，於是雙腳跨在水溝兩邊開始嘔吐，並且盡可能不讓我狼狽的狀態被路人關注。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/af3fb-img_20180513_111708.jpg?w=170)](https://lifetimesojournertravel.files.wordpress.com/2018/09/af3fb-img_20180513_111708.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/af3fb-img_20180513_111708.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/af3fb-img_20180513_111708.jpg)
 
 
 
@@ -310,12 +310,12 @@ The next afternoon, when I finally felt better, I stepped out again to explore m
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/d3d6d-img_20180515_113142.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/09/d3d6d-img_20180515_113142.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/d3d6d-img_20180515_113142.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/d3d6d-img_20180515_113142.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/714ac-img_20180515_112925.jpg?w=170)](https://lifetimesojournertravel.files.wordpress.com/2018/09/714ac-img_20180515_112925.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/714ac-img_20180515_112925.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/714ac-img_20180515_112925.jpg)
 
 
 
@@ -440,7 +440,7 @@ I happened to take the first class on this train ride. It was spacious with a go
 I met two Mandarin-speaking backpackers at the hostel in Tashkent, one from China and the other from Taiwan. The one from Taiwan is especially cool -- while looking like a single young adult like me, he is actually married and has a teenage daughter. He said he's able to come here because his daughter is finally old enough and that frees up some time for him. A really admirable backpacker, I thought.
 
 Since I had been without a nail clipper for over a week, I asked them if either of them had one. The Taiwanese backpacker immediately joined me and asked the same question, as he already found it hard to swipe his smartphone with the growing nails. Fortunately the Chinese guy did have one. We felt really thankful for this nail clipper, which saved 3 lives that night.
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e659c-img_20180516_083520.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e659c-img_20180516_083520.jpg)
 *塔什干青年旅館的早餐*
 
 
@@ -456,7 +456,7 @@ Since I had been without a nail clipper for over a week, I asked them if either 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4a895-img_20180516_094019.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4a895-img_20180516_094019.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/4a895-img_20180516_094019.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/4a895-img_20180516_094019.jpg)
 
 
 

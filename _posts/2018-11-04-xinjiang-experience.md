@@ -339,7 +339,7 @@ featured: true
 「那你喝喝看。」
 
 我乖乖地照他說的辦，但內心早就已經整個愣住了——我就說這是紅茶了，包裝也是全中國到處都買得到、一瓶2.5元的統一冰紅茶，為什麼你會覺得是汽油？不過畢竟是新疆嘛，幾天走下來開始覺得見怪不怪了。
-![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e58a2-img_20180522_182141.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/11/e58a2-img_20180522_182141.jpg)
 *這就是那罐被當成汽油的統一冰紅茶，注意頂上的維吾爾文字。*
 
 「你好。身分證看一下。」

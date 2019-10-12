@@ -113,7 +113,7 @@ featured: true
 
 
 
-![](https://lifetimesojournertravel.files.wordpress.com/2017/10/3aa64-4884.jpg?w=210)
+![](https://lifetimesojournertravel.files.wordpress.com/2017/10/3aa64-4884.jpg)
 *Source: https://tw.movies.yahoo.com/movieinfo_main.html/id=4884*
 
 

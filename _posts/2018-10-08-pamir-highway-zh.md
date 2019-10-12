@@ -87,12 +87,12 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/94ead-img_20180519_194233.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/94ead-img_20180519_194233.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/94ead-img_20180519_194233.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/94ead-img_20180519_194233.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d7dd4-img_20180519_201101.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d7dd4-img_20180519_201101.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/d7dd4-img_20180519_201101.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/d7dd4-img_20180519_201101.jpg)
 
 
 
@@ -118,7 +118,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c627b-img_20180519_201636.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c627b-img_20180519_201636.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c627b-img_20180519_201636.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/c627b-img_20180519_201636.jpg)
 
 
 
@@ -166,7 +166,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/10/3e577-img_20180520_093105.jpg)
 *Sulayman Mountain上所見*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b3ff6-img_20180520_093719.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/b3ff6-img_20180520_093719.jpg)
 *Sulayman Mountain山頂的清真寺（左側）*
 
 
@@ -176,13 +176,13 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/592e8-img_20180520_095023.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/592e8-img_20180520_095023.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/592e8-img_20180520_095023.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/592e8-img_20180520_095023.jpg)
 
 
 接下來回到市區，第二個挑戰正式展開：我要找到開往帕米爾高原小鎮Sary-Tash（意思是黃色的石頭）的車，最好是共乘計程車或小型巴士。這個任務比我想的要困難——Google Maps在這裡毫無用武之地，旅遊論壇上的少少幾句話讓我在現場完全沒有頭緒，走在市場裡用簡單俄文配上Google Translate問當地人，他們也不知道是否有前往Sary-Tash的車存在。眼看時間慢慢流逝，過了中午再不趕快出發可能就得在這裡多留一天，我甚至一度想跑到一旁中國人經營的餐館裡去求助，最後卻很意外的，是在一群準備好要把外國人當肥羊宰的計程車司機裡找到救星。
 
 那時候我算是不小心走入了計程車司機的聚集區，一群人湧上來問我要去哪，一聽到Sary-Tash馬上漫天開價，開出來的當然是我不會接受的高價；這樣一來一往幾次之後，一位司機突然叫住我，問我想要開多少錢，我給了一個比較願意付的價錢，他用手勢示意叫我跟他走。我們穿過了幾個街區，走過了幾個空地，還經過了早上下車的地方，來到市中心讓我摸不著頭緒的高架橋下，只見他一指，橋下停著的正是我遍尋不著、前往Sary-Tash的小巴！那一刻真的覺得遇到貴人了，身為計程車司機的他大可以不讓我發現小巴的地點，被迫搭他的車，然而他卻如此大方地待我到這裡來搭車。
-![](https://lifetimesojournertravel.files.wordpress.com/2018/10/49e6a-img_20180520_095835.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/10/49e6a-img_20180520_095835.jpg)
 *當地人在舶來精品專賣店前排隊等待開門*
 
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/10/c796d-img_20180520_101252.jpg)
@@ -190,7 +190,7 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8da80-img_20180520_105828.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8da80-img_20180520_105828.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2018/10/8da80-img_20180520_105828.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/10/8da80-img_20180520_105828.jpg)
 
 
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/10/90ca4-img_20180520_101053.jpg)

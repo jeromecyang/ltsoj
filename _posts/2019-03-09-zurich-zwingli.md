@@ -56,7 +56,7 @@ featured: true
 如果在市區只有2至3小時，最好的方式就是照官方旅遊指南上的路線，步行繞市區一圈（可參考網頁 [https://www.zuerich.com/en/visit/getting-around-in-zurich/zurich-on-foot](https://www.zuerich.com/en/visit/getting-around-in-zurich/zurich-on-foot) 之說明）。下面是官方地圖上的路線，我基本上是照著它走，不過是以順時針方向前進（和地圖上標示的數字順序正好相反），而且是從地圖上標16號的點、鼎鼎大名的蘇黎世聯邦理工學院（ETH Zurich）出發，這麼走的原因是因為從機場出發的10號線在ETH門口就有設站，從那裡眺望市區全景之後再往下進入市區，可以免去一段難纏的上坡路，還可以順便體驗山坡上的電纜車。
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/4ce6b-img_20190303_174957.jpg?w=180)](https://lifetimesojournertravel.files.wordpress.com/2019/03/4ce6b-img_20190303_174957.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2019/03/4ce6b-img_20190303_174957.jpg)](https://lifetimesojournertravel.files.wordpress.com/2019/03/4ce6b-img_20190303_174957.jpg)
 
 
 

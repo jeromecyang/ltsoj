@@ -172,7 +172,7 @@ It was extremely hot then, so I hid myself in the shadow on top of the overlook 
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg)
 *高台上所見的古城全景*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68e7d-img_20180510_170313.jpg?w=170)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68e7d-img_20180510_170313.jpg)
 *原本請當地人幫我照相，結果得到的卻是我們都入了鏡的合照！*
 
 晚飯之後我再次回到城裡繞啊繞的，嘗試捕捉到夕陽西下時城牆被染紅的畫面。城裡的大部分地區仍然保留著土造建築的面貌，也仍然有人居住，傍晚孩童在街上嬉戲的景象和台灣鄉下所見並無二致，讓我走在城牆上不禁想起曾經居住過三年的屏東縣恆春鎮，一個同樣有著一座古城的地方。
@@ -354,13 +354,13 @@ Uzbekistan doesn't have the best economy in Central Asia, but it does possess th
 烏茲別克的高鐵是以前蘇聯時代興建的鐵路改建提速而成（和中國近年既存鐵路提速的方式類似），列車本身則是西班牙的Talgo技術，因此列車和設施都有著濃濃的歐洲風味，也有著西班牙高鐵「車廂短、節數多」的特色。我們很早就叫了計程車來到距離市中心很遠的Kogan車站，進站也得先通過重重安檢，但站內就是一個和世界各國高鐵沒有太多差別的環境：乾淨、新穎、高科技。
 
 The system is very similar to Spain's high-speed train Ave. The cars are short, but the number of cars are many. Security check is required before entering the station, but after the security check, the station and facilities are very contemporary.
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa402-img_20180512_153625.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa402-img_20180512_153625.jpg)
 *車廂內裝相當新穎，車廂間有觸控式自動門，空調非常給力*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5bcfb-img_20180512_153720.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5bcfb-img_20180512_153720.jpg)
 *車廂內裝，和西班牙高鐵一樣分為一等與二等，圖為二等車廂*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/98e86-img_20180512_153812.jpg?w=169)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/98e86-img_20180512_153812.jpg)
 *餐車內一景*
 
 上了車，每個座位都付有充電插座，車廂兩端也有全彩的顯示器說明現在的車速以及地點。除了少數減速路段，大部分時候車速都在時速160到200公里之間，和前一天漫長、顛簸、沒有空調的的共乘計程車有天壤之別。一個多小時之後，我們就到達我心目中的烏茲別克古城之首、帖木兒帝國的首都：撒馬爾罕。

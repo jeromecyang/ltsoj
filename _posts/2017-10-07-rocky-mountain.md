@@ -183,12 +183,12 @@ The Loop Trail的終點是Granite Park Chalet，一棟早期興建提供登山�
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/17836-20170630_175413.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2017/10/17836-20170630_175413.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/17836-20170630_175413.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/17836-20170630_175413.jpg)
 
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/cca4d-20170630_182546.jpg?w=169)](https://lifetimesojournertravel.files.wordpress.com/2017/10/cca4d-20170630_182546.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/cca4d-20170630_182546.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/cca4d-20170630_182546.jpg)
 
 
 
@@ -253,7 +253,7 @@ Going-To-The-Sun Road類似台灣的台14甲線（中橫霧社支線），在連
 
 
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e3993-20170701_105009.jpg?w=198)](https://lifetimesojournertravel.files.wordpress.com/2017/10/e3993-20170701_105009.jpg)
+[![](https://lifetimesojournertravel.files.wordpress.com/2017/10/e3993-20170701_105009.jpg)](https://lifetimesojournertravel.files.wordpress.com/2017/10/e3993-20170701_105009.jpg)
 
 
 
