@@ -10,6 +10,7 @@ tags:
 - Arts
 permalink: 2017/10/26/frozen-localization
 image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d98fe-b1sirg_iuaeso_e.jpg
+featured: true
 ---
 
 兩個月前的一天晚上，我正在網路上查「開ける」這個日文字的意思，結果Google打進去第一個跳出來的不是日文辭書，而是個youtube的影片，標題是《とびら開けて》，點進去原來是日文版《冰雪奇緣》（Frozen）裡的《Love Is An Open Door》，是由日文版的配音演員現場演唱，而且兩個人竟然還在舞台上做出和動畫中一樣的動作，實在是太可愛了（已融化）！於是那天晚上我像是發現新大陸一樣，把所有日文版《冰雪奇緣》的歌曲全部找出來聽了好幾次，嘗試從裡面抓到幾個剛學會的日文單字。

@@ -9,6 +9,7 @@ tags:
 - Travel
 permalink: 2017/08/27/baltic-states
 image: https://lifetimesojournertravel.files.wordpress.com/2017/08/8bdb2-img_0079.jpg
+featured: true
 ---
 
 在一月去了觀光大國西班牙之後，便一直想要再跑一次歐洲、但去相對不熱門的國家，於是波羅的海三小國就成了我這趟旅行的目標。因為只有短短的六天，我只好把位在最南邊、距離比較遠的立陶宛去掉（預計留在未來和波蘭一同造訪），然後加上與愛沙尼亞首都塔林只有一海之隔的芬蘭赫爾辛基，最後成了這趟被我自己偷換概念的波羅的海三小國（拉脫維亞、愛沙尼亞、芬蘭）之旅。

@@ -3,38 +3,24 @@ layout: default
 title: Home
 ---
 
+<!--div class="section-title">{{ site.description }}</div-->
+
+<div class="section-title">精選主題系列</div>
+
 {% for post in site.data.settings.features %}
   {% include post-thumbnail.html %}
 {% endfor %}
 
-{% for post in paginator.posts %}
-  {% if post.featured %}
-    {% include post-thumbnail.html %}
-  {% endif %}
-{% endfor %}
+<div class="section-title">推薦文章</div>
 
-<!-- Pagination links -->
-<!--div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-    {% else %}
-      <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
+<div class="many-posts">
+  {% for post in site.posts %}
+    {% if post.featured %}
+      {% include post-small.html %}
+    {% endif %}
+  {% endfor %}
 </div>
 
-<div>
-  <span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
-</div-->
-
-<div style="text-align: center; margin: 72px auto"><a href="pages/allposts.html">本站所有文章列表 All Posts</a></div>
+<div style="text-align: center; margin: 20px auto">
+  <a href="allposts.html">其他文章 More Posts</a>
+</div>
