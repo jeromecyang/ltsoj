@@ -43,12 +43,12 @@ menu:
       reversed: true
 - name: '波士頓'
   tag: 'Boston'
-- name: 'English'
-  tag: 'English'
-  subitems:
-    - name: 'Beating the Unbeaten Tracks'
-      tag: 'Unbeaten'
-      reversed: true
+#- name: 'English'
+#  tag: 'English'
+#  subitems:
+#    - name: 'Beating the Unbeaten Tracks'
+#      tag: 'Unbeaten'
+#      reversed: true
 #- name: '關於我 About'
 #  tag: 'About'
 

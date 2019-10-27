@@ -1,0 +1,12 @@
+---
+layout: default
+title: Home
+---
+
+<div style="text-align: center; margin: 10px auto; color: #555; font-size: 14px;">{{ site.introduction_en }}</div>
+
+<div class="many-posts">
+  {% for post in site.tags.English %}
+    {% include post-small.html %}
+  {% endfor %}
+</div>
