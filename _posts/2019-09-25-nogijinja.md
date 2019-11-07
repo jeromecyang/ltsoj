@@ -10,7 +10,7 @@ tags:
 - Taiwan
 - Tokyo
 permalink: '2019/09/25/nogijinja'
-image: 'assets/img/72251401_445038006360152_1736253865281454080_n.jpg'
+image: '/assets/img/72251401_445038006360152_1736253865281454080_n.jpg'
 featured: true
 ---
 
