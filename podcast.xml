@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Serial</title>
-    <link>https://serialpodcast.org</link>
-    <description>1234</description>
-    <language>en</language>
-    <itunes:author>This American Life</itunes:author>
-    <itunes:category text="News and Politics" />
-    <itunes:image href="https://serialpodcast.org/sites/all/modules/custom/serial/img/serial-itunes-logo.png" />
+    <title>旅人的客棧閒聊</title>
+    <link>https://ltsoj.com/</link>
+    <description>冷門國家旅行．城市角落探索．跨文化現象</description>
+    <language>zh</language>
+    <itunes:author>Jerome Yang 楊佳榮</itunes:author>
+    <itunes:image href="https://ltsoj.com/assets/img/IMG_5674.JPG" />
+    <itunes:email>hi@jeromeyang.com</itunes:email>
+    <email>hi@jeromeyang.com</email>
+    <itunes:owner>
+      <itunes:name>Jerome Yang 楊佳榮</itunes:name>
+      <itunes:email>hi@jeromeyang.com</itunes:email>
+    </itunes:owner>
     <item>
       <guid>1234</guid>
       <title>Episode 09: To Be Suspected</title>
@@ -15,6 +20,7 @@
       <pubDate>Thu, 20 Nov 2014 10:30:00 +0000</pubDate>
       <itunes:order>9</itunes:order>
       <itunes:duration>2700</itunes:duration>
+      <itunes:author>Jerome Yang 楊佳榮</itunes:author>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/1422481890/serial-s01-e09.mp3" type="audio/mpeg" />
     </item>
   </channel>
