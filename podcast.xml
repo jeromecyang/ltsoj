@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="https://www.spotify.com/ns/rss">
   <channel>
     <title>旅人的客棧閒聊</title>
-    <description>冷門國家旅行．城市角落探索．跨文化現象</description>
-    <itunes:author>Jerome Yang 楊佳榮</itunes:author>
     <link>https://ltsoj.com/</link>
-    <itunes:owner>
-      <itunes:name>Jerome Yang</itunes:name>
-      <itunes:email>hi@jeromeyang.com</itunes:email>
-    </itunes:owner>
-    <email>hi@jeromeyang.com</email>
-    <itunes:image>
-      <url>https://ltsoj.com/assets/img/IMG_5674.JPG</url>
-    </itunes:image>
+    <description>冷門國家旅行．城市角落探索．跨文化現象</description>
+    <language>zh</language>
+    <itunes:author>Jerome Yang 楊佳榮</itunes:author>
+    <itunes:email>hi@jeromeyang.com</itunes:email>
+    <itunes:image href="https://ltsoj.com/assets/img/IMG_5674.JPG" />
     <item></item>
   </channel>
 </rss>
