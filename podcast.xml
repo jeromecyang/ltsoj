@@ -8,7 +8,13 @@
     <itunes:author>Jerome Yang 楊佳榮</itunes:author>
     <itunes:email>hi@jeromeyang.com</itunes:email>
     <email>hi@jeromeyang.com</email>
+    <itunes:owner>
+      <itunes:name>Jerome Yang 楊佳榮</itunes:name>
+      <itunes:email>hi@jeromeyang.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://ltsoj.com/assets/img/IMG_5674.JPG" />
-    <item></item>
+    <item>
+      <guid isPermaLink="false">e99f7614-d82f-42bc-9b23-1f251592f472</guid>
+    </item>
   </channel>
 </rss>
