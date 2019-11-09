@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>旅人的客棧閒聊</title>
+    <description></description>
+    <author>Jerome Yang 楊佳榮</author>
+    <link>https://ltsoj.com/</link>
+    <email>hi@jeromeyang.com</email>
+    <image>
+      <url>https://ltsoj.com/assets/img/IMG_5674.JPG</url>
+    </image>
+  </channel>
+</rss>
