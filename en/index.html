@@ -5,8 +5,22 @@ title: Home
 
 <div style="text-align: center; margin: 10px auto; color: #555; font-size: 14px;">{{ site.introduction_en }}</div>
 
+<div class="section-title">FEATURED POSTS</div>
+
+<!-- <div class="many-posts"> -->
+   {% for post in site.tags.English %}
+    {% if post.featured_en %}
+      {% include post-thumbnail.html %}
+    {% endif %}
+  {% endfor %}
+<!-- </div> -->
+
+<div class="section-title">MORE POSTS</div>
+
 <div class="many-posts">
   {% for post in site.tags.English %}
-    {% include post-small.html %}
+    {% unless post.featured_en %}
+      {% include post-small.html %}
+    {% endunless %}
   {% endfor %}
 </div>

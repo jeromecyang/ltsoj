@@ -12,10 +12,8 @@ tags:
 - Unbeaten
 permalink: '2019/08/09/siberian-railway'
 image: https://cdn-images-1.medium.com/max/800/0*_PRhztht7avQuQ0n
+featured_en: true
 ---
-
-<blockquote>This is the second post of my travel series “Beating the Unbeaten Tracks”. I’d really appreciate your claps, comments or questions. You can also follow me at LifetimeSojourner’s [_Facebook_](https://www.facebook.com/lifetimesojourner/)_ or _[_Instagram_](https://www.instagram.com/lifetimesojourner/)_! :)_</blockquote>
-
 
 Last June (2018), I took the Trans-Siberian Railway from Zabaykalsk in the Far East all the way to St Petersburg via Lake Baikal, Ekaterinburg, Kazan and Moscow. Since it’s a week-long train ride, most travelers would divide it into several segments, so did I. Nevertheless, there was still an extremely long train ride from Irkutsk (gateway to Lake Baikal) and Ekaterinburg, which took 52 hours (3 nights and 2 days). This is the longest continuous train ride in my life (second longest: Chicago to LA on the Amtrak Southwest Chief, 42 hours).
 ![](https://cdn-images-1.medium.com/max/800/0*_PRhztht7avQuQ0n)At Novosibirsk (literally “New Siberia”), a major city and train stop in Siberia
@@ -121,11 +119,6 @@ Mosque in Kazan
  	
   * 
 **If you cannot find ticket from city A to city B, try to break it down into more segments.** There tends to be more options if you go by shorter segments, and may cost less as well.
-
-
-
-
-<blockquote>Thank you for reading my post. Claps, comments or questions are welcomed. Follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)!</blockquote>
 
 
 ![](https://cdn-images-1.medium.com/max/800/0*tLznjtt_hJiXjc-H)

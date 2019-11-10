@@ -11,8 +11,8 @@ tags:
 - Unbeaten
 permalink: '2019/08/04/estonia-tartu-cathedral'
 image: https://cdn-images-1.medium.com/max/800/0*KUXwB5KANHdN340P
+featured_en: true
 ---
-> This is the first post of my travel series “Beating the Unbeaten Tracks”. Each post covers an off-the-beaten-track country I’ve been to. In each post, I’d share (1) a spot I really like, (2) other highlights, and (3) general tips for travelers. I’d really appreciate your claps, comments or questions. If there are things in each country you’d like to learn more about, do let me know, as I may write an in-depth post about that! You can also follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)! :)
 
 Gaining independence from the USSR in 1991, Estonia is now a tiny while highly tech-savvy country. Numerous startups gather and thrive here, including the famous messenger app Skype. While having influence from its surrounding great powers, it still retains its unique history and identity. In this post, I’d focus on my time in its second largest city Tartu, and how a church ruin told me an unfamiliar history about the Protestant Reformation.
 
@@ -60,8 +60,6 @@ Currently the ruin is the top tourist attraction in this vibrant city (locally k
 * While Lonely Planet didn’t recommend Estonia’s rail transportation (at least not in their 2016 guide), I found it very convenient and comfortable to take trains throughout the country. Frequently services between Tallinn and major cities are operated by contemporary train sets (comparable to Scandinavian countries). All tickets can be purchased on ELRON (Estonian National Railways) official website: [https://elron.ee/](https://elron.ee/).
 
 * I’d strongly recommend combining Estonia with nearby countries. For example, you can visit all the baltic states (Estonia, Latvia and Lithuania) in one trip, take a ferry from Tallinn to Helsinki (for only 75 mins — 2.5 hours), or get on a cruise that goes to Stockholm and even St Petersburg! **If you’re interested in my itinerary from Latvia all the way up to Finland, do let me know. I’d love to write a separate post on that!**
-
-> Thank you for reading my post. Claps, comments or questions are welcomed. Follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)!
 
 ![](https://cdn-images-1.medium.com/max/800/0*LB0pGXaVfbqpnt7-)
 *Old town Tallinn*

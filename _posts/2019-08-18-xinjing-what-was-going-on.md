@@ -14,6 +14,7 @@ tags:
 - Unbeaten
 permalink: '2019/08/18/xinjing-what-was-going-on'
 image: http://lifetimesojournertravel.files.wordpress.com/2019/08/4bcf5-0j_bxidnx94e_7gz_.jpg
+featured_en: true
 ---
 
 > A similar post I wrote earlier in Mandarin: [2018年5月，我的「新疆經驗」](../../../2018/11/04/xinjiang-experience).
@@ -157,9 +158,6 @@ Turkic architecture is well-preserved in Kashgar old town, but the Uyghur cultur
 The hardest part is probably to get a visa to China. Particularly if you are visiting the “sensitive regions” including Xinjiang, you may be asked to provide a day-to-day itinerary of the entire trip. But once you get the visa, you shouldn’t run into any problem in Xinjiang, as long as you don’t look like someone of a Turkic ethnicity.
 
 My most recommended cities are: **Kashgar**, **Kuqa** and **Turpan**, all of which are located along the northern rim of the Taklamakan Desert and accessible by train. **Tashkurgan**, the most beautiful part of my journey in Xinjiang, can be reached from Kashgar by hiring a pick-up track (5 hrs) or taking a bus (6–8 hrs, depending on how many security checks you run into).
-
-
-<blockquote>Thank you for reading my post. Claps, comments or questions are welcomed. Follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)!</blockquote>
 
 
 ![](http://lifetimesojournertravel.files.wordpress.com/2019/08/47c56-0gxtkk6sdm26lk6fy.jpg)

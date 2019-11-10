@@ -13,10 +13,8 @@ tags:
 - Unbeaten
 permalink: '2019/08/15/pamir-highway'
 image: https://cdn-images-1.medium.com/max/800/0*1BKgp1EAAoYuIKtK
+featured_en: true
 ---
-
-<blockquote>This is the post #3 of my travel series “Beating the Unbeaten Tracks”. I’d really appreciate your claps, comments or questions. You can also follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)! :)</blockquote>
-
 
 The most adventurous part of my grand trip in 2018: from Bishkek, the capital of Kyrgyzstan to Kashgar, a major city in China’s Xinjiang (so-called) Autonomous Region. While it should take only an hour to fly, I chose a much more strenuous way: moving over the Pamir Mountains, where the average elevation is well above 10,000ft, by some unusual ways: cargo van, martshrutka, hitchhiking, and shared taxi.
 ![](https://cdn-images-1.medium.com/max/800/0*1BKgp1EAAoYuIKtK)Near the Kyrgyzstan-China border
@@ -129,11 +127,6 @@ Hotel Akun
  	
   * 
 **Irkeshtam:** leaving Kyrgyzstan is easy, but entering China can be a bit painful. Expect everything to be dumped and checked. Between Irkeshtam checkpoint and the actual port of entry Ulugqat, you’d be carpooled with other passengers in a shared taxi for 100RMB. The trip takes 2 hours. Xinjiang is now notorious for the government’s overwhelming surveillance, although you shouldn’t run into any problem as a foreigner. I will share more about that in my next post.
-
-
-
-
-<blockquote>Thank you for reading my post. Claps, comments or questions are welcomed. Follow me at LifetimeSojourner’s [Facebook](https://www.facebook.com/lifetimesojourner/) or [Instagram](https://www.instagram.com/lifetimesojourner/)!</blockquote>
 
 
 ![](https://cdn-images-1.medium.com/max/800/0*ABpg2uSfyNN_ow4i)
