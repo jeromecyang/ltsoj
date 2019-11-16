@@ -4,11 +4,8 @@ excerpt: 不少城市裡都存在著這樣的地方：一大片櫛次鱗比的�
 layout: post
 title: 一個城市改頭換面的故事：哥倫比亞麥德林第13區
 tags:
-- East Asia
-- Japan
-- Nogizaka46
-- Taiwan
-- Tokyo
+- Colombia
+- South America
 permalink: '2019/11/06/madellin-conuma13'
 image: '/assets/img/IMG_5674.JPG'
 featured: true
