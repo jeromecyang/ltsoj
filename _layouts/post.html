@@ -29,7 +29,9 @@ layout: default
     {{ content }}
   </article>
 
-  {% include invite.html %}
+  {% unless page.independent %}
+    {% include invite.html %}
+  {% endunless %}
 
   <!--div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
@@ -40,6 +42,7 @@ layout: default
     </div>
   </div-->
 
+  {% unless page.independent %}
   <div class="related">
     <h2>{{ site.data.settings.related_posts }}</h2>
     {% assign listed_posts_urls = page.url | split: ' ' %}
@@ -69,6 +72,7 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  {% endunless %}
 
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
