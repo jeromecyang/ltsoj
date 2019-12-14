@@ -13,23 +13,53 @@ image: 'https://i.imgur.com/nRZjByW_d.jpg?maxwidth=640&shape=thumb&fidelity=medi
 
 ## 行程與地圖（可點選連結跳往景點簡介）
 
+本次行程總長8天8夜，移動距離接近2,000公里，算是比較緊湊的行程。行程表如下：
+
 * 11/23 (六) Cotonou, Benin
-* 11/24 (日) Cotonou, Benin -> [Ganvie, Benin](#ganvie與水共生的湖中聚落) -> Cotonou, Benin -> Ouihah Benin
-* 11/25 (一) Ouihah Benin -> Hilla-condji, Benin -> Togoville, Togo -> Lome, Togo
+* 11/24 (日) Cotonou, Benin -> [Ganvie, Benin](#ganvie與水共生的湖中聚落) -> Cotonou, Benin -> [Ouidah Benin](#ouidah販奴歷史與巫毒文化)
+* 11/25 (一) Ouidah Benin -> Hilla-condji, Benin -> [Togoville, Togo](#togoville--lake-togo殖民歷史與特色教堂) -> Lome, Togo
 * 11/26 (二) Lome, Togo -> Aflao, Ghana -> Accra, Ghana -> 夜間巴士前往Tamale, Ghana
-* 11/27 (三) Tamale, Ghana -> Larabanga, Ghana -> Mole National Park, Ghana
-* 11/28 (四) Mole National Park, Ghana -> Sawla, Ghana -> Kumasi, Ghana
-* 11/29 (五) Kumasi, Ghana -> Cape Coast, Ghana
-* 11/30 (六) Cape Coast, Ghana -> Kakum National Park, Ghana -> Cape Coast, Ghana -> Accra, Ghana
+* 11/27 (三) Tamale, Ghana -> [Larabanga, Ghana](#mole-national-park--larabanga-mosque小資背包客的莽原之旅以及西非最古老的清真寺) -> [Mole National Park, Ghana](#mole-national-park--larabanga-mosque小資背包客的莽原之旅以及西非最古老的清真寺)
+* 11/28 (四) Mole National Park, Ghana -> Sawla, Ghana -> [Kumasi, Ghana](#kumasi-庫馬西前殖民時代迦納輝煌歷史的見證)
+* 11/29 (五) Kumasi, Ghana -> [Cape Coast, Ghana](#cape-coast翻開奴隸貿易的黑歷史)
+* 11/30 (六) Cape Coast, Ghana -> [Kakum National Park, Ghana](#kakum-national-park樹冠層步道體驗) -> Cape Coast, Ghana -> Accra, Ghana
 * 12/1 (日) Accra, Ghana
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d4052357.1215901263!2d-2.2940935008266647!3d7.311137015626226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x102354e509f894f7%3A0xc8fde921f89849f6!2sCotonou%2C%20Benin!3m2!1d6.3702928!2d2.3912362!4m5!1s0x1024a907d5334d9b%3A0xb28a9b10ccbc460a!2sAbomey%20Calavi%2C%20Benin!3m2!1d6.4503024!2d2.3468195!4m5!1s0x102361980628a263%3A0xaec20944ccfbc4ee!2sOuidah%2C%20Benin!3m2!1d6.3716474!2d2.0763252999999997!4m5!1s0x1023eda46aee06c7%3A0x57b50b5685cde295!2sAgbodrafo%2C%20Togo!3m2!1d6.207785599999999!2d1.4759902999999999!4m5!1s0x1023e1c113185419%3A0x3224b5422caf411d!2sLome%2C%20Togo!3m2!1d6.1256261!2d1.2254182999999998!4m5!1s0xfdf9084b2b7a773%3A0xbed14ed8650e2dd3!2sAccra%2C%20Ghana!3m2!1d5.6037168!2d-0.1869644!4m5!1s0xfd43c903162fdeb%3A0x83f46c1562717cde!2sTamale%2C%20Ghana!3m2!1d9.403422599999999!2d-0.8424159999999999!4m5!1s0xfd178aeaaaaaaab%3A0xcd21293ca7ce2c78!2sMole%20National%20Park%2C%20Ghana!3m2!1d9.5!2d-2!4m5!1s0xfddfc29c7b3faad%3A0xeae5bdfb8639e093!2sCape%20Coast%2C%20Ghana!3m2!1d5.13151!2d-1.2794744!4m5!1s0xfdf9084b2b7a773%3A0xbed14ed8650e2dd3!2sAccra%2C%20Ghana!3m2!1d5.6037168!2d-0.1869644!5e0!3m2!1sen!2sus!4v1576340078563!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 [點此連結前往GoogleMaps](https://goo.gl/maps/ydADpmYfqjPakQRf7)
 
+### Cotonou科托努：貝南門戶城市
+
+科托努並非貝南的首都（該國首都為附近的Porto-Novo），但由於唯一的國際機場就坐落於此，這裡因而成為貝南的門戶。從這裡搭車前往國內各地、往奈及利亞或多哥方向移動都算是相當方便。
+
+* 科托努機場就位在市區裡面，有些比較近的旅館從機場走路就可以直接到達。市區內主要交通工具為摩托計程車，找穿著印有背號黃色襯衫的司機搭車即可。
+* 市區值得一看的地方包括科托努聖母院（Cathédrale Notre-Dame-de-Miséricorde de Cotonou）以及Dantokpa Market，此外北側湖中的水上聚落Ganvie算是觀光客必訪景點，下面再詳細介紹。
+* 市區往西邊多哥、Ouidah方向的bush taxi，根據我拜訪時的經驗，最好在Marche Saint-Michel斜對面搭，比較容易湊到一輛車。詳細地點如下圖：
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3082.3120055399795!2d2.4253287808115105!3d6.370061958551866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjInMTIuNSJOIDLCsDI1JzMxLjYiRQ!5e1!3m2!1sen!2sus!4v1576353128850!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+![](https://imgur.com/rPskgQb.jpg)
+*科托努聖母院內部一景，正前方牆壁的用色意外的非常後現代，但外牆則是相當的繽紛*
+
+![](https://imgur.com/c0z2qMr.jpg)
+*Dantokpa Market內景象*
+
 ## Ganvie：與水共生的湖中聚落
 
 Ganvie是位於貝南最大城科托努（Cotonou）近郊的一座水上村莊，由一群不願被達荷美王國（Dahomey Kingdom）奴役的居民在18世紀建造，至今仍然住了多達20,000人，家家戶戶都住在水上並且靠船隻進出。雖然許多旅遊指南或網路文章都稱之為「西非的威尼斯」，我卻建議大家不要用威尼斯的眼光來看這裡，因為它不僅僅是個建造在水上的聚落，這裡的人們和湖中生態的共生關係可是威尼斯看不到的。
+
+![](https://imgur.com/mHLUanY.jpg)
+*乘坐遊船參觀Ganvie這個村落*
+
+![](https://imgur.com/np0AmL4.jpg)
+*Ganvie村內的水上市集，無論小販或是客人都是划船前來*
+
+![](https://imgur.com/8yj0qDG.jpg)
+*村內典型民居*
+
+![](https://imgur.com/UnV4cco.jpg)
+*每年9月到11月間為淡水季，布袋蓮會大量生長，漁民也趁這時候在湖裡布網捕魚；之後海水會取代淡水，讓布袋蓮大量死亡，成為養份提供給下一個生長季，如此循環不止。*
 
 ### 如何抵達Ganvie
 
@@ -38,6 +68,9 @@ Ganvie是位於貝南最大城科托努（Cotonou）近郊的一座水上村莊�
 從Calavi主要路口往東約700公尺就是碼頭。遊客依規定不能搭乘當地居民使用的交通船，必須要雇用嚮導以及船隻前往，兩人成行的標準報價為21,000CFA（每人搭乘電動船費用5,500CFA，加上嚮導費用10,000CFA，一人費用與兩人相同，四人以上則是每人船費4,500CFA）。我是在淡季週日一大早前往，沒有其他遊客而且現場也沒人在招攬生意，等了約10分鐘後才來了一位嚮導，殺價到15,000CFA之後出發。
 
 從Calavi碼頭到Ganvie單程約30-40分鐘，而標準行程會在Ganvie村內停留約30分鐘（包含上岸逛紀念品店），整趟行程從上船到下船約是90到120分鐘，因此從  科托努市區出發來回全程可以在半天內搞定。
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d90909.57074028288!2d2.4263971732833554!3d6.424164793817771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1024ab9f452525cf%3A0x45da8a96be602994!2sGanvie%2C%20Benin!5e1!3m2!1sen!2sus!4v1576341490337!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+Ganvie在地圖上的確切地理位置。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.595609225633!2d2.3520173139266167!3d6.445936325850554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjYnNDUuNCJOIDLCsDIxJzE1LjEiRQ!5e0!3m2!1sen!2sus!4v1575735293307!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 Calavi-Kpota交叉路口，叫車時可以跟司機說想前往此地。
@@ -55,6 +88,27 @@ Ouidah在貝南算是觀光客必定會停留的城市，以販奴歷史及巫�
 
 以上景點除了無歸之門位在市區南邊4公里處的海灘旁，必須另外找moto-taxi前往（500CFA，看個人殺價功力）之外，都在步行可以到達的範圍之內。
 
+![](https://imgur.com/zyvpIjT.jpg)
+*Zinsou Foundation，Ouidah市區裡首屈一指的藝術博物館，相當值得一看！*
+
+![](https://imgur.com/7NvMa1d.jpg)
+*Ouidah Museum of History，原為葡萄牙人建立的堡壘，做為奴隸交易的據點使用，現提供文物展示以及導覽，個人覺得推薦！*
+
+![](https://imgur.com/lOq1oTn.jpg)
+*Python Temple個人覺得是個過譽的景點。圖為出口處的紀念品販賣區。*
+
+![](https://imgur.com/qbTPUBQ.jpg)
+*無歸之門（Gate of No Return），當年奴隸離開家鄉被送往美洲的地方。*
+
+![](https://imgur.com/dW2DSr3.jpg)
+*無歸之門附近的千禧年之門Mémorial du grand jubilé de l'an 2000*
+
+![](https://imgur.com/Egeonbg.jpg)
+*無歸之門附近鄉間早晨風景*
+
+![](https://imgur.com/8IhHVuW.jpg)
+*無歸之門附近鄉間早晨風景*
+
 ### 如何抵達Ouidah
 
 Ouidah位在貝南的沿海公路大動脈上，因此交通並不困難。由於巴士的班車不多，最方便的方法是從東邊的科托努找往西的bush taxi（1,500CFA，45-60分鐘），或是從西邊的邊界城市Hilla-condji找往東的車（2,000CFA，60-90分鐘）前往。要注意的是車子並不會進入市區，而是在外環道上的主要交叉路口停車（這點和許多其他西非城市類似），不過不用擔心被丟包在路邊——基本上你還沒下車，等著要賺你錢的moto-taxi司機們就已經圍上來了。同樣的，要離開Ouidah時，可以直接從市區找moto-taxi，說要前往Hotel Gbena即可。
@@ -62,6 +116,21 @@ Ouidah位在貝南的沿海公路大動脈上，因此交通並不困難。由�
 ## Togoville & Lake Togo：殖民歷史與特色教堂
 
 在第一次世界大戰之前，多哥是德國的殖民地，當時殖民的行政中心就位於多哥湖邊的Togoville這個聚落；到了今天，Togoville已經成為一個連主要道路都不會經過的小村，但由於這段歷史淵源，加上當地曾有聖母馬利亞顯靈的記事，仍有一些旅行者會選擇特別前往。這個地方雖然看起來平凡，教堂內富有西非色彩的聖像畫，以及搭船過湖的有趣經驗，仍是值得造訪的理由（不過以可看度來說，個人覺得Ganvie還是相對比較有特色）。
+
+![](https://imgur.com/ru3rfyM.jpg)
+*前往Togoville必須坐船，從湖上遠遠就可以望見教堂與十字架。*
+
+![](https://imgur.com/zfNzXd4.jpg)
+*教堂前廣場的壁畫，紀念聖母在此顯靈的事蹟。*
+
+![](https://imgur.com/Fq6Skdj.jpg)
+*教堂內景象，可以見到畫風和西方截然不同的聖像畫。*
+
+![](https://imgur.com/FVDpKio.jpg)
+*教堂內景象，可以見到畫風和西方截然不同的聖像畫。*
+
+![](https://imgur.com/9zecDJ7.jpg)
+*Togoville村內一隅*
 
 ### 如何抵達Togoville
 
@@ -71,11 +140,50 @@ Togoville位在多哥湖的北岸，但主要的沿海公路卻是走湖的南�
 
 下船之後村內的年輕人馬上就會過來，表示村內協會規定每人參觀費用含導覽為6,000CFA，不含導覽則為2,000CFA，現場看起來應該是公定價。如果自己逛的話主要看點就是教堂和另一端的紀念碑，不確定若有嚮導陪同是否會看到更多其他景點。
 
+### Lome：多哥首都與海岸城市
+
+Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市區臨海、也有著風景不錯的海灘，但靠海地區環境與治安並不算太好，若要欣賞風景建議淺嘗即可，並請留心提防當地人詐騙，畢竟靠近邊界的地區往往還是稍微混亂一點。通過邊界時謹記自己走自己的路，不要受當地人的影響。
+
+市區值得一看的地方是市中心的大市集（Marche Grand）以及聖心堂（Cathédrale du Sacré-Cœur de Lomé），也有旅遊指南推薦市區東北方的巫毒教市場Akodessawa Fetish Market。
+
+![](https://imgur.com/bxXW4aQ.jpg)
+*Lome市區旁的海灘，實際上環境和治安都沒有照片上看起來那麼好就是了。*
+
+![](https://imgur.com/WkWSel0.jpg)
+*當地人在臨海道路旁收網*
+
+![](https://imgur.com/j7Y7gs5.jpg)
+*聖心堂與前方的大市集*
+
 ## Mole National Park & Larabanga Mosque：小資背包客的莽原之旅，以及西非最古老的清真寺
 
 提到非洲旅遊，多數人馬上想到的通常是東非的莽原獵遊（safari tour）；西非雖然沒有同等規模的莽原，位在迦納北部的Mole National Park卻提供了類似的經驗。英國殖民時代將這裡設置為狩獵遊憩區，禁止人為開發，後來轉型為國家公園，也成為西非現今極少數可以看到大型野生動物的地方。國家公園內除了較高端的Zaina Lodge之外，Mole Motel提供了自助旅行者相當經濟實惠的選擇，只要100GHC就可以在公園內過夜，並且享受居高臨下、可以眺望莽原的游泳池。
 
 公園外的Larabanga Mosque則是西非最重要的伊斯蘭聖地。相傳建造於1421年的清真寺，至今仍然維持著以泥土與木桿建造的蘇丹——撒赫爾形式（[Sudano-Sahelian](https://en.wikipedia.org/wiki/Sudano-Sahelian_architecture)），是目前少數外來遊客可以輕易拜訪的同類型建築。（在附近國家如尼日、布吉納法索與馬利境內還有更多而且更加壯觀的同類型建築，但這幾個國家目前局勢非常不穩定，並不適合遊客前往。）
+
+![](https://imgur.com/nHas1YU.jpg)
+*Larabanga Mosque，伊斯蘭教在西非最重要的聖地。*
+
+![](https://imgur.com/P0D1Exc.jpg)
+*Larabanga Mosque的西側（女性）入口*
+
+![](https://imgur.com/4KzpQmu.jpg)
+*Mole附近的Mognori生態村，在此可以進入泥造的房屋內參觀。*
+
+![](https://imgur.com/tI472TD.jpg)
+*Mole提供價格相對親民的吉普車莽原遊程*
+
+![](https://imgur.com/lAVU7vY.jpg)
+*在Mole期間看到的野生動物*
+
+![](https://imgur.com/cHwPj5h.jpg)
+*在Mole期間看到的野生動物*
+
+![](https://imgur.com/ZQNcxZP.jpg)
+*Mole Motel居高臨下，可以眺望莽原全景，早晨及黃昏在這裡就可以直接看到動物。*
+
+![](https://imgur.com/ETaVibi.jpg)
+*Mole Motel的設施，有些年代了但整體而言非常乾淨舒服。*
 
 ### 如何抵達Larabanga與Mole National Park
 
@@ -105,15 +213,98 @@ Larabanga擁有西非現存最古老的清真寺，加上位在Mole National Par
 
 蘇丹——撒赫爾形式的清真寺目前在迦納僅存6座，全都位在北部。想要深入了解及建築形式以及脈絡，推薦[The Hauns in Africa](https://haunsinafrica.com/)部落格的文章[Ancient Mosques of Ghana](https://haunsinafrica.com/tag/ancient-mosques-of-ghana/)。
 
-## Kumasi
+![](https://imgur.com/UT3ND7v.jpg)
+*前往庫馬西路上所見*
 
-Kumasi是迦納第二大城，也是過去幾個世紀裡西非主要帝國Ashanti Empire的行政中心所在，至今仍然是個極具影響力的大城。這裡的旅遊亮點當然也就是Asanti帝國的宮殿與博物館了。Ashanti國王在1896年因為拒交保護費而被英國流放，原本壯觀的宮殿也已經被毀，現在所能看到的是後來1935年王室重建時英國給予的宅邸，現在變成了博物館，主要看點是裡面的帝國文物，以及許多20世紀上半葉使用至今的骨董級家電如電扇、冰箱等。
+![](https://imgur.com/3wGGk7p.jpg)
+*前往庫馬西路上所見*
 
-此外，位在Kumasi市中心的超大市集Kejetia也值得造訪，適合去體驗一下西非大型市集的宏大規模已經人聲鼎沸的感覺，還可以買到富有當地特色的紡織品。
+## Kumasi 庫馬西：前殖民時代迦納輝煌歷史的見證
 
-## Cape Coast
+庫馬西雖然不是迦納首都，其影響力卻絲毫不亞於阿克拉——在迦納成為英國殖民地之前，庫馬西是非洲本地強權阿散蒂帝國（Ashanti Empire）的行政中心，不但經濟非常繁榮，還有著奢華至極的宮殿；今天雖然不再是迦納的行政中心，卻因為這段歷史而成為最有文化底蘊的大城。
 
+這裡的旅遊亮點當然也就是阿散蒂帝國的宮殿與博物館了。阿散蒂國王在1896年因為拒交保護費而被英國流放，原本壯觀的宮殿也已經被毀，現在所能看到的是後來1935年王室重建時英國給予的宅邸，現在變成了博物館，主要看點是裡面的帝國文物，以及許多20世紀上半葉使用至今的骨董級家電如電扇、冰箱等。
 
+此外，位在庫馬西市中心的超大市集Kejetia也值得造訪，適合去體驗一下西非大型市集的宏大規模已經人聲鼎沸的感覺，還可以買到富有當地特色的紡織品。
 
-## Kakum National Park
+![](https://imgur.com/jWlKf6U.jpg)
+*今日的阿散蒂宮殿並非原本的型態，而是在國王流放回歸之後，由英國人提供的20世紀建築。*
 
+![](https://imgur.com/UERAWyU.jpg)
+*庫馬西市中心的超大市集Kejetia*
+
+![](https://imgur.com/9MCmXoe.jpg)
+*Kejetia一隅*
+
+![](https://imgur.com/EKxCFGS.jpg)
+*在Asafo車站等車時所見到兜售零嘴與便當的小販，那個便當的高度實在讓人佩服⋯⋯*
+
+### 如何前往Kumasi
+
+阿克拉到庫馬西是條超熱門路線，主要客運業者如STC和VIP都密集發車，坐滿即開，不太需要等待。從其他城市（如Tamale、Cape Coast、Sawla等）前往庫馬西一樣相當方便，雖然班次不像阿克拉路線那麼密集，仍然可以達到至少每小時1班車的密度。從Tamale或Sawla前往庫馬西車程約6小時，車資50-60GHC，從阿克拉或Cape Coast車程約4小時，車資45GHC。
+
+## Cape Coast：翻開奴隸貿易的黑歷史
+
+Cape Coast是英國於17世紀建立堡壘、與當地政權進行奴隸買賣的據點所在，今天則成為西非最重要的奴隸歷史見證。拜訪位在海邊岬角上的[Cape Coast Castle](http://capecoastcastle.ghana-net.net)，你可以隨著導覽員進入既潮濕又黑暗的地窖中，體會等著被送往美洲的奴隸們，在這裡不見天日的度過3週到3個月的場景；接著走入正上方英國人居住生活的寬敞明亮空間，感受兩者的巨大差異，並且思考同樣身為人類，究竟是什麼因素造成了如此不同的際遇。Cape Coast門票包含導覽每人40GHC，學生30GHC。
+
+Cape Coast Castle附近是早期英國的統治中心（一直到後來遷往阿克拉為止），因此在街上漫步時不難看到既有歐洲風格、又有西非色彩的教堂建築，以及遠方山丘上的其他堡壘；Cape Coast Castle東側則仍然保留著漁業聚落的原貌，木船、漁網以及各色的旗幟羅列於海灘上，是攝影取景的好地方。
+
+距離Cape Coast不遠的地方還有另一個堡壘Elmina Castle，與Cape Coast Castle類似但兩者各有其擁護者（但我本次行程沒有前往Elmina）；北邊Kakum National Park的樹冠層步道（Canopy Walk）是另一個熱門目的地，資訊參考下面的介紹。
+
+![](https://imgur.com/hYpiCxz.jpg)
+*從Cape Coast海灘望向堡壘*
+
+![](https://imgur.com/QJdnDTc.jpg)
+*一大早出門散步，見到Castle東側傳統漁村的風景*
+
+![](https://imgur.com/aeLhKA0.jpg)
+*Castle對面，迦納最早的聖公會（Anglican Church）*
+
+![](https://imgur.com/tOku5ph.jpg)
+*不遠處的循理會（Methodist Church），格局和新英格蘭所見到的類似，然而色彩卻更為繽紛。*
+
+![](https://imgur.com/iOn5Bf9.jpg)
+*參觀Cape Coast Castle內部*
+
+![](https://imgur.com/jbY5TKP.jpg)
+*Cape Coast Castle裡的地窖，等待被運往美洲的奴隸們居住的地方，環境極其惡劣*
+
+![](https://imgur.com/avpPw4J.jpg)
+*在Cape Coast Castle附近玩樂的孩童*
+
+### 如何前往Cape Coast
+
+Cape Coast位在迦納的沿海大動脈上，從各大城市包括阿克拉、庫馬西都很容易找到巴士或tro-tro前往。要注意的是這些車通常不會進入市區，而是在外環道上的Total加油站路口載客，因此無論抵達或是離開都可以請計程車到這裡。往庫馬西大巴票價為45GHC，車程4-5小時；往阿克拉tro-tro票價為25GHC，車程約2-4小時（視交通狀況而定，週末塞車非常嚴重）。
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1827.302938776964!2d-1.2703286171797215!3d5.122703392023467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfddfe9515caafcb%3A0x9e1fd710dd414a3c!2sCape%20Coast%20By%20Pass%20Total%20Service%20Station!5e0!3m2!1sen!2sus!4v1576342974560!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+Cape Coast外環道上的Total加油站，這個路口是大巴和tro-tro的候客地點。
+
+## Kakum National Park：樹冠層步道體驗
+
+[Kakum National Park](http://kakumnationalpark.info/index.html)如同世界其他地方的國家森林公園，是由早期伐木的林場轉型為保育用途而成。整個公園面積不小，有著步道、樹屋等設施，但是大多數人來此都是為了去走樹冠層步道（Canopy Walk）。長達300公尺、離地10至30公尺的繩索橋，綿延於國家公園中心的原生林區內，給予遊客不同視角感受原生林生態系的豐富多樣。
+
+公園基本入園費為每人2GHC，樹冠層步道每人60GHC，學生為40GHC。前往樹冠層步道入口必須先經過約10分鐘步程的森林步道，稍有緩坡但基本上好走，一般運動鞋即可應付。
+
+![](https://imgur.com/XT2MZIg.jpg)
+*Kakum National Park的樹冠層步道*
+
+![](https://imgur.com/9QdprLl.jpg)
+*Kakum National Park的樹冠層步道*
+
+### 如何前往Kakum National Park
+
+從Cape Coast市區包計程車，單程車程約1小時，在公園內停留1至2小時，包車價格為150GHC。
+
+### Accra阿克拉：迦納首都與西非先進大城
+
+阿克拉是迦納首都，也是旅行者出入的門戶，從英國殖民時期之後逐漸取代阿克拉，成為迦納最重要的城市，也是西非最具影響力的大城之一。城市規模極大，但大眾運輸系統並不是非常完善，
+
+![](https://imgur.com/qekm3f9.jpg)
+*阿克拉市區最老的區域Jamestown，海邊的燈塔*
+
+![](https://imgur.com/O1XA6zt.jpg)
+*阿克拉市區最老的區域Jamestown，聚落一角*
+
+![](https://imgur.com/ZNHRzKm.jpg)
+*阿克拉市區仍然可以見到英國殖民時期留下的建築*
