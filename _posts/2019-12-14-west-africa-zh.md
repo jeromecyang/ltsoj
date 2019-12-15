@@ -11,18 +11,20 @@ image: 'https://i.imgur.com/nRZjByW_d.jpg?maxwidth=640&shape=thumb&fidelity=medi
 
 # （三）遊記與景點資訊
 
+# （三）遊記與景點資訊
+
 ## 行程與地圖（可點選連結跳往景點簡介）
 
-本次行程總長8天8夜，移動距離接近2,000公里，算是比較緊湊的行程。行程表如下：
+我這次旅行總長8天8夜，移動距離接近2,000公里，算是相當緊湊的行程。行程概要如下：
 
-* 11/23 (六) Cotonou, Benin
+* 11/23 (六) [Cotonou, Benin](#cotonou科托努貝南門戶城市)
 * 11/24 (日) Cotonou, Benin -> [Ganvie, Benin](#ganvie與水共生的湖中聚落) -> Cotonou, Benin -> [Ouidah Benin](#ouidah販奴歷史與巫毒文化)
-* 11/25 (一) Ouidah Benin -> Hilla-condji, Benin -> [Togoville, Togo](#togoville--lake-togo殖民歷史與特色教堂) -> Lome, Togo
+* 11/25 (一) Ouidah Benin -> Hilla-condji, Benin -> [Togoville, Togo](#togoville--lake-togo殖民歷史與特色教堂) -> [Lome, Togo](#lome多哥首都與海岸城市)
 * 11/26 (二) Lome, Togo -> Aflao, Ghana -> Accra, Ghana -> 夜間巴士前往Tamale, Ghana
 * 11/27 (三) Tamale, Ghana -> [Larabanga, Ghana](#mole-national-park--larabanga-mosque小資背包客的莽原之旅以及西非最古老的清真寺) -> [Mole National Park, Ghana](#mole-national-park--larabanga-mosque小資背包客的莽原之旅以及西非最古老的清真寺)
 * 11/28 (四) Mole National Park, Ghana -> Sawla, Ghana -> [Kumasi, Ghana](#kumasi-庫馬西前殖民時代迦納輝煌歷史的見證)
 * 11/29 (五) Kumasi, Ghana -> [Cape Coast, Ghana](#cape-coast翻開奴隸貿易的黑歷史)
-* 11/30 (六) Cape Coast, Ghana -> [Kakum National Park, Ghana](#kakum-national-park樹冠層步道體驗) -> Cape Coast, Ghana -> Accra, Ghana
+* 11/30 (六) Cape Coast, Ghana -> [Kakum National Park, Ghana](#kakum-national-park樹冠層步道體驗) -> Cape Coast, Ghana -> [Accra, Ghana](#accra阿克拉迦納首都與西非先進大城)
 * 12/1 (日) Accra, Ghana
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d4052357.1215901263!2d-2.2940935008266647!3d7.311137015626226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x102354e509f894f7%3A0xc8fde921f89849f6!2sCotonou%2C%20Benin!3m2!1d6.3702928!2d2.3912362!4m5!1s0x1024a907d5334d9b%3A0xb28a9b10ccbc460a!2sAbomey%20Calavi%2C%20Benin!3m2!1d6.4503024!2d2.3468195!4m5!1s0x102361980628a263%3A0xaec20944ccfbc4ee!2sOuidah%2C%20Benin!3m2!1d6.3716474!2d2.0763252999999997!4m5!1s0x1023eda46aee06c7%3A0x57b50b5685cde295!2sAgbodrafo%2C%20Togo!3m2!1d6.207785599999999!2d1.4759902999999999!4m5!1s0x1023e1c113185419%3A0x3224b5422caf411d!2sLome%2C%20Togo!3m2!1d6.1256261!2d1.2254182999999998!4m5!1s0xfdf9084b2b7a773%3A0xbed14ed8650e2dd3!2sAccra%2C%20Ghana!3m2!1d5.6037168!2d-0.1869644!4m5!1s0xfd43c903162fdeb%3A0x83f46c1562717cde!2sTamale%2C%20Ghana!3m2!1d9.403422599999999!2d-0.8424159999999999!4m5!1s0xfd178aeaaaaaaab%3A0xcd21293ca7ce2c78!2sMole%20National%20Park%2C%20Ghana!3m2!1d9.5!2d-2!4m5!1s0xfddfc29c7b3faad%3A0xeae5bdfb8639e093!2sCape%20Coast%2C%20Ghana!3m2!1d5.13151!2d-1.2794744!4m5!1s0xfdf9084b2b7a773%3A0xbed14ed8650e2dd3!2sAccra%2C%20Ghana!3m2!1d5.6037168!2d-0.1869644!5e0!3m2!1sen!2sus!4v1576340078563!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -38,22 +40,26 @@ image: 'https://i.imgur.com/nRZjByW_d.jpg?maxwidth=640&shape=thumb&fidelity=medi
 * 市區往西邊多哥、Ouidah方向的bush taxi，根據我拜訪時的經驗，最好在Marche Saint-Michel斜對面搭，比較容易湊到一輛車。詳細地點如下圖：
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3082.3120055399795!2d2.4253287808115105!3d6.370061958551866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjInMTIuNSJOIDLCsDI1JzMxLjYiRQ!5e1!3m2!1sen!2sus!4v1576353128850!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從科托努往西的bush taxi搭車地點，鄰近Marche Saint-Michel*
 
 ![](https://imgur.com/rPskgQb.jpg)
-*科托努聖母院內部一景，正前方牆壁的用色意外的非常後現代，但外牆則是相當的繽紛*
+*科托努聖母院內部一景，正前方牆壁的用色意外的非常極簡、後現代，但外牆則是相當的繽紛*
 
 ![](https://imgur.com/c0z2qMr.jpg)
 *Dantokpa Market內景象*
 
 ## Ganvie：與水共生的湖中聚落
 
-Ganvie是位於貝南最大城科托努（Cotonou）近郊的一座水上村莊，由一群不願被達荷美王國（Dahomey Kingdom）奴役的居民在18世紀建造，至今仍然住了多達20,000人，家家戶戶都住在水上並且靠船隻進出。雖然許多旅遊指南或網路文章都稱之為「西非的威尼斯」，我卻建議大家不要用威尼斯的眼光來看這裡，因為它不僅僅是個建造在水上的聚落，這裡的人們和湖中生態的共生關係可是威尼斯看不到的。
+Ganvie是位於貝南最大城科托努（Cotonou）近郊的一座水上村莊，由一群不願被達荷美王國（Dahomey Kingdom）奴役的居民在18世紀建造，至今仍然住了多達20,000人，家家戶戶都住在水上並且靠船隻進出。雖然許多旅遊指南或網路文章都稱之為「西非的威尼斯」，我卻建議大家不要用威尼斯的眼光來看這裡，因為它不僅僅是個建造在水上的聚落，這裡人們的生活和整個生態系融為一體，這是威尼斯見不到的。
 
 ![](https://imgur.com/mHLUanY.jpg)
 *乘坐遊船參觀Ganvie這個村落*
 
 ![](https://imgur.com/np0AmL4.jpg)
 *Ganvie村內的水上市集，無論小販或是客人都是划船前來*
+
+![](https://imgur.com/PbzMi6u.jpg)
+*所有的交通與生活都發生在水上，因此家家戶戶都有船隻，而且每個人都得會划船*
 
 ![](https://imgur.com/8yj0qDG.jpg)
 *村內典型民居*
@@ -76,6 +82,10 @@ Ganvie在地圖上的確切地理位置。
 Calavi-Kpota交叉路口，叫車時可以跟司機說想前往此地。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3964.5896932489177!2d2.354898813926624!3d6.446693025842054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d6.445931!2d2.354206!4m3!3m2!1d6.4474437!2d2.359969!5e0!3m2!1sen!2sus!4v1575735440602!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從交叉路口走到碼頭的路線*
+
+![](https://imgur.com/d5ekjs3.jpg)
+*前往Ganvie碼頭的入口處*
 
 ## Ouidah：販奴歷史與巫毒文化
 
@@ -113,6 +123,28 @@ Ouidah在貝南算是觀光客必定會停留的城市，以販奴歷史及巫�
 
 Ouidah位在貝南的沿海公路大動脈上，因此交通並不困難。由於巴士的班車不多，最方便的方法是從東邊的科托努找往西的bush taxi（1,500CFA，45-60分鐘），或是從西邊的邊界城市Hilla-condji找往東的車（2,000CFA，60-90分鐘）前往。要注意的是車子並不會進入市區，而是在外環道上的主要交叉路口停車（這點和許多其他西非城市類似），不過不用擔心被丟包在路邊——基本上你還沒下車，等著要賺你錢的moto-taxi司機們就已經圍上來了。同樣的，要離開Ouidah時，可以直接從市區找moto-taxi，說要前往Hotel Gbena即可。
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1982.5850917825753!2d2.0736755364450756!3d6.372017384891959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjInMTkuMyJOIDLCsDA0JzI4LjgiRQ!5e0!3m2!1sen!2sus!4v1576374788353!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*Ouidah外環道上的候車地點，叫計程車時可以用Hotel Gbena為地標告訴司機*
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d63445.43493353753!2d2.0464760766038217!3d6.350047579868508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e0!4m3!3m2!1d6.375843799999999!2d2.0748283!4m5!1s0x10236136c3db525d%3A0x3607cf040d477ee9!2sPorte%20du%20Non%20Retour%2C%20Benin!3m2!1d6.324083099999999!2d2.0895049!5e0!3m2!1sen!2sus!4v1576374877763!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從候車點到海邊的無歸之門路線，距離超過6公里*
+
+### 貝南與多哥邊境Hilla-condji
+
+出入境程序並不難，抵達Hilla-condji後跟著人潮往前走，走出貝南之前先到左手邊的灰色小屋蓋出境章，然後走過兩國之間的邊境區，接著進入多哥之後右邊會有一間外國人辦理落地簽的小木屋，移民官員會以全手動的方式幫你辦落地簽（10,000CFA），然後前往另一間小屋進行入境登記就完成。要注意的是邊界附近的銀行並不提供換錢服務，如果一定要換錢只能找黑市，儘可能只換小額。
+
+![](https://imgur.com/FfLnBHD.jpg)
+*貝南境內路上風景*
+
+![](https://imgur.com/vVwnmB7.jpg)
+*進入邊境區之前的在貝南側的景色，外國人必須在左側的灰色小屋處蓋出境章*
+
+![](https://imgur.com/8zI5oLN.jpg)
+*多哥的國門，辦理落地簽證以及入境的地點位在門右側的白色小屋旁*
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3083.0802667440353!2d1.62785251392599!3d6.240836228118215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x10238f4c2a75c4b5%3A0xdc431dd96efe7ebb!2sParc%20auto%20taxi%20Hillacondji%20frontiere!3m2!1d6.2405671!2d1.6338331!4m5!1s0x10238f272b28ff4b%3A0x14be76893931c59!2sParc%20Auto%20taxi!3m2!1d6.2411417!2d1.6264334999999999!5e1!3m2!1sen!2sus!4v1576375414264!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從貝南側的計程車停車場（右）到多哥側的停車場（左）之路線*
+
 ## Togoville & Lake Togo：殖民歷史與特色教堂
 
 在第一次世界大戰之前，多哥是德國的殖民地，當時殖民的行政中心就位於多哥湖邊的Togoville這個聚落；到了今天，Togoville已經成為一個連主要道路都不會經過的小村，但由於這段歷史淵源，加上當地曾有聖母馬利亞顯靈的記事，仍有一些旅行者會選擇特別前往。這個地方雖然看起來平凡，教堂內富有西非色彩的聖像畫，以及搭船過湖的有趣經驗，仍是值得造訪的理由（不過以可看度來說，個人覺得Ganvie還是相對比較有特色）。
@@ -140,6 +172,9 @@ Togoville位在多哥湖的北岸，但主要的沿海公路卻是走湖的南�
 
 下船之後村內的年輕人馬上就會過來，表示村內協會規定每人參觀費用含導覽為6,000CFA，不含導覽則為2,000CFA，現場看起來應該是公定價。如果自己逛的話主要看點就是教堂和另一端的紀念碑，不確定若有嚮導陪同是否會看到更多其他景點。
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1541.6335320871372!2d1.476600557842499!3d6.209011065353544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d6.2094854999999995!2d1.4796802!4m3!3m2!1d6.2103516!2d1.4759385999999999!5e1!3m2!1sen!2sus!4v1576375056422!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從Agbodrafo的下車地點到Togoville的登船地點路線。不用擔心不會走，只要一下車當地人馬上就會過來說要帶你去Togoville。*
+
 ### Lome：多哥首都與海岸城市
 
 Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市區臨海、也有著風景不錯的海灘，但靠海地區環境與治安並不算太好，若要欣賞風景建議淺嘗即可，並請留心提防當地人詐騙，畢竟靠近邊界的地區往往還是稍微混亂一點。通過邊界時謹記自己走自己的路，不要受當地人的影響。
@@ -154,6 +189,16 @@ Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市�
 
 ![](https://imgur.com/j7Y7gs5.jpg)
 *聖心堂與前方的大市集*
+
+### 多哥與迦納邊界
+
+從多哥入境迦納一樣非常簡單，進入邊境區之後，先到右側小屋（下圖中右邊數來第一間綠色屋頂）辦理多哥出境，然後往前到迦納側填寫入境表並且蓋入境章（下圖中右邊數來第二間、紅色屋頂），之後就直接進入迦納，感覺比貝南到多哥的邊界還要更加開放。
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1541.9129279316699!2d1.1975447078424035!3d6.112823065853938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d6.1135106!2d1.2003017999999999!4m5!1s0x10215f743054aac5%3A0xf23ea647ce70f55!2sIntercity%20STC%20Coaches%20LTD%20Bus%20Terminal%2C%20Aflao!3m2!1d6.1121167!2d1.1969834!5e1!3m2!1sen!2sus!4v1576375910258!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從多哥入境迦納的步行路線，起點為邊境區的大門，終點為迦納側的計程車與巴士停車場*
+
+![](https://imgur.com/2BtuCUF.jpg)
+*進入迦納之後的道路風景*
 
 ## Mole National Park & Larabanga Mosque：小資背包客的莽原之旅，以及西非最古老的清真寺
 
@@ -189,15 +234,25 @@ Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市�
 
 最近的城市為迦納北部大城Tamale，可以從Accra搭乘飛機（250GHC，1小時）、STC或VIP巴士（110GHC，13小時）抵達，Kumasi也有巴士或者tro-tro前往（60GHC，6小時）。我搭乘從Accra出發的STC班車是每天早上7:00與下午3:00發車，路上會有三次長約15分鐘的停車休息，因此不用擔心沒地方上廁所或吃飯。STC在Accra有多個車站，上述班車是從位在環道（Ring Road）上的總站發車。
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6018.941507047553!2d-0.22728321058138834!3d5.564017924000679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2f3094cf26f7512!2sAccra%20Intercity%20STC%20Coached%20Ltd%20Bus%20Terminal!5e0!3m2!1sen!2sus!4v1576376331247!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從阿克拉前往Tamale的STC發車站，是位在環道上的總站*
+
+![](https://imgur.com/w1v5owE.jpg)
+*前往Tamale的巴士在途中休息的景象，時間為午夜，路旁仍然熱鬧滾滾*
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1012.8471556251957!2d-0.8431796754649917!3d9.406623564672236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfd43c89678d9751%3A0x945995ab64f8df7f!2sMain%20Tro-Tro%20Station!5e1!3m2!1sen!2sus!4v1576376444042!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*Tamale的tro-tro發車站，正下方的大片白色屋頂即為STC車站所在*
+
 從Tamale到Mole National Park的門戶Larabanga，搭乘前往Wa方向的tro-tro大約要2.5小時（35GHC，路上提早下車也是一樣票價），tro-tro發車站就位在STC的隔壁，走幾步路就可以到達。我搭乘的STC巴士大約是凌晨3:30抵達Tamale，這時候前往Wa的trop-tro已經在那裡等著，等到大約早上5:45坐滿人便發車，早上8:00到達Larabanga。
 
 除了從Tamale出發之外，也可以從Kumasi到Tamale路上的Fufulso叉路口叫計程車前往Mole，根據路上其他背包客的回報，價格為100-200GHC，車程約1小時；同樣也可以從另一端的Sawla叫車前往，時間與費用雷同。此外，距離Larabanga約15公里的大城鎮Damongo有比較頻繁的班車前往Tamale，每週還有幾班直達Kumasi的巴士（時間及搭車地點不明），也可作為選項之一。
 
-Larabanga就正好位於前往Mole的岔路口，從那裡搭計程車前往6公里外的Mole Motel報價為25-30GHC，也有看到有背包客選擇用走的，不過大太陽下得要有心理準備。
+Larabanga就正好位於前往Mole的岔路口，從那裡搭計程車前往6公里外的Mole Motel報價為25-30GHC，也有看到有背包客選擇用走的，不過大太陽下得要有心理準備。進入公園時要付門票每人40GHC。
 
-從Mole離開，基本上就是以上的交通方式反過來使用，不過我覺得背包客的最佳選項可能是在Motel找同天離開的其他旅人一起包車，Motel的工作人員可以幫忙連繫。比起搭到Larabanga或Damongo轉車，直接包車到位在主要幹道上的Fufulso或Sawla可能更實際一點。
+從Mole離開，基本上就是以上的交通方式反過來使用，不過我覺得背包客的最佳選項可能是在Motel找同天離開的其他旅人一起包車，Motel的工作人員可以幫忙連繫。比起搭到Larabanga或Damongo轉車，直接包車到位在主要幹道上的Fufulso或Sawla可能更實際一點。我和其他三位來自德國的背包客早上9:00從Mole出發（計程車全車200GHC），在Sawla銜接上11:00前往庫馬西的tro-tro（每人55GHC），最後到達庫馬西的時間為17:30。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d504068.90318367165!2d-1.630716867607056!3d9.240872225514861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xfd43c903162fdeb%3A0x83f46c1562717cde!2sTamale%2C%20Ghana!3m2!1d9.403422599999999!2d-0.8424159999999999!4m5!1s0xfd1543e6d255daf%3A0xdf7e32929fc6d655!2sFulfoso%2C%20Ghana!3m2!1d9.1226469!2d-1.2734573!4m5!1s0xfd178ec39d603bb%3A0x99c4e7e635efc18f!2sDamongo%2C%20Ghana!3m2!1d9.091271899999999!2d-1.8269573!4m5!1s0xfd22abfad68ce8b%3A0xaca8e1cc9e806c7c!2sLarabanga%2C%20Ghana!3m2!1d9.2156009!2d-1.8586612999999998!4m5!1s0xfd22b691f6ac0ff%3A0x987368dc660ec032!2sMole%20Motel%2C%20Ghana!3m2!1d9.26038!2d-1.8557949!5e0!3m2!1sen!2sus!4v1575735823720!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從Tamale前往Mole的路線*
 
 ### Mole National Park怎麼玩
 
@@ -243,6 +298,9 @@ Larabanga擁有西非現存最古老的清真寺，加上位在Mole National Par
 
 阿克拉到庫馬西是條超熱門路線，主要客運業者如STC和VIP都密集發車，坐滿即開，不太需要等待。從其他城市（如Tamale、Cape Coast、Sawla等）前往庫馬西一樣相當方便，雖然班次不像阿克拉路線那麼密集，仍然可以達到至少每小時1班車的密度。從Tamale或Sawla前往庫馬西車程約6小時，車資50-60GHC，從阿克拉或Cape Coast車程約4小時，車資45GHC。
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d770.090615082406!2d-1.6158831708588446!3d6.686831331679939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNDEnMTIuNiJOIDHCsDM2JzU1LjIiVw!5e1!3m2!1sen!2sus!4v1576376834044!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+*從庫馬西前往Cape Coast的搭車位置，位在Asafo Market旁*
+
 ## Cape Coast：翻開奴隸貿易的黑歷史
 
 Cape Coast是英國於17世紀建立堡壘、與當地政權進行奴隸買賣的據點所在，今天則成為西非最重要的奴隸歷史見證。拜訪位在海邊岬角上的[Cape Coast Castle](http://capecoastcastle.ghana-net.net)，你可以隨著導覽員進入既潮濕又黑暗的地窖中，體會等著被送往美洲的奴隸們，在這裡不見天日的度過3週到3個月的場景；接著走入正上方英國人居住生活的寬敞明亮空間，感受兩者的巨大差異，並且思考同樣身為人類，究竟是什麼因素造成了如此不同的際遇。Cape Coast門票包含導覽每人40GHC，學生30GHC。
@@ -277,8 +335,7 @@ Cape Coast Castle附近是早期英國的統治中心（一直到後來遷往阿
 Cape Coast位在迦納的沿海大動脈上，從各大城市包括阿克拉、庫馬西都很容易找到巴士或tro-tro前往。要注意的是這些車通常不會進入市區，而是在外環道上的Total加油站路口載客，因此無論抵達或是離開都可以請計程車到這裡。往庫馬西大巴票價為45GHC，車程4-5小時；往阿克拉tro-tro票價為25GHC，車程約2-4小時（視交通狀況而定，週末塞車非常嚴重）。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1827.302938776964!2d-1.2703286171797215!3d5.122703392023467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfddfe9515caafcb%3A0x9e1fd710dd414a3c!2sCape%20Coast%20By%20Pass%20Total%20Service%20Station!5e0!3m2!1sen!2sus!4v1576342974560!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-Cape Coast外環道上的Total加油站，這個路口是大巴和tro-tro的候客地點。
+*Cape Coast外環道上的Total加油站，這個路口是大巴和tro-tro的候客地點。*
 
 ## Kakum National Park：樹冠層步道體驗
 
@@ -298,7 +355,9 @@ Cape Coast外環道上的Total加油站，這個路口是大巴和tro-tro的候�
 
 ### Accra阿克拉：迦納首都與西非先進大城
 
-阿克拉是迦納首都，也是旅行者出入的門戶，從英國殖民時期之後逐漸取代阿克拉，成為迦納最重要的城市，也是西非最具影響力的大城之一。城市規模極大，但大眾運輸系統並不是非常完善，
+阿克拉是迦納首都，也是旅行者出入的門戶，從英國殖民時期之後逐漸取代阿克拉，成為迦納最重要的城市，也是西非最具影響力的大城之一。城市規模極大，但大眾運輸系統並不是非常完善，市區內平常壅塞非常嚴重。令人慶幸的是這裡有Uber，許多用的是有冷氣的車輛，而且價格比當地計程車更便宜，來此旅行可多加利用。
+
+阿克拉算是比較新的城市，相對來說歷史和文化就不是那麼豐富，但值得一遊的是位在海邊的聚落Jamestown，相當程度地保留了都市化以前的風貌，和Cape Coast有些類似。
 
 ![](https://imgur.com/qekm3f9.jpg)
 *阿克拉市區最老的區域Jamestown，海邊的燈塔*
@@ -308,3 +367,6 @@ Cape Coast外環道上的Total加油站，這個路口是大巴和tro-tro的候�
 
 ![](https://imgur.com/ZNHRzKm.jpg)
 *阿克拉市區仍然可以見到英國殖民時期留下的建築*
+
+![](https://imgur.com/qTqCFtl.jpg)
+*嶄新的國家門面阿克拉機場，國際（第三）航廈兩年前才剛完工*
