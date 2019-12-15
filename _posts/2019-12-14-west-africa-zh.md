@@ -169,37 +169,45 @@ image: 'https://imgur.com/JoLD34z.jpg'
 
 **11/23 (六)**
 * [Cotonou, Benin 貝南門戶城市](#cotonou科托努貝南門戶城市)
+
 **11/24 (日)**
 * Cotonou, Benin
 * [Ganvie, Benin 與水共生的湖中聚落](#ganvie與水共生的湖中聚落)
 * Cotonou, Benin
 * [Ouidah Benin 販奴歷史與巫毒文化](#ouidah販奴歷史與巫毒文化)
+
 **11/25 (一)**
 * Ouidah Benin
 * [Hilla-condji, Benin 貝南與多哥邊境](#貝南與多哥邊境hilla-condji)
 * [Togoville, Togo 殖民歷史與特色教堂](#togoville--lake-togo殖民歷史與特色教堂)
 * [Lome, Togo 多哥首都與海岸城市](#lome多哥首都與海岸城市)
+
 **11/26 (二)**
 * Lome, Togo
 * [Aflao, Ghana 多哥與迦納邊界](#多哥與迦納邊界)
 * Accra, Ghana
 * 夜間巴士前往Tamale, Ghana
+
 **11/27 (三)**
 * Tamale, Ghana
 * [Larabanga, Ghana 西非最古老的清真寺](#mole-national-park--larabanga-mosque小資背包客的莽原之旅以及西非最古老的清真寺)
 * [Mole National Park, Ghana 小資背包客的莽原之旅](#mole-national-park--larabanga-mosque小資背包客的莽原之旅以及西非最古老的清真寺)
+
 **11/28 (四)**
 * Mole National Park, Ghana
 * Sawla, Ghana
 * [Kumasi, Ghana 前殖民時代迦納輝煌歷史的見證](#kumasi-庫馬西前殖民時代迦納輝煌歷史的見證)
+
 **11/29 (五)**
 * Kumasi, Ghana
 * [Cape Coast, Ghana 翻開奴隸貿易的黑歷史](#cape-coast翻開奴隸貿易的黑歷史)
+
 **11/30 (六)**
 * Cape Coast, Ghana
 * [Kakum National Park, Ghana 樹冠層步道體驗](#kakum-national-park樹冠層步道體驗)
 * Cape Coast, Ghana
 * [Accra, Ghana 迦納首都與西非先進大城](#accra阿克拉迦納首都與西非先進大城)
+
 **12/1 (日)**
 * Accra, Ghana
 
