@@ -11,8 +11,6 @@ image: 'https://i.imgur.com/nRZjByW_d.jpg?maxwidth=640&shape=thumb&fidelity=medi
 
 # （三）遊記與景點資訊
 
-# （三）遊記與景點資訊
-
 ## 行程與地圖（可點選連結跳往景點簡介）
 
 我這次旅行總長8天8夜，移動距離接近2,000公里，算是相當緊湊的行程。行程概要如下：
