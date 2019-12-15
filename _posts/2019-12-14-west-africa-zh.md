@@ -6,7 +6,7 @@ title: 西非三國（貝南、多哥、迦納）自助旅行攻略與遊記
 tags:
 - West Africa
 permalink: 2019/12/14/west-africa-zh
-image: 'https://imgur.com/JoLD34z'
+image: 'https://imgur.com/JoLD34z.jpg'
 ---
 
 # （三）遊記與景點資訊
