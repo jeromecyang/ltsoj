@@ -20,10 +20,10 @@
       <itunes:subtitle>歡迎光臨本客棧</itunes:subtitle>
       <itunes:summary>本podcast簡介</itunes:summary>
       <itunes:image href="https://ltsoj.com/assets/img/IMG_5674.JPG" />
-      <enclosure type="audio/mpeg" url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3" />
+      <enclosure type="audio/mpeg" url="https://ltsoj.com/assets/audio/episode0.mp3" />
       <guid isPermaLink="false">e99f7614-d82f-42bc-9b23-1f251592f472</guid>
-      <pubDate>Fri, 11 Mar 2016 01:15:00 +3000</pubDate>
-      <itunes:duration>03:59</itunes:duration>
+      <pubDate>Sat, Dec 28 2019 21:40:34 -0500</pubDate>
+      <itunes:duration>00:25</itunes:duration>
     </item>
   </channel>
 </rss>
