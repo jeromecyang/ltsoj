@@ -3,7 +3,7 @@ date: 2020-02-20
 layout: post
 title: 我如何決定去哪裡旅行
 permalink: '2020/02/20/find-destinations'
-image: 'https://imgur.com/5sTKpyx.jpg'
+image: 'https://imgur.com/58GfAAr.jpg'
 featured: true
 excerpt: 上禮拜在營會分享之後，有不只一個人跑來問我如何決定去哪裡旅行，回來之後覺得其實這個問題簡直可以寫篇文章來談啊！於是就有了這篇。
 ---
