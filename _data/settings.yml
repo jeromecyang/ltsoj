@@ -10,13 +10,15 @@ menu:
 - name: '旅行'
   tag: 'Travel'
   subitems:
+    - name: '西非'
+      tag: 'West Africa'
     - name: '高加索'
       tag: 'Caucasus'
       reversed: true
     - name: '摩洛哥'
       tag: 'Morocco'
       reversed: true
-    - name: '2018大旅行'
+    - name: '跨越歐亞大旅行'
       tag: 'Grand Trip'
       reversed: true
     - name: '中亞'
@@ -38,7 +40,7 @@ menu:
       tag: 'Immigrant Community'
     - name: '藝術、音樂與戲劇'
       tag: 'Arts'
-    - name: '我的菜鳥移民故事'
+    - name: '我的移民與職涯故事'
       tag: 'Fob'
       reversed: true
 - name: '波士頓'
@@ -75,6 +77,10 @@ post_date_prefix: 'Written on'
 
 # Featured on homepage
 features:
+  - title: 挑戰最高難度自助旅行：一個人的西非三國（貝南、多哥、迦納）
+    excerpt: 西非可以說是全世界旅遊難度最高、也最少遊客踏足的地區；然而，這裡有著別的地方看不到的文化景觀、往昔非洲帝國的遺跡，以及見證奴隸貿易歷史的場景，再加上還未被觀光業污染的太嚴重，這使得西非具有一種讓人覺得「因為神秘、因此更應該前往」的獨特魅力。
+    image: https://imgur.com/JoLD34z.jpg
+    url: /tag/West%20Africa
   - title: 被打翻的族群調色盤：縱橫高加索三國（喬治亞、亞塞拜然、亞美尼亞）
     excerpt: 歐亞交界處、面積不大的一片山區裡，有著積累數千年的獨特文化，無數個互不相通的語言，又可以見到拜占庭、波斯、土耳其、蘇聯影響的痕跡，簡直就像個被打翻了的族群調色盤。這究竟是一個怎樣的地方？一起來看看我2019年5月的旅行見聞吧！
     image: assets/img/IMG_3379.JPG
@@ -91,7 +97,7 @@ features:
 #    excerpt: 從2014年12月開始，波士頓就是我居住和生活的地方。這個在美國相對多元的城市裡，來自全球各地的移民們把各自的文化、生活方式以及故事也都帶了過來；我平常週末假日最大的興趣，就是探索這些和一般想像中的美國不太一樣的角落⋯⋯
 #    image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg
 #    url: /tag/Boston
-  - title: 我的菜鳥移民故事
+  - title: 我的移民與職涯故事
     excerpt: 2010年8月，我以菜鳥移民的身份來到美國，在人生地不熟的環境裡經歷了各種挑戰與趣事；多年之後回顧，我決定把自己最初幾個月的故事寫下來，和大家分享，也讓自己不要忘記那段既辛苦卻又令人回味無窮的日子。
     image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg
     url: /tag/Fob
