@@ -15,9 +15,9 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Lifetime Sojourner"
-description:	       "冷門國家旅行 · 跨文化現象 · 城市角落探索"
-introduction:        "「一個以冷門國家旅行、城市角落探索以及跨文化現象為主題的網路圖文媒體。」"
-introduction_en:     "off-the-beaten-track travel, cross-cultural experience, city exploration"
+description:	       "自助旅行與文化探索"
+introduction:        "一個以自助旅行與文化探索為主題的網路圖文媒體"
+introduction_en:     "BACKPACKING & CULTURE EXPLORATION"
 author:              "Jerome Yang"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
