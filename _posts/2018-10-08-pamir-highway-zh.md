@@ -431,3 +431,6 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/10/5aca1-img_201
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/10/0a4ff-img_20180521_220953.jpg)
 *在喀什第一晚吃了盤油潑肉燴麵，慶祝自己成功回歸祖國。*
 
+*繼續閱讀下一篇遊記：[2018年5月，我的「新疆經驗」](/2018/11/04/xinjiang-experience)。*
+
+*本文是我在2018年獨自用42天時間跨越歐亞大陸之遊記連載的一部份，其他文章請見[跨越歐亞大旅行](/tag/Grand%20Trip)文章列表。*

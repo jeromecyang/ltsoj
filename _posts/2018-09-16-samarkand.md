@@ -503,3 +503,7 @@ Next place, Kyrgyzstan!
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/512a2-img_20180516_121723.jpg)
+
+*繼續閱讀下一篇遊記：[離天空很近的湖：吉爾吉斯頌湖](/2018/09/29/song-kol)。*
+
+*本文是我在2018年獨自用42天時間跨越歐亞大陸之遊記連載的一部份，其他文章請見[跨越歐亞大旅行](/tag/Grand%20Trip)文章列表。*

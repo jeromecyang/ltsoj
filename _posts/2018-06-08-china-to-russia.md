@@ -19,12 +19,6 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_201
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/06/86059-img_20180604_114112.jpg)
 *滿洲里客運站旁商場懸掛的中國、俄羅斯、蒙古國旗*
 
-
-
-
-
-
-
 ## 搭乘客運班車的時間和地點
 
 
@@ -211,11 +205,6 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_201
 *滿洲里街頭中蘇一家親的雕塑*
 
 
+*繼續閱讀下一篇遊記：[藍眼睛界的霸主：貝加爾湖](/2018/06/09/lake-baikal)。*
 
-
-
-
-
-
-
-## 
+*本文是我在2018年獨自用42天時間跨越歐亞大陸之遊記連載的一部份，其他文章請見[跨越歐亞大旅行](/tag/Grand%20Trip)文章列表。*

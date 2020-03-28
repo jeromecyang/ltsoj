@@ -551,3 +551,7 @@ featured: true
 
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/11/d2f23-img_20180526_153736.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/11/d2f23-img_20180526_153736.jpg)
+
+*繼續閱讀下一篇遊記：[用世界盃FAN ID從中國滿洲里陸路入境俄羅斯後貝加爾（Zabaikalsk）](/2018/06/08/china-to-russia)。*
+
+*本文是我在2018年獨自用42天時間跨越歐亞大陸之遊記連載的一部份，其他文章請見[跨越歐亞大旅行](/tag/Grand%20Trip)文章列表。*
