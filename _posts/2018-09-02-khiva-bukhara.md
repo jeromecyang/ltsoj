@@ -10,16 +10,28 @@ tags:
 - Soviet
 - Travel
 permalink: 2018/09/02/khiva-bukhara
-image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg
+image: https://imgur.com/amGQQdC.jpg
 ---
 
 ## 關於烏茲別克的古城希瓦（Khiva）
 
 希瓦，是位在烏茲別克境內、絲路上的一座古城。
 
-成吉思汗橫掃歐亞大陸後，他的疆域很快就四分五裂，形成無數大大小小的汗國（Khanate），主政者是號稱成吉思汗後代的蒙古化突厥人，希瓦就是其中一個，原名花喇子模（Xorazm）；作為一個國都又是可汗宮殿所在，建築當然要夠壯觀。照片裡漂亮的藍綠色建築多為伊斯蘭教的經學院（Madrassa）與清真寺。
+成吉思汗橫掃歐亞大陸後，他的疆域很快就四分五裂，逐漸形成無數大大小小的汗國（Khanate），主政者是號稱成吉思汗後代的蒙古化突厥人，希瓦就是其中一個，原名花喇子模（Xorazm）；作為一個國都又是可汗宮殿所在，建築當然要夠壯觀。照片裡漂亮的藍綠色建築多為伊斯蘭教的經學院（Madrassa）與清真寺。
 
 之所以被保留的如此完整，原因之一是這個汗國存續了很久（雖然19世紀後半就成為俄羅斯保護國），甚至到了20世紀初都還是由可汗統治，直到1920年才被共產勢力推翻，距今不過100年。因此宮殿、經學院、清真寺、城牆與民居保存狀態都不錯，走在期間彷彿還能感受到一個世紀前汗國的風華。
+
+![](https://imgur.com/amGQQdC.jpg)
+*從Ark Citadel上看到的希瓦全景。*
+
+### 文章內容目錄
+* [如何抵達希瓦](#如何抵達希瓦)
+* [烏爾根奇（Urgench）轉車](#烏爾根奇urgench轉車)
+* [消失的青旅](#消失的青旅)
+* [迷失在藍綠色瓷瓦之間](#迷失在藍綠色瓷瓦之間)
+* [成功登上Ark Citadel的高台](#成功登上ark-citadel的高台)
+* [再次回到城裡漫步](#再次回到城裡漫步)
+* [Jerome的不負責任心得](#jerome的不負責任心得)
 
 ## 如何抵達希瓦
 
@@ -27,7 +39,20 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 
 離希瓦最近大城是吾爾根奇（Urgench），從塔什干可以用飛的（1小時20分鐘；來回價格$125-145），但如果要體會真正的前蘇聯，當然是要搭火車慢慢晃過去啊！每晚有1-2班塔什干出發的夜車，晚上9點出發，搭到吾爾根奇要13-15小時，在臥鋪車裡跟當地人搏感情是不可錯過的旅行經驗！三等臥鋪單程118,510-128,180som（$12.5-13.5），車上會提供床單、枕頭與毛毯。吾爾根奇到希瓦計程車約30分鐘，價格4,000-5,000som（$5-6）。
 
+> 2020年3月更新：希瓦新建的火車站已經在2019年6月完工，搭火車前往希瓦已經不再需要經由吾爾根奇轉車！從塔什干出發前往希瓦的火車每天有兩班，發車時間為晚上21:00（056Ч，較快）與21:03（393Ф，較慢）發車，分別於隔天上午10:58及下午14:00到達希瓦火車站，車站離古城非常近。另外布哈拉還有每天一班14:10出發、19:19到的日間班次（050Ф）。詳細時間請參閱烏茲別克鐵路官網上的[時刻表](https://e-ticket.railway.uz/en/schedule)。
+>
+> 以下敘述的是我2018年5月拜訪時的情況。
+
 我也是選擇搭火車的方式，抵達烏茲別克第一天（5月9日）晚上就直接前往希瓦，在火車上與當地人意外打成一片，留下相當難忘的旅途回憶（詳細故事請見當時的[臉書貼文](https://www.facebook.com/lifetimesojourner/posts/130983687765587)）；隔天早上，奔馳在不毛之地的火車已經來到了烏茲別克的西部。
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9775457.735536199!2d56.71761124254037!3d40.646078626316026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfa410e650c89d%3A0x7b95d3fdbffb218!2sItchan%20Kala%20west%20gate!5e0!3m2!1sen!2sus!4v1585356959034!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+*希瓦在中亞的地理位置（地圖中的座標為古城的主要入口西門所在）。*
+
+![](https://imgur.com/He6LROg.jpg)
+*從塔什干前往希瓦的列車上。詳細故事請[點此](https://www.facebook.com/lifetimesojourner/posts/130983687765587)。*
+
+![](https://imgur.com/diXytcZ.jpg)
+*在路途中，當地人毫無保留的和我分享食物。詳細故事請[點此](https://www.facebook.com/lifetimesojourner/posts/130983687765587)。*
 
 ## 烏爾根奇（Urgench）轉車
 
@@ -42,9 +67,6 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ae874-img_20180510_111712_1.jpg)
 *烏爾根奇火車站*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/566e5-img_20180510_111726.jpg)
-*烏爾根奇火車站*
-
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/ce339-img_20180510_113803.jpg)
 *通往希瓦的四線大道*
 
@@ -56,6 +78,8 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 
 既然如此，就得找個新的住宿地點了。我出門繞了一下，也在手機上稍微搜尋了一下其他選項，最後決定就在這家Alibek住下，12USD一晚含早餐。當時想想覺得也好，外面當時氣溫逼近攝氏40度，與其在那邊找半天不如就在這裡住下。（事後才發現，整個希瓦就只剩下這家青旅，所以我本來就沒有別的選項，而且其實Alibek評價還比Laliopa要好一些。）
 
+> 2020年3月更新：目前希瓦已經多了不少住宿選擇，青旅也不再只有Alibek一間，詳情可在訂房網站上查詢。
+
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/823f5-img_20180511_082109.jpg)
 *Alibek的二樓涼台就位於古城大門對面，沒事就可以坐在這裡望著古城發呆。*
 
@@ -65,19 +89,15 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fa6fa-20180510_190055.jpg)
 *希瓦古城大門，讓人穿梭於現代與汗國時代之間*
 
-## 希瓦：迷失在藍綠色瓷瓦之間
+## 迷失在藍綠色瓷瓦之間
 
 希瓦古城不大，遊客也不多，在城裡漫步走著很快就可以逛完一圈。即使我在這裡只待了一個下午加一個晚上，短短的時間便足夠我把古城核心區所有景點走過並且拍過至少3遍。由於希瓦的菁華是伊斯蘭教建築，這裡就簡單介紹一下最常見的3種：
 
 **1. 經學院（madrasah）**，泛指所有伊斯蘭文化圈裡的學校，並非僅限於宗教學校，其特色是有著至少兩層樓高的宏偉大門，裡面呈現四合院格局並且有個偌大的露天中庭，周圍環繞著許多的房間，最大看點就是建築表面上以不同層次的藍綠色磁磚融合阿拉伯文字創造出的美麗幾何圖案。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/23c11-f4475072.jpg)
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/fd1e8-f3776832.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/fd1e8-f3776832.jpg)
-
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc555-f3892992.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc555-f3892992.jpg)
-
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bfa81-f4127040.jpg)
 
 **2. 清真寺（mosque）**，伊斯蘭教的禮拜場所，格局和經學院有非常顯著的不同，其中最明顯的便是開放空間很多，從露天中庭一直延伸的屋頂下的柱廊。希瓦的清真寺不大，卻擁有非常特別的木造柱廊，數百根柱子貫穿全寺，每根上面都有著精美的浮雕。
 
@@ -85,30 +105,30 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)
 
-**3. 宣禮塔（minaret）**，挺拔高大的圓塔，用途是叫喚伊斯蘭教徒前往禮拜。希瓦擁有一棟45公尺高的Islam Khoja Minaret，但最知名的地標卻是一棟開了工卻從未完成的小宣禮塔Kalta Minor，原本預計要蓋到70至80公尺高，卻在蓋到29公尺時就停工，已經蓋好的部分一點都不像是宣禮塔，反而比較像是一個大水槽，但因為這個大水槽的青藍色表面實在太過漂亮，因此成為希瓦最知名的地標。
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5864c-f0397248.jpg)
+**3. 宣禮塔（minaret）**，挺拔高大的圓塔，用途是叫喚伊斯蘭教徒前往禮拜。希瓦擁有一棟56.6公尺高、排名全球第10（（[維基百科上的列表](https://en.wikipedia.org/wiki/List_of_tallest_minarets)））的Islam Khoja Minaret，但最知名的地標卻是一棟開了工卻從未完成的小宣禮塔Kalta Minor，原本預計要蓋到70至80公尺高，卻在蓋到29公尺時就停工，已經蓋好的部分一點都不像是宣禮塔，反而比較像是一個大水槽，但因為這個大水槽的青藍色表面實在太過漂亮，因此成為希瓦最知名的地標。
+
+![](https://imgur.com/xUe0eb7.jpg)
 *像是個大水槽的希瓦地標小宣禮塔Kalta Minor*
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc856-f0628672.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bc856-f0628672.jpg)
+![](https://imgur.com/u6G5ZDR.jpg)
+*希瓦最高的宣禮塔，56.6公尺高的Islam Khoja Minaret，排名世界第10（[維基百科上的列表](https://en.wikipedia.org/wiki/List_of_tallest_minarets)）。*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/6ba21-img_3568-01.jpeg)
-*希瓦最高的宣禮塔，45公尺高的Islam Khoja Minaret*
+在希瓦的這段時間，我把整座城繞了好幾次，試圖捕捉它在不同時間的不同面貌，也和好幾種不同的人擦身而過。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg)
-
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/46021-f4504896.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/46021-f4504896.jpg)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/7becc-f3765888.jpg)
+*希瓦城內一景。*
 
 ## 成功登上Ark Citadel的高台
 
 在古城的街道上走是不用買票的，但進入部分室內景點則要。我前往的時候售票規則是：本國人只要花1,000-5,000som就可以買到個別景點的門票，外國觀光客則只能在大門口買100,000som的通票。我當下就決定不買，反正先把所有免費的地方看完再說，結果發現許多地方其實都沒有人在收費；即使是要收費的，裡面也大多是紀念品店，真的不太值得花錢進去。
 
-在希瓦的這段時間，我把整座城繞了好幾次，試圖捕捉它在不同時間的不同面貌，也和好幾種不同的人擦身而過。
+> 2020年3月更新：根據[wikitravel](https://wikitravel.org/en/Khiva#Ichon-Qala_.28Itchan_Kala.29)，目前似乎提供三種不同價位的通票：150,000som的VIP、100,000som的標準票與50,000som的基本票，每種票可以進入的景點不同；不過和之前一樣，如果只是想逛古城，不一定需要買通票，有些地方實際上也不是全天有人驗票，可以自己斟酌。另外，如果要登上Islam Khoja Minaret或是Ark Citadel的高台還是得另外付費。
 
 下午大約5點，我來到古城西隅的Kunya-Ark Citadel，也就是以前希瓦汗國的行政中心所在，過去繁華的宮殿如今裡面空無一物，只剩下賣紀念品的小販。原本並沒有打算要進去，但後來發現有個可以眺望全城的高台，入口就在裡面，這是不是意味著我需要回到古城大門口去買那100,000som的通票？
 
 我決定先在城堡門口逗留一下，看看有沒有什麼「方法」可以進去。那時候城堡門口正好有個小男孩，反覆的玩著「讓硬幣從斜坡上滾下」的遊戲；一見到我拿著單眼相機，就毫不怕生的拿起硬幣讓我拍照，還很有誠意的附上相當天真的微笑。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/5eff0-f5329984.jpg)
 
 這時候來了一群似乎也是想要上去高台的遊客，到了城堡門口跟管理員好說歹說，結果不知怎的就真的這樣沒付錢就進去了；一看到這個畫面我馬上衝到門口，比手畫腳跟管理員說我要進去，並且指指方才免費進去的那批遊客。就這樣，沒有買100,000som通票的我成功進入了城堡與宮殿區，然後花了10,000som爬上裡面的高台。
 
@@ -119,11 +139,14 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/abf97-f5612480.jpg)
 *Kunya-Ark Citadel裡的高台，得先進入城堡中並且被收兩次錢才能上去*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f5139328.jpg)
+![](https://imgur.com/amGQQdC.jpg)
 *高台上所見的古城全景*
 
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/68e7d-img_20180510_170313.jpg)
+![](https://imgur.com/H2YILIS.jpg)
 *原本請當地人幫我照相，結果得到的卻是我們都入了鏡的合照！*
+
+![](https://imgur.com/icuP6Fz.jpg)
+*宮殿內部雖然已經空無一物，牆面以及天花板的裝飾還是非常值得一看！*
 
 ## 再次回到城裡漫步
 
@@ -131,18 +154,27 @@ image: https://lifetimesojournertravel.files.wordpress.com/2018/09/9b96a-f513932
 
 晚上與清晨，二度回到城裡散步，再一次的記錄下它不同時間的樣貌。
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/2e75c-f5230656.jpg)
+*城牆上的風景又是另一種風貌。*
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)
+![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)
+*城牆上的風景又是另一種風貌。*
 
-[![](https://lifetimesojournertravel.files.wordpress.com/2018/09/bf832-f5896576.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/bf832-f5896576.jpg)
-![](https://lifetimesojournertravel.files.wordpress.com/2018/09/3ebb3-img_3916.jpg)
+![](https://imgur.com/7Si2SPt.jpg)
 *夜裡的小宣禮塔Kalta Minor，打上了燈光在建築群中更加顯眼*
 
-## 去完希瓦之後⋯⋯
+## Jerome的不負責任心得
 
-幾乎所有背包客都會走三大古城希瓦、布哈拉（Bukhara）和撒馬爾罕（Samarkand），希瓦保存最完整、布哈拉最有新舊交融感、撒馬爾罕建築最壯觀，可以各停留1天、2天、3天。這三個城市去過，其實烏茲別克的重點就看完一大半了。我自己的行程也不意外——在希瓦過了一個晚上之後，隔天便啟程前往下一個城市布哈拉。
+幾乎所有背包客都會走三大古城希瓦、布哈拉（Bukhara）和撒馬爾罕（Samarkand），希瓦保存最完整、布哈拉最有新舊交融感、撒馬爾罕建築最壯觀，可以各停留1天、2天、3天。這三個城市去過，其實烏茲別克的重點就看完一大半了。我自己的行程也不意外——在希瓦過了一個晚上之後，隔天便搭上共乘計程車，啟程前往下一個城市布哈拉。
+
+其實無論是繁華程度或建築的規模，希瓦都遠遠比不上布哈拉和撒馬爾罕，大多數背包客也都同意「希瓦只需要排1天就夠了」。然而，或許就是因為這裡的發展程度比不上布哈拉和撒馬爾罕，希瓦給我的感覺是比較沒有壓迫感、也沒有太多需要花時間看的博物館或大型古蹟，其實更適合漫無目的的在古城裡閒逛，
+
+> 2020年3月更新：目前從希瓦離開的火車班次為15:02（394Ф）與16:05（056Ж）前往塔什干，分別在隔天9:26與7:40到達（沒錯，早開的較晚到），其中056Ж也會停靠布哈拉；白天前往布哈拉的班次則是050Щ，8:23開13:35到。詳細時間請參閱烏茲別克鐵路官網上的[時刻表](https://e-ticket.railway.uz/en/schedule)。
 
 *繼續閱讀下一篇遊記：[商業氣息濃厚的遺產城市：布哈拉](/2018/09/03/bukhara)。*
 
 *本文是我在2018年獨自用42天時間跨越歐亞大陸之遊記連載的一部份，其他文章請見[跨越歐亞大旅行](/tag/Grand%20Trip)文章列表。*
+
+![](https://imgur.com/bpWMU8n.jpg)
+*夜間點燈之後的經學院。*
+
