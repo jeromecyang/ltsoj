@@ -105,7 +105,7 @@ image: https://imgur.com/amGQQdC.jpg
 
 [![](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)](https://lifetimesojournertravel.files.wordpress.com/2018/09/e54a8-f0463552.jpg)
 
-**3. 宣禮塔（minaret）**，挺拔高大的圓塔，用途是叫喚伊斯蘭教徒前往禮拜。希瓦擁有一棟56.6公尺高、排名全球第10（（[維基百科上的列表](https://en.wikipedia.org/wiki/List_of_tallest_minarets)））的Islam Khoja Minaret，但最知名的地標卻是一棟開了工卻從未完成的小宣禮塔Kalta Minor，原本預計要蓋到70至80公尺高，卻在蓋到29公尺時就停工，已經蓋好的部分一點都不像是宣禮塔，反而比較像是一個大水槽，但因為這個大水槽的青藍色表面實在太過漂亮，因此成為希瓦最知名的地標。
+**3. 宣禮塔（minaret）**，挺拔高大的圓塔，用途是叫喚伊斯蘭教徒前往禮拜。希瓦擁有一棟56.6公尺高、排名全球第10（[維基百科上的列表](https://en.wikipedia.org/wiki/List_of_tallest_minarets)）的Islam Khoja Minaret，但最知名的地標卻是一棟開了工卻從未完成的小宣禮塔Kalta Minor，原本預計要蓋到70至80公尺高，卻在蓋到29公尺時就停工，已經蓋好的部分一點都不像是宣禮塔，反而比較像是一個大水槽，但因為這個大水槽的青藍色表面實在太過漂亮，因此成為希瓦最知名的地標。
 
 ![](https://imgur.com/xUe0eb7.jpg)
 *像是個大水槽的希瓦地標小宣禮塔Kalta Minor*
