@@ -1,7 +1,7 @@
 
 
 <article>
-  <a href=".{{ post.url }}">
+  <a href="{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ post.image }})"{% endif %}>
       <div class="featured-posts-overlay">
         {% if post.excerpt %}
