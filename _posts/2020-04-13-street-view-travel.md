@@ -20,28 +20,28 @@ Google街景可不是只能看到街景而已！自從在2007年推出之後，G
 
 ### 本文目錄
 
-1. [基本google街景使用技巧](#基本google街景使用技巧)
+1. [Google街景使用技巧](#google街景使用技巧)
 2. [戶外篇：跟著Google街景上山下海](#戶外篇跟著google街景上山下海)
 3. [室內篇：跟著Google街景逛遍世界知名博物館](#室內篇跟著google街景逛遍世界知名博物館)
 4. [25個獨家精選街景](#25個獨家精選街景)
 
 喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/lifetimesojourner/)以及[Instagram](https://www.instagram.com/lifetimesojourner/)按讚/追蹤唷！
 
-# 基本Google街景使用技巧
+# Google街景使用技巧
 
 相信熟悉網頁版Google Maps的人都知道，街景的使用方式非常簡單，只要：
 
 1. 把畫面右下方的小人抓出來。這時候地圖上會出現許多藍色的線條或圓圈，表示哪些地方有街景或360度全景相片可以使用，這個暫時疊加上去的圖層我們可以稱之為「街景圖層」。
-2. 在街景圖層上找到一個想看的點，把小人丟下去，就會自動進入街景模式了！
+2. 在街景圖層上找到一個想看的點，把小人丟下去，就會自動進入「街景模式」中了！
 
-然而這個操作方式還是有一點點不方便--如果我只是想看看哪些地方有街景可用，暫時還不想進入街景模式，有沒有移動小人之外的方法呢？
+這邊再分享兩個讓使用街景更加方便的技巧。
 
-## 讓「街景圖層」在地圖上保持可見的方法（網頁版）
+## 讓「街景圖層」在地圖上保持可見（網頁版）
 
-在右下角的小人身上點一下（不要拖曳），或是在左側的圖層選單中選擇「街景」，就可以讓街景圖層持續出現在地圖上。這時候可以繼續隨意瀏覽地圖，找到想要看街景的地方時，只要在那裡點一下（同樣不用拉動小人），就可以非常準確的進入該地點的街景模式。這個功能非常好用，可以讓我們在瀏覽地圖時，能同時判斷哪些地方有提供街景。
+如同前面所說，平常只有在拉動右下角小人的時候，地圖上才會出現有著藍色線條與圓圈的「街景圖層」，告訴我們哪裡有街景。但還有一個方法，讓我們不用拉動小人也可以保持街景圖層顯示！
 
 ![](https://cdn-images-1.medium.com/max/800/1*9uXfSTQvl6TtHcpd2dXCqg.png)
-*1. 利用左側圖層選單打開「街景」圖層，或者在右下小人身上點一下（不要拖曳）。*
+*1. 利用左側圖層選單打開「街景」圖層，或者在右下小人身上點一下也可以（不要拖曳小人）。*
 
 ![](https://cdn-images-1.medium.com/max/800/1*eNTqe4cYfX-gBIDT9AA5-Q.png)
 *2. 接著就可以看到畫面上許多藍色的線條與圓圈，線條表示有街景覆蓋的地方，圓圈則表示有360度全景相片的地方。在這個狀態中，街景圖會一直開著，讓我們可以一邊瀏覽地圖一邊看到街景的分佈位置。*
@@ -49,29 +49,22 @@ Google街景可不是只能看到街景而已！自從在2007年推出之後，G
 ![](https://cdn-images-1.medium.com/max/800/1*qEdsw2PmQZuGkaFYdjDymA.png)
 *3. 在街景圖層顯示的情形下，只要滑鼠經過有藍色線條或圓圈的地方，就會自動顯示該地點的街景預覽，幫助我們更快找到特定地點。*
 
-## 從資訊面板進入街景的方法（網頁版、手機版）
+## 藉由移動手機左右瀏覽街景（手機版）
 
-如果有想去的地點，在左上角的或上方的搜尋欄找到該地點之後，將資訊面板往下拉，若有街景或環景圖就會自動顯示在這裡，點一下也可以進入街景模式中。
+另一個相當好用的功能是利用手機本身的移動來瀏覽街景，街景可以隨著手機移動的方向變換角度，十分有趣！手機上有Google地圖APP的人不妨拿來試試！
 
-![](https://cdn-images-1.medium.com/max/800/1*7Bxrk0BHTFiJYOPa8FhHbQ.png)
-*（網頁版）往下捲動左邊的資訊面板，可以從「360度檢視」進去瀏覽當地的街景與360度全景照片。*
+<img src="https://imgur.com/ymgK09c.jpg" style="width: 300px">
+*1. 在地圖上以「長按」選定一個點位，然後點一下左下角的街景預覽方框進入街景模式。*
 
-<img src="https://cdn-images-1.medium.com/max/400/1*9cfTFjjraa8l1vKuhKdMVw.png" style="width: 300px">
-*（手機版）左下方的全景符號表示這張是街景或全景照片。*
+<img src="https://imgur.com/VfBxfIM.jpg" style="width: 300px">
+*2. 進入街景模式之後，再點一下右上角的羅盤符號。*
 
-## 使用街景APP
-
-除了網站版與手機版的Google Maps有提供街景之外，另外也有Google街景的APP可以下載，讓喜歡街景的人有另一個可以探索街景的方式，Android與iOS皆有提供。
-
-<img src="https://cdn-images-1.medium.com/max/800/1*W8jEcTQuKeoAmc9HNN9mCQ.png" style="width: 300px">
-*Google Play商店裡的街景APP。*
-
-<img src="https://cdn-images-1.medium.com/max/800/1*NWEf5oKfP73iVsn9mRaqRw.png" style="width: 300px">
-*Google街景APP提供另一種在手機上瀏覽街景的方式。*
+<img src="https://imgur.com/rDt9cBn.jpg" style="width: 300px">
+*3. 接下來街景就會自動隨著手機的移動旋轉了！（同時也可以藉由在螢幕上滑動來前進）*
 
 # 戶外篇：跟著Google街景上山下海
 
-Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不了的地方。要知道哪裡有這些特殊的街景服務，最好的辦法就是用前述的方法將街景圖層持續顯示在地圖上，一邊瀏覽地圖一邊尋找有趣的街景。像我自己就是在瀏覽北大西洋的地圖時，發現格陵蘭南部有些有趣的街景分佈，因而發現了在北極圈步道上以雪地越野車拍攝的街景！
+Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不了的地方。要知道哪裡有這些特殊的街景服務，最好的辦法就是用前述的方法將街景圖層持續顯示在地圖上，一邊瀏覽地圖一邊尋找有趣的街景。讓我們看看下面這個在地圖找到格陵蘭北極圈步道街景的例子：
 
 ![](https://cdn-images-1.medium.com/max/800/1*CS4395QJf9nkfXKFZYHhdQ.png)
 *1. 瀏覽格陵蘭地圖，會發現南部海邊有四道藍色線條，表示那邊有街景。*
@@ -84,7 +77,7 @@ Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不�
 
 利用同樣的方法，我也找到了[聖母峰基地營步道](https://www.google.com/maps/@27.980779,86.8287545,2a,75y,64.35h,114.4t/data=!3m7!1e1!3m5!1sAx-S9aAI7K6ecDDlZHlJMA!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DAx-S9aAI7K6ecDDlZHlJMA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D109.53218%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)、[黃石國家公園](https://www.google.com/maps/@44.7175136,-110.4944642,3a,75y,340.81h,81.32t/data=!3m6!1e1!3m4!1skZl55C-SZHaHPKsy6i8SNQ!2e0!7i13312!8i6656)、[大峽谷科羅拉多河](https://www.google.com/maps/@36.0977737,-112.1313381,3a,75y,119.9h,113.46t/data=!3m7!1e1!3m5!1slzXvtJld_6wjw7C7IvKBOQ!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DlzXvtJld_6wjw7C7IvKBOQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D106.00972%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)甚至[澳洲大堡礁](https://www.google.com/maps/@-16.0730993,145.848324,3a,75y,134.98h,63.78t/data=!3m8!1e1!3m6!1sAF1QipOORQe25NPykyx7pOPXoy1hN1qCOJVlcyzuQMZQ!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOORQe25NPykyx7pOPXoy1hN1qCOJVlcyzuQMZQ%3Dw203-h100-k-no-pi-9.903537-ya95.03711-ro-0-fo100!7i9500!8i4750)的街景，台灣本島部分則涵蓋了多條知名步道，像是[玉山主峰北峰](https://www.google.com/maps/@23.4704456,120.9560145,2a,75y,346.46h,75.64t/data=!3m7!1e1!3m5!1smA9pQ5ZGFY-VqOcgAr4Hsw!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3DmA9pQ5ZGFY-VqOcgAr4Hsw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D112.7434%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)、[草嶺古道](https://www.google.com/maps/@24.980745,121.925926,2a,75y,187.18h,96.92t/data=!3m6!1e1!3m4!1siqI9q5cf5xjc1B4pCkG_3g!2e0!7i13312!8i6656)、[神秘谷步道](https://www.google.com/maps/@24.1700255,121.6099107,3a,75y,90.24h,88.26t/data=!3m6!1e1!3m4!1s5OWPSo7kLVs7iS1QFyUBzQ!2e0!7i13312!8i6656)、[合歡主峰](https://www.google.com/maps/@24.1413141,121.2724087,2a,75y,94.15h,96.46t/data=!3m7!1e1!3m5!1sbfLYgF2b5UPvDK63Zrs8yw!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DbfLYgF2b5UPvDK63Zrs8yw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D60.975864%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)等，還有[阿里山森林鐵路](https://www.google.com/maps/@23.5211934,120.8202617,3a,75y,184.82h,100.22t/data=!3m7!1e1!3m5!1sseXcSxTRym5p37LzA-Qmvg!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DseXcSxTRym5p37LzA-Qmvg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D82.73234%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)呢！看來真的有很多意想不到的街景分布等著大家去發掘。
 
-講到這裡各位可能會有個疑問：Google有沒有提供一個官方清單，告訴大家哪裡有這些步道、鐵道上甚至水面下的特殊街景呢？Google Maps Treks的官網上有列出官方推薦的幾個點，此外其他幾個網站上亦有清單可參考：
+以下列出幾個網上整理的有趣街景清單：
 
 * [Google Maps Treks官網](https://www.google.com/maps/about/treks/#/grid)（英文）
 * Thrillist：[10個你可以用Google街景進行的不可思議旅程](https://www.thrillist.com/travel/nation/10-unbelievable-tours-you-can-take-using-google-street-view)（英文）
@@ -99,23 +92,18 @@ Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不�
 
 除了上山下海，Google街景也可以帶各位去逛世界知名博物館。目前Google官方表示已經提供了全世界多達3,496個博物館、展覽或歷史遺跡的內部或外部街景，而且其中包含了不少全世界最熱門的博物館，像是[紐約大都會美術館](https://artsandculture.google.com/streetview/KAFHmsOTE-4Xyw)、[倫敦大英博物館](https://artsandculture.google.com/streetview/AwEp68JO4NECkQ)、[台北故宮博物院](https://artsandculture.google.com/streetview/ygFbC9QX5-_o4w)等，Google提供的室內街景讓人彷彿親自造訪。
 
-只是，光有街景卻沒有展覽品資訊還是不夠的，因此在這裡隆重介紹Google的另一個計畫--[Google藝術與文化](https://artsandculture.google.com/)（Google Arts and Culture）。
+只是，光有街景卻沒有展覽品資訊還是不夠的，因此在這裡隆重介紹Google的另一個計畫--[Google藝術與文化](https://artsandculture.google.com/)（Google Arts and Culture），在這個計畫的網站上我們可以同時看到街景、部分展品的高解析度影像以及詳細資訊！以下就用[紐約大都會美術館](https://artsandculture.google.com/streetview/pwH9NtM23f0sQQ)為例，說明Google藝術與文化裡的街景使用方式。
 
-Google藝術與文化計畫開始於2011年，目標是透過影像科技讓藝術品的可及性增加，使大眾透過網路也能看到這些藝術品。在Google藝術與文化的網站上，許多博物館不只有街景影像，還有部分展覽品的高解析度影像，配合詳細的介紹以及相關資源連結，提供的資訊尚稱豐富。
-
-以下就用[紐約大都會美術館](https://artsandculture.google.com/streetview/pwH9NtM23f0sQQ)為例，說明Google藝術與文化裡的街景使用方式。首先進入[Google藝術與文化的街景頁面](https://artsandculture.google.com/search/streetview?project=streetviews)，裡面列了3,496個有提供街景服務的博物館。
-
-![](https://cdn-images-1.medium.com/max/800/1*vDQtK3qc27dSdVhpw13JQw.png)
-*1. Google Arts and Culture - Museum Views頁面上列出了3,496個有街景服務的博物館、展覽與歷史遺跡。*
+首先找到自己有興趣的博物館。[Google藝術與文化的街景頁面](https://artsandculture.google.com/search/streetview?project=streetviews)雖然列出了全部3,496個博物館，但很遺憾該頁面無法搜尋；比較方便的辦法是從[Virtual Museum](https://virtualmuseums.io/)這個網站去找想看的博物館。
 
 ![](https://cdn-images-1.medium.com/max/800/1*EZFxRdQYPJYQrfp0uBZ-Xw.png)
-*2. 進入紐約大都會美術館的頁面後，在下方選擇有興趣的展品。*
+*1. 進入紐約大都會美術館的頁面後，在下方選擇有興趣的展品。*
 
 ![](https://cdn-images-1.medium.com/max/800/1*HCka1jfJyUwOPOyWjuZqCg.png)
-*3. 進入展品的畫面後，主畫面就是室內街景，可以移動主畫面瀏覽展廳內的其他展品，或者選擇左下角小圖查看詳細資訊。*
+*2. 進入展品的畫面後，主畫面就是室內街景，可以移動主畫面瀏覽展廳內的其他展品，或者選擇左下角小圖查看詳細資訊。*
 
 ![](https://cdn-images-1.medium.com/max/800/1*GG_lHJOXMydECF120EIIIQ.png)
-*4. 該項展品的詳細資訊頁面。*
+*3. 該項展品的詳細資訊頁面。*
 
 其他網站上整理的博物館清單：
 
