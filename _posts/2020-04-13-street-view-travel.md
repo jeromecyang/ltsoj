@@ -3,7 +3,7 @@ date: 2020-04-13
 layout: post
 title: 善用Google街景，在家也能上山下海環遊世界！（含25個獨家精選街景）
 permalink: 2020/04/12/street-view-travel
-image: https://cdn-images-1.medium.com/max/600/1*HR7O0dHEaAIU5Ciiqea89w.png
+image: https://imgur.com/PYf8zekm.png
 featured: true
 excerpt: Google街景可不是只能看到街景而已！除了用街景車拍攝街道之外，街景攝影也被運用到船舶、火車、沙灘車甚至登山客與潛水者身上，這意味著即使被關在家裡，我們仍然可以透過Google街景環遊世界。這篇文章裡，Jerome會和大家分享一些使用Google街景的小技巧，然後再以登山健行與逛博物館為例進行實戰說明，文末還附有25個Jerome獨家精選的街景畫面喔！
 ---
@@ -16,7 +16,7 @@ Google街景可不是只能看到街景而已！自從在2007年推出之後，G
 
 這篇文章裡，Jerome會和大家分享一些使用Google街景的小技巧，然後再以登山健行與逛博物館為例進行實戰說明，文末還附有25個Jerome獨家精選的街景畫面，請大家一定要看到最後喔！
 
-![](https://cdn-images-1.medium.com/max/1200/1*HR7O0dHEaAIU5Ciiqea89w.png)
+![](https://imgur.com/PYf8zekl.jpg)
 
 ### 本文目錄
 
@@ -94,7 +94,7 @@ Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不�
 
 只是，光有街景卻沒有展覽品資訊還是不夠的，因此在這裡隆重介紹Google的另一個計畫--[Google藝術與文化](https://artsandculture.google.com/)（Google Arts and Culture），在這個計畫的網站上我們可以同時看到街景、部分展品的高解析度影像以及詳細資訊！以下就用[紐約大都會美術館](https://artsandculture.google.com/streetview/pwH9NtM23f0sQQ)為例，說明Google藝術與文化裡的街景使用方式。
 
-首先找到自己有興趣的博物館。[Google藝術與文化的街景頁面](https://artsandculture.google.com/search/streetview?project=streetviews)雖然列出了全部3,496個博物館，但很遺憾該頁面無法搜尋；比較方便的辦法是從[Virtual Museum](https://virtualmuseums.io/)這個網站去找想看的博物館。
+首先找到自己有興趣的博物館。[Google藝術與文化的街景頁面](https://artsandculture.google.com/search/streetview?project=streetviews)雖然列出了全部3,496個博物館，但很遺憾該頁面無法搜尋；比較方便的辦法是從[Virtual Museum](https://virtualmuseums.io/)這個網站去找想看的博物館，或是參考Jerome在下面整理的連結清單。
 
 ![](https://cdn-images-1.medium.com/max/800/1*EZFxRdQYPJYQrfp0uBZ-Xw.png)
 *1. 進入紐約大都會美術館的頁面後，在下方選擇有興趣的展品。*
@@ -104,6 +104,28 @@ Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不�
 
 ![](https://cdn-images-1.medium.com/max/800/1*GG_lHJOXMydECF120EIIIQ.png)
 *3. 該項展品的詳細資訊頁面。*
+
+以下列出19個高人氣博物館的Google藝術與文化（英文）頁面連結：
+
+* [紐約大都會美術館](https://artsandculture.google.com/streetview/KAFHmsOTE-4Xyw)
+* [紐約自然史博物館](https://artsandculture.google.com/streetview/OQGjMrLQ0rj5Dw)
+* [華盛頓航空太空博物館-1F](https://artsandculture.google.com/streetview/ZQFAcpv1L0YuXw) [2F](https://artsandculture.google.com/streetview/mAGIjNwvdyVBNA)
+* [華盛頓自然史博物館](https://artsandculture.google.com/streetview/2QFvs7CNpx_Xgg)
+* [休士頓自然科學博物館](https://artsandculture.google.com/streetview/_wFlHDt_qUqYXQ)
+* [大英博物館](https://artsandculture.google.com/streetview/AwEp68JO4NECkQ)
+* [英國國家美術館](https://artsandculture.google.com/streetview/hgFGlzj1GiNxTg)
+* [英國自然史博物館](https://artsandculture.google.com/streetview/JQF3coVswSVUVw)
+* [巴黎奧塞美術館](https://artsandculture.google.com/streetview/KQEnDge3UJkVmw)
+* [聖彼得堡艾米塔吉博物館](https://artsandculture.google.com/streetview/nwF27ZaYflRsWA)
+* [聖彼得堡俄羅斯國家博物館-1](https://artsandculture.google.com/streetview/sgFZZmER26Qqog) [2](https://artsandculture.google.com/streetview/dAGBydNbKO5HZg)
+* [莫斯科特列季亞科夫畫廊](https://artsandculture.google.com/streetview/DgFBweAX-vvW3Q)
+* [馬德里索菲亞王后藝術中心](https://artsandculture.google.com/streetview/-AFOiiRivd19cw)
+* [阿姆斯特丹國家博物館](https://artsandculture.google.com/streetview/iwH5aYGoPwSf7g)
+* [荷蘭梵谷博物館-地面](https://artsandculture.google.com/streetview/2QHwyv_Y6gueAw) [1F](https://artsandculture.google.com/streetview/QAFSN2-WiDzQSw) [2F](https://artsandculture.google.com/streetview/qQH6anGqAuOSnw) [3F](https://artsandculture.google.com/streetview/xAGnmitBRU1_bA)
+* [台北故宮博物院](https://artsandculture.google.com/streetview/ygFbC9QX5-_o4w)
+* [韓國國家博物館](https://artsandculture.google.com/streetview/bgGbp0dbiyydYw)
+* [韓國民俗博物館-1](https://artsandculture.google.com/streetview/6AEAWu4cfIlcKg) [-2](https://artsandculture.google.com/streetview/dQGhjk7cfPN3og)
+* [東京國家博物館](https://artsandculture.google.com/streetview/PQG948Fv3mc_KA)
 
 其他網站上整理的博物館清單：
 
