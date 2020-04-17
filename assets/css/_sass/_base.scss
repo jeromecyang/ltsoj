@@ -16,9 +16,10 @@ dl, dd, ol, ul, figure {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  font-family: $title-font-family;
 }
 
 h1 {
@@ -40,6 +41,7 @@ h4, h5, h6 {
 /* Body */
 body {
   font-family: $base-font-family;
+  font-weight: 300;
 }
 body img {
     align: middle;
@@ -56,6 +58,11 @@ p {
   margin-right: 0;
   line-height: 1.65;
   font-family: $body-font-family;
+}
+
+b, strong {
+  font-family: $title-font-family;
+  font-weight: 700;
 }
 
 /* Lists */
