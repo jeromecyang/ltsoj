@@ -7,13 +7,15 @@ title: Home
 
 <div style="text-align: center; margin: 10px auto; color: #555; font-size: 14px;">{{ site.introduction }}</div>
 
-<div class="section-title">精選主題系列</div>
+<!-- <div class="section-title">精選主題系列</div> -->
 
-{% for post in site.data.settings.features %}
-  {% include post-thumbnail.html %}
-{% endfor %}
+<div class="many-posts">
+  {% for post in site.data.settings.features %}
+    {% include post-small.html %}
+  {% endfor %}
+</div>
 
-<div class="section-title">推薦文章</div>
+<!-- <div class="section-title">推薦文章</div> -->
 
 <div class="many-posts">
   {% for post in site.posts %}
