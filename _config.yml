@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Lifetime Sojourner"
-description:	       "熱愛自助旅行與文化探索的阿宅工程師Jerome部落格"
-introduction:        "熱愛自助旅行與文化探索的阿宅工程師Jerome部落格"
+description:	       "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
+introduction:        "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
 introduction_en:     "BACKPACKING & CULTURE EXPLORATION"
 author:              "Jerome Yang"
 
