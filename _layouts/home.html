@@ -3,11 +3,22 @@ layout: default
 title: Home
 ---
 
-<div id="locale"></div>
+<!-- <div id="locale"></div> -->
 
-<div style="text-align: center; margin: 10px auto; color: #555; font-size: 14px;">{{ site.introduction }}</div>
+<!-- <div style="text-align: center; margin: 10px auto; color: #555; font-size: 14px;">{{ site.introduction }}</div> -->
 
-<!-- <div class="section-title">精選主題系列</div> -->
+<div style="text-align: center">
+  <div style='font-size: 28px; margin: 10px auto'><b>「透過旅行，認識世界，做一輩子的旅人。」</b></div>
+  <div style="color: #555; font-size: 14px; margin-bottom: 10px">我是熱愛自助旅行與文化探索的終身旅人Jerome，歡迎來到本站！您還可透過以下方式與我一起浪跡天涯！</div>
+  <div style="display: flex; justify-content: center;">
+    <div style="border: 1px solid #000; padding: 4px; text-decoration: none; margin: 4px"><a href="https://www.facebook.com/lifetimesojourner" class="menu-link" target="_blank" style="text-decoration: none"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></div>
+    <div style="border: 1px solid #000; padding: 4px; text-decoration: none; margin: 4px"><a href="https://instagram.com/lifetimesojourner" class="menu-link" target="_blank" style="text-decoration: none"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></div>
+    <div style="border: 1px solid #000; padding: 4px; text-decoration: none; margin: 4px"><a href="https://medium.com/@jeromecyang" class="menu-link" target="_blank" style="text-decoration: none"><i class="fa fa-medium" aria-hidden="true"></i> Medium</a></div>
+    <div style="border: 1px solid #000; padding: 4px; text-decoration: none; margin: 4px"><a href="mailto:hi@jeromeyang.com" class="menu-link" target="_blank" style="text-decoration: none"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a></div>
+  </div>
+</div>
+
+<div class="section-title">精選旅文</div>
 
 <div class="many-posts">
   {% for post in site.data.settings.features %}
