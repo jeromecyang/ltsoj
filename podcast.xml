@@ -11,8 +11,8 @@
     <itunes:explicit>clean</itunes:explicit>
     <itunes:subtitle>旅行·史地·議題</itunes:subtitle>
     <itunes:author>終身旅人Jerome</itunes:author>
-    <itunes:summary>以冷門路線旅行、史地人文、話題時事為食材，30分鐘的大火快炒，與您一同細細品嘗來自世界各角落的獨特風味！ 網站 ltsoj.com / 臉書 facebook.com/lifetimesojourner / IG @lifetimesojourner / 搜尋「旅行熱炒店」</itunes:summary>
-    <description>以冷門路線旅行、史地人文、話題時事為食材，30分鐘的大火快炒，與您一同細細品嘗來自世界各角落的獨特風味！ 網站 ltsoj.com / 臉書 facebook.com/lifetimesojourner / IG @lifetimesojourner / 搜尋「旅行熱炒店」</description>
+    <itunes:summary>以冷門路線旅行、史地人文、話題時事為食材，30分鐘的大火快炒，與您一同細細品嘗來自世界各角落的獨特風味！ 網站 ltsoj.com / 臉書 facebook.com/lifetimesojourner / IG instagram.com/travel.wok / 搜尋「旅行熱炒店」</itunes:summary>
+    <description>以冷門路線旅行、史地人文、話題時事為食材，30分鐘的大火快炒，與您一同細細品嘗來自世界各角落的獨特風味！ 網站 ltsoj.com / 臉書 facebook.com/lifetimesojourner / IG instagram.com/travel.wok / 搜尋「旅行熱炒店」</description>
     <image>
        <url>https://ltsoj.com/assets/img/travelwok1-1.jpg</url>
     </image>
@@ -27,10 +27,10 @@
       <itunes:subtitle>旅行熱炒店究竟為何存在？主打菜色又是什麼呢？且讓主廚Jerome來跟各位說個分明！</itunes:subtitle>
       <itunes:summary>旅行熱炒店究竟為何存在？主打菜色又是什麼呢？且讓主廚Jerome來跟各位說個分明！</itunes:summary>
       <itunes:image href="https://ltsoj.com/assets/img/travelwok1-1.jpg" />
-      <enclosure type="audio/mpeg" url="https://ltsoj.com/assets/audio/ep0.mp3" length="392741" />
+      <enclosure type="audio/mpeg" url="https://ltsoj.com/assets/audio/ep0-1.mp3" length="392741" />
       <guid isPermaLink="false">e99f7614-d82f-42bc-9b23-1f251592f472</guid>
       <pubDate>Sat, 6 Jun 2020 21:00:00 -0400</pubDate>
-      <itunes:duration>12:41</itunes:duration>
+      <itunes:duration>08:19</itunes:duration>
       <description>旅行熱炒店究竟為何存在？主打菜色又是什麼呢？且讓主廚Jerome來跟各位說個分明！</description>
     </item>
     <item>
