@@ -43,8 +43,8 @@ menu:
     - name: '我的移民與職涯故事'
       tag: 'Fob'
       reversed: true
-- name: '波士頓'
-  tag: 'Boston'
+# - name: '波士頓'
+#   tag: 'Boston'
 #- name: 'English'
 #  tag: 'English'
 #  subitems:

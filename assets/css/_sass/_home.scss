@@ -73,7 +73,7 @@
 }
 
 .campaign {
-  margin-top: 20px;
+  margin: 60px 0;
   text-align: center;
 
   .slogan {
@@ -106,6 +106,40 @@
       a {
         text-decoration: none;
       }
+    }
+  }
+}
+
+.podcast {
+  margin-top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 450px;
+  background-image: url(https://imgur.com/CEa5h2v.jpg);
+  background-position: center bottom;
+  color: #ffffff;
+
+  .slogan {
+    font-size: 48px;
+  }
+
+  .message {
+    color: #ffffff;
+    font-size: 18px;
+  }
+
+  .button-container>div {
+    padding: 4px 8px;
+
+    a {
+      text-decoration: none !important;
+      color: #ffffff !important;
+      font-size: 36px;
+    }
+
+    img {
+      border: 1px solid #ffffff;
     }
   }
 }

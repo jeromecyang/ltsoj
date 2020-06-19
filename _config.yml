@@ -14,10 +14,10 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Lifetime Sojourner"
-description:	       "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
-introduction:        "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
-introduction_en:     "BACKPACKING & CULTURE EXPLORATION"
+title:		           "終身旅人JEROME X 旅行熱炒店PODCAST"
+# description:	       "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
+# introduction:        "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
+# introduction_en:     "BACKPACKING & CULTURE EXPLORATION"
 author:              "Jerome Yang"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
