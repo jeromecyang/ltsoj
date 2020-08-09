@@ -3,11 +3,8 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-# google-ID: 'UA-112060364-2'
-
 menu:
-- name: '旅行'
+- name: 'BLOG'
   tag: 'Travel'
   subitems:
     - name: '西非'
@@ -33,9 +30,6 @@ menu:
       tag: 'Western Europe'
     - name: '北美'
       tag: 'North America'
-- name: '跨文化'
-  tag: 'Cross-Culture'
-  subitems:
     - name: '移民社區'
       tag: 'Immigrant Community'
     - name: '藝術、音樂與戲劇'
@@ -43,16 +37,6 @@ menu:
     - name: '我的移民與職涯故事'
       tag: 'Fob'
       reversed: true
-# - name: '波士頓'
-#   tag: 'Boston'
-#- name: 'English'
-#  tag: 'English'
-#  subitems:
-#    - name: 'Beating the Unbeaten Tracks'
-#      tag: 'Unbeaten'
-#      reversed: true
-#- name: '關於我 About'
-#  tag: 'About'
 
 social:
 - icon: 'facebook'
@@ -93,15 +77,7 @@ features:
     excerpt: 2018年5到6月之間，利用換工作的空檔，我從烏茲別克出發，沿著絲路通過吉爾吉斯進入中國新疆，再由內蒙古進入西伯利亞，然後橫跨整個俄羅斯，旅程結束在芬蘭赫爾辛基。這趟翻過了帕米爾高原、造訪了貝加爾湖、搭乘了西伯利亞鐵路的42天大旅行，是我自主旅行迄今最勇敢的嘗試，也讓我看到短途旅遊中難以察覺的複雜地理現象⋯⋯
     image: https://lifetimesojournertravel.files.wordpress.com/2018/09/f5e1e-f6593152.jpg
     url: /tag/Grand%20Trip
-#  - title: 波士頓觀察筆記
-#    excerpt: 從2014年12月開始，波士頓就是我居住和生活的地方。這個在美國相對多元的城市裡，來自全球各地的移民們把各自的文化、生活方式以及故事也都帶了過來；我平常週末假日最大的興趣，就是探索這些和一般想像中的美國不太一樣的角落⋯⋯
-#    image: https://lifetimesojournertravel.files.wordpress.com/2017/10/d0375-img_1740.jpg
-#    url: /tag/Boston
   - title: 我的移民與職涯故事
     excerpt: 2010年8月，我以菜鳥移民的身份來到美國，在人生地不熟的環境裡經歷了各種挑戰與趣事；多年之後回顧，我決定把自己最初幾個月的故事寫下來，和大家分享，也讓自己不要忘記那段既辛苦卻又令人回味無窮的日子。
     image: https://lifetimesojournertravel.files.wordpress.com/2017/12/25907-20170424_172241.jpg
     url: /tag/Fob
-#  - title: Beating the Unbeaten Tracks
-#    excerpt: This is my first series in English. It's about my trips to the off-the-beaten-track countries. Each post covers a country I’ve been to. For each country, I’d share (1) a spot I really like, (2) other highlights, and (3) general tips for travelers.
-#    image: https://lifetimesojournertravel.files.wordpress.com/2018/11/f6453-f15937024.jpg
-#    url: /tag/Unbeaten
