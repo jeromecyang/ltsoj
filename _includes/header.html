@@ -11,8 +11,8 @@
     <div class="dropdown">
       <a href="/allposts" class="menu-link base-menu-link">BLOG</a>
       <div class="dropdown-content">
-        {% for subitem in site.data.settings.menu[0].subitems %}
-          <a href="/tag/{{ subitem.tag }}" class="menu-link">{{ subitem.name }}</a>
+        {% for category in site.data.settings.blogmenu %}
+          <a href="/tag/{{ category.tag }}" class="menu-link">{{ category.name }}</a>
         {% endfor %}
       </div>
     </div>
