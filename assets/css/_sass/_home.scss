@@ -115,7 +115,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  min-height: 400px;
+  min-height: 500px;
   background-image: url(https://imgur.com/CEa5h2v.jpg);
   background-position: center bottom;
   color: #ffffff;
@@ -130,11 +130,12 @@
   }
 
   .button-container>div {
-    padding: 4px 8px;
-
     a {
       text-decoration: none !important;
       color: #ffffff !important;
+    }
+
+    i {
       font-size: 36px;
     }
 
@@ -143,5 +144,13 @@
       border-radius: 10px;
       background-color: #ffffff;
     }
+  }
+
+  .button-container.social>div {
+    padding: 4px 8px;
+  }
+
+  .button-container.platform a:hover {
+    text-decoration: underline !important;
   }
 }

@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- <div id="locale"></div> -->
-
-<!-- <div style="text-align: center; margin: 10px auto; color: #555; font-size: 14px;">{{ site.introduction }}</div> -->
-
 {% include podcast.html %}
 
 <div class="campaign">
@@ -19,15 +15,11 @@ title: Home
   </div>
 </div>
 
-<!-- <div class="section-title">精選旅文</div> -->
-
 <div class="many-posts">
   {% for post in site.data.settings.features %}
     {% include post-small.html %}
   {% endfor %}
 </div>
-
-<!-- <div class="section-title">推薦文章</div> -->
 
 <div class="many-posts">
   {% for post in site.posts %}
