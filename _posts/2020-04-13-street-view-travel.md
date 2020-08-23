@@ -4,7 +4,6 @@ layout: post
 title: 善用Google街景，在家也能上山下海環遊世界！（含25個獨家精選街景）
 permalink: 2020/04/12/street-view-travel
 image: https://imgur.com/PYf8zekm.png
-featured: true
 excerpt: Google街景可不是只能看到街景而已！除了用街景車拍攝街道之外，街景攝影也被運用到船舶、火車、沙灘車甚至登山客與潛水者身上，這意味著即使被關在家裡，我們仍然可以透過Google街景環遊世界。這篇文章裡，Jerome會和大家分享一些使用Google街景的小技巧，然後再以登山健行與逛博物館為例進行實戰說明，文末還附有25個Jerome獨家精選的街景畫面喔！
 ---
 

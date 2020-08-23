@@ -9,7 +9,6 @@ tags:
 - Japan
 permalink: 2018/01/20/william-clark
 image: https://upload.wikimedia.org/wikipedia/ja/a/a6/ClarkBoysBeAmbitious.jpg
-featured: true
 ---
 
 1月中的麻州西部本應是蓋滿皚皚白雪，突如其來的暖意卻在兩天之內把盈尺的積雪給融光了，讓原本冬眠在雪裡的農地與牧場得以現身於藍天白雲之下，使這個隆冬裡的週六突然有了春天的風景。這天，我來到麻州西部的安默斯特（Amherst），為的是拜訪兩位失散多年的友人，也是為了要尋訪關於一個人的史蹟——麻州大學與北海道大學的創校者威廉·史密斯·克拉克（William Smith Clark）。

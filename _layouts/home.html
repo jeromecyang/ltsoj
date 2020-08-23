@@ -6,29 +6,23 @@ title: Home
 {% include podcast.html %}
 
 <div class="campaign">
-  <div class="slogan"><b>終身旅人JEROME的旅行記事</b></div>
-  <div class="message">歡迎來到本站！除了下面的文章之外，您還可以透過以下方式與我一起遊遍世界各國！</div>
-  <div class="button-container">
+  <div class="slogan"><b>JEROME的旅行記事</b></div>
+  <div class="message">您也可以透過以下精選文章，與我一起環遊世界！或<a href="allposts.html">點此瀏覽所有文章</a>。</div>
+  <!-- <div class="button-container">
     <div class="button"><a href="https://www.facebook.com/lifetimesojourner" class="menu-link" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</a></div>
     <div class="button"><a href="https://instagram.com/lifetimesojourner" class="menu-link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></div>
     <div class="button"><a href="https://medium.com/@jeromecyang" class="menu-link" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i> Medium</a></div>
-  </div>
+  </div> -->
 </div>
 
 <div class="many-posts">
-  {% for post in site.data.settings.features %}
+  {% assign featured_posts = site.posts | where: 'featured', 'true' %}
+  {% assign posts = site.data.settings.features | concat: featured_posts %}
+  {% for post in posts %}
     {% include post-small.html %}
   {% endfor %}
 </div>
 
-<div class="many-posts">
-  {% for post in site.posts %}
-    {% if post.featured %}
-      {% include post-small.html %}
-    {% endif %}
-  {% endfor %}
-</div>
-
 <div style="text-align: center; margin: 20px auto">
-  <a href="allposts.html">其他文章 More Posts</a>
+  <a href="allposts.html">其他文章</a>
 </div>

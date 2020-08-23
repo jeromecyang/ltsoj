@@ -8,7 +8,6 @@ tags:
 - Western Europe
 permalink: 2019/03/09/zurich-zwingli
 image: https://lifetimesojournertravel.files.wordpress.com/2019/03/35b1d-img_2137.jpg
-featured: true
 ---
 
 從台灣經由歐亞大陸與大西洋回美國的旅程中，我停留了幾個地方，其中最後一個是瑞士的航空樞紐、位在東邊德語區內的大城蘇黎世（Zurich）。從前一班飛機降落到下一班飛機起飛間隔約6.5小時，扣掉預留給出入境與候機的2.5小時，還有4小時可以在機場外自由行動；而機場到市區搭輕軌只要20多分鐘，剩下3個小時來個市區散步小旅行是恰到好處。

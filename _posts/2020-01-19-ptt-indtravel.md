@@ -5,7 +5,6 @@ layout: post
 title: PTT世界自助旅行板台北板聚分享
 permalink: '2020/1/19/ptt-indtravel'
 image: 'https://imgur.com/5sTKpyx.jpg'
-featured: true
 excerpt: 2020年1月19日，回台投票兼探親的最後一天，有幸參與ptt世界自助旅行板的台北板聚，並且在「旅人亂聊time」這個環節提供15分鐘的分享。由於15分鐘真的非常有限，在準備時就已決定現場只分享一些趣事，詳細的旅行經驗則另開專文補充，因此便有了這篇文章。
 ---
 
