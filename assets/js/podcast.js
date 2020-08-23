@@ -4,8 +4,7 @@ setTimeout(() => {
         fetch('./podcast.xml').then(response => response.text()).then(text => xml2json(text, { compact: true }))
             .then(JSON.parse).then(({ rss: { channel: { item } } }) => {
                 item.reverse();
-                console.log(item);
-                const collectionHtml = item.map(({ title: { _text }, ['itunes:image']: { _attributes: { href } } }) => `<div style='width: 300px; margin: 10px'><div><img src='${href}'></div><b>${_text}</b></div>`);
+                const collectionHtml = item.map(({ title: { _text: title }, ['itunes:image']: { _attributes: { href } } }) => `<div><div><img src='${href}' style='width: 300px'></div><div style='text-align: center'>${title}</div></div>`);
                 podcastCollection.innerHTML = collectionHtml;
             });
     }
