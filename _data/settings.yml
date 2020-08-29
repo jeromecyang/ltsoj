@@ -38,10 +38,6 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: '相關推薦文章'
-
 post_date_prefix: 'Written on'
 
 # Featured on homepage

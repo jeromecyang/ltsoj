@@ -1,0 +1,18 @@
+{% unless page.independent %}
+<div class="related">
+  <h2>閱讀本站相關文章</h2>
+  {% assign listed_posts_urls = page.url | split: ' ' %}
+  <ul class="related-posts many-posts">
+    {% for tag in page.tags %}
+      {% for post in site.tags[tag] %}
+        {% if listed_posts_urls contains post.url %}
+        {% else %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
+{% endunless %}
