@@ -1,0 +1,31 @@
+.power-page {
+  >p, >h2, >ul, >div.footer-podcast, >div.attribution {
+    max-width: 720px;
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  >h2 {
+    font-size: 36px;
+    line-height: 1em;
+    font-weight: 400;
+    font-family: "Open Sans", "Noto Sans TC", sans-serif;
+  }
+
+  >p>img {
+    max-width: 250px;
+  }
+
+  >ul {
+    text-align: left;
+  }
+
+  >div.attribution {
+    font-size: 10px;
+    color: #ccc;
+
+    a {
+      color: #ccc !important;
+    }
+  }
+}
