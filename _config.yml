@@ -15,8 +15,9 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "旅行熱炒店PODCAST X 終身旅人JEROME"
-description:	       "終身旅人Jerome，專跑一般人少走的冷僻路線，去過30餘國；自許一輩子帶著旅人的熱情與好奇心探索世界。"
+description:	       "#冷門路線旅行 #史地人文 #輕知識podcast"
 author:              "Jerome Yang"
+thumbnail:           "https://imgur.com/UcBMib5.jpg"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
