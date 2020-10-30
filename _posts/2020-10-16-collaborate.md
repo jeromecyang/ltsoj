@@ -54,7 +54,7 @@ excerpt: ''
 
 ## 準備好要來上節目了嗎？來填寫報名問卷吧！
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelRDaUCizQBCPG9Dgd07v-FyGe7Gap5Jxl4oUmsUJWDuu81w/viewform?embedded=true" width="640" height="2151" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelRDaUCizQBCPG9Dgd07v-FyGe7Gap5Jxl4oUmsUJWDuu81w/viewform?embedded=true" width="640" height="2151" frameborder="0" marginheight="0" marginwidth="0" style="margin: 0 auto; display: block;">Loading…</iframe>
 
 <hr>
 
