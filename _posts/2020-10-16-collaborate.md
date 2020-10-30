@@ -52,6 +52,10 @@ excerpt: ''
 
 不接受商品業配，但若是想要在社會關懷、族群與性別平等、急難救助等議題上合作的話，歡迎與我洽談！
 
+## 準備好要來上節目了嗎？來填寫報名問卷吧！
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelRDaUCizQBCPG9Dgd07v-FyGe7Gap5Jxl4oUmsUJWDuu81w/viewform?embedded=true" width="640" height="2151" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 <hr>
 
 {% include listen.html %}
