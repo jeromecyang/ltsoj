@@ -3,7 +3,7 @@ date: 2020-04-18
 layout: post
 title: 前蘇聯國家練習曲：拉脫維亞與愛沙尼亞火車慢遊
 permalink: 2020/04/18/latvia-estonia
-image: https://imgur.com/IS91F2gm.jpg
+image: https://imgur.com/IS91F2g.jpg
 featured: true
 excerpt: 2017年5月下旬，只去過西歐與南歐的我，決定往未知的方向前進，以「波羅的海3-1小國」為跨入前蘇聯國家的第一步。短短幾天的火車旅行，讓我對這幾個在強權之間求生存的小國留下不錯的印象，也就此愛上在前蘇聯/共產國家裡自助旅行。
 tags:

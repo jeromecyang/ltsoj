@@ -3,7 +3,7 @@ date: 2020-10-16
 layout: power-page
 title: 旅行熱炒店PODCAST合作須知
 permalink: collaborate
-image: https://imgur.com/CEa5h2vm.jpg
+image: https://imgur.com/CEa5h2v.jpg
 excerpt: ''
 ---
 
