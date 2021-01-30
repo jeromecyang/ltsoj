@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% assign guests = site.guests | sort: 'order' %}
+<div class="page-content">
+  <h1>與旅行熱炒店合作過的來賓列表</h1>
+  {% for guest in guests %}
+    <br><br>
+    {% if guest.title %}
+      <h2>{{ guest.title }} {{ guest.name }}</h2>
+    {% else %}
+      <h2>{{ guest.name }}</h2>
+    {% endif %}
+    {{ guest.content | markdownify }}
+    <b>合作集數：
+      {% for episode in guest.episodes %}
+        {% if episode >= 10 %}
+         <a href="/podcast-ep0{{ episode }}">{{ episode }}</a>
+        {% else %}
+         <a href="/podcast-ep00{{ episode }}">{{ episode }}</a>
+        {% endif %}
+      {% endfor %}
+    </b>
+  {% endfor %}
+</div>
