@@ -2,6 +2,7 @@
 name: 蔡秉諭
 title: 語言收藏家、共產國家旅行達人
 order: 7
+avatar: https://imgur.com/n7EE2A2m.jpg
 episodes:
   - 22
   - 23

@@ -3,6 +3,9 @@ name: 娘娘不要走
 title: 女子背包天團、（自稱）旅遊界S.H.E.
 order: 9
 avatar: https://static.wixstatic.com/media/d5e5c4_d25d6d83b28c4d269065f7e08bf4e8d5~mv2.jpg
+facebook: https://www.facebook.com/mamakajima/
+instagram: https://www.instagram.com/mamakajima/
+website: https://jxuantai.wixsite.com/mamakajima/
 episodes:
   - 27
   - 36

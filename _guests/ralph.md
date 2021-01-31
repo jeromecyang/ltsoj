@@ -3,6 +3,8 @@ name: Ralph
 title: 羅瓦涅米極地導遊
 order: 12
 avatar: https://imgur.com/pozhZT1.jpg
+instagram: https://instagram.com/ralphhung5465
+website: https://ralphhong5465.medium.com
 episodes:
   - 35
 ---

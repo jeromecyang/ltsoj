@@ -4,14 +4,25 @@ layout: default
 
 {% assign guests = site.guests | sort: 'order' %}
 <div class="page-content guests">
-  <h1>與旅行熱炒店合作過的來賓列表</h1>
+  <h1>來賓陣容</h1>
   {% for guest in guests %}
     <div class="avatar" style="background-image: url({{ guest.avatar | default: 'https://www.flaticon.com/svg/static/icons/svg/847/847969.svg' }})"></div>
     <h1>{{ guest.name }}</h1>
     {% if guest.title %}
       <h3>{{ guest.title }}</h3>
     {% endif %}
-    {{ guest.content | markdownify }}
+    <div class="social-media">
+      {% if guest.facebook %}
+        <a href="{{ guest.facebook }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/104/104643.svg"></div></a>
+      {% endif %}
+      {% if guest.instagram %}
+        <a href="{{ guest.instagram }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/1362/1362857.svg"></div></a>
+      {% endif %}
+      {% if guest.website %}
+      <a href="{{ guest.website }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg"></div></a>
+      {% endif %}
+    </div>
+      {{ guest.content | markdownify }}
     <b>合作集數：
       {% for episode in guest.episodes %}
         {% if episode >= 10 %}

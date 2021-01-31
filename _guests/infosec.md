@@ -3,6 +3,9 @@ name: Jeff
 title: 資安解壓縮
 order: 5
 avatar: https://infosecdecompress.com/photo.jpg
+facebook: https://www.facebook.com/infosecdecompress
+instagram: https://www.instagram.com/infosec.zip
+website: https://infosecdecompress.com/
 episodes:
   - 20
 ---
