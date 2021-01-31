@@ -6,6 +6,7 @@ title: 一個城市改頭換面的故事：哥倫比亞麥德林第13區
 tags:
 - Colombia
 - South America
+- Latin America
 permalink: '2019/11/06/madellin-conuma13'
 image: '/assets/img/IMG_5674.JPG'
 ---
