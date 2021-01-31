@@ -2,6 +2,7 @@
 name: Jeff
 title: 資安解壓縮
 order: 5
+avatar: https://infosecdecompress.com/photo.jpg
 episodes:
   - 20
 ---

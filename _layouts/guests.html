@@ -3,14 +3,13 @@ layout: default
 ---
 
 {% assign guests = site.guests | sort: 'order' %}
-<div class="page-content">
+<div class="page-content guests">
   <h1>與旅行熱炒店合作過的來賓列表</h1>
   {% for guest in guests %}
-    <br><br>
+    <div class="avatar" style="background-image: url({{ guest.avatar | default: 'https://www.flaticon.com/svg/static/icons/svg/847/847969.svg' }})"></div>
+    <h1>{{ guest.name }}</h1>
     {% if guest.title %}
-      <h2>{{ guest.title }} {{ guest.name }}</h2>
-    {% else %}
-      <h2>{{ guest.name }}</h2>
+      <h3>{{ guest.title }}</h3>
     {% endif %}
     {{ guest.content | markdownify }}
     <b>合作集數：

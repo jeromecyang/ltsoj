@@ -2,6 +2,7 @@
 name: Ralph
 title: 羅瓦涅米極地導遊
 order: 12
+avatar: https://imgur.com/pozhZT1.jpg
 episodes:
   - 35
 ---

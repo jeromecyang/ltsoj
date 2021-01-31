@@ -2,6 +2,7 @@
 name: 李易安
 title: 端傳媒記者
 order: 4
+avatar: https://imgur.com/36PsAsSm.jpg
 episodes:
   - 18
   - 19

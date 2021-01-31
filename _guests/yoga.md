@@ -2,6 +2,7 @@
 name: Yoga
 title: 單車背包客
 order: 3
+avatar: https://imgur.com/60mfdct.jpg
 episodes:
   - 14
   - 15

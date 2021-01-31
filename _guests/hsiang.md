@@ -2,6 +2,7 @@
 name: 王湘鄉
 title: Noregion 極境行旅
 order: 11
+avatar: https://imgur.com/jShvBPO.jpg
 episodes:
   - 33
   - 34

@@ -2,6 +2,7 @@
 name: 葉姿婷
 title: 邊境獨白
 order: 10
+avatar: https://theborderstory.com/wp-content/uploads/2020/10/1561E73A-E2EE-495A-98D7-2ABD11CBE157.jpg
 episodes:
   - 28
   - 31

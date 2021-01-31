@@ -2,6 +2,7 @@
 name: Angel
 title: 旅行鴨
 order: 6
+avatar: https://angelealoop.com/wp-content/uploads/2020/07/90513410_114225350221138_8132686596936826880_o.jpg
 episodes:
   - 21
   - 30

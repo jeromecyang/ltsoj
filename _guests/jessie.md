@@ -2,6 +2,7 @@
 name: Jessie
 title: 在世界翻滾的女孩
 order: 8
+avatar: https://tps-a.akamaihd.net/a/f/8/4/4/29e24f.jpg
 episodes:
   - 25
 ---
