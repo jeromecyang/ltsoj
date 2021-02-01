@@ -2,7 +2,6 @@
 name: Johnny
 title: 旅行者
 order: 1
-avatar: https://i.imgur.com/RRiGkZJm.jpg
 instagram: https://www.instagram.com/johnny0067/
 episodes:
   - 8

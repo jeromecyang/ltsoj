@@ -2,7 +2,6 @@
 name: 小劉
 title: 庫德斯坦難民營NGO工作者
 order: 2
-avatar: https://imgur.com/g3SoP6Um.jpg
 episodes:
   - 12
   - 13
