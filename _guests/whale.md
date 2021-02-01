@@ -2,6 +2,7 @@
 name: 鯨魚律師
 title: 52赫茲的鯨魚（小律師的非主流歷險）
 order: 0
+avatar: https://imgur.com/fYvNqpM.jpg
 facebook: https://www.facebook.com/LetUsStandUpLikeTheTaiwanese/
 episodes:
   - 4
