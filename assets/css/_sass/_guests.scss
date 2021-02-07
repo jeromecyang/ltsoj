@@ -25,4 +25,18 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .guests-index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    >div {
+      margin: 5px 10px;
+    }
+
+    a {
+      color: #aaa !important;
+    }
+  }
 }

@@ -4,8 +4,15 @@ layout: default
 
 {% assign guests = site.guests | sort: 'order' %}
 <div class="page-content guests">
-  <h1>來賓陣容</h1>
+  <h1>熱炒店來賓名人堂</h1>
+  <p>旅行熱炒店能有精彩的內容，來賓的參與功不可沒。一起來認識節目開播以來的來賓們吧！</p>
+  <div class="guests-index">
+    {% for guest in guests %}
+      <div><a href="#{{ guest.name }}">{{ guest.name }}</a></div>
+    {% endfor %}
+  </div>
   {% for guest in guests %}
+    <a id="{{ guest.name }}"></a>
     <div class="avatar" style="background-image: url({{ guest.avatar | default: 'https://www.flaticon.com/svg/static/icons/svg/847/847969.svg' }})"></div>
     <h1>{{ guest.name }}</h1>
     {% if guest.title %}
