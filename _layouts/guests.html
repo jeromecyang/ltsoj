@@ -19,14 +19,17 @@ layout: default
       <h3>{{ guest.title }}</h3>
     {% endif %}
     <div class="social-media">
+      {% if guest.website %}
+      <a href="{{ guest.website }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg"></div></a>
+      {% endif %}
       {% if guest.facebook %}
         <a href="{{ guest.facebook }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/104/104643.svg"></div></a>
       {% endif %}
       {% if guest.instagram %}
         <a href="{{ guest.instagram }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/1362/1362857.svg"></div></a>
       {% endif %}
-      {% if guest.website %}
-      <a href="{{ guest.website }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg"></div></a>
+      {% if guest.youtube %}
+        <a href="{{ guest.youtube }}"><div><img src="https://www.flaticon.com/svg/static/icons/svg/482/482059.svg"></div></a>
       {% endif %}
     </div>
       {{ guest.content | markdownify }}
