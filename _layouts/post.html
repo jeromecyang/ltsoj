@@ -4,6 +4,7 @@ layout: default
 <div class="page-content">
   <h1>{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: "%Y/%m/%d" }} | {{ site.author }}</span>
+  <img src="{{ page.image | replace: 'm.jpg', '.jpg' }}">
   <article>{{ content }}</article>
   <article>{% include related.html %}</article>
 </div>

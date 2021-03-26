@@ -1,6 +1,6 @@
 {% if page.episode %}
   {% assign guests = site.guests | where_exp: "item", "item.episodes contains page.episode" %}
-  <h2>來賓簡介</h2>
+  {% if guests.size > 0 %}<h2>來賓簡介</h2>{% endif %}
 {% else %}
   {% assign guests = site.guests | sort: 'order' %}
   <div class="page-content guests">
