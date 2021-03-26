@@ -1,30 +1,9 @@
 ---
 layout: default
 ---
-
 <div class="page-content">
-  <h1>
-    {{ page.title }}
-  </h1>
-
-  <span class="post-date">
-    {{ page.date | date: "%Y/%m/%d" }} | {{ site.author }}
-  </span>
-
-  <article>
-    {{ content }}
-  </article>
-
-  <hr />
-
-  {% include listen.html %}
-
-  <hr />
-
-  {% include invite.html %}
-
-  <hr />
-
-  {% include related.html %}
-
+  <h1>{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date: "%Y/%m/%d" }} | {{ site.author }}</span>
+  <article>{{ content }}</article>
+  <article>{% include related.html %}</article>
 </div>
