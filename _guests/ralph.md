@@ -1,6 +1,6 @@
 ---
 name: Ralph
-title: 羅瓦涅米極地導遊
+title: 前羅瓦涅米極地導遊、現任職台灣旅遊新創
 order: 12
 avatar: https://imgur.com/pozhZT1.jpg
 instagram: https://instagram.com/ralphhung5465

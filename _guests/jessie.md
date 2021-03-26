@@ -1,6 +1,6 @@
 ---
 name: Jessie
-title: 在世界翻滾的女孩
+title: 《在世界翻滾的女孩》創作者
 order: 8
 avatar: https://tps-a.akamaihd.net/a/f/8/4/4/29e24f.jpg
 facebook: https://www.facebook.com/imjessiej

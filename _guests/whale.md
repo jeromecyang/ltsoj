@@ -1,6 +1,6 @@
 ---
 name: 鯨魚律師
-title: 52赫茲的鯨魚（小律師的非主流歷險）
+title: 《52赫茲的鯨魚》（小律師的非主流歷險）創作者
 order: 0
 avatar: https://imgur.com/fYvNqpM.jpg
 facebook: https://www.facebook.com/LetUsStandUpLikeTheTaiwanese/

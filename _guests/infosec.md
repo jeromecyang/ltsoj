@@ -1,6 +1,6 @@
 ---
 name: Jeff
-title: 資安解壓縮
+title: 資安工程師、《資安解壓縮》Podcast主持人
 order: 5
 avatar: https://infosecdecompress.com/photo.jpg
 facebook: https://www.facebook.com/infosecdecompress

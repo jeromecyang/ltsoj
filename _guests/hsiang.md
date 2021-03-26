@@ -1,6 +1,6 @@
 ---
 name: 王湘鄉
-title: Noregion 極境行旅
+title: 《Noregion極境行旅》創作者、挪威景觀建築師
 order: 11
 avatar: https://imgur.com/jShvBPO.jpg
 facebook: https://www.facebook.com/noregiontravel

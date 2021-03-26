@@ -1,6 +1,6 @@
 ---
 name: 大飛
-title: 耳朵旅行社
+title: 《耳朵旅行社》Podcast主持人
 order: 13
 avatar: https://cdn.psee.pw/acf71fa4-1055-44a5-8697-bcbf25413627.png
 facebook: https://www.facebook.com/mimi.tour.podcast/
