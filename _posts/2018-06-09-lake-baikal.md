@@ -8,6 +8,7 @@ tags:
 - Grand Trip
 - Soviet
 - Travel
+- Russia
 permalink: 2018/06/09/lake-baikal
 image: https://lifetimesojournertravel.files.wordpress.com/2018/06/b160c-img_6214.jpg
 ---

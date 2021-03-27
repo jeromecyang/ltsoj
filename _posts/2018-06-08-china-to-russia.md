@@ -9,6 +9,7 @@ tags:
 - Grand Trip
 - Soviet
 - Travel
+- Russia
 permalink: 2018/06/08/china-to-russia
 image: https://lifetimesojournertravel.files.wordpress.com/2018/06/2ef68-img_20180604_194329.jpg
 ---
