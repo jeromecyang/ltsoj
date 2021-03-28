@@ -4,8 +4,10 @@ layout: default
 <div class="section-title">{{ page.title }}</div>
 <div class="page-content">
   <article>
+    {% assign use_md = true %}
+    {% assign use_img = true %}
     {% for post in site.tags[page.page_tag] %}
-      {% include post-medium.html %}
+      {% include post-small.html %}
     {% endfor %}
   </article>
 </div>
