@@ -3,26 +3,6 @@ disqus:
   comments: false
   disqus_shortname: 'millennial-3'
 
-blogmenu:
-  - name: '東歐·中亞·前蘇聯'
-    tag: 'Soviet'
-  - name: '42天跨越歐亞大旅行'
-    tag: 'Grand Trip'
-  - name: '西非'
-    tag: 'West Africa'
-  - name: '摩洛哥'
-    tag: 'Morocco'
-    reversed: true
-  - name: '北美'
-    tag: 'North America'
-  - name: '移民社區'
-    tag: 'Immigrant Community'
-  - name: '藝術、音樂與戲劇'
-    tag: 'Arts'
-  - name: '我的移民與職涯故事'
-    tag: 'Fob'
-    reversed: true
-
 social:
 - icon: 'facebook'
   link: 'https://www.facebook.com/lifetimesojourner'
