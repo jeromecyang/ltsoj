@@ -50,11 +50,11 @@ excerpt: 上禮拜在營會分享之後，有不只一個人跑來問我如何�
 
 ## 想去歐洲但又不想人擠人：波羅的海三小國 （[系列文章連結](/2017/08/27/baltic-states)）
 ![](https://imgur.com/phxai5y.jpg)
-## 想了解絲路歷史：烏茲別克 （[系列文章連結](/tag/Grand%20Trip)）
+## 想了解絲路歷史：烏茲別克 （[系列文章連結](/grand-trip)）
 ![](https://imgur.com/UkUWjcs.jpg)
-## 想看撒哈拉沙漠：摩洛哥 （[系列文章連結](/tag/Morocco)）
+## 想看撒哈拉沙漠：摩洛哥 （[系列文章連結](/morocco)）
 ![](https://imgur.com/GFofBZ5.jpg)
-## 想去別人在地圖上找不到的地方：高加索三國 （[系列文章連結](/tag/Caucasus)）
+## 想去別人在地圖上找不到的地方：高加索三國 （[系列文章連結](/caucasus)）
 ![](https://imgur.com/CTCiBwk.jpg)
 
 在你心裡是否有一份「想去旅遊的國家」清單呢？歡迎在我的臉書專頁上分享！
