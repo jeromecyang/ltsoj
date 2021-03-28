@@ -3,7 +3,7 @@
   <h2>相關文章</h2>
   {% assign listed_posts_urls = page.url %}
   {% assign ignored_tags = "Travel,Cross-Culture,Soviet,Muslim" | split: ',' %}
-  <ul class="related-posts many-posts">
+  <ul class="related-posts">
     {% for post in site.posts %}
       {% assign tagCount = 0 %}
       {% for tag in post.tags %}

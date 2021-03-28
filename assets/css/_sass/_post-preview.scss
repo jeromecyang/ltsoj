@@ -2,12 +2,12 @@
   Post small view
 */
 
-.many-posts {
+.post-preview-grid {
   display: flex;
   flex-wrap: wrap;
 }
 
-.many-post {
+.post-preview {
   &.sm{
     flex-grow: 1;
     width: 300px;
