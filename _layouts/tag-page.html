@@ -1,16 +1,10 @@
 ---
-layout: default
+layout: post
 title: {{ page.title }}
 ---
 
 <div class="section-title">{{ page.title }}</div>
 
-{% if page.reversed %}
-  {% for post in site.tags[page.page_tag] reversed %}
-    {% include post-thumbnail.html %}
-  {% endfor %}
-{% else %}
-  {% for post in site.tags[page.page_tag] %}
-    {% include post-thumbnail.html %}
-  {% endfor %}
-{% endif %}
+{% for post in site.tags[page.page_tag] reversed %}
+  {% include post-thumbnail.html %}
+{% endfor %}
