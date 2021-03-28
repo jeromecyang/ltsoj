@@ -10,10 +10,11 @@ title: Home
   <div class="message">您可點選以下連結收聽我們的最新集數，或<a href="/episodes">點此瀏覽所有集數</a>。</div>
 </div>
 
+{% assign use_img = true %}
 <div class="post-preview-grid">
   {% assign posts = site.posts | where: 'podcast', 'true' | slice: 0, 6 %}
   {% for post in posts %}
-    {% include post-episode.html %}
+    {% include post-small.html %}
   {% endfor %}
 </div>
 
@@ -22,6 +23,7 @@ title: Home
   <div class="message">您也可以透過以下精選文章，與我一起環遊世界！或<a href="all-posts">點此瀏覽所有文章</a>。</div>
 </div>
 
+{% assign use_img = false %}
 <div class="post-preview-grid">
   {% assign featured_posts = site.posts | where: 'featured', 'true' %}
   {% assign posts = site.data.settings.features | concat: featured_posts %}
