@@ -1,10 +1,11 @@
 ---
-layout: post
-title: {{ page.title }}
+layout: default
 ---
-
 <div class="section-title">{{ page.title }}</div>
-
-{% for post in site.tags[page.page_tag] reversed %}
-  {% include post-thumbnail.html %}
-{% endfor %}
+<div class="page-content">
+  <article>
+    {% for post in site.tags[page.page_tag] %}
+      {% include post-medium.html %}
+    {% endfor %}
+  </article>
+</div>
