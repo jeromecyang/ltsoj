@@ -1,5 +1,9 @@
-<div class="many-post">
-  <div><a href="{{ post.url }}"><div class="image" {% if post.image %}style="background-image:url({{ post.image }})"{% endif %}></div></a></div>
+<div class="many-post sm">
+  <div>
+    <a href="{{ post.url }}">
+      <div class="image" {% if post.image %}style="background-image:url({{ post.image }})"{% endif %}></div>
+    </a>
+  </div>
   <div><b><a href="{{ post.url }}">{{ post.title }}</a></b></div>
   <div class="date">{{ post.date | date: "%Y/%m/%d" }}</div>
   <div class="excerpt">{{ post.excerpt }}</div>
