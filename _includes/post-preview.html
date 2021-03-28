@@ -1,16 +1,16 @@
 <div class="post-preview {% unless use_md %}sm{% endunless %}">
-  {% if use_img %}
-    <a href="{{ post.url }}">
-      <img src="{{ post.image }}">
-    </a>
-  {% else %}
-    <div>
+  <div>
+    {% if use_img %}
+      <a href="{{ post.url }}">
+        <img src="{{ post.image }}">
+      </a>
+    {% else %}
       <a href="{{ post.url }}">
         <div class="image" {% if post.image %}style="background-image:url({{ post.image }})"{% endif %}></div>
       </a>
-    </div>
-  {% endif %}
-  <div><b><a href="{{ post.url }}">{{ post.title }}</a></b></div>
+      {% endif %}
+  </div>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <div class="date">{{ post.date | date: "%Y/%m/%d" }}</div>
   <div class="excerpt">{{ post.excerpt }}</div>
 </div>

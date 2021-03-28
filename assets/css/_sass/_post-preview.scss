@@ -8,14 +8,12 @@
 }
 
 .post-preview {
+  margin: 10px;
+
   &.sm{
     flex-grow: 1;
     width: 300px;
     margin: 10px;
-  }
-
-  b {
-    font-size: 18px;
   }
 
   .image {
@@ -25,6 +23,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 4px;
+  }
+
+  img {
+    width: 100%;
   }
 
   .date {
@@ -41,7 +43,7 @@
     text-decoration: none;
   }
 
-  h2 {
-    line-height: 1;
+  h3 {
+    margin-top: 0.5rem;
   }
 }
