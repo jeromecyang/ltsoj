@@ -2,7 +2,7 @@
   <div class="slogan"><b>所有集數列表</b></div>
 </div>
 
-<div class="many-posts podcast-posts">
+<div class="many-posts">
   {% assign posts = site.posts | where: 'podcast', 'true' %}
   {% for post in posts %}
     {% include post-episode.html %}
