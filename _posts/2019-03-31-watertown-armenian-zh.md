@@ -8,7 +8,7 @@ title: 亞美尼亞社區小旅行：來自東方的神祕教會，以及令人�
 tags:
 - Boston
 - Cross-Culture
-- Immigrant Community
+- Immigration
 permalink: 2019/03/31/watertown-armenian-zh
 image: https://lifetimesojournertravel.files.wordpress.com/2019/03/a7309-img_20190324_125413.jpg
 ---

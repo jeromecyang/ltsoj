@@ -6,7 +6,7 @@ title: 一個ROC和PRC並存的地方：紀錄2017年10月的波士頓華埠
 tags:
 - Boston
 - Cross-Culture
-- Immigrant Community
+- Immigration
 permalink: 2017/10/15/chinatown-october
 image: https://lifetimesojournertravel.files.wordpress.com/2017/10/62a86-img_1736.jpg
 ---

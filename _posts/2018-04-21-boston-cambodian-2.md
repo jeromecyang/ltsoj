@@ -6,7 +6,7 @@ title: 新英格蘭的高棉風味：波士頓的柬埔寨美食與移民史
 tags:
 - Boston
 - Cross-Culture
-- Immigrant Community
+- Immigration
 permalink: 2018/04/21/boston-cambodian-2
 image: https://lifetimesojournertravel.files.wordpress.com/2018/04/e3582-img_20180127_191717.jpg
 ---
