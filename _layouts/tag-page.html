@@ -6,8 +6,7 @@ layout: default
   <article>
     {% assign use_md = true %}
     {% assign use_img = true %}
-    {% for post in site.tags[page.page_tag] %}
-      {% include post-small.html %}
-    {% endfor %}
+    {% assign posts = site.tags[page.page_tag] %}
+    {% include post-preview-grid.html %}
   </article>
 </div>

@@ -11,12 +11,8 @@ title: Home
 </div>
 
 {% assign use_img = true %}
-<div class="post-preview-grid">
-  {% assign posts = site.posts | where: 'podcast', 'true' | slice: 0, 6 %}
-  {% for post in posts %}
-    {% include post-small.html %}
-  {% endfor %}
-</div>
+{% assign posts = site.posts | where: 'podcast', 'true' | slice: 0, 6 %}
+{% include post-preview-grid.html %}
 
 <div class="campaign">
   <div class="slogan"><b>旅行記事</b></div>
@@ -24,13 +20,9 @@ title: Home
 </div>
 
 {% assign use_img = false %}
-<div class="post-preview-grid">
-  {% assign featured_posts = site.posts | where: 'featured', 'true' %}
-  {% assign posts = site.data.settings.features | concat: featured_posts %}
-  {% for post in posts %}
-    {% include post-small.html %}
-  {% endfor %}
-</div>
+{% assign featured_posts = site.posts | where: 'featured', 'true' %}
+{% assign posts = site.data.settings.features | concat: featured_posts %}
+{% include post-preview-grid.html %}
 
 <div style="text-align: center; margin: 20px auto">
   <a href="/all-posts">其他文章</a>
