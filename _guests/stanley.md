@@ -2,7 +2,7 @@
 name: Stanley
 title: 《走進台灣》podcast製作主持人，航太產業工作者
 order: 17
-avatar: https://miro.medium.com/fit/c/262/262/1*H007KYX75bG_SQ201SibXw.jpeg
+avatar: https://imgur.com/zl49yxK.jpg
 website: https://lmfstanding.medium.com
 episodes:
   - 45
