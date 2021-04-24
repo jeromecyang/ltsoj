@@ -23,11 +23,11 @@ excerpt: ''
 
 ## 如何報名
 
-請先謹慎構思之後填寫[報名問卷](forms.gle/KCxVMRBRnHxBS3QK7)，問卷作答請盡可能詳細，幫助我了解你還有你想分享的主題。有疑問歡迎在臉書、IG私訊或email到[travel.wok@ltsoj.com](mailto:travel.wok@ltsoj.com)。
+請先謹慎構思之後填寫[報名問卷](https://forms.gle/KCxVMRBRnHxBS3QK7)，問卷作答請盡可能詳細，幫助我了解你還有你想分享的主題。有疑問歡迎在臉書、IG私訊或email到[travel.wok@ltsoj.com](mailto:travel.wok@ltsoj.com)。
 
 ## 訪談製作流程
 
-1. 填寫報名問卷，與主持人取得聯絡。
+1. 填寫[報名問卷](https://forms.gle/KCxVMRBRnHxBS3QK7)，與主持人取得聯絡。
 2. 共同編輯一份訪談企劃書，確認細節與流程。
 3. 遠端訪談錄音（搭配Zencastr與Google Meet）。
 4. 溝通上架細節。
