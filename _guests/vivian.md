@@ -1,6 +1,6 @@
 ---
 name: Vivian
-title: 主修閱讀、副修旅行的大學生 Vivian
+title: 主修閱讀、副修旅行的大學生
 order: 21
 avatar: https://imgur.com/BY1db3G.jpg
 website: https://vocus.cc/vivianthetraveller/home
