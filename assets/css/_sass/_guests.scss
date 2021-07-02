@@ -32,11 +32,27 @@
     justify-content: center;
 
     >div {
-      margin: 5px 10px;
+      margin: 5px;
+      text-align: center;
+      width: 120px;
     }
 
     a {
-      color: #aaa !important;
+      text-decoration: none;
+    }
+
+    .avatar-square {
+      height: 120px;
+      width: 120px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-bottom: 5px;
+    }
+
+    .guest-title {
+      color: #aaa;
+      font-size: 12px;
     }
   }
 }

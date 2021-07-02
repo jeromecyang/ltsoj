@@ -3,10 +3,16 @@
   {% if guests.size > 0 %}<h2>來賓簡介</h2>{% endif %}
 {% else %}
   {% assign guests = site.guests | sort: 'order' %}
-  <div class="page-content guests">
+  <div class="guests">
     <div class="guests-index">
       {% for guest in guests %}
-        <div><a href="#{{ guest.name }}">{{ guest.name }}</a></div>
+        <div>
+          <a href="#{{ guest.name }}">
+            <div class="avatar-square" style="background-image: url({{ guest.avatar | default: 'https://www.flaticon.com/svg/static/icons/svg/3617/3617147.svg' }})"></div>
+            <div>{{ guest.name }}</div>
+            <div class="guest-title">{{ guest.title }}</div>
+          </a>
+        </div>
       {% endfor %}
     </div>
   </div>
