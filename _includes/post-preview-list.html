@@ -1,0 +1,10 @@
+{% assign podcast_posts = site.tags[tag] | where_exp: "item", "item.podcast == true" %}
+<article class="power-page">
+  <ul>
+    {% for post in podcast_posts %}
+      {% unless post.hidden %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</article>
