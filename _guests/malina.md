@@ -1,7 +1,7 @@
 ---
 name: Malina
 title: 用工作探索世界的旅人
-order: 62
+order: 27
 avatar: https://assets.matters.news/processed/144w/avatar/5d3a3f33-dc74-4db2-88d4-de98ba09f469.webp
 website: https://matters.news/@Malina
 episodes:
