@@ -16,6 +16,6 @@ for post in [p for p in posts if '-ep' in p and not 'episodes' in p]:
   main = re.findall(r'\n---.*?{%', content, flags=re.S)[0].replace('\n---', '').replace('{%', '')
   obj[episode] = {'description': main}
 
-g = open(os.path.dirname(os.path.realpath(__file__)) + '/../_data/episodes.json', 'w')
-g.write(json.dumps(obj, indent=2))
+g = open(os.path.dirname(os.path.realpath(__file__)) + '/../_data/podcast_data.json', 'w')
+g.write(json.dumps(obj, indent=2, ensure_ascii=False))
 g.close()
