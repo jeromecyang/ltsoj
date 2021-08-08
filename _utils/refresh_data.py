@@ -16,6 +16,9 @@ def parse_time_point(text):
   parts = text.replace('* ', '').split(' ', 1)
   return OrderedDict({'text':parts[1].replace('\n',''),'time':parts[0].replace('(','').replace(')','')})
 
+def cleanup_multi(patterns, text):
+  return reduce(lambda last, pattern: re.sub(pattern, '', last), patterns, text)
+
 path = os.path.dirname(os.path.realpath(__file__)) + '/../_posts/'
 posts = sorted(os.listdir(path), reverse=True)
 obj = OrderedDict()
@@ -24,7 +27,7 @@ for post in [p for p in posts if '-ep' in p and not 'episodes' in p]:
   content = read_file(path + post)
   episode = re.findall(r'episode: .*?\n', content)[0].replace('episode: ', '').replace('\n', '')
   sections = re.split(r'[^#]##\s.*?\n', split_and_get_nth(content, '---\n', 2), flags=re.S)
-  main = re.sub(r'\{.*?\}', '', sections[0])
+  main = cleanup_multi([r'\{.*?\}', r'\!\[\]\(.*?\)', r'###\s', r'\|'], sections[0])
   timeline = sections[1]
   points = map(parse_time_point, re.findall(r'\*.*?\n', timeline, flags=re.S))
   obj[episode] = OrderedDict()
