@@ -10,7 +10,12 @@ layout: null
   {% assign footer = '<p>節目回饋 https://forms.gle/4v9Xc5PJz4geQp7K7<br>官網 https://ltsoj.com<br>FB: https://facebook.com/lifetimesojourner<br>IG: https://instagram.com/travel.wok</p>' %}
   {% for episode in episodes %}
     {% assign episode_id = episode.episode | append: '' %}
-    {% assign description = site.data.podcast_data[episode_id].description | strip_html | markdownify | append: footer %}
+    {% assign timeline = '<p>✅ 本集重點：<ul>' %}
+    {% for point in site.data.podcast_data[episode_id].timeline %}
+      {% assign timeline = timeline | append: '<li>' | append: point.text | append: '</li>' %}
+    {% endfor %}
+    {% assign timeline = timeline | append: '</ul></p>' %}
+    {% assign description = site.data.podcast_data[episode_id].description | strip_html | markdownify | append: timeline | append: footer %}
     <item>
       <title><![CDATA[{{episode.title}}]]></title>
       <itunes:author>旅行熱炒店主廚Jerome</itunes:author>
