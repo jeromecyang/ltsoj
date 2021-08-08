@@ -12,7 +12,7 @@ layout: null
     {% assign episode_id = episode.episode | append: '' %}
     {% assign timeline = '<p>✅ 本集重點：<ul>' %}
     {% for point in site.data.podcast_data[episode_id].timeline %}
-      {% assign timeline = timeline | append: '<li>' | append: point.text | append: '</li>' %}
+      {% assign timeline = timeline | append: '<li>(' | append: point.time | append: ') ' | append: point.text | append: '</li>' %}
     {% endfor %}
     {% assign timeline = timeline | append: '</ul></p>' %}
     {% assign description = site.data.podcast_data[episode_id].description | strip_html | markdownify | append: timeline | append: footer %}
