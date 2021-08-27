@@ -7,10 +7,10 @@ layout: null
   xmlns:psc="https://podlove.org/simple-chapters/">
   <channel>
   {% assign episodes = site.posts | where: 'podcast', 'true' %}
-  {% assign footer = '<br><br><p>節目回饋 https://forms.gle/4v9Xc5PJz4geQp7K7<br>官網 https://ltsoj.com<br>FB: https://facebook.com/lifetimesojourner<br>IG: https://instagram.com/travel.wok</p>' %}
+  {% assign footer = '<p>節目回饋 https://forms.gle/4v9Xc5PJz4geQp7K7<br>官網 https://ltsoj.com<br>FB: https://facebook.com/lifetimesojourner<br>IG: https://instagram.com/travel.wok</p>' %}
   {% for episode in episodes %}
     {% assign episode_id = episode.episode | append: '' %}
-    {% assign timeline = '<br><br><p>✅ 本集重點：<ul>' %}
+    {% assign timeline = '<p>✅ 本集重點：<ul>' %}
     {% for point in site.data.podcast_data[episode_id].timeline %}
       {% assign timeline = timeline | append: '<li>(' | append: point.time | append: ') ' | append: point.text | append: '</li>' %}
     {% endfor %}
