@@ -15,7 +15,7 @@ layout: null
       {% assign timeline = timeline | append: '<li>(' | append: point.time | append: ') ' | append: point.text | append: '</li>' %}
     {% endfor %}
     {% assign timeline = timeline | append: '</ul></p>' %}
-    {% assign description = site.data.podcast_data[episode_id].description | strip_html | markdownify | append: timeline | append: footer %}
+    {% assign description = site.data.podcast_data[episode_id].description | strip_html | newline_to_br | markdownify | append: timeline | append: footer %}
     <item>
       <title>{{episode.title | replace: '&', '&amp;'}}</title>
       <itunes:author>旅行熱炒店主廚Jerome</itunes:author>
