@@ -116,8 +116,10 @@
   flex-direction: column;
   justify-content: center;
   min-height: 500px;
-  background-image: url(https://imgur.com/CEa5h2v.jpg);
-  background-position: center bottom;
+  background-image: url(https://imgur.com/CEa5h2vl.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #ffffff;
 
   .slogan {

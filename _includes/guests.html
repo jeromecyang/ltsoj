@@ -28,16 +28,16 @@
     {% endif %}
     <div class="social-media">
       {% if guest.website %}
-      <a href="{{ guest.website }}"><div><img src="https://image.flaticon.com/icons/png/512/1231/1231223.png"></div></a>
+      <a href="{{ guest.website }}"><div><img src="https://image.flaticon.com/icons/png/512/1231/1231223.png" alt="Website"></div></a>
       {% endif %}
       {% if guest.facebook %}
-        <a href="{{ guest.facebook }}"><div><img src="https://image.flaticon.com/icons/png/512/20/20673.png"></div></a>
+        <a href="{{ guest.facebook }}"><div><img src="https://image.flaticon.com/icons/png/512/20/20673.png" alt="Facebook"></div></a>
       {% endif %}
       {% if guest.instagram %}
-        <a href="{{ guest.instagram }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384015.png"></div></a>
+        <a href="{{ guest.instagram }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384015.png" alt="Instagram"></div></a>
       {% endif %}
       {% if guest.youtube %}
-        <a href="{{ guest.youtube }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384012.png"></div></a>
+        <a href="{{ guest.youtube }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384012.png" alt="Youtube"></div></a>
       {% endif %}
     </div>
       {{ guest.content | markdownify }}
