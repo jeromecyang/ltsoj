@@ -2,7 +2,7 @@
 name: Summer
 title: from Syria 來自敘利亞的手作禮物 創辦人
 order: 24
-avatar: https://cdn.store-assets.com/s/273259/f/4749428.png
+avatar: https://s.taplink.ru/a/5/7/c/0/4607e4.jpg
 website: https://fromsyriatw.com
 facebook: https://www.facebook.com/fromsyriatw
 instagram: https://www.instagram.com/fromsyriatw

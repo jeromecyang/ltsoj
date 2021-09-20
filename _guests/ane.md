@@ -2,7 +2,7 @@
 name: 唐宏安
 title: 旅遊作家與冒險家
 order: 23
-avatar: http://img.attravel.tw/uploads/20170328004758_53.jpg
+avatar: http://attravel.tw/wp-content/uploads/20170328004758_53-768x576.jpg
 website: https://attravel.tw/
 facebook: https://www.facebook.com/ane.travel/
 instagram: https://www.instagram.com/attravel.tw/
