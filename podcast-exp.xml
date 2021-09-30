@@ -10,14 +10,35 @@ layout: null
   {% for episode in episodes %}
     {% assign episode_id = episode.episode | append: '' %}
     {% assign padded_id = episode_id | prepend: '000' | slice: -3, 3 %}
+
+    {% assign bio = '<p>🎙️ 來賓簡介：<br>' %}
+    {% assign guests = site.guests | where_exp: "item", "item.episodes contains episode.episode" %}
+    {% for guest in guests %}
+      {% assign bio = bio | append: guest.content %}
+      {% if guest.website %}
+        {% assign bio = bio | append: '<br>網站 <a href="' | append: guest.website | append: '">' | append: guest.website | append: '</a>' %}
+      {% endif %}
+      {% if guest.facebook %}
+        {% assign bio = bio | append: '<br>Facebook <a href="' | append: guest.facebook | append: '">' | append: guest.facebook | append: '</a>' %}
+      {% endif %}
+      {% if guest.instagram %}
+        {% assign bio = bio | append: '<br>Instagram <a href="' | append: guest.instagram | append: '">' | append: guest.instagram | append: '</a>' %}
+      {% endif %}
+      {% if guest.youtube %}
+        {% assign bio = bio | append: '<br>Youtube <a href="' | append: guest.youtube | append: '">' | append: guest.youtube | append: '</a>' %}
+      {% endif %}
+    {% endfor %}
+    {% assign bio = bio | append: '</p>' %}
+
     {% assign timeline = '<p>✅ 本集重點：<ul>' %}
     {% for point in site.data.podcast_data[episode_id].timeline %}
       {% assign timeline = timeline | append: '<li>(' | append: point.time | append: ') ' | append: point.text | append: '</li>' %}
     {% endfor %}
     {% assign timeline = timeline | append: '</ul></p>' %}
+
     {% assign footer = '<p>Show note https://ltsoj.com/podcast-ep' | append: padded_id %}
-    {% assign footer = footer | append: '<br>節目回饋 https://forms.gle/4v9Xc5PJz4geQp7K7<br>官網 https://ltsoj.com<br>FB: https://facebook.com/lifetimesojourner<br>IG: https://instagram.com/travel.wok</p>' %}
-    {% assign description = site.data.podcast_data[episode_id].description | strip_html | newline_to_br | markdownify | append: timeline | append: footer %}
+    {% assign footer = footer | append: '<br>官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>Facebook: <a href="https://facebook.com/lifetimesojourner">https://facebook.com/lifetimesojourner</a><br>Instagram: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>節目回饋 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a></p>' %}
+    {% assign description = site.data.podcast_data[episode_id].description | strip_html | newline_to_br | markdownify | append: bio | append: timeline | append: footer %}
     <item>
       <title>{{episode.title | replace: '&', '&amp;'}}</title>
       <itunes:author>旅行熱炒店主廚Jerome</itunes:author>
