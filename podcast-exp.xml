@@ -13,7 +13,8 @@ layout: null
 
     {% assign bio = '<p>🎙️ 來賓簡介：<br>' %}
     {% for guest_name in episode.guests %}
-      {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
+      {% assign path = '/guests/' | append: guest_name %}
+      {% assign guest = site.guests | where_exp: "item", "item.id == path" | first %}
       {% assign bio = bio | append: guest.content %}
       {% if guest.website %}
         {% assign bio = bio | append: '<br>網站 <a href="' | append: guest.website | append: '">' | append: guest.website | append: '</a>' %}
