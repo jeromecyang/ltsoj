@@ -1,8 +1,6 @@
 ---
 layout: power-page
 title: 所有集數列表
-permalink: episodes
-hidden: true
 ---
 
 <h2>{{ page.title }}</h2>

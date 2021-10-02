@@ -1,8 +1,6 @@
 ---
 layout: power-page
 title: 聯絡我們
-permalink: contact
-hidden: true
 ---
 
 旅行熱炒店歡迎大家來一起互動交流！

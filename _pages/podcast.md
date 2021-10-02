@@ -1,10 +1,6 @@
 ---
-date: 2020-06-19
 layout: power-page
 title: 關於旅行熱炒店PODCAST
-permalink: podcast
-image: https://imgur.com/CEa5h2v.jpg
-excerpt: 深入冷門角落．挖掘史地脈絡．分享不同視角的旅行PODCAST，透過聲音與您一同細細品嘗來自世界各地的獨特風味！
 ---
 
 ![](https://image.flaticon.com/icons/png/512/854/854878.png)

@@ -1,10 +1,6 @@
 ---
-date: 2020-10-16
 layout: post
 title: 旅行熱炒店PODCAST合作須知
-permalink: collaborate
-image: https://imgur.com/CEa5h2v.jpg
-excerpt: ''
 ---
 
 **注意：**這篇合作須知僅是針對有興趣擔任來賓、到節目上受訪者。
