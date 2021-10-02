@@ -30,7 +30,7 @@ defaults:
     scope:
       type: "episodes"
     values:
-      layout: "post"
+      layout: "episode"
   -
     scope:
       type: "maps"

@@ -1,9 +1,9 @@
 import sys, re, os, yaml
 
-path = os.path.dirname(os.path.realpath(__file__)) + '/../_posts/'
+path = os.path.dirname(os.path.realpath(__file__)) + '/../_episodes/'
 
 def get_all_episodes():
-  return sorted(filter(lambda x: '-ep' in x and not 'episode' in x, os.listdir(path)))
+  return sorted(os.listdir(path))
 
 def add_to_data(raw_content, data_to_add):
   data_list = raw_content.split('---')

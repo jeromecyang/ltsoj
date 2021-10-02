@@ -4,6 +4,8 @@ layout: default
 <div class="page-content">
   <h1>{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date: "%Y/%m/%d" }} | {{ site.author }}</span>
+  <article><img src="{{ page.image }}"></article>
   <article>{{ content }}</article>
+  <article>{% include maps.html %}</article>
   <article>{% include related.html %}</article>
 </div>
