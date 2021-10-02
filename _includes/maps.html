@@ -1,0 +1,5 @@
+{% for map_id in page.maps %}
+  {% assign map = site.maps | where_exp: "item", "item.id contains map_id" | first %}
+  <h2>{{map.title}}</h2>
+  {{map.content|markdownify}}
+{% endfor %}
