@@ -1,7 +1,5 @@
 <div class="post-preview-grid">
   {% for post in posts %}
-    {% unless post.hidden %}
-      {% include post-preview.html %}
-    {% endunless %}
+    {% include post-preview.html %}
   {% endfor %}
 </div>
