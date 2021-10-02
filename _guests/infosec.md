@@ -1,13 +1,10 @@
 ---
-name: Jeff
-title: 資安工程師、《資安解壓縮》Podcast主持人
-order: 5
-avatar: https://infosecdecompress.com/photo.jpg
+title: Jeff
 facebook: https://www.facebook.com/infosecdecompress
 instagram: https://www.instagram.com/infosec.zip
 website: https://infosecdecompress.com/
-episodes:
-  - 20
+subtitle: 資安工程師、《資安解壓縮》Podcast主持人
+image: https://infosecdecompress.com/photo.jpg
 ---
 
 Jeff，「資安解壓縮」podcast製作主持人，目前於業界從事資安分析工作。

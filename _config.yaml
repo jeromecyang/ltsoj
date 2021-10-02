@@ -33,6 +33,11 @@ defaults:
       layout: "episode"
   -
     scope:
+      type: "guests"
+    values:
+      layout: "profile"
+  -
+    scope:
       type: "maps"
     values:
       layout: "post-simple"

@@ -7,4 +7,5 @@ title: 熱炒店來賓名人堂
 
 旅行熱炒店能有精彩的內容，來賓的參與功不可沒。一起來認識節目開播以來的來賓們吧！
 
-{% include guests.html %}
+{% assign posts = site.guests %}
+{% include post-preview-grid.html %}
