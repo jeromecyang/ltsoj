@@ -11,7 +11,7 @@ title: Home
 </div>
 
 {% assign use_img = true %}
-{% assign posts = site.posts | where: 'podcast', 'true' | slice: 0, 6 %}
+{% assign posts = site.episodes | reverse | slice: 0, 6 %}
 {% include post-preview-grid.html %}
 
 <div class="campaign">

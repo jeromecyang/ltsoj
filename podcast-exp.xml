@@ -6,15 +6,14 @@ layout: null
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:psc="https://podlove.org/simple-chapters/">
   <channel>
-  {% assign episodes = site.posts | where: 'podcast', 'true' %}
+  {% assign episodes = site.episodes | reverse %}
   {% for episode in episodes %}
     {% assign episode_id = episode.episode | append: '' %}
     {% assign padded_id = episode_id | prepend: '000' | slice: -3, 3 %}
 
     {% assign bio = '<p>🎙️ 來賓簡介：<br>' %}
     {% for guest_name in episode.guests %}
-      {% assign path = '/guests/' | append: guest_name %}
-      {% assign guest = site.guests | where_exp: "item", "item.id == path" | first %}
+      {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
       {% assign bio = bio | append: guest.content %}
       {% if guest.website %}
         {% assign bio = bio | append: '<br>網站 <a href="' | append: guest.website | append: '">' | append: guest.website | append: '</a>' %}

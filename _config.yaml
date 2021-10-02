@@ -28,11 +28,19 @@ defaults:
       layout: "post-simple"
   -
     scope:
+      type: "episodes"
+    values:
+      layout: "post"
+  -
+    scope:
       type: "maps"
     values:
       layout: "post-simple"
 
 collections:
+  episodes:
+    output: true
+    permalink: /podcast-ep:name
   pages:
     output: true
     permalink: /:name

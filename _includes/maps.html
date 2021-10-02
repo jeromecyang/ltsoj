@@ -1,5 +1,5 @@
 {% for map_id in page.maps %}
-  {% assign path = '/maps/' | append: map_id %}
+  {% assign path = '/map/' | append: map_id %}
   {% assign map = site.maps | where_exp: "item", "item.id == path" | first %}
   <h2>{{map.title}}</h2>
   {{map.content|markdownify}}
