@@ -14,13 +14,13 @@ def read_data(episode):
   f = open(path + episode)
   content = f.read()
   data_list = content.split('---')
-  return yaml.load(data_list[1], Loader=yaml.FullLoader)
+  return yaml.load(data_list[1], Loader=yaml.SafeLoader)
 
 def write_data(episode, data):
   f = open(path + episode)
   content = f.read()
   data_list = content.split('---')
-  str_data = '\n' + yaml.dump(data, sort_keys=False, allow_unicode=True)
+  str_data = '\n' + yaml.dump(data, sort_keys=False, allow_unicode=True, width=1000)
   new_content = "---".join([data_list[0], str_data, *data_list[2:]])
   g = open(path + episode, 'w')
   g.write(new_content)
