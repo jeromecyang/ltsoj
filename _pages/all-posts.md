@@ -1,8 +1,6 @@
 ---
 layout: default
 title: 所有文章
-permalink: all-posts
-hidden: true
 ---
 <h1>{{ page.title }}</h1>
 

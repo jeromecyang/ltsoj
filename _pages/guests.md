@@ -1,9 +1,6 @@
 ---
-date: 2021-01-30
 layout: power-page
 title: 熱炒店來賓名人堂
-permalink: guests
-hidden: true
 ---
 
 <h2>熱炒店來賓名人堂</h2>
