@@ -3,3 +3,5 @@ Gemfile.lock
 .sass-cache
 .jekyll-metadata
 .DS_Store
+_utils/__pycache__/
+_utils/*.pyc
