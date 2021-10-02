@@ -12,8 +12,8 @@ layout: null
     {% assign padded_id = episode_id | prepend: '000' | slice: -3, 3 %}
 
     {% assign bio = '<p>🎙️ 來賓簡介：<br>' %}
-    {% assign guests = site.guests | where_exp: "item", "item.episodes contains episode.episode" %}
-    {% for guest in guests %}
+    {% for guest_name in episode.guests %}
+      {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
       {% assign bio = bio | append: guest.content %}
       {% if guest.website %}
         {% assign bio = bio | append: '<br>網站 <a href="' | append: guest.website | append: '">' | append: guest.website | append: '</a>' %}
