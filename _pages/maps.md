@@ -1,9 +1,9 @@
 ---
-title: 所有地圖
+title: 旅行熱炒店地圖與圖表大總匯
 layout: wide
 ---
 
-地圖
+<h2>旅行熱炒店地圖與圖表大總匯</h2>
 
 {% assign use_img = true %}
 {% assign posts = site.maps %}

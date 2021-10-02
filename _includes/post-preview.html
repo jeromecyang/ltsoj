@@ -14,9 +14,12 @@
       </a>
     {% endif %}
   </div>
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  {% if post.date %}
-    <div class="date"><b>[{{ post.date | date: "%Y/%m/%d" }}]</b></div>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% if post.subtitle %}
+    <div class="subtitle"><b>{{ post.subtitle }}</b></div>
+  {% endif %}
+  {% if post.collection == 'posts' or post.collection == 'episodes' %}
+    <div class="date"><b>{{ post.date | date: "%Y/%m/%d" }}</b></div>
   {% endif %}
   <div class="excerpt">{{ post.excerpt | strip_html }}</div>
 </div>
