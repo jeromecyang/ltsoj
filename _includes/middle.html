@@ -1,3 +1,7 @@
 {% include player.html %}
 {% include listen.html %}
-{% include guests.html %}
+
+{% for guest_name in page.guests %}
+  {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
+  {% include profile.html %}
+{% endfor %}
