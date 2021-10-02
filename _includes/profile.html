@@ -16,5 +16,5 @@
       <a href="{{ guest.youtube }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384012.png" alt="Youtube"></div></a>
     {% endif %}
   </div>
-  <p>{{ guest.content }}</p>
+  <p>{{ guest.content | markdownify }}</p>
 </div>
