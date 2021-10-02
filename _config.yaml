@@ -19,10 +19,26 @@ description:	       "#冷門路線旅行 #史地人文 #輕知識podcast"
 author:              "Jerome Yang"
 thumbnail:           "https://imgur.com/UcBMib5.jpg"
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+# Defaults
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "post-simple"
+  -
+    scope:
+      type: "maps"
+    values:
+      layout: "post-simple"
 
 collections:
-  - guests
-  - maps
+  pages:
+    output: true
+    permalink: /:name
+  guests:
+    output: true
+    permalink: /guest/:name
+  maps:
+    output: true
+    permalink: /map/:name

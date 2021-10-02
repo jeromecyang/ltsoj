@@ -1,5 +1,6 @@
 ---
 title: 德涅斯特河沿岸（德左）
+image: https://imgur.com/I2CxNiL.jpg
 ---
 
 ![](https://imgur.com/I2CxNiL.jpg)

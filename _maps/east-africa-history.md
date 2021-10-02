@@ -1,5 +1,6 @@
 ---
 title: 東非漫威宇宙之歷史連動
+image: https://imgur.com/paVsPS0.jpg
 ---
 
 ![](https://imgur.com/paVsPS0.jpg)

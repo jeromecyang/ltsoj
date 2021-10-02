@@ -1,5 +1,6 @@
 ---
 title: 阿拉伯國家？中東國家？或者以上皆是？
+image: https://imgur.com/VRx6IrP.jpg
 ---
 
 ![](https://imgur.com/VRx6IrP.jpg)

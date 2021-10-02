@@ -1,5 +1,6 @@
 ---
 title: 被出賣的那些人：大西洋奴隸貿易的出發地與目的地
+image: https://imgur.com/UUXGawE.jpg
 ---
 
 ![](https://imgur.com/UUXGawE.jpg)

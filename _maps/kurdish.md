@@ -1,5 +1,6 @@
 ---
 title: 英語的超遠房親戚：庫德語
+image: https://imgur.com/If6BilO.jpg
 ---
 
 ![](https://imgur.com/If6BilO.jpg)

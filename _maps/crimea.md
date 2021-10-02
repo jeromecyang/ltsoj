@@ -1,5 +1,6 @@
 ---
 title: 克里米亞半島
+image: https://imgur.com/YH3tQnf.jpg
 ---
 
 ![](https://imgur.com/YH3tQnf.jpg)

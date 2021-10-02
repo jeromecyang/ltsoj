@@ -18,5 +18,5 @@
   {% if post.date %}
     <div class="date"><b>[{{ post.date | date: "%Y/%m/%d" }}]</b></div>
   {% endif %}
-  <div class="excerpt">{{ post.excerpt }}</div>
+  <div class="excerpt">{{ post.excerpt | strip_html }}</div>
 </div>

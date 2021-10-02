@@ -1,5 +1,6 @@
 ---
 title: 「不顧基輔反對」從烏克蘭獨立的兩小國：盧甘斯克、頓內次克
+image: https://imgur.com/I2CxNiL.jpg
 ---
 
 ![](https://imgur.com/I2CxNiL.jpg)
