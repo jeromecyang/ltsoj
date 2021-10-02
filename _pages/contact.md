@@ -1,5 +1,5 @@
 ---
-layout: power-page
+layout: wide
 title: 聯絡我們
 ---
 

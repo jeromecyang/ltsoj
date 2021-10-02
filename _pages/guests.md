@@ -1,5 +1,5 @@
 ---
-layout: power-page
+layout: wide
 title: 熱炒店來賓名人堂
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: power-page
+layout: wide
 title: 關於旅行熱炒店PODCAST
 ---
 

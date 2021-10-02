@@ -1,5 +1,5 @@
 {% assign podcast_posts = site.tags[tag] | where_exp: "item", "item.podcast == true" %}
-<article class="power-page">
+<article class="wide">
   <ul>
     {% for post in podcast_posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>

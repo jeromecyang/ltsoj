@@ -1,6 +1,6 @@
 ---
 title: 所有地圖
-layout: power-page
+layout: wide
 ---
 
 地圖
