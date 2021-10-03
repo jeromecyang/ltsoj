@@ -6,6 +6,8 @@ image: https://imgur.com/e9Bdtit.jpg
 
 ![](https://imgur.com/e9Bdtit.jpg)
 
+俗稱大蘋果的美國紐約，海納百川地容納了來自世界各地的移民，是地表文化最多元的城市；然而許多人對它的了解，僅止於法拉盛或K-town等知名度較高的區域，這讓Jerome決定要製作這集，把大蘋果裡更多有趣的角落分享出去！比搭機環島更便宜、更貼近地表的偽出國旅行，發現你不知道、旅遊書也不會寫的紐約，現在就跟著Jerome一起出發吧！ Let's go!!!
+
 ![](https://imgur.com/FPsGFVP.jpg)
 
 No.1 曼哈頓小福州 East Broadway (2:01)
