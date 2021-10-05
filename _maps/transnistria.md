@@ -1,4 +1,5 @@
 ---
+date: 2020-07-22
 title: 德涅斯特河沿岸（德左）
 image: https://imgur.com/I2CxNiL.jpg
 ---

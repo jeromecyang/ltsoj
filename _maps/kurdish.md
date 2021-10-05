@@ -1,4 +1,5 @@
 ---
+date: 2020-09-16
 title: 英語的超遠房親戚：庫德語
 image: https://imgur.com/If6BilO.jpg
 ---
