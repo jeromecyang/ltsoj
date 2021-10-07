@@ -19,11 +19,11 @@ def parse_time_point(text):
 def cleanup_multi(patterns, text):
   return reduce(lambda last, pattern: re.sub(pattern, '', last), patterns, text)
 
-path = os.path.dirname(os.path.realpath(__file__)) + '/../_posts/'
+path = os.path.dirname(os.path.realpath(__file__)) + '/../_episodes/'
 posts = sorted(os.listdir(path), reverse=True)
 obj = OrderedDict()
 
-for post in [p for p in posts if '-ep' in p and not 'episodes' in p]:
+for post in posts:
   content = read_file(path + post)
   episode = re.findall(r'episode: .*?\n', content)[0].replace('episode: ', '').replace('\n', '')
   sections = re.split(r'[^#]##\s.*?\n', split_and_get_nth(content, '---\n', 2), flags=re.S)
