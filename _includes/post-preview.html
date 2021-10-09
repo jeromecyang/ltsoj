@@ -1,7 +1,7 @@
 <div class="post-preview {% unless use_md %}sm{% endunless %}">
   <div>
     {% assign image_url = post.image %}
-    {% if image_url contains 'imgur' %}
+    {% if image_url contains 'imgur' and use_img %}
       {% assign image_url = post.image | replace: '.jpg', 'm.jpg' %}
     {% endif %}
     {% if use_img %}
