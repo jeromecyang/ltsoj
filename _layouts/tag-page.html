@@ -7,6 +7,8 @@ layout: default
     {% assign use_md = true %}
     {% assign use_img = true %}
     {% assign posts = site.tags[page.page_tag] %}
+    {% assign episodes = site.episodes | where_exp: "item", "item.tags contains page.page_tag" %}
+    {% assign posts = posts | concat: episodes | reverse %}
     {% include post-preview-grid.html %}
   </article>
 </div>
