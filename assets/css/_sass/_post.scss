@@ -6,12 +6,17 @@
   margin-top: 10px;
   margin-bottom: 10px;
   line-height: 1.15em;
+
+  h2 {
+    text-align: center;
+  }
 }
 .post-date {
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-size:0.8rem;
+  font-size: 1rem;
+  text-align: center;
 }
 .featured-image img {
   align: middle;

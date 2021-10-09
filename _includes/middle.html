@@ -1,5 +1,9 @@
 {% include player.html %}
-{% include listen.html %}
+
+{% if page.guests.size > 0 %}
+  <br>
+  <h2>來賓簡介</h2>
+{% endif %}
 
 {% for guest_name in page.guests %}
   {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
