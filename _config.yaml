@@ -45,7 +45,7 @@ defaults:
 collections:
   episodes:
     output: true
-    permalink: /podcast-ep:name
+    permalink: /podcast-:name
   pages:
     output: true
     permalink: /:name
