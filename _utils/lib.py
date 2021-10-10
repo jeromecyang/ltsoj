@@ -1,4 +1,5 @@
 import sys, re, os, yaml
+from collections import OrderedDict
 
 path = os.path.dirname(os.path.realpath(__file__)) + '/../_episodes/'
 
@@ -24,4 +25,24 @@ def write_data(episode, data):
   new_content = "---".join([data_list[0], str_data, *data_list[2:]])
   g = open(path + episode, 'w')
   g.write(new_content)
+  g.close()
+
+def split_and_get_nth(text, pattern, index):
+  parts = text.split(pattern)
+  if (len(parts) > index):
+    return parts[index]
+  return ''
+
+def get_section(content, index):
+  sections = re.split(r'[^#]##\s.*?\n', split_and_get_nth(content, '---\n', 2), flags=re.S)
+  return sections[index]
+
+def read_content(episode):
+  f = open(path + episode)
+  content = f.read()
+  return content
+
+def write_content(episode, content):
+  g = open(path + episode, 'w')
+  g.write(content)
   g.close()
