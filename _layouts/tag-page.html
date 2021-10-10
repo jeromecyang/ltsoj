@@ -1,14 +1,11 @@
 ---
-layout: default
+layout: wide
 ---
-<div class="section-title">{{ page.title }}</div>
-<div class="page-content">
-  <article>
-    {% assign use_md = true %}
-    {% assign use_img = true %}
-    {% assign posts = site.tags[page.page_tag] %}
-    {% assign episodes = site.episodes | where_exp: "item", "item.tags contains page.page_tag" %}
-    {% assign posts = posts | concat: episodes | reverse %}
-    {% include post-preview-grid.html %}
-  </article>
-</div>
+
+<h1>{{ page.title }}</h1>
+
+{% assign use_img = true %}
+{% assign posts = site.tags[page.page_tag] %}
+{% assign episodes = site.episodes | where_exp: "item", "item.tags contains page.page_tag" %}
+{% assign posts = posts | concat: episodes | reverse %}
+{% include post-preview-grid.html %}
