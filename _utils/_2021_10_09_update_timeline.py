@@ -1,11 +1,11 @@
 from lib import *
 
 episodes = get_all_episodes()
-for episode in episodes[:10]:
+for episode in [e for e in episodes[:41] if not e in ['ep017.md', 'ep026.md', 'ep035.md']]:
   content = read_content(episode)
   timeline = get_section(content, 1)
   lines = re.findall(r'\*.*?\n', timeline, flags=re.S)
-  output = ''
+  output = '\n'
   for line in lines:
     parts = line.replace('* ', '').split(' ', 1)
     time = parts[0].replace('(','').replace(')','')
