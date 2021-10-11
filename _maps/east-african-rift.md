@@ -16,4 +16,4 @@ image: https://imgur.com/N28R2fu.jpg
 
 想了解住在湖邊的這群馬拉威人，還有菜鳥時代的甲殼哥為了國慶活動，如何在湖畔硬是種出3000顆西瓜的血淚故事，請大家一定要抽空收聽EP72！
 
-註：底圖為ArcGIS上的Vibrant Basemap
+註：底圖為ArcGIS Online上的Vibrant Basemap，是Esri和Vizzuality合作推出的地圖，宗旨為「傳達出地球的美麗與動人，是值得大家保護的」。詳細資訊： [https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/creating-the-half-earth-vibrant-basemap/](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/creating-the-half-earth-vibrant-basemap/)
