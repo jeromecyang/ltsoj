@@ -47,30 +47,6 @@ title: 關於旅行熱炒店PODCAST
 ![](https://image.flaticon.com/icons/png/512/3556/3556937.png)
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-## 推薦主題
-
-如果是第一次知道旅行熱炒店，不知道該從哪些集數下手，歡迎參考下方以主題分類的列表，挑選一個你喜歡的主題去聽聽看！
-
-### 移民與難民
-
-{% assign tag = "Immigration" %}
-{% include post-preview-list.html %}
-
-### 非洲
-
-{% assign tag = "Africa" %}
-{% include post-preview-list.html %}
-
-### 拉丁美洲
-
-{% assign tag = "Latin America" %}
-{% include post-preview-list.html %}
-
-### 前蘇聯國家
-
-{% assign tag = "Soviet" %}
-{% include post-preview-list.html %}
-
 ### [所有集數列表](/episodes)
 
 {% include listen.html %}
