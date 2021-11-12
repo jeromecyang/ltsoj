@@ -2,7 +2,7 @@
   <div>
     {% assign image_url = post.image %}
     {% if image_url contains 'imgur' and use_img %}
-      {% assign image_url = post.image | replace: '.jpg', 'm.jpg' %}
+      {% assign image_url = post.image | replace: '.jpg', 'l.jpg' %}
     {% endif %}
     {% if use_img %}
       <a href="{{ post.url }}">
