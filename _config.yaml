@@ -1,4 +1,5 @@
 # Site Build Settings
+future: true
 
 # jekyll-paginate configuration
 paginate:            50
