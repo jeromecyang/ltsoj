@@ -8,7 +8,9 @@ image: https://imgur.com/CrA9irZ.jpg
 
 聽完EP.49的拉帕努伊（復活節島），地圖控的例行公事又來啦！這次是用Google Earth出圖之後再稍做調色。雖然配色實在不怎麼討喜，但要表現出一座海島的地形多變（尤其是那一個個可愛的火山口！！），還是要靠Google Earth的3D數值模型加上衛星影像比較有fu這樣～
 
-網路互動版本 google.com/maps/d/u/0/viewer?mid=1QfmLm-d868K-coF10h_Dt1jXP0M_6naa
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QfmLm-d868K-coF10h_Dt1jXP0M_6naa" width="640" height="480"></iframe>
+
+[網路互動版本](https://www.google.com/maps/d/u/0/viewer?mid=1QfmLm-d868K-coF10h_Dt1jXP0M_6naa)
 
 以下是Vivian文章中推薦的5個必訪摩艾景點——
 （當然島上其他地方甚至海底也有摩艾，不過以下這些是許多人都大力推薦的。）

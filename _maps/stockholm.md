@@ -11,4 +11,6 @@ image: https://imgur.com/4L1PSRF.jpg
 如來賓燦宇在EP.46裡所說，斯德哥爾摩號稱「北方威尼斯」真的當之無愧！市區由好幾個島嶼組成，形成四通八達的水路，東西兩邊都可以通往波羅的海。不難想像在航海時代，這裡佔盡了多大的地利之便；在聽完燦宇分享的各種冷知識之後，就更想去了！
 
 喔對最後還是補充一下，這張地圖同樣有線上互動版本，而且這個版本還有標示像康有為島、上面刻有雷神索爾鐵鎚的石碑等位置，歡迎大家多加利用！
-google.com/maps/d/u/0/viewer?mid=1ezhkzPxVseWNd2nS9nTq-AYiTVZEjcV5
+[點此進入](https://google.com/maps/d/u/0/viewer?mid=1ezhkzPxVseWNd2nS9nTq-AYiTVZEjcV5)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ezhkzPxVseWNd2nS9nTq-AYiTVZEjcV5" width="640" height="480"></iframe>

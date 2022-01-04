@@ -10,8 +10,9 @@ image: https://imgur.com/C5WHXk2.jpg
 
 話說回來，作為全世界數一數二會畫地圖的國家，日本人早就做了一大堆四國遍路的網路地圖（身為地圖控，這點我真的從小就很佩服日本人啊🤣）；於是我在前人的基礎上稍加改進，配合節目內容做出了這張。
 
-本圖同步公開網路互動版，連結見留言，強烈推薦大家點進去看看每個箇所的詳細資訊！
-https://www.google.com/maps/d/viewer?mid=1A1XcRfFVDDHI4KQM_o4xijRrKu7eqahr
+本圖同步公開網路互動版，強烈推薦大家點進去看看每個箇所的詳細資訊！
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1A1XcRfFVDDHI4KQM_o4xijRrKu7eqahr" width="100%" height="480"></iframe>
 
 * 為了讓大家了解目前四個縣如何對應到過去令制國時期的「四國」，圖上特別用括號在各縣下方標示國名：德島—阿波、高知—土佐、愛媛—伊予、香川—讚岐。因此大家都熟知的「讚岐烏龍麵」，當然就是來自香川縣囉～！（已餓XD）
 
