@@ -43,16 +43,16 @@ image: https://imgur.com/amGQQdC.jpg
 >
 > 以下敘述的是我2018年5月拜訪時的情況。
 
-我也是選擇搭火車的方式，抵達烏茲別克第一天（5月9日）晚上就直接前往希瓦，在火車上與當地人意外打成一片，留下相當難忘的旅途回憶（詳細故事請見當時的[臉書貼文](https://www.facebook.com/lifetimesojourner/posts/130983687765587)）；隔天早上，奔馳在不毛之地的火車已經來到了烏茲別克的西部。
+我也是選擇搭火車的方式，抵達烏茲別克第一天（5月9日）晚上就直接前往希瓦，在火車上與當地人意外打成一片，留下相當難忘的旅途回憶（詳細故事請見當時的[臉書貼文](https://www.facebook.com/travel.wok/posts/130983687765587)）；隔天早上，奔馳在不毛之地的火車已經來到了烏茲別克的西部。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9775457.735536199!2d56.71761124254037!3d40.646078626316026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfa410e650c89d%3A0x7b95d3fdbffb218!2sItchan%20Kala%20west%20gate!5e0!3m2!1sen!2sus!4v1585356959034!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 *希瓦在中亞的地理位置（地圖中的座標為古城的主要入口西門所在）。*
 
 ![](https://imgur.com/He6LROg.jpg)
-*從塔什干前往希瓦的列車上。詳細故事請[點此](https://www.facebook.com/lifetimesojourner/posts/130983687765587)。*
+*從塔什干前往希瓦的列車上。詳細故事請[點此](https://www.facebook.com/travel.wok/posts/130983687765587)。*
 
 ![](https://imgur.com/diXytcZ.jpg)
-*在路途中，當地人毫無保留的和我分享食物。詳細故事請[點此](https://www.facebook.com/lifetimesojourner/posts/130983687765587)。*
+*在路途中，當地人毫無保留的和我分享食物。詳細故事請[點此](https://www.facebook.com/travel.wok/posts/130983687765587)。*
 
 ## 烏爾根奇（Urgench）轉車
 

@@ -5,7 +5,7 @@ title: 聯絡我們
 
 旅行熱炒店歡迎大家來一起互動交流！您可以透過以下方式與我們互動——
 
-### [Facebook](https://www.facebook.com/lifetimesojourner)
+### [Facebook](https://www.facebook.com/travel.wok)
 
 ### [Instagram](https://www.instagram.com/travel.wok)
 

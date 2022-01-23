@@ -24,7 +24,7 @@ Google街景可不是只能看到街景而已！自從在2007年推出之後，G
 3. [室內篇：跟著Google街景逛遍世界知名博物館](#室內篇跟著google街景逛遍世界知名博物館)
 4. [25個獨家精選街景](#25個獨家精選街景)
 
-喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/lifetimesojourner/)以及[Instagram](https://www.instagram.com/lifetimesojourner/)按讚/追蹤唷！
+喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/travel.wok/)以及[Instagram](https://www.instagram.com/travel.wok/)按讚/追蹤唷！
 
 # Google街景使用技巧
 
@@ -251,4 +251,4 @@ Google街景涵蓋的範圍非常的廣，而且包含了不少街景車到不�
 
 Jerome從小就非常喜歡透過地圖「神遊」世界、緩解不能時常出去玩的遺憾；現在雖然一樣因為疫情而無法旅行，卻有了更先進的Google街景，讓我們即使在家也可以探索世界。真的是非常慶幸自己能活在2020年啊！
 
-喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/lifetimesojourner/)以及[Instagram](https://www.instagram.com/lifetimesojourner/)按讚/追蹤唷！
+喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/travel.wok/)以及[Instagram](https://www.instagram.com/travel.wok/)按讚/追蹤唷！

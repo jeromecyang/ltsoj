@@ -191,4 +191,4 @@ Sevan市區也蓋起了湖畔飯店
 ![](https://cdn-images-1.medium.com/max/800/0*0vBvx2xx5DyT7jaN)
 
 葉爾溫市區一角，與背後的亞美尼亞聖山，亞拉臘山
-更多資訊請見《Lifetime Sojourner 終身旅人 Jerome Yang》[FB](https://www.facebook.com/lifetimesojourner)、[IG](https://www.instagram.com/lifetimesojourner/)。
+更多資訊請見《Lifetime Sojourner 終身旅人 Jerome Yang》[FB](https://www.facebook.com/travel.wok)、[IG](https://www.instagram.com/travel.wok/)。

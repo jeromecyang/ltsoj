@@ -96,4 +96,4 @@ image: https://cdn-images-1.medium.com/max/800/0*8lgY83URvXAqXbAr
 
 [embed]https://www.youtube.com/watch?v=ZFi1G9dnI0o[/embed]
 
-更多資訊請見《Lifetime Sojourner 終身旅人 Jerome Yang》[FB](https://www.facebook.com/lifetimesojourner)、[IG](https://www.instagram.com/lifetimesojourner/)。
+更多資訊請見《Lifetime Sojourner 終身旅人 Jerome Yang》[FB](https://www.facebook.com/travel.wok)、[IG](https://www.instagram.com/travel.wok/)。

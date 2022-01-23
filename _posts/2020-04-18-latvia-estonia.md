@@ -339,4 +339,4 @@ Day 5 (5/31/2017)
 ![](https://imgur.com/9HAoP17l.jpg)
 *我的波羅的海鐵路旅行路線與行程表。*
 
-感謝您的閱讀！喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/lifetimesojourner/)以及[Instagram](https://www.instagram.com/lifetimesojourner/)按讚/追蹤唷！
+感謝您的閱讀！喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/travel.wok/)以及[Instagram](https://www.instagram.com/travel.wok/)按讚/追蹤唷！

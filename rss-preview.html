@@ -36,7 +36,7 @@ layout: null
 
   {% assign url = 'https://ltsoj.com/podcast-ep' | append: padded_id %}
   {% assign footer = '<p>Show note <a href="' | append: url | append: '">' | append: url | append: '</a>' %}
-  {% assign footer = footer | append: '<br>官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>Facebook: <a href="https://facebook.com/lifetimesojourner">https://facebook.com/lifetimesojourner</a><br>Instagram: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>節目回饋 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a></p>' %}
+  {% assign footer = footer | append: '<br>官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>Facebook: <a href="https://facebook.com/travel.wok">https://facebook.com/travel.wok</a><br>Instagram: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>節目回饋 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a></p>' %}
   {% assign description = site.data.podcast_data[episode_id].description | strip_html | markdownify | append: bio | append: timeline | append: footer %}
   
   <h2>{{episode.title}}</h2>
