@@ -81,8 +81,9 @@ layout: null
     {% endunless %}
 
     {% assign timeline = '<p>✅ 本集重點：<ul>' %}
-    {% for point in site.data.podcast_data[episode_id].timeline %}
-      {% assign timeline = timeline | append: '<li>(' | append: point.time | append: ') ' | append: point.text | append: '</li>' %}
+    {% for point in episode.timeline %}
+      {% assign time = point.time | replace: ' ', '' %}
+      {% assign timeline = timeline | append: '<li>(' | append: time | append: ') ' | append: point.text | append: '</li>' %}
     {% endfor %}
     {% assign timeline = timeline | append: '</ul></p>' %}
 
@@ -102,8 +103,8 @@ layout: null
       <itunes:duration>{{episode.duration}}</itunes:duration>
       <description><![CDATA[{{description}}]]></description>
       <psc:chapters version="1.1">
-      {% for point in site.data.podcast_data[episode_id].timeline %}
-        <psc:chapter start="{{point.time}}" title="{{point.text | replace: '&', '&amp;'}}"/>
+      {% for point in episode.timeline %}
+        <psc:chapter start="{{point.time | replace: ' ', ''}}" title="{{point.text | replace: '&', '&amp;'}}"/>
       {% endfor %}
       </psc:chapters>
     </item>
