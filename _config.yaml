@@ -56,3 +56,4 @@ collections:
   maps:
     output: true
     permalink: /map/:name
+  extensions: {}

@@ -6,6 +6,11 @@ layout: default
   <span class="post-date">{{ page.date | date: "%Y/%m/%d" }}</span>
   <article><img src="{{ page.image }}"></article>
   <article>{{ content }}</article>
+  {% include player.html %}
+  {% include guest.html %}
+  {% assign ext_id = page.id | replace: 'ep', 'ext' | prepend: '/extensions' %}
+  {% assign ext = site.extensions | where_exp: "item", "item.id == ext_id" | first %}
+  <article>{{ ext.content | markdownify }}</article>
   <article>{% include maps.html %}</article>
   <article>{% include related.html %}</article>
 </div>
