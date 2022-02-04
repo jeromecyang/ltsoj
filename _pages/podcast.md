@@ -34,19 +34,14 @@ title: 關於旅行熱炒店PODCAST
 * 利用[Github Pages](https://pages.github.com/)放置[RSS feed](https://ltsoj.com/podcast.xml)與音檔，並未使用任何hosting平台。
 * 以Chartable監測收聽表現。
 
-![](https://imgur.com/n8xiL46.jpg)
+![](https://imgur.com/v9mlLpa.jpg)
 
 ## 製作/主持人： Jerome Yang
+
+### 旅行愛好者、人社史地宅、碼農
 
 不務正業的軟體工程師，對於旅行的熱情遠遠大於寫程式，志在透過聲音、文字與圖像創作，聯合其他自助旅行者，將世界上較少被關注到的地方、族群與人介紹出去。累積拜訪約30多國，最喜歡的是前蘇聯國家、穆斯林世界與非洲大陸，以及潛藏於世界各大城市裡的多元移民文化。
 
 學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師，專業領域：前端開發（front-end development）、資料視覺化（information visualization）、地理資訊系統（geographic information system）等，但相信這些都只是手段，回應人們現實的需求才是目的。
 
 若對我專業方面有興趣，歡迎在[LinkedIn](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)上加我 :)
-
-![](https://image.flaticon.com/icons/png/512/3556/3556937.png)
-<div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-### [所有集數列表](/episodes)
-
-{% include listen.html %}
