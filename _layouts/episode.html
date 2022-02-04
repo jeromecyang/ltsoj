@@ -8,6 +8,12 @@ layout: default
   <article>{{ content }}</article>
   {% include player.html %}
   {% include guest.html %}
+  <h2>本集重點</h2>
+  <ul>
+  {% for point in page.timeline %}
+    <li>({{point.time | replace: ' ', ''}}) {{point.text}}</li>
+  {% endfor %}
+  </ul>
   {% assign ext_id = page.id | replace: 'ep', 'ext' | prepend: '/extensions' %}
   {% assign ext = site.extensions | where_exp: "item", "item.id == ext_id" | first %}
   <article>{{ ext.content | markdownify }}</article>
