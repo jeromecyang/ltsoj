@@ -89,7 +89,7 @@ layout: null
 
     {% assign footer = '<p>Show note https://ltsoj.com/podcast-ep' | append: padded_id %}
     {% assign footer = footer | append: '<br>官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>Facebook: <a href="https://facebook.com/travel.wok">https://facebook.com/travel.wok</a><br>Instagram: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>節目回饋 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a></p>' %}
-    {% assign description = episode.content | strip_html | markdownify | append: bio | append: timeline | append: footer %}
+    {% assign description = episode.content | markdownify | append: bio | append: timeline | append: footer %}
     <item>
       <title>{{episode.title | replace: '&', '&amp;'}}</title>
       <itunes:author>旅行熱炒店主廚Jerome</itunes:author>
