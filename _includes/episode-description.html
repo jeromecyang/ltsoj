@@ -1,41 +1,27 @@
-{% assign episode_id = episode.episode | append: '' %}
-{% assign padded_id = episode_id | prepend: '000' | slice: -3, 3 %}
+{{episode.content | markdownify}}
 
-{% assign bio = '<p>🎙️ 來賓簡介：<br>' %}
+{% if episode.guests.size > 0 %}
+<p>🎙️ 來賓簡介：<br>
 {% for guest_name in episode.guests %}
   {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
-  {% assign bio = bio | append: guest.content %}
-  {% if guest.website %}
-    {% assign bio = bio | append: '<br>網站 <a href="' | append: guest.website | append: '">' | append: guest.website | append: '</a>' %}
-  {% endif %}
-  {% if guest.facebook %}
-    {% assign bio = bio | append: '<br>Facebook <a href="' | append: guest.facebook | append: '">' | append: guest.facebook | append: '</a>' %}
-  {% endif %}
-  {% if guest.instagram %}
-    {% assign bio = bio | append: '<br>Instagram <a href="' | append: guest.instagram | append: '">' | append: guest.instagram | append: '</a>' %}
-  {% endif %}
-  {% if guest.youtube %}
-    {% assign bio = bio | append: '<br>Youtube <a href="' | append: guest.youtube | append: '">' | append: guest.youtube | append: '</a>' %}
-  {% endif %}
+  {{guest.content}}
+  {% if guest.website %}<br>網站 <a href="{{guest.website}}">{{guest.website}}</a>{% endif %}
+  {% if guest.facebook %}<br>網站 <a href="{{guest.facebook}}">{{guest.facebook}}</a>{% endif %}
+  {% if guest.instagram %}<br>網站 <a href="{{guest.instagram}}">{{guest.instagram}}</a>{% endif %}
+  {% if guest.youtube %}<br>網站 <a href="{{guest.youtube}}">{{guest.youtube}}</a>{% endif %}
 {% endfor %}
-{% assign bio = bio | append: '</p>' %}
-{% unless episode.guests %}
-  {% assign bio = '' %}
-{% endunless %}
+</p>
+{% endif %}
 
-{% assign timeline = '<p>✅ 本集重點：<ul>' %}
-{% for point in episode.timeline %}
-  {% assign time = point.time | replace: ' ', '' %}
-  {% assign timeline = timeline | append: '<li>(' | append: time | append: ') ' | append: point.text | append: '</li>' %}
-{% endfor %}
-{% assign timeline = timeline | append: '</ul></p>' %}
-
-{% assign footer = '<p>Show note https://ltsoj.com/podcast-ep' | append: padded_id %}
-{% assign footer = footer | append: '<br>官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>Facebook: <a href="https://facebook.com/travel.wok">https://facebook.com/travel.wok</a><br>Instagram: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>節目回饋 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a></p>' %}
-{% assign description = episode.content | markdownify %}
-
-{{description}}
-{{bio}}
+<p>✅ 本集重點：
+  <ul>
+    {% for point in episode.timeline %}
+    <li>({{point.time | replace: ' ', ''}}) {{point.text}}</li>
+    {% endfor %}
+  </ul>
+</p>
 {{timeline}}
+
+{% assign padded_id = episode.episode | append: '' | prepend: '000' | slice: -3, 3 %}
 Show note <a href="https://ltsoj.com/podcast-ep{{padded_id}}">https://ltsoj.com/podcast-ep{{padded_id}}</a><br>
 {% include contact.html %}
