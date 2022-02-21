@@ -3,5 +3,5 @@
     <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
   {% endfor %} | 
   <a href="https://forms.gle/4v9Xc5PJz4geQp7K7" target="_blank">意見回饋</a>
-  <div class="home-link"><a href="/">{{ site.title }} 2021</a></div>
+  <div class="home-link"><a href="/">{{ site.title }} {{ site.time | date: "%Y" }}</a></div>
 </footer>

@@ -137,4 +137,4 @@ image: http://lifetimesojournertravel.files.wordpress.com/2019/06/3edd3-1s_6-lix
 
 
 
-更多資訊請見《Lifetime Sojourner 終身旅人 Jerome Yang》[FB](https://www.facebook.com/travel.wok)、[IG](https://www.instagram.com/travel.wok/)。
+更多資訊請見[FB](https://www.facebook.com/travel.wok)、[IG](https://www.instagram.com/travel.wok/)。

@@ -15,10 +15,12 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "旅行熱炒店PODCAST X 終身旅人JEROME"
-description:	       "#冷門路線旅行 #史地人文 #輕知識podcast"
+title:		           "旅行熱炒店PODCAST X JEROME"
+description:	       "深入冷門角落．挖掘史地脈絡的旅行PODCAST"
 author:              "Jerome Yang"
 thumbnail:           "https://imgur.com/UcBMib5.jpg"
+website:             "https://ltsoj.com/"
+email:               "travel.wok@ltsoj.com"
 
 # Defaults
 defaults:

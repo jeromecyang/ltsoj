@@ -9,49 +9,23 @@ layout: null
     <title>旅行熱炒店</title>
     <link>https://ltsoj.com/</link>
     <language>zh-tw</language>
-    <copyright>℗ &amp; © 2021 Jerome Yang</copyright>
+    <copyright>℗ &amp; © {{site.time|date:"%Y"}} {{site.author}}</copyright>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Places &amp; Travel" />
     </itunes:category>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:subtitle>深入冷門角落．挖掘史地脈絡．分享不同視角的旅行PODCAST</itunes:subtitle>
-    <itunes:author>深入冷門角落．挖掘史地脈絡．分享不同視角的旅行PODCAST</itunes:author>
-    <itunes:summary><![CDATA[
-    深入冷門角落．挖掘史地脈絡．分享不同視角的 #旅行PODCAST
-    <ul>
-      <li>新單集台灣時間每週五上架</li>
-      <li>主廚與各路好手來賓輪流上菜，滿足您的旅行味蕾</li>
-      <li>每集都有獨家精緻地圖，給您聽覺視覺雙重享受</li>
-      <li>大量圖文補充於臉書、IG及官網分享</li>
-    </ul>
-    官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>
-    FB: <a href="https://facebook.com/travel.wok">https://facebook.com/travel.wok</a><br>
-    IG: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>
-    心得、問題或建議 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a><br>
-    寫信給主廚 travel.wok@ltsoj.com
-    ]]></itunes:summary>
-    <description><![CDATA[
-      深入冷門角落．挖掘史地脈絡．分享不同視角的 #旅行PODCAST
-    <ul>
-      <li>新單集台灣時間每週五上架</li>
-      <li>主廚與各路好手來賓輪流上菜，滿足您的旅行味蕾</li>
-      <li>每集都有獨家精緻地圖，給您聽覺視覺雙重享受</li>
-      <li>大量圖文補充於臉書、IG及官網分享</li>
-    </ul>
-    官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>
-    FB: <a href="https://facebook.com/travel.wok">https://facebook.com/travel.wok</a><br>
-    IG: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>
-    心得、問題或建議 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a><br>  
-    寫信給主廚 travel.wok@ltsoj.com
-    ]]></description>
+    <itunes:subtitle>{{site.description}}</itunes:subtitle>
+    <itunes:author>{{site.description}}</itunes:author>
+    <itunes:summary><![CDATA[{% include podcast_intro.html %}]]></itunes:summary>
+    <description><![CDATA[{% include podcast_intro.html %}]]></description>
     <image>
-      <url>https://imgur.com/rChJx6J.jpg</url>
+      <url>{{site.thumbnail}}</url>
     </image>
     <itunes:owner>
       <itunes:name>旅行熱炒店主廚Jerome</itunes:name>
-      <itunes:email>travel.wok@ltsoj.com</itunes:email>
+      <itunes:email>{{site.email}}</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://imgur.com/rChJx6J.jpg" />
+    <itunes:image href="{{site.thumbnail}}" />
     
   {% assign episodes = site.episodes | reverse %}
   {% for episode in episodes %}
