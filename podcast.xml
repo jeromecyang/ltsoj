@@ -16,8 +16,8 @@ layout: null
     <itunes:explicit>clean</itunes:explicit>
     <itunes:subtitle>{{site.description}}</itunes:subtitle>
     <itunes:author>{{site.description}}</itunes:author>
-    <itunes:summary><![CDATA[{% include podcast_intro.html %}]]></itunes:summary>
-    <description><![CDATA[{% include podcast_intro.html %}]]></description>
+    <itunes:summary><![CDATA[{% include podcast-intro.html %}]]></itunes:summary>
+    <description><![CDATA[{% include podcast-intro.html %}]]></description>
     <image>
       <url>{{site.thumbnail}}</url>
     </image>
@@ -26,56 +26,20 @@ layout: null
       <itunes:email>{{site.email}}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{site.thumbnail}}" />
-    
   {% assign episodes = site.episodes | reverse %}
   {% for episode in episodes %}
-    {% assign episode_id = episode.episode | append: '' %}
-    {% assign padded_id = episode_id | prepend: '000' | slice: -3, 3 %}
-
-    {% assign bio = '<p>🎙️ 來賓簡介：<br>' %}
-    {% for guest_name in episode.guests %}
-      {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
-      {% assign bio = bio | append: guest.content %}
-      {% if guest.website %}
-        {% assign bio = bio | append: '<br>網站 <a href="' | append: guest.website | append: '">' | append: guest.website | append: '</a>' %}
-      {% endif %}
-      {% if guest.facebook %}
-        {% assign bio = bio | append: '<br>Facebook <a href="' | append: guest.facebook | append: '">' | append: guest.facebook | append: '</a>' %}
-      {% endif %}
-      {% if guest.instagram %}
-        {% assign bio = bio | append: '<br>Instagram <a href="' | append: guest.instagram | append: '">' | append: guest.instagram | append: '</a>' %}
-      {% endif %}
-      {% if guest.youtube %}
-        {% assign bio = bio | append: '<br>Youtube <a href="' | append: guest.youtube | append: '">' | append: guest.youtube | append: '</a>' %}
-      {% endif %}
-    {% endfor %}
-    {% assign bio = bio | append: '</p>' %}
-    {% unless episode.guests %}
-      {% assign bio = '' %}
-    {% endunless %}
-
-    {% assign timeline = '<p>✅ 本集重點：<ul>' %}
-    {% for point in episode.timeline %}
-      {% assign time = point.time | replace: ' ', '' %}
-      {% assign timeline = timeline | append: '<li>(' | append: time | append: ') ' | append: point.text | append: '</li>' %}
-    {% endfor %}
-    {% assign timeline = timeline | append: '</ul></p>' %}
-
-    {% assign footer = '<p>Show note https://ltsoj.com/podcast-ep' | append: padded_id %}
-    {% assign footer = footer | append: '<br>官網 <a href="https://ltsoj.com">https://ltsoj.com</a><br>Facebook: <a href="https://facebook.com/travel.wok">https://facebook.com/travel.wok</a><br>Instagram: <a href="https://instagram.com/travel.wok">https://instagram.com/travel.wok</a><br>節目回饋 <a href="https://forms.gle/4v9Xc5PJz4geQp7K7">https://forms.gle/4v9Xc5PJz4geQp7K7</a></p>' %}
-    {% assign description = episode.content | markdownify | append: bio | append: timeline | append: footer %}
     <item>
       <title>{{episode.title | replace: '&', '&amp;'}}</title>
       <itunes:author>旅行熱炒店主廚Jerome</itunes:author>
-      <itunes:subtitle><![CDATA[{{description}}]]></itunes:subtitle>
-      <itunes:summary><![CDATA[{{description}}]]></itunes:summary>
+      <itunes:subtitle><![CDATA[{% include episode-description.html %}]]></itunes:subtitle>
+      <itunes:summary><![CDATA[{% include episode-description.html %}]]></itunes:summary>
       <itunes:image href="{{episode.image}}"/>
       <enclosure type="audio/mpeg" url="https://chtbl.com/track/782GB8/jeromecyang.github.io/{{episode.filepath}}" length="392741"/>
       <guid isPermaLink="false">{{episode.guid}}</guid>
       <link>https://ltsoj.com{{episode.url}}</link>
       <pubDate>{{episode.date|date:'%s'|plus:57600|date_to_rfc822}}</pubDate>
       <itunes:duration>{{episode.duration}}</itunes:duration>
-      <description><![CDATA[{{description}}]]></description>
+      <description><![CDATA[{% include episode-description.html %}]]></description>
       <psc:chapters version="1.1">
       {% for point in episode.timeline %}
         <psc:chapter start="{{point.time | replace: ' ', ''}}" title="{{point.text | replace: '&', '&amp;'}}"/>
