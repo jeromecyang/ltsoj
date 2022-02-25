@@ -23,5 +23,5 @@
 {{timeline}}
 
 {% assign padded_id = episode.episode | append: '' | prepend: '000' | slice: -3, 3 %}
-Show note <a href="https://ltsoj.com/podcast-ep{{padded_id}}">https://ltsoj.com/podcast-ep{{padded_id}}</a><br>
+{% if episode.episode %}Show note <a href="https://ltsoj.com/podcast-ep{{padded_id}}">https://ltsoj.com/podcast-ep{{padded_id}}</a><br>{% endif %}
 {% include contact.html %}
