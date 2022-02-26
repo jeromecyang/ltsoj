@@ -77,6 +77,28 @@ date: 2022-02-26
 * [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
 * [麻瓜的語言學：烏克蘭語和俄羅斯語是不是同一個語言？](https://www.facebook.com/uegugu/posts/5657439294283280)
 
+### 旅行熱炒店相關集數
+
+* [EP5 不顧基輔反對！烏克蘭的最東邊，竟然藏著兩個地圖上找不到的獨立國家!? 頓內次克、盧甘斯克、德涅斯特河沿岸 ft. 鯨魚](podcast-ep005)
+* [EP7 蘇聯陰魂不散，即便到天涯海角仍與你相伴！ 斯瓦巴-巴倫支堡、克里米亞 ft. 鯨魚](podcast-ep007)
+
+### 旅行熱炒店相關圖表
+
+<img src="https://imgur.com/BFJA8ngl.jpg" style="width: 300px">
+[俄羅斯與他的快樂夥伴們，那些傻傻分不清楚的東方/共產陣營組織](https://ltsoj.com/map/eastern-bloc)
+
+<img src="https://imgur.com/rwPR46Hl.jpg" style="width: 300px">
+[從波羅的海、黑海到亞得里亞海都略懂：斯拉夫語族](https://ltsoj.com/map/slavic)
+
+<img src="https://imgur.com/Dd2T18dl.jpg" style="width: 300px">
+[「不顧基輔反對」從烏克蘭獨立的兩小國：盧甘斯克、頓內次克](https://ltsoj.com/map/east-ukraine)
+
+<img src="https://imgur.com/YH3tQnfl.jpg" style="width: 300px">
+[克里米亞半島](https://ltsoj.com/map/crimea)
+
+<img src="https://imgur.com/I2CxNiLl.jpg" style="width: 300px">
+[德涅斯特河沿岸（德左）](https://ltsoj.com/map/transnistria)
+
 ## 製作者
 
 本頁面由旅行熱炒店主廚Jerome獨立自行製作，若有資訊不全之處，或是想補充更多資源，非常歡迎隨時以email與我聯絡 travel.wok@ltsoj.com 。
