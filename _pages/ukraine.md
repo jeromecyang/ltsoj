@@ -33,16 +33,22 @@ date: 2022-02-26
 
 ## 如何盡一份心力
 
-### 捐款
+<i style="color: red">以下列表僅參考各方提供之捐款對象，若要捐款請務必自行確認該機構的性質與款項運用方式，自行判斷之後再行動。</i>
+
+### 捐款（人道救援）
 
 * [UN Crisis Relief](https://crisisrelief.un.org/t/ukraine)：聯合國危機救援，烏克蘭人道救援基金。
-* [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)：直接捐款到烏克蘭國家銀行。
-* [Ukraine Ministry of Defence](https://www.mil.gov.ua/en/donate.html)：直接捐款烏克蘭國防部。
-* [Catholic Relief Services](https://support.crs.org/donate/donate-ukraine)：天主教救援機構，援助烏克蘭當地需要協助的家庭。
+援助烏克蘭當地需要協助的家庭。
+* [Catholic Relief Services](https://support.crs.org/donate/donate-ukraine)：天主教救援機構，
 * [Nova Ukraine](https://novaukraine.org/)：提供人道援助給烏克蘭境內脆弱群體或個人的非營利組織。
-* [Come Back Alive](https://savelife.in.ua/en/donate/): 提供烏克蘭軍物資與技術支援。
 * [Voices of Children](https://voices.org.ua/en/donat/): Support Ukrainian children who suffer from the trauma of war.
 * [Red Cross](https://www.icrc.org/en/donate/ukraine)
+
+### 捐款（烏克蘭政府或軍方）
+
+* [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)：直接捐款到烏克蘭國家銀行。
+* [Ukraine Ministry of Defence](https://www.mil.gov.ua/en/donate.html)：直接捐款烏克蘭國防部。
+* [Come Back Alive](https://savelife.in.ua/en/donate/): 提供烏克蘭軍物資與技術支援。
 * [United Help Ukraine](https://unitedhelpukraine.org/)：提供醫療支援給受傷的軍人並支持寡婦。
 * [Razom Inc](https://razomforukraine.org/)：強化烏克蘭社群參與。
 * [SGURTOVANI](https://www.betterplace.me/verteidigungsausruestung-fuer-die-ukraine)：立即購買當地急需之器材並且運送到當地。
