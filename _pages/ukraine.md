@@ -24,7 +24,7 @@ date: 2022-02-26
 ### 英文
 
 * [紐約時報 New York Times](https://www.theguardian.com/world/2022/feb/25/russias-war-in-ukraine-complete-guide-in-maps-video-and-pictures)
-* [美國有線電視新聞網 CNN](cnn.com/europe/live-news/ukraine-russia-news-02-25-22-intl)
+* [美國有線電視新聞網 CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-26-22)
 * [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/25/russia-invades-ukraine-declares-war-latest-news-live-updates-russian-invasion-vladimir-putin-explosions-bombing-kyiv-kharkiv)
 
 ### 專業深度分析
@@ -47,18 +47,21 @@ date: 2022-02-26
 * [Razom Inc](https://razomforukraine.org/)：強化烏克蘭社群參與。
 * [SGURTOVANI](https://www.betterplace.me/verteidigungsausruestung-fuer-die-ukraine)：立即購買當地急需之器材並且運送到當地。
 
-## 集會遊行
+### 集會遊行
 
 * [Stop Putin](https://www.stopputin.net/)：世界各地抗議俄羅斯入侵烏克蘭集會活動列表。
 * 建議在自己所在地刷Twitter，會更容易發現正在進行中的集會活動！
 
-## 衝突脈絡討論
-
-* [旅行熱炒店：很久很久以前，那些烏俄戰爭開打之前發生的事](https://ltsoj.com/podcast-sp003) （Podcast）
-* [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
-* [麻瓜的語言學：烏克蘭語和俄羅斯語是不是同一個語言？](https://www.facebook.com/uegugu/posts/5657439294283280)
-
 ## 重要動態編譯
+
+### 至 2/26 5:30 GMT 為止
+
+![](https://dynaimage.cdn.cnn.com/cnn/digital-images/org/e603393b-6628-45ef-a792-42b4c3dddd2b.png)
+*截至2月25日17:00 GMT為止俄羅斯已經佔領的範圍。圖片來源：[CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-26-22/index.html)。*
+
+* 俄軍已經逼近基輔市區，距離總統府可能只剩幾公里距離。
+* 基輔整個夜晚都可聽到爆炸聲，總統澤倫斯基表示會繼續堅守基輔。
+* 聯合國安理會投票通過譴責俄羅斯入侵烏克蘭，其中中國、印度與阿聯在投票中棄權。
 
 ### 至 2/25 17:00 GMT 為止
 
@@ -67,6 +70,12 @@ date: 2022-02-26
 * 大量烏克蘭居民跨越邊界進入波蘭
 * 歐洲歌唱大賽(Eurovision)宣佈禁止俄羅斯參賽
 * 土耳其表示因為蒙特勒公約(Montreux Convention)協定，無法禁止俄羅斯軍艦通過博斯普魯斯海峽進入黑海
+
+## 衝突脈絡討論
+
+* [旅行熱炒店：很久很久以前，那些烏俄戰爭開打之前發生的事](podcast-sp003) （Podcast）
+* [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
+* [麻瓜的語言學：烏克蘭語和俄羅斯語是不是同一個語言？](https://www.facebook.com/uegugu/posts/5657439294283280)
 
 ## 製作者
 
