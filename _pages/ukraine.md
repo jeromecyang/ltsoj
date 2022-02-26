@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 旅行熱炒店烏克蘭專區
+title: 烏克蘭專區
 date: 2022-02-26
 ---
 ![](https://cdn.cnn.com/cnnnext/dam/assets/220225191516-09-ukraine-us-protests.jpg)
