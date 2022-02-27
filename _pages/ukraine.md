@@ -24,9 +24,9 @@ date: 2022-02-26
 
 ### 英文
 
-* [紐約時報 New York Times](https://www.theguardian.com/world/2022/feb/25/russias-war-in-ukraine-complete-guide-in-maps-video-and-pictures)
+* [紐約時報 New York Times](https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war)
 * [美國有線電視新聞網 CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-26-22)
-* [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/25/russia-invades-ukraine-declares-war-latest-news-live-updates-russian-invasion-vladimir-putin-explosions-bombing-kyiv-kharkiv)
+* [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/27/russia-ukraine-latest-news-missile-strikes-on-oil-facilities-reported-as-some-russian-banks-cut-off-from-swift-system-live)
 
 ## 深度分析
 
