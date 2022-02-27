@@ -27,8 +27,9 @@ date: 2022-02-26
 * [美國有線電視新聞網 CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-26-22)
 * [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/25/russia-invades-ukraine-declares-war-latest-news-live-updates-russian-invasion-vladimir-putin-explosions-bombing-kyiv-kharkiv)
 
-### 專業深度分析
+## 深度分析
 
+* [報導者：飛彈與坦克進逼，5位烏克蘭青年的求援、見證和反抗：「任何人都無法動搖我們對自由的珍愛」](https://www.twreporter.org/a/russia-ukraine-war-2022-youth-voice)
 * [Institute for the Study of War](https://www.understandingwar.org/)
 
 ## 如何盡一份心力
@@ -39,6 +40,7 @@ date: 2022-02-26
 
 * [UN Crisis Relief](https://crisisrelief.un.org/t/ukraine)：聯合國危機救援，烏克蘭人道救援基金。
 援助烏克蘭當地需要協助的家庭。
+* [GlobalGiving Ukraine Crisis Relief Fund](https://www.globalgiving.org/projects/ukraine-crisis-relief-fund/)：烏克蘭以及附近難民收容地區人道救援。
 * [Catholic Relief Services](https://support.crs.org/donate/donate-ukraine)：天主教救援機構，
 * [Nova Ukraine](https://novaukraine.org/)：提供人道援助給烏克蘭境內脆弱群體或個人的非營利組織。
 * [Voices of Children](https://voices.org.ua/en/donat/): Support Ukrainian children who suffer from the trauma of war.
@@ -59,6 +61,12 @@ date: 2022-02-26
 * 建議在自己所在地刷Twitter，會更容易發現正在進行中的集會活動！
 
 ## 重要動態編譯
+
+### 至 2/27 2:00 GMT 為止
+
+* 歐盟多國與美國決定將部分俄羅斯銀行逐出SWIFT（環球銀行金融電信協會），將使得這些銀行無法進行國際交易。
+* 美國軍方人士認為，俄軍推進的速度低於預期，有可能至今仍未控制任何一座主要城市，顯示或許烏克蘭方防守力比預計的強，而俄羅斯在補給上越來越困難。
+* 多達12萬烏克蘭難民已經離境，聯合國估計最後可能會有多達400萬的烏克蘭難民。
 
 ### 至 2/26 5:30 GMT 為止
 
@@ -81,7 +89,11 @@ date: 2022-02-26
 
 * [旅行熱炒店：很久很久以前，那些烏俄戰爭開打之前發生的事](podcast-sp003) （Podcast）
 * [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
+* [端傳媒：獨立廿八年、兩度革命，烏克蘭還在問：我是誰？](https://theinitium.com/article/20190402-international-ukraine-identity-building/)
+* [美國台灣觀測站：美國為什麼不出兵？](https://www.facebook.com/ustaiwanwatch/posts/1938707679646527)
+* [美國台灣觀測站：台灣該怎麼看？](https://www.facebook.com/ustaiwanwatch/posts/1937674573083171)
 * [麻瓜的語言學：烏克蘭語和俄羅斯語是不是同一個語言？](https://www.facebook.com/uegugu/posts/5657439294283280)
+* [無國界譯師談烏克蘭的俄語政策](https://www.facebook.com/yianlanguage/posts/477458123838939)
 
 ### 旅行熱炒店相關集數
 
