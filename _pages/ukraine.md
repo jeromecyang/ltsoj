@@ -19,7 +19,8 @@ date: 2022-02-26
 ### 中文
 
 * [端傳媒](https://theinitium.com/article/20220224-whatsnew-ukraine-russia-war) <span style="color: red"><- 更新最快的中文頁面</span>
-* [轉角國際](https://global.udn.com/global_vision/) （非動態更新，但隨時有新文章刊出）
+* [轉角國際](https://global.udn.com/global_vision/) <span style="color: red"><- 非動態更新，但隨時有新文章刊出</span>
+* [g0v 俄羅斯入侵烏克蘭資訊野生整合平台 2022.2-](https://g0v.hackmd.io/@chihao/ukraine/) <span style="color: red"><- 台灣網友在零時政府g0v上建立的資訊整合頁面</span>
 
 ### 英文
 
@@ -34,17 +35,17 @@ date: 2022-02-26
 
 ## 如何盡一份心力
 
-<i style="color: red">以下列表僅參考各方提供之捐款對象，若要捐款請務必自行確認該機構的性質與款項運用方式，自行判斷之後再行動。</i>
+<i style="color: red">以下列表僅參考各方提供之捐款對象，若要捐款請務必確認該機構的性質與款項運用方式，判斷之後再行動。</i>
 
 ### 捐款（人道救援）
 
 * [UN Crisis Relief](https://crisisrelief.un.org/t/ukraine)：聯合國危機救援，烏克蘭人道救援基金。
-援助烏克蘭當地需要協助的家庭。
 * [GlobalGiving Ukraine Crisis Relief Fund](https://www.globalgiving.org/projects/ukraine-crisis-relief-fund/)：烏克蘭以及附近難民收容地區人道救援。
-* [Catholic Relief Services](https://support.crs.org/donate/donate-ukraine)：天主教救援機構，
+* [Catholic Relief Services](https://support.crs.org/donate/donate-ukraine)：天主教救援機構，援助烏克蘭當地需要協助的家庭。
 * [Nova Ukraine](https://novaukraine.org/)：提供人道援助給烏克蘭境內脆弱群體或個人的非營利組織。
-* [Voices of Children](https://voices.org.ua/en/donat/): Support Ukrainian children who suffer from the trauma of war.
-* [Red Cross](https://www.icrc.org/en/donate/ukraine)
+* [Voices of Children](https://voices.org.ua/en/donat/)：支持戰爭中遭受創傷的兒童。
+* [Red Cross](https://www.icrc.org/en/donate/ukraine)：紅十字會，預計提供300萬人乾淨的用水並援助66000位住所受損的災民。
+* [Razom Inc](https://razomforukraine.org/)：強化烏克蘭社群參與。
 
 ### 捐款（烏克蘭政府或軍方）
 
@@ -52,7 +53,6 @@ date: 2022-02-26
 * [Ukraine Ministry of Defence](https://www.mil.gov.ua/en/donate.html)：直接捐款烏克蘭國防部。
 * [Come Back Alive](https://savelife.in.ua/en/donate/): 提供烏克蘭軍物資與技術支援。
 * [United Help Ukraine](https://unitedhelpukraine.org/)：提供醫療支援給受傷的軍人並支持寡婦。
-* [Razom Inc](https://razomforukraine.org/)：強化烏克蘭社群參與。
 * [SGURTOVANI](https://www.betterplace.me/verteidigungsausruestung-fuer-die-ukraine)：立即購買當地急需之器材並且運送到當地。
 
 ### 集會遊行
