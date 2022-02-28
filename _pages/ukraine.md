@@ -24,9 +24,9 @@ date: 2022-02-26
 
 ### 英文
 
-* [紐約時報 New York Times](https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war)
-* [美國有線電視新聞網 CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-26-22)
-* [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/27/russia-ukraine-latest-news-missile-strikes-on-oil-facilities-reported-as-some-russian-banks-cut-off-from-swift-system-live)
+* [紐約時報 New York Times](https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war)
+* [美國有線電視新聞網 CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-28-22)
+* [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/28/russia-ukraine-war-latest-news-update-conflict-belarus-putin-nuclear-deterrence-order-kyiv-russian-invasion-live-updates)
 
 ## 深度分析
 
@@ -61,6 +61,12 @@ date: 2022-02-26
 * 建議在自己所在地刷Twitter，會更容易發現正在進行中的集會活動！
 
 ## 重要動態編譯
+
+### 至 2/28 6:30 GMT 為止
+
+* 烏克蘭與俄羅斯雙方代表將於今（2/28）日於白羅斯邊界對談，烏克蘭駐美大使日前表示「我們準備好要對談，但我們並沒有準備要投降」。
+* 過去兩天俄羅斯佔領區域並未明顯擴大；俄羅斯宣布將核子武器置於備戰狀態。
+* 聯合國估計已有超過36萬烏克蘭居民離境，其中20萬前往波蘭。
 
 ### 至 2/27 2:00 GMT 為止
 
