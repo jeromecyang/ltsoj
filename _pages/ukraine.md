@@ -34,7 +34,7 @@ date: 2022-02-26
 * [GlobalGiving Ukraine Crisis Relief Fund](https://www.globalgiving.org/projects/ukraine-crisis-relief-fund/)
 * [CARE.org](https://my.care.org/site/Donation2?df_id=31067)
 
-其他可參考[Support Ukraine Now]](https://supportukrainenow.org/refuge-for-ukrainians)（民間協作、烏克蘭官方支持的總整理），或自行上網搜尋。
+其他可參考[Support Ukraine Now](https://supportukrainenow.org/refuge-for-ukrainians)（民間協作、烏克蘭官方支持的總整理），或自行上網搜尋。
 
 ### 了解更多
 
