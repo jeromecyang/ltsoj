@@ -3,10 +3,43 @@ layout: post
 title: 烏克蘭專區
 date: 2022-02-26
 ---
-![](https://cdn.cnn.com/cnnnext/dam/assets/220225191516-09-ukraine-us-protests.jpg)
-*2月24日美國加州沙加緬度，加州州政府前，一位祭司帶領斯拉夫聚集者祈禱。圖片來源：[Rahul Lal/Sipa USA/Reuters](https://www.cnn.com/2022/02/25/us/gallery/ukraine-us-protests/index.html)*
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1176F/production/_123453517_gettyimages-1373101584-594x594.jpg)
+*圖片來源：[BBC](https://www.bbc.com/news/world-60555472)*
 
-<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！以提供資源連結與簡略動態整理為主，最新消息建議參考各大新聞來源。</i>
+<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。</i>
+
+## 難民概況
+
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/289C/production/_123469301_ukraine_refugee_borders_v2-2x-nc.png)
+*圖片來源：[BBC](https://www.bbc.com/news/world-60555472)*
+
+* 接受烏克蘭難民的國家中，許多本身經濟狀況也不好，雖然大多數對於難民抱持友善態度，但非常需要資源與經濟支援。相鄰的難民接收國家為：🇵🇱 波蘭、🇸🇰 斯洛伐克、🇭🇺 匈牙利、🇷🇴 羅馬尼亞、🇲🇩 摩爾多瓦。
+* 有些邊界的等待時間非常漫長，例如波蘭邊界等待時間可能長達60小時，羅馬尼亞、摩爾多瓦邊界的等待時間也可能長達20小時以上。許多難民放棄車輛改用步行方式入境，但當地目前氣溫極低。
+* 部分難民為非烏克蘭籍的第三國人士，在移動過程中有可能遭受歧視或者相對缺乏支持，有些政府與機構已經開始介入，確保第三國難民也能接受平等的待遇。
+* 烏克蘭境內仍有許多因為戰事而流離失所者，但防禦工事使得國內部分地區的交通變得更加困難，當地目前許多人靠著Telegram群組交換逃難相關訊息。
+* 羅馬尼亞的熱心網友建立了 [refugees.ro](https://refugees.ro/) 地圖平台，將境內可支持難民的資源整合在一起，目前站上已經列出了多達2000多項的資源。
+
+## 如何支持難民
+
+### 提供住宿或其他支援
+
+* [Support Ukraine Now](https://supportukrainenow.org/refuge-for-ukrainians)：歐洲各國的難民住宿資源列表，可以看看在各國能如何接待難民。
+* [Airbnb.org](https://www.airbnb.org/help-ukraine)：在Airbnb上申請成為住宿提供者。
+* [refugee.ro](https://refugees.ro/)：登錄可以提供的資源（以羅馬尼亞為主）。
+
+### 捐款給能夠直接支持難民的單位
+
+* [聯合國難民署](https://donate.unhcr.org/int/en/ukraine-emergency)
+* [國際難民救援組織](https://help.rescue.org/donate/ukraine-acq)
+* [GlobalGiving Ukraine Crisis Relief Fund](https://www.globalgiving.org/projects/ukraine-crisis-relief-fund/)
+* [CARE.org](https://my.care.org/site/Donation2?df_id=31067)
+
+其他可參考[Support Ukraine Now]](https://supportukrainenow.org/refuge-for-ukrainians)（民間協作、烏克蘭官方支持的總整理），或自行上網搜尋。
+
+### 了解更多
+
+* [聯合國難民署3/1的簡報](https://www.unhcr.org/en-us/news/briefing/2022/3/621deda74/unhcr-mobilizing-aid-forcibly-displaced-ukraine-neighbouring-countries.html)
+* [英國國家廣播BBC針對難民目前概況作的整理](https://www.bbc.com/news/world-60555472)
 
 ## 推薦資訊圖表
 
@@ -85,9 +118,6 @@ date: 2022-02-26
 * 多達12萬烏克蘭難民已經離境，聯合國估計最後可能會有多達400萬的烏克蘭難民。
 
 ### 至 2/26 5:30 GMT 為止
-
-![](https://dynaimage.cdn.cnn.com/cnn/digital-images/org/e603393b-6628-45ef-a792-42b4c3dddd2b.png)
-*截至2月25日17:00 GMT為止俄羅斯已經佔領的範圍。圖片來源：[CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-26-22/index.html)。*
 
 * 俄軍已經逼近基輔市區，距離總統府可能只剩幾公里距離。
 * 基輔整個夜晚都可聽到爆炸聲，總統澤倫斯基表示會繼續堅守基輔。
