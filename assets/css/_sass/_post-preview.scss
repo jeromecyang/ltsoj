@@ -30,30 +30,32 @@
     max-width: 320px;
   }
 
+  h3 {
+    color: inherit;
+    margin: 0.5rem 0 0;
+    text-align: center;
+  }
+
   .subtitle {
-    color: #555;
-    font-size: 18px;
-    margin-bottom: 8px;
+    color: $title-color;
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
     text-align: center;
   }
 
   .date {
-    color: #555;
-    font-size: 14px;
-    margin-bottom: 4px;
+    color: $title-color;
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
     text-align: center;
   }
 
   .excerpt {
-    color: #555;
-    font-size: 14px;
+    color: $title-color;
+    font-size: 0.9rem;
   }
 
   a {
     text-decoration: none;
-  }
-
-  h2 {
-    text-align: center;
   }
 }

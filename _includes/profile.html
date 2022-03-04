@@ -1,7 +1,7 @@
 <div class="guests">
   <div class="avatar" style="background-image: url({{ guest.image | default: 'https://image.flaticon.com/icons/png/512/847/847969.png' }})"></div>
-  <h1 style="text-align: center">{{ guest.title }}</h1>
-  <h2 style="text-align: center">{{ guest.subtitle }}</h2>
+  <h2 style="text-align: center">{{ guest.title }}</h2>
+  <h3 style="text-align: center">{{ guest.subtitle }}</h3>
   <div class="social-media">
     {% if guest.website %}
     <a href="{{ guest.website }}"><div><img src="https://image.flaticon.com/icons/png/512/1231/1231223.png" alt="Website"></div></a>
