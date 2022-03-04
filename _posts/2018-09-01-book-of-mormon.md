@@ -3,7 +3,7 @@ date: 2018-09-01 01:26:00+00:00
 layout: post
 title: “The Book of Mormon” musical, a comic conversation between Broadway and religions
   百老匯和宗教的搞笑對話：音樂劇《摩爾門經》
-excerpt: 前幾天終於去看了近期在波士頓巡演的當紅音樂劇《摩爾門經》（The Book of Mormon）。我個人覺得，這部劇就其劇本、音樂、表演而言都是上乘之作，是一齣精彩到會讓人看了大呼過癮的作品，製作班底和《南方四賤客》（South Park）是同一群人，劇情的主軸基本上就是拿「耶穌基督後期聖徒教會」（The Church of Jesus Christ of Latter-day Saints，一般習慣稱為摩門教）的來開玩笑。一起去看的朋友知道我的基督教信仰，出來時還特別問我，你會有被冒犯到的感覺嗎？
+excerpt: 前幾天終於去看了近期在波士頓巡演的當紅音樂劇《摩爾門經》（The Book of Mormon）。我個人覺得，這部劇就其劇本、音樂、表演而言都是上乘之作，是一齣精彩到會讓人看了大呼過癮的作品。
 tags:
 - Boston
 - Cross-Culture
@@ -16,14 +16,9 @@ image: https://bookofmormonbroadway.com/images/gallery/DaveThomasBrownasElder%20
 Finally saw the popular Broadway show “The Book of Mormon” few days ago! IMO, its story, music and performance are all outstanding. It impressed and entertained me more than any other show I saw recently. Made by the South Park gang, this musical basically makes fun of the Church of Jesus Christ of Latter-day Saints, commonly known as the Mormons. A friend who went with me knew my Christian faith, and asked me after the show, are you offended?
 
 前幾天終於去看了近期在波士頓巡演的當紅音樂劇《摩爾門經》（The Book of Mormon）。我個人覺得，這部劇就其劇本、音樂、表演而言都是上乘之作，是一齣精彩到會讓人看了大呼過癮的作品，製作班底和《南方四賤客》（South Park）是同一群人，劇情的主軸基本上就是拿「耶穌基督後期聖徒教會」（The Church of Jesus Christ of Latter-day Saints，一般習慣稱為摩門教）的來開玩笑。一起去看的朋友知道我的基督教信仰，出來時還特別問我，你會有被冒犯到的感覺嗎？
+
 ![](https://bookofmormonbroadway.com/images/gallery/second-national-tour-cast-b.jpg)
-**
 
-
-</td>
-</tr>
-</tbody>
-</table>
 My answer is, not at all! Indeed I wouldn’t say all the jokes and satires are enjoyable, but that’s probably because I’ve rarely seen shows in this genre. Instead of being offended, my understanding about religions actually helped me see some very interesting points in the show. And I also found that Broadway musicals are probably not that far from religions. In this post, I’d like to share 3 songs that I found interesting, and some thought on each of them.
 
 老實說我完全不覺得有被冒犯到，反而因為信仰背景而注意到一些有趣的小地方；一部份的玩笑和性暗示的確讓我覺得怪怪的，不過那應該只是因為我平時很少接觸這類型的作品，不太習慣所致。以下簡單分享其中令我印象深刻的3首歌曲。
@@ -35,17 +30,16 @@ My answer is, not at all! Indeed I wouldn’t say all the jokes and satires are 
 （這裡稍微說明一下——摩門教的教義和所有派別的基督教都不相容，基本上是一個完全不同的宗教；不過由於他們的經典仍然包括聖經正典，因此這部戲還是有稍微惡搞到一點聖經的內容。我想這是為什麼友人會特別問我是否有被冒犯到的感覺。）
 
 （警告：下面有微量劇情雷，但不會提到劇情如何發展，還未看過劇者仍可安心服用；另外，有少量兒童不宜議題，特此提醒。）
+
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/18de4-20150723_103032.jpg)
 *The Mormon Temple in Salt Lake City, UT, where the headquarters of the Latter-Day Saints Church are located.*
 
-
-
-### 1. “Hasa Diga Eebowai” - a expression of “truth” in human heart 說出真心話的大冒險
-
+## 1. “Hasa Diga Eebowai” - a expression of “truth” in human heart 說出真心話的大冒險
 
 The story is about two young Mormon missionaries who are sent from Salt Lake City to Uganda unexpectedly. After arrival, they find out that the locals are not interested in the gospel as the answer to difficulties in life; instead, in these difficulties, they always sing an energetic and moving local tune “Hasa Diga Eebowai”. The missionaries find it pleasant to join their singing and dancing, until they are surprised by the meaning of the words: “F*** you, God!”
 
 本劇的故事主線是兩位摩門傳教士到非洲傳教。在那裡，他們聽到當地人每次碰到困難時就會唱的一首歌，《Hasa Diga Eebowai》，配上舞蹈有著非洲獨特的律動感，兩人也在歡愉的氣氛裡加入一同唱和，直到他們發現這句話的意思是：「F*** You, God!」。身為一個對語言學小有興趣的人，看完之後我第一個想問的問題是，這是哪個語言呀？是史瓦希利語（Swahili）嗎？（同樣以非洲為背景的迪士尼動畫《獅子王》就有使用一些史瓦希利語的名字。）結果回家一查發現——這句話其實是編劇自己亂掰的，世界上並不存在這種語言，是我自己太認真啦XD。
+
 ![](https://bookofmormonbroadway.com/images/gallery/1st-ntnl-tour-a.jpg)
 *(Source: https://bookofmormonbroadway.com/)*
 
@@ -59,21 +53,14 @@ Although I personally would not say the f-word to God (just like I won’t do so
 
 而且老實說，當那些演員們一次又一次反覆地唱著「Hasa Diga Eebowai」，到最後你會覺得，原本的f-word早就從他們的表情中消失了，取而代之的是把怨氣吐光之後的暢快感。能夠如此灑脫地看待問題，承認這一切是上帝的安排，這種態度還蠻值得學習的。
 
-
-### 2. “Baptize Me” - the connection between sacrament and sex 聖禮與性的連結
-
+## 2. “Baptize Me” - the connection between sacrament and sex 聖禮與性的連結
 
 This is another song that made people laugh out loud, and probably due to the same reason -- it again ridicules religious traditions. In this song, baptism is expressed with lyrics and actions full of sex implications. I could understand why this seemed hilarious to the audience -- sex, probably the most secular, irreligious and even “sinful” thing, was employed to describe the sacred ritual baptism! This huge contrast can be really entertaining. However, if you really feel this way, then it’s probably worth for you to open the bible and read it carefully.
 
 《Baptize Me》是另一首引發全場大笑的歌曲，故意用了各種充滿性暗示的語言和動作來表現洗禮（baptism）。同樣的，我猜大多數美國觀眾會喜歡這個哏，大概也是因為他們覺得宗教權威被挑戰了——一個看起來最世俗、不堪入目的行為被用來描述基督教裡的一項神聖禮儀，那種巨大反差和黑色幽默很難讓人不興奮吧。
+
 ![](https://bookofmormonbroadway.com/images/gallery/candace-quarrels_cody-jamison-strand.jpg)
-**
 
-
-</td>
-</tr>
-</tbody>
-</table>
 Throughout the bible, sex itself is never considered a secular, irreligious or sinful thing; instead, several passages encourage people to enjoy the pleasure of sex -- but of course, in a marriage. And not only that -- very few people know that in church history, sacrament has been connected to sex for centuries.
 
 There are seven sacraments in Catholicism: Baptism, Confirmation, Eucharist, Ordination, Penance and Reconciliation, Anointing of the Sick, and Matrimony. The purpose of a sacrament is to let a believer receive grace and be sanctified. Each sacrament is marked by a particular “sign”, and needs to be carried out by specific executors. In the sacrament of matrimony (aka marriage), the sign is exactly sex intercourse, and the executors are the married couple. According to this view, if a married couple have no sex, their marriage is not valid, and they fail to execute the sacrament. They would consequently miss the benefits of this sacrament: to unite fully with the other person (and with God), and to be able to create new life like God.
@@ -86,13 +73,12 @@ A couple of things are worth noting here. First, the view above is held by the C
 
 這裡有兩件事情值得補充說明：第一，上述聖禮的規定與目的是天主教的觀點，基督教（新教）只承認洗禮與聖餐兩項，並且認為聖禮只是外在象徵，沒有讓人神聖化的功能；第二，婚禮原本並不是聖禮，是在西元1184年的維洛那議會（Council of Verona，聽說現在是一款桌遊的名稱XD）才被宣告為聖禮。但無論如何，性關係和聖禮在教會歷史上本來就一直都有所關聯，《摩門爾經》的編劇們想出的哏其實晚了好幾個世紀，人家教廷早在中世紀的時候就已經開始用啦。
 
-
-### 3. “I Believe” - the Mormon creed 摩門教的信仰宣言
-
+## 3. “I Believe” - the Mormon creed 摩門教的信仰宣言
 
 Performed on the 2011 Tony Award stage, “I Believe” is probably the most known number in The Book of Mormon. In this song, one of the leading characters genuinely articulate his faith: “I believe that the Lord God created the universe; I believe that he sent his only son to die for my sins; and I believe that ancient Jews built boats and sailed to America...” As he gains more and more passion, the lyrics also become more and more silly. Some commenters noticed that the repetitive “I believe...” phrases actually mimic a special form of literature in Christian church history: the creed.
 
 喜劇幽默的最高境界之一就是一本正經的搞笑，劇中歌曲《I believe》把這個精神發揚得淋漓盡致。這是首其中一位主角的獨唱曲，無論在曲調和歌詞上都帶有教會音樂的色彩，主角慷慨激昂的唱著「我相信上帝創造了宇宙、我相信祂差派他的獨生子來為我的罪而死、我也相信古代的猶太人建造了船隻並且航行到美洲大陸⋯⋯」，隨著情緒越來越高漲，歌詞的內容也越來越光怪陸離，但這首歌的幽默之處不僅在於此；有些評論者注意到，這首歌的歌詞寫作方式，也就是「我相信⋯⋯」這樣的句子結構，很像是在刻意模仿教會歷史上存在的一種文體：信經（creed）。
+
 ![](https://bookofmormonbroadway.com/images/gallery/ryan-bondy_david-aron-damane.jpg)
 *(Source: https://bookofmormonbroadway.com/)*
 
@@ -104,41 +90,15 @@ A creed, or a statement of faith, is the expression of one’s faith. It was ori
 
 貫穿全曲的一個概念是「不要懷疑，信就對了」，我不太確定這是不是面對信仰最好的態度——我認為一件事情如果是真實的，那就應該是禁得起懷疑和檢驗的，其真實性不會因為人的懷疑而打折扣。此外頗有意思的是，雖然目的是嘲笑摩門教、也的確讓觀眾聽了從頭笑到尾，《I Believe》這首歌卻幾乎涵蓋了摩門教的所有核心信仰內容，據說這讓一些摩門教觀眾看了之後不但不覺得被冒犯，反而格外有親切感。
 
-
-### Recommended or not? 私心推薦程度
-
+## Recommended or not? 私心推薦程度
 
 Overall I think The Book of Mormon is an outstanding musical, whether in terms of its music, story or performance. While entertaining the audience, it also throws some good questions on them -- what is faith? What is true friendship? What gives people hope? It is essentially a satire on Mormonism, but one written after carefully studying the religion and missionaries. It is a well-facilitated dialogue between Broadway and religions. I strongly recommend it, although NOT to the following 4 groups of people: (1) children; (2) those who cannot tolerate blue jokes; (3) those who don’t want to see how the bible is mocked; (4) those who don’t want to know anything about the Mormons.
 
 以音樂劇的角度來說，《摩門爾經》在音樂、劇情和表演三方面都相當傑出，雖然基調是惡搞，但在創作過程中對於摩門教有非常深入的考察，而且搞笑之餘仍然給予觀眾一些空間去思考信仰、友情、希望等議題，個人非常非常推薦——不過，對於以下幾種人我暫時不推薦：
 
-
-
- 	
-  1. 兒童
-
- 	
-  2. 不喜歡低級笑點的人
-
- 	
-  3. 無法接受聖經內容被拿來惡搞的人（劇中主要被惡搞的對象是摩門爾經而非聖經）
-
- 	
-  4. 對於摩門教覺得感冒、不願意有任何一點接觸的人
-
+1. 兒童
+2. 不喜歡低級笑點的人
+3. 無法接受聖經內容被拿來惡搞的人（劇中主要被惡搞的對象是摩門爾經而非聖經）
+4. 對於摩門教覺得感冒、不願意有任何一點接觸的人
 
 ![](https://bookofmormonbroadway.com/images/gallery/nic-rouleau.jpg)
-**
-
-
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
