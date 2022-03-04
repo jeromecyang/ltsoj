@@ -28,7 +28,7 @@ defaults:
     scope:
       type: "pages"
     values:
-      layout: "post-simple"
+      layout: "post"
   -
     scope:
       type: "episodes"
@@ -43,7 +43,7 @@ defaults:
     scope:
       type: "maps"
     values:
-      layout: "post-simple"
+      layout: "map"
 
 collections:
   episodes:

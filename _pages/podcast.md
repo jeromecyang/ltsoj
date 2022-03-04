@@ -1,30 +1,30 @@
 ---
-layout: wide
+layout: post
 title: 關於旅行熱炒店PODCAST
 ---
 
-![](https://image.flaticon.com/icons/png/512/854/854878.png)
+<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/854/854878.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 以旅行為主軸的輕知識PODCAST
 
 雖然主題是旅行，內容卻不只是旅行！我們重視一個地方的歷史、地理、語言、文化脈絡，旅行之餘也分享知識與觀點，並且搭配圖表與補充資料，讓聽眾輕易了解一個地方的過去與現在。
 
-![](https://image.flaticon.com/icons/png/512/2937/2937833.png)
+<img class="flaticon" src="https://image.flaticon.com/icons/png/512/2937/2937833.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 堅持分享本質，不以流量或商業為導向
 
 這個節目不以商業為目的，我們只想把背包客們自在分享的氛圍帶到節目上來，就像在青年旅社的客廳裡一樣。因此，在這裡你會聽到許多平凡旅人的分享，了解他們如何用自己的方式在世界各地走跳著！
 
-![](https://image.flaticon.com/icons/png/512/1974/1974119.png)
+<img class="flaticon" src="https://image.flaticon.com/icons/png/512/1974/1974119.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 一起發現旅行的更多可能性
 
 世界比我們想像的更大，冷門路線、深度報導、觀點探討都是我們歡迎的內容。旅行沒有公式，藉由認識不熟悉的地方，我們持續擴大對於「旅行」的想像，一起尋找生活的更多可能性！
 
-![](https://image.flaticon.com/icons/png/512/2946/2946176.png)
+<img class="flaticon" src="https://image.flaticon.com/icons/png/512/2946/2946176.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 使用技術
@@ -34,7 +34,7 @@ title: 關於旅行熱炒店PODCAST
 * 利用[Github Pages](https://pages.github.com/)放置[RSS feed](https://ltsoj.com/podcast.xml)與音檔，並未使用任何hosting平台。
 * 以Chartable監測收聽表現。
 
-![](https://imgur.com/v9mlLpa.jpg)
+<img class="flaticon" src="https://imgur.com/v9mlLpa.jpg">
 
 ## 製作/主持人： Jerome Yang
 

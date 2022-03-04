@@ -1,8 +1,12 @@
 .wide {
   >p, >h1, >h2, >h3, >ul, >div.footer-podcast, >div.attribution {
-    max-width: 720px;
-    margin: 20px auto;
+    // max-width: 720px;
+    // margin: 20px auto;
     // text-align: center;
+  }
+
+  h1 {
+    text-align: center;
   }
 
   // >h2 {

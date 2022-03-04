@@ -1,9 +1,6 @@
 ---
 layout: wide
 ---
-
-<h1>{{ page.title }}</h1>
-
 {% assign use_img = true %}
 {% assign posts = site.tags[page.page_tag] %}
 {% assign episodes = site.episodes | where_exp: "item", "item.tags contains page.page_tag" %}
