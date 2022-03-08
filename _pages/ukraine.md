@@ -6,24 +6,40 @@ date: 2022-02-26
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1176F/production/_123453517_gettyimages-1373101584-594x594.jpg)
 *圖片來源：[BBC](https://www.bbc.com/news/world-60555472)*
 
-<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。</i>
+<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。最後更新：台灣時間2022年3月8日10:30。</i>
 
 ## 難民概況
 
-![](https://imgur.com/fWUOtuA.jpg)
+## 1,735,068
 
-* 聯合國統計3/2為止，已有超過100萬人逃離烏克蘭。難民署表示這次有可能成為「本世紀歐洲最大難民危機」，總人數上看400-500萬人。
-* 接受烏克蘭難民的國家中，許多本身經濟狀況也不好，雖然大多數對於難民抱持友善態度，但非常需要資源與經濟支援。
-  * 🇵🇱 波蘭 平均每84人支持一位難民
-  * 🇸🇰 斯洛伐克 平均每81人支持一位難民
-  * 🇭🇺 匈牙利 平均每83人支持一位難民
-  * 🇷🇴 羅馬尼亞 平均每432人支持一位難民
-  * 🇲🇩 摩爾多瓦 平均每33人支持一位難民 <-- 負擔最重的國家，也是這幾國中人均GDP最低者
-  * （以上皆以3/1難民數字計算）
-* 有些邊界的等待時間非常漫長，例如波蘭邊界等待時間可能長達60小時，羅馬尼亞、摩爾多瓦邊界的等待時間也可能長達20小時以上。許多難民放棄車輛改用步行方式入境，但當地目前氣溫極低。
+聯合國統計3月6日為止，已有超過170萬人逃離烏克蘭。難民署表示這次有可能成為「本世紀歐洲最大難民危機」，總人數上看400-500萬人。
+
+![](https://imgur.com/8U0gstF.jpg)
+*截至3月5日止，推估數字為根據3月1日情況推測2022年7月數值*
+
+![](https://imgur.com/fWUOtuA.jpg)
+*截至3月1日止*
+
+|國家|難民人數|總人口數|平均多少人支持一位難民|
+|波蘭 🇵🇱|1,027,603|38,116,000|37|
+|其他歐洲各國 🇪🇺|183,688|-|
+|匈牙利 🇭🇺|180,163|9,689,000|54|
+|斯洛伐克 🇸🇰|128,169|5,452,025|43|
+|摩爾多瓦 🇲🇩|82,762|2,597,100|31|
+|羅馬尼亞 🇷🇴|78,977|19,186,201|243|
+|俄羅斯|53,300 (3/3為止)|-|-|
+|白羅斯|406 (3/4為止)|-|-|
+
+*以上除非另外註明，否則皆為3月6日為止之數據*
+
 * 部分難民為非烏克蘭籍的第三國人士，在移動過程中有可能遭受歧視或者相對缺乏支持，有些政府與機構已經開始介入，確保第三國難民也能接受平等的待遇。
 * 烏克蘭境內仍有許多因為戰事而流離失所者，但防禦工事使得國內部分地區的交通變得更加困難，當地目前許多人靠著Telegram群組交換逃難相關訊息。
-* 羅馬尼亞的熱心網友建立了 [refugees.ro](https://refugees.ro/) 地圖平台，將境內可支持難民的資源整合在一起，目前站上已經列出了多達2000多項的資源。
+* 有些邊界的等待時間非常漫長，例如波蘭邊界等待時間可能長達60小時，羅馬尼亞、摩爾多瓦邊界的等待時間也可能長達20小時以上。許多難民放棄車輛改用步行方式入境，但當地目前氣溫極低。
+
+資料來源：聯合國難民署（UNHCR）
+
+* [統計數據](https://data2.unhcr.org/en/situations/ukraine)
+* [應對計劃](https://data2.unhcr.org/en/documents/details/91114) （3月1日出版）
 
 ## 如何支持難民
 
@@ -48,8 +64,10 @@ date: 2022-02-26
 
 ### 了解更多
 
-* [聯合國難民署3/1的簡報](https://www.unhcr.org/en-us/news/briefing/2022/3/621deda74/unhcr-mobilizing-aid-forcibly-displaced-ukraine-neighbouring-countries.html)
+* [Refugee 101 Taiwan 概況整理](https://www.facebook.com/Refugee-101-Taiwan-104676894801001/posts/104676894801001)
+* [from Syria：「我們比世界上任何人都清楚，烏克蘭現在正在經歷什麼。」—敘利亞女性聲援烏克蘭](https://www.facebook.com/fromsyriatw/posts/3167564573516383)
 * [英國國家廣播BBC針對難民目前概況作的整理](https://www.bbc.com/news/world-60555472)
+* [聯合國難民署3/1的簡報](https://www.unhcr.org/en-us/news/briefing/2022/3/621deda74/unhcr-mobilizing-aid-forcibly-displaced-ukraine-neighbouring-countries.html)
 
 ## 推薦資訊圖表
 
@@ -67,9 +85,9 @@ date: 2022-02-26
 
 ### 英文
 
-* [紐約時報 New York Times](https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war)
-* [美國有線電視新聞網 CNN](https://www.cnn.com/europe/live-news/ukraine-russia-news-02-28-22)
-* [衛報 The Guardian](https://www.theguardian.com/world/live/2022/feb/28/russia-ukraine-war-latest-news-update-conflict-belarus-putin-nuclear-deterrence-order-kyiv-russian-invasion-live-updates)
+* [紐約時報 New York Times](https://www.nytimes.com/)
+* [美國有線電視新聞網 CNN](https://www.cnn.com/)
+* [衛報 The Guardian](https://www.theguardian.com/)
 
 ## 深度分析
 
@@ -143,7 +161,8 @@ date: 2022-02-26
 
 ## 衝突脈絡討論
 
-* [旅行熱炒店：很久很久以前，那些烏俄戰爭開打之前發生的事](podcast-sp003) （Podcast）
+* [旅行熱炒店：SP3 很久很久以前，那些烏俄戰爭開打之前發生的事](podcast-sp003) （Podcast）
+* [旅行熱炒店：SP4 「Slava Ukraini!」「Heroiam slava!」 來自抗議現場的聲音，從烏克蘭民族主義語言變成一場全球運動的口號](podcast-sp004) （Podcast）
 * [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
 * [端傳媒：獨立廿八年、兩度革命，烏克蘭還在問：我是誰？](https://theinitium.com/article/20190402-international-ukraine-identity-building/)
 * [美國台灣觀測站：美國為什麼不出兵？](https://www.facebook.com/ustaiwanwatch/posts/1938707679646527)
