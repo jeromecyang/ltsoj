@@ -6,9 +6,9 @@
   {% assign guest = site.guests | where_exp: "item", "item.id contains guest_name" | first %}
   {{guest.content}}
   {% if guest.website %}<br>網站 <a href="{{guest.website}}">{{guest.website}}</a>{% endif %}
-  {% if guest.facebook %}<br>網站 <a href="{{guest.facebook}}">{{guest.facebook}}</a>{% endif %}
-  {% if guest.instagram %}<br>網站 <a href="{{guest.instagram}}">{{guest.instagram}}</a>{% endif %}
-  {% if guest.youtube %}<br>網站 <a href="{{guest.youtube}}">{{guest.youtube}}</a>{% endif %}
+  {% if guest.facebook %}<br>Facebook <a href="{{guest.facebook}}">{{guest.facebook}}</a>{% endif %}
+  {% if guest.instagram %}<br>Instagram <a href="{{guest.instagram}}">{{guest.instagram}}</a>{% endif %}
+  {% if guest.youtube %}<br>Youtube <a href="{{guest.youtube}}">{{guest.youtube}}</a>{% endif %}
 {% endfor %}
 </p>
 {% endif %}
