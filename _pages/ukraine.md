@@ -10,6 +10,17 @@ date: 2022-02-26
 
 ## 難民概況
 
+<script>
+fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id=54&population_group=5461&forcesublocation=0&fromDate=1900-01-01').then(r => r.json()).then(data => {
+  const rows = data.data.map(({ geomaster_name, individuals, date }) => 
+    `<tr><td>${geomaster_name}</td><td>${Number(individuals).toLocaleString()}</td><td>${date}</td></tr>`
+  );
+  document.getElementById('stats').innerHTML =
+    `<table><tr><td>國家</td><td>人數</td><td>日期</td></tr>${rows}</table>`;
+})
+</script>
+<div id="stats"></div>
+
 ## 1,735,068
 
 聯合國統計3月6日為止，已有超過170萬人逃離烏克蘭。難民署表示這次有可能成為「本世紀歐洲最大難民危機」，總人數上看400-500萬人。
