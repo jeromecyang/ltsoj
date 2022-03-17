@@ -4,16 +4,16 @@
   <h3 style="text-align: center">{{ guest.subtitle }}</h3>
   <div class="social-media">
     {% if guest.website %}
-    <a href="{{ guest.website }}"><div><img src="https://image.flaticon.com/icons/png/512/1231/1231223.png" alt="Website"></div></a>
+    <a href="{{ guest.website }}"><div><img src="https://img.icons8.com/ios-glyphs/344/internet--v1.png" alt="Website"></div></a>
     {% endif %}
     {% if guest.facebook %}
-      <a href="{{ guest.facebook }}"><div><img src="https://image.flaticon.com/icons/png/512/20/20673.png" alt="Facebook"></div></a>
+      <a href="{{ guest.facebook }}"><div><img src="https://img.icons8.com/ios-glyphs/344/facebook-new.png" alt="Facebook"></div></a>
     {% endif %}
     {% if guest.instagram %}
-      <a href="{{ guest.instagram }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384015.png" alt="Instagram"></div></a>
+      <a href="{{ guest.instagram }}"><div><img src="https://img.icons8.com/ios-glyphs/344/instagram-new.png" alt="Instagram"></div></a>
     {% endif %}
     {% if guest.youtube %}
-      <a href="{{ guest.youtube }}"><div><img src="https://image.flaticon.com/icons/png/512/1384/1384012.png" alt="Youtube"></div></a>
+      <a href="{{ guest.youtube }}"><div><img src="https://img.icons8.com/ios-glyphs/344/youtube-play.png" alt="Youtube"></div></a>
     {% endif %}
   </div>
   <p>{{ guest.content | markdownify }}</p>
