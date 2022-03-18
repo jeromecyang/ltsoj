@@ -3,54 +3,52 @@ layout: post
 title: 烏克蘭專區
 date: 2022-02-26
 ---
-![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1176F/production/_123453517_gettyimages-1373101584-594x594.jpg)
-*圖片來源：[BBC](https://www.bbc.com/news/world-60555472)*
 
-<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。最後更新：台灣時間2022年3月8日10:30。</i>
+<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。最後更新：台灣時間2022年3月18日11:00。</i>
 
 ## 難民概況
 
 <script>
-fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id=54&population_group=5461&forcesublocation=0&fromDate=1900-01-01').then(r => r.json()).then(data => {
-  const rows = data.data.map(({ geomaster_name, individuals, date }) => 
-    `<tr><td>${geomaster_name}</td><td>${Number(individuals).toLocaleString()}</td><td>${date}</td></tr>`
-  );
-  document.getElementById('stats').innerHTML =
-    `<table><tr><td>國家</td><td>人數</td><td>日期</td></tr>${rows}</table>`;
+Promise.all([
+  fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id=54&population_group=5461&forcesublocation=0&fromDate=1900-01-01').then(r => r.json()),
+  fetch('https://data2.unhcr.org/population/?widget_id=285660&sv_id=54&population_group=5460').then(r => r.json())
+]).then(([{ data }, { data: [total] }]) => {
+  const directory = {
+    0: {name_zh: '總計', flag: '', color: '#888888'},
+    10781: {name_zh: '波蘭', flag: '🇵🇱', color: '#003f5c', population: 38116000},
+    10782: {name_zh: '羅馬尼亞', flag: '🇷🇴', color: '#ff6361', population: 19186201},
+    10783: {name_zh: '匈牙利', flag: '🇭🇺', color: '#bc5090', population: 9689000},
+    10784: {name_zh: '摩爾多瓦', flag: '🇲🇩', color: '#ffa600', population: 2597100},
+    10785: {name_zh: '斯洛伐克', flag: '🇸🇰', color: '#58508d', population: 5452025},
+    10786: {name_zh: '白羅斯', flag: '🇧🇾', color: '#888888'},
+    10791: {name_zh: '俄羅斯', flag: '🇷🇺', color: '#888888'},
+  };
+  const rows = [{ ...total, geomaster_name: '', geomaster_id: 0 }, ...data].map(({ geomaster_name, geomaster_id, individuals, date }) => {
+    const { name_zh, color, flag, population } = directory[geomaster_id];
+    return `<div style="color: #ffffff; background-color: ${color}; margin: 10px 0; padding: 10px">
+      <div>${name_zh} ${geomaster_name} ${flag}</div>
+      <div style="font-size: 2rem; line-height: 2rem; margin-top: 0.5rem">
+        ${Number(individuals).toLocaleString()}
+        <span style="font-size: 0.8rem">(${date})</span>
+      </div>
+      ${population ? `<div>平均每 <span style="font-size: 1.5rem">${(population / Number(individuals)).toFixed(0)}</span> 人支持一位難民 <span style="font-size: 0.8rem">(總人口 ${population.toLocaleString()})</span></div>` : ``}
+    </div>`;
+  });
+  document.getElementById('stats').innerHTML = rows.join('');
 })
 </script>
 <div id="stats"></div>
 
-## 1,735,068
+以上皆為直接來自[聯合國難民署](https://data2.unhcr.org/en/situations/ukraine)（UNHCR）之數據。
 
-聯合國統計3月6日為止，已有超過170萬人逃離烏克蘭。難民署表示這次有可能成為「本世紀歐洲最大難民危機」，總人數上看400-500萬人。
+## 難民面對的挑戰
 
-![](https://imgur.com/8U0gstF.jpg)
-*截至3月5日止，推估數字為根據3月1日情況推測2022年7月數值*
-
-![](https://imgur.com/fWUOtuA.jpg)
-*截至3月1日止*
-
-|國家|難民人數|總人口數|平均多少人支持一位難民|
-|波蘭 🇵🇱|1,027,603|38,116,000|37|
-|其他歐洲各國 🇪🇺|183,688|-|
-|匈牙利 🇭🇺|180,163|9,689,000|54|
-|斯洛伐克 🇸🇰|128,169|5,452,025|43|
-|摩爾多瓦 🇲🇩|82,762|2,597,100|31|
-|羅馬尼亞 🇷🇴|78,977|19,186,201|243|
-|俄羅斯|53,300 (3/3為止)|-|-|
-|白羅斯|406 (3/4為止)|-|-|
-
-*以上除非另外註明，否則皆為3月6日為止之數據*
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/1176F/production/_123453517_gettyimages-1373101584-594x594.jpg)
+*圖片來源：[BBC](https://www.bbc.com/news/world-60555472)*
 
 * 部分難民為非烏克蘭籍的第三國人士，在移動過程中有可能遭受歧視或者相對缺乏支持，有些政府與機構已經開始介入，確保第三國難民也能接受平等的待遇。
-* 烏克蘭境內仍有許多因為戰事而流離失所者，但防禦工事使得國內部分地區的交通變得更加困難，當地目前許多人靠著Telegram群組交換逃難相關訊息。
-* 有些邊界的等待時間非常漫長，例如波蘭邊界等待時間可能長達60小時，羅馬尼亞、摩爾多瓦邊界的等待時間也可能長達20小時以上。許多難民放棄車輛改用步行方式入境，但當地目前氣溫極低。
-
-資料來源：聯合國難民署（UNHCR）
-
-* [統計數據](https://data2.unhcr.org/en/situations/ukraine)
-* [應對計劃](https://data2.unhcr.org/en/documents/details/91114) （3月1日出版）
+* 烏克蘭境內仍有許多因為戰事而流離失所者，但防禦工事使得國內部分地區的交通變得更加困難，當地目前許多人靠著加密通訊工具如Telegram群組交換相關訊息。
+* 有些邊界的等待時間非常漫長，例如波蘭邊界等待時間可能長達數日。許多難民放棄車輛改用步行方式入境，但當地目前氣溫極低。
 
 ## 如何支持難民
 
@@ -73,14 +71,27 @@ fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id
 
 其他可參考[Support Ukraine Now](https://supportukrainenow.org/refuge-for-ukrainians)（民間協作、烏克蘭官方支持的總整理），或自行上網搜尋。
 
-### 了解更多
+## 了解更多
 
 * [Refugee 101 Taiwan 概況整理](https://www.facebook.com/Refugee-101-Taiwan-104676894801001/posts/104676894801001)
 * [from Syria：「我們比世界上任何人都清楚，烏克蘭現在正在經歷什麼。」—敘利亞女性聲援烏克蘭](https://www.facebook.com/fromsyriatw/posts/3167564573516383)
+* [【投書】柏林台灣留學生當志工，協助安置烏克蘭難民：這是我人生中最震撼的一天（獨立評論＠天下）](https://opinion.cw.com.tw/blog/profile/52/article/12018)
+* [【投書】那些與我在柏林月台相遇的烏克蘭難民：當失去一切，我們要用什麼姿態面對明天？（獨立評論＠天下）](https://opinion.cw.com.tw/blog/profile/52/article/12042)
 * [英國國家廣播BBC針對難民目前概況作的整理](https://www.bbc.com/news/world-60555472)
 * [聯合國難民署3/1的簡報](https://www.unhcr.org/en-us/news/briefing/2022/3/621deda74/unhcr-mobilizing-aid-forcibly-displaced-ukraine-neighbouring-countries.html)
 
-## 推薦資訊圖表
+## 旅行熱炒店相關集數
+
+* [EP92 柏林中央車站月台上，當載著烏克蘭難民的專列緩緩進站：一位難民志工的第一線觀察 ft. 旅居柏林台灣人 劉時宏](podcast-ep092)
+* [SP4 「Slava Ukraini!」「Heroiam slava!」 來自抗議現場的聲音，從烏克蘭民族主義語言變成一場全球運動的口號](podcast-sp004)
+* [SP3 很久很久以前，那些烏俄戰爭開打之前發生的事](podcast-sp003)
+* [EP7 蘇聯陰魂不散，即便到天涯海角仍與你相伴！ 斯瓦巴-巴倫支堡、克里米亞 ft. 鯨魚](podcast-ep007)
+* [EP5 不顧基輔反對！烏克蘭的最東邊，竟然藏著兩個地圖上找不到的獨立國家!? 頓內次克、盧甘斯克、德涅斯特河沿岸 ft. 鯨魚](podcast-ep005)
+
+![](https://imgur.com/fWUOtuA.jpg)
+*根據3月1日數據製作之圖表*
+
+## 戰爭相關資訊圖表
 
 * [衛報 The Guardian](https://www.theguardian.com/world/2022/feb/25/russias-war-in-ukraine-complete-guide-in-maps-video-and-pictures) <span style="color: red"><- 非常清楚詳細，在此特別推薦！</span>
 * [英國國家廣播公司 BBC](https://www.bbc.com/news/world-europe-60506682)
@@ -99,11 +110,6 @@ fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id
 * [紐約時報 New York Times](https://www.nytimes.com/)
 * [美國有線電視新聞網 CNN](https://www.cnn.com/)
 * [衛報 The Guardian](https://www.theguardian.com/)
-
-## 深度分析
-
-* [報導者：飛彈與坦克進逼，5位烏克蘭青年的求援、見證和反抗：「任何人都無法動搖我們對自由的珍愛」](https://www.twreporter.org/a/russia-ukraine-war-2022-youth-voice)
-* [Institute for the Study of War](https://www.understandingwar.org/)
 
 ## 如何盡一份心力
 
@@ -134,7 +140,37 @@ fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id
 * [Stop Putin](https://www.stopputin.net/)：世界各地抗議俄羅斯入侵烏克蘭集會活動列表。
 * 建議在自己所在地刷Twitter，會更容易發現正在進行中的集會活動！
 
+## 衝突脈絡討論
+
+* [報導者：飛彈與坦克進逼，5位烏克蘭青年的求援、見證和反抗：「任何人都無法動搖我們對自由的珍愛」](https://www.twreporter.org/a/russia-ukraine-war-2022-youth-voice)
+* [Institute for the Study of War](https://www.understandingwar.org/)
+* [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
+* [端傳媒：獨立廿八年、兩度革命，烏克蘭還在問：我是誰？](https://theinitium.com/article/20190402-international-ukraine-identity-building/)
+* [美國台灣觀測站：美國為什麼不出兵？](https://www.facebook.com/ustaiwanwatch/posts/1938707679646527)
+* [美國台灣觀測站：台灣該怎麼看？](https://www.facebook.com/ustaiwanwatch/posts/1937674573083171)
+* [麻瓜的語言學：烏克蘭語和俄羅斯語是不是同一個語言？](https://www.facebook.com/uegugu/posts/5657439294283280)
+* [無國界譯師談烏克蘭的俄語政策](https://www.facebook.com/yianlanguage/posts/477458123838939)
+
+## 旅行熱炒店相關圖表
+
+<img src="https://imgur.com/BFJA8ngl.jpg" style="width: 300px">
+[俄羅斯與他的快樂夥伴們，那些傻傻分不清楚的東方/共產陣營組織](https://ltsoj.com/map/eastern-bloc)
+
+<img src="https://imgur.com/rwPR46Hl.jpg" style="width: 300px">
+[從波羅的海、黑海到亞得里亞海都略懂：斯拉夫語族](https://ltsoj.com/map/slavic)
+
+<img src="https://imgur.com/Dd2T18dl.jpg" style="width: 300px">
+[「不顧基輔反對」從烏克蘭獨立的兩小國：盧甘斯克、頓內次克](https://ltsoj.com/map/east-ukraine)
+
+<img src="https://imgur.com/YH3tQnfl.jpg" style="width: 300px">
+[克里米亞半島](https://ltsoj.com/map/crimea)
+
+<img src="https://imgur.com/I2CxNiLl.jpg" style="width: 300px">
+[德涅斯特河沿岸（德左）](https://ltsoj.com/map/transnistria)
+
 ## 重要動態編譯
+
+<i style="color: red">以下資訊僅編譯至3月1日為止。</i>
   
 ### 至 3/1 17:00 GMT 為止
 
@@ -169,39 +205,6 @@ fetch('https://data2.unhcr.org/population/get/sublocation?widget_id=285654&sv_id
 * 大量烏克蘭居民跨越邊界進入波蘭
 * 歐洲歌唱大賽(Eurovision)宣佈禁止俄羅斯參賽
 * 土耳其表示因為蒙特勒公約(Montreux Convention)協定，無法禁止俄羅斯軍艦通過博斯普魯斯海峽進入黑海
-
-## 衝突脈絡討論
-
-* [旅行熱炒店：SP3 很久很久以前，那些烏俄戰爭開打之前發生的事](podcast-sp003) （Podcast）
-* [旅行熱炒店：SP4 「Slava Ukraini!」「Heroiam slava!」 來自抗議現場的聲音，從烏克蘭民族主義語言變成一場全球運動的口號](podcast-sp004) （Podcast）
-* [Cheap：恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果](https://www.youtube.com/watch?v=zuoqLNK8_mc) （Youtube）
-* [端傳媒：獨立廿八年、兩度革命，烏克蘭還在問：我是誰？](https://theinitium.com/article/20190402-international-ukraine-identity-building/)
-* [美國台灣觀測站：美國為什麼不出兵？](https://www.facebook.com/ustaiwanwatch/posts/1938707679646527)
-* [美國台灣觀測站：台灣該怎麼看？](https://www.facebook.com/ustaiwanwatch/posts/1937674573083171)
-* [麻瓜的語言學：烏克蘭語和俄羅斯語是不是同一個語言？](https://www.facebook.com/uegugu/posts/5657439294283280)
-* [無國界譯師談烏克蘭的俄語政策](https://www.facebook.com/yianlanguage/posts/477458123838939)
-
-### 旅行熱炒店相關集數
-
-* [EP5 不顧基輔反對！烏克蘭的最東邊，竟然藏著兩個地圖上找不到的獨立國家!? 頓內次克、盧甘斯克、德涅斯特河沿岸 ft. 鯨魚](podcast-ep005)
-* [EP7 蘇聯陰魂不散，即便到天涯海角仍與你相伴！ 斯瓦巴-巴倫支堡、克里米亞 ft. 鯨魚](podcast-ep007)
-
-### 旅行熱炒店相關圖表
-
-<img src="https://imgur.com/BFJA8ngl.jpg" style="width: 300px">
-[俄羅斯與他的快樂夥伴們，那些傻傻分不清楚的東方/共產陣營組織](https://ltsoj.com/map/eastern-bloc)
-
-<img src="https://imgur.com/rwPR46Hl.jpg" style="width: 300px">
-[從波羅的海、黑海到亞得里亞海都略懂：斯拉夫語族](https://ltsoj.com/map/slavic)
-
-<img src="https://imgur.com/Dd2T18dl.jpg" style="width: 300px">
-[「不顧基輔反對」從烏克蘭獨立的兩小國：盧甘斯克、頓內次克](https://ltsoj.com/map/east-ukraine)
-
-<img src="https://imgur.com/YH3tQnfl.jpg" style="width: 300px">
-[克里米亞半島](https://ltsoj.com/map/crimea)
-
-<img src="https://imgur.com/I2CxNiLl.jpg" style="width: 300px">
-[德涅斯特河沿岸（德左）](https://ltsoj.com/map/transnistria)
 
 ## 製作者
 
