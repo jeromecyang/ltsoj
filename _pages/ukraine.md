@@ -4,7 +4,7 @@ title: 烏克蘭專區
 date: 2022-02-26
 ---
 
-<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。最後更新：台灣時間2022年3月18日11:00。</i>
+<i style="color: red">本頁面為因應2022年2月24日俄羅斯入侵烏克蘭，作為資訊彙整分享用的專區！目前以提供難民概況與援助資訊為主，最新消息建議參考各大新聞來源。</i>
 
 ## 難民概況
 
@@ -39,7 +39,11 @@ Promise.all([
 </script>
 <div id="stats"></div>
 
-以上皆為直接來自[聯合國難民署](https://data2.unhcr.org/en/situations/ukraine)（UNHCR）之數據。
+以上皆為直接來自[聯合國難民署](https://data2.unhcr.org/en/situations/ukraine)（UNHCR）之即時數據。
+
+## 戰爭概況
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//www.arcgis.com/apps/Embed/index.html?webmap=9328c1bccd4e4736b1a8faa44d3f0cee&extent=20.6528,45.7201,43.6362,52.6018&zoom=true&scale=false&disable_scroll=true&theme=light&legend=true" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Ukraine" src="//www.arcgis.com/apps/Embed/index.html?webmap=9328c1bccd4e4736b1a8faa44d3f0cee&extent=20.6528,45.7201,43.6362,52.6018&zoom=true&previewImage=false&scale=false&disable_scroll=true&theme=light&legend=true"></iframe></div>
 
 ## 難民面對的挑戰
 
