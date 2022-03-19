@@ -45,3 +45,7 @@ title: 關於旅行熱炒店PODCAST
 學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師，專業領域：前端開發（front-end development）、資料視覺化（information visualization）、地理資訊系統（geographic information system）等，但相信這些都只是手段，回應人們現實的需求才是目的。
 
 若對我專業方面有興趣，歡迎在[LinkedIn](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)上加我 :)
+
+### 播放清單：主廚 Jerome 在各大節目受訪
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1LzK6nj1RI2bZMY5WWwzRm?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
