@@ -37,7 +37,7 @@ layout: null
       <enclosure type="audio/mpeg" url="https://chtbl.com/track/782GB8/jeromecyang.github.io/{{episode.filepath}}" length="392741"/>
       <guid isPermaLink="false">{{episode.guid}}</guid>
       <link>https://ltsoj.com{{episode.url}}</link>
-      <pubDate>{{episode.date|date:'%s'|plus:86400|date_to_rfc822}}</pubDate>
+      <pubDate>{{episode.date|date:'%s'|date_to_rfc822}}</pubDate>
       <itunes:duration>{{episode.duration}}</itunes:duration>
       <description><![CDATA[{% include episode-description.html %}]]></description>
       <psc:chapters version="1.1">
