@@ -1,6 +1,6 @@
 ---
 date: 2022-02-13
-title: EP89補充地圖：法屬印度支那的構成，保護國、殖民地與租界
+title: 法屬印度支那的構成，保護國、殖民地與租界
 image: https://imgur.com/buCW07i.jpg
 ---
 ![](https://imgur.com/buCW07i.jpg)
