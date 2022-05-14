@@ -1,7 +1,7 @@
 ---
 title: Stanley
 website: https://lmfstanding.medium.com
-subtitle: 《走進台灣》podcast製作主持人，航太產業工作者
+subtitle: 《走進台灣》Podcaster．航太產業工作者
 image: https://imgur.com/zl49yxK.jpg
 ---
 

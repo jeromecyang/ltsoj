@@ -3,7 +3,7 @@ title: Yolanda
 website: https://www.yunfei.world
 facebook: https://www.facebook.com/hsinchumultilanguage
 instagram: https://www.instagram.com/conquerlanguage_mandarin
-subtitle: 西班牙語與華語教師、「台瓜夫妻」PODCAST主持人
+subtitle: 西班牙語與華語教師．《台瓜夫妻》Podcaster
 image: https://d3mww1g1pfq2pt.cloudfront.net/Avatar/ckkpgxtrc1dry0866oypwapxf/1616064838593.png
 ---
 

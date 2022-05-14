@@ -3,7 +3,7 @@ title: Like It Formosa 來去福爾摩沙
 facebook: https://www.facebook.com/likeitformosa/
 instagram: https://www.instagram.com/likeitformosa/
 website: https://www.likeitformosa.com/
-subtitle: 台灣旅遊新創、Story Teller of Taiwan
+subtitle: 台灣旅遊新創 Story Teller of Taiwan
 image: https://imgur.com/hrxhymy.jpg
 ---
 

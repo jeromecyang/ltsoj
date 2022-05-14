@@ -3,7 +3,7 @@ title: 葉姿婷
 facebook: https://www.facebook.com/borderxstory
 instagram: https://www.instagram.com/tingyehxx/
 website: https://theborderstory.com/
-subtitle: 《邊境獨白》創作者、愛沙尼亞留學生
+subtitle: 《邊境獨白》
 image: https://theborderstory.com/wp-content/uploads/2020/10/1561E73A-E2EE-495A-98D7-2ABD11CBE157.jpg
 ---
 

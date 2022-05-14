@@ -1,9 +1,9 @@
 <div class="guests">
-  <div class="avatar" style="background-image: url({{ guest.image | default: 'https://image.flaticon.com/icons/png/512/847/847969.png' }})"></div>
+  <div class="avatar" style="background-image: url({{ guest.image | default: 'https://cdn-icons-png.flaticon.com/512/847/847969.png' }})"></div>
   <h2 style="text-align: center">{{ guest.title }}</h2>
   <h3 style="text-align: center">{{ guest.subtitle }}</h3>
   <div class="social-media">
-    {% if guest.website %}
+    {% if guest.website %} 
     <a href="{{ guest.website }}"><div><img src="https://img.icons8.com/ios-glyphs/344/internet--v1.png" alt="Website"></div></a>
     {% endif %}
     {% if guest.facebook %}

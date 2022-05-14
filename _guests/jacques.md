@@ -3,7 +3,7 @@ title: 甲殼哥
 facebook: https://www.facebook.com/jacques.story/
 instagram: https://www.instagram.com/jacques.story/
 youtube: https://www.youtube.com/channel/UCDf0ic-okgmyNhoqXXYIVCw
-subtitle: 甲殼哥的非洲故事
+subtitle: 《甲殼哥的非洲故事》
 image: https://imgur.com/SKsUu2y.jpg
 ---
 

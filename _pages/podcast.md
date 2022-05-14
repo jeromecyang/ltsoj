@@ -10,21 +10,21 @@ title: 關於旅行熱炒店PODCAST
 
 雖然主題是旅行，內容卻不只是旅行！我們重視一個地方的歷史、地理、語言、文化脈絡，旅行之餘也分享知識與觀點，並且搭配圖表與補充資料，讓聽眾輕易了解一個地方的過去與現在。
 
-<img class="flaticon" src="https://image.flaticon.com/icons/png/512/2937/2937833.png">
+<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/2937/2937833.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 堅持分享本質，不以流量或商業為導向
 
 這個節目不以商業為目的，我們只想把背包客們自在分享的氛圍帶到節目上來，就像在青年旅社的客廳裡一樣。因此，在這裡你會聽到許多平凡旅人的分享，了解他們如何用自己的方式在世界各地走跳著！
 
-<img class="flaticon" src="https://image.flaticon.com/icons/png/512/1974/1974119.png">
+<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/1974/1974119.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 一起發現旅行的更多可能性
 
 世界比我們想像的更大，冷門路線、深度報導、觀點探討都是我們歡迎的內容。旅行沒有公式，藉由認識不熟悉的地方，我們持續擴大對於「旅行」的想像，一起尋找生活的更多可能性！
 
-<img class="flaticon" src="https://image.flaticon.com/icons/png/512/2946/2946176.png">
+<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/2946/2946176.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## 使用技術
@@ -44,7 +44,7 @@ title: 關於旅行熱炒店PODCAST
 
 學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師，專業領域：前端開發（front-end development）、資料視覺化（information visualization）、地理資訊系統（geographic information system）等，但相信這些都只是手段，回應人們現實的需求才是目的。
 
-若對我專業方面有興趣，歡迎在[LinkedIn](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)上加我 :)
+[我的 LinkedIn 頁面](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)
 
 ### 播放清單：主廚 Jerome 在各大節目受訪
 

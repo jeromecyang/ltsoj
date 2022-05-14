@@ -3,7 +3,7 @@ title: 大飛
 facebook: https://www.facebook.com/mimi.tour.podcast/
 instagram: https://www.instagram.com/mimi.tour.podcast/
 website: https://mtpodcast.soci.vip/
-subtitle: 《耳朵旅行社》Podcast主持人
+subtitle: 《耳朵旅行社》Podcaster
 image: https://cdn.psee.pw/acf71fa4-1055-44a5-8697-bcbf25413627.png
 ---
 

@@ -10,7 +10,7 @@
       </a>
     {% else %}
       <a href="{{ post.url }}">
-        <div class="image" {% if post.image %}style="background-image:url({{ image_url }})"{% endif %}></div>
+        <div class="image" style="background-image:url({{ image_url | default: 'https://cdn-icons-png.flaticon.com/512/847/847969.png' }})"></div>
       </a>
     {% endif %}
   </div>

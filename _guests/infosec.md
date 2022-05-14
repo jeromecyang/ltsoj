@@ -3,7 +3,7 @@ title: Jeff
 facebook: https://www.facebook.com/infosecdecompress
 instagram: https://www.instagram.com/infosec.zip
 website: https://infosecdecompress.com/
-subtitle: 資安工程師、《資安解壓縮》Podcast主持人
+subtitle: 資安工程師．《資安解壓縮》Podcaster
 image: https://infosecdecompress.com/photo.jpg
 ---
 

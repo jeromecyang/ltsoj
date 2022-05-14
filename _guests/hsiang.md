@@ -2,7 +2,7 @@
 title: 王湘鄉
 facebook: https://www.facebook.com/noregiontravel
 instagram: https://www.instagram.com/noregion/
-subtitle: 《Noregion極境行旅》創作者、挪威景觀建築師
+subtitle: 《Noregion 極境行旅》創作者．挪威景觀建築師
 image: https://imgur.com/jShvBPO.jpg
 ---
 

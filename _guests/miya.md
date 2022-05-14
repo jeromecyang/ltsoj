@@ -1,7 +1,7 @@
 ---
 title: 米雅
 website: https://miyastravel.com/
-subtitle: 米雅愛旅行
+subtitle: 《米雅愛旅行》
 image: https://pic.pimg.tw/xvexvexve/1513044788-2802409742_n.jpg
 facebook: https://www.facebook.com/miyastravel
 instagram: https://www.instagram.com/miyastravel

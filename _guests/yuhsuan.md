@@ -1,6 +1,6 @@
 ---
 title: 張育軒
-subtitle: 《說說伊朗》創辦人
+subtitle: 《說說伊朗》
 image: https://imgur.com/yYekWuZ.jpg
 facebook: https://www.facebook.com/talkpersia
 website: https://medium.com/cultureofpersia

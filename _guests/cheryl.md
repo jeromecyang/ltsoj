@@ -3,7 +3,7 @@ title: Cheryl
 website: https://cherylnotathome.com
 facebook: https://facebook.com/cherylnotathome
 instagram: https://instagram.com/home.is.ontheroad
-subtitle: 雪柔的走跳日誌
+subtitle: 《Cheryl Not At Home》
 image: https://i0.wp.com/cherylnotathome.com/wp-content/uploads/2020/04/螢幕快照-2020-04-28-下午6.57.35.png
 ---
 

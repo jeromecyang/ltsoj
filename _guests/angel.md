@@ -3,7 +3,7 @@ title: 旅行鴨 Angel
 facebook: https://www.facebook.com/angelealoop/
 instagram: https://www.instagram.com/angelealoop/
 website: https://angelealoop.com/
-subtitle: 《旅行鴨Angel》創作者
+subtitle: 《旅行鴨 Angel》
 image: https://iduck.tw/wp-content/uploads/2020/07/90513410_114225350221138_8132686596936826880_o.jpg
 ---
 

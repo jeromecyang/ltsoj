@@ -3,7 +3,7 @@ title: Jessie
 facebook: https://www.facebook.com/imjessiej
 instagram: https://www.instagram.com/_imjessiej.com_/
 website: https://imjessiej.com/
-subtitle: 《在世界翻滾的女孩》創作者
+subtitle: 《Jessie 在世界翻滾的女孩》
 image: https://tps-a.akamaihd.net/a/f/8/4/4/29e24f.jpg
 ---
 

@@ -4,7 +4,7 @@ website: https://piggyteammates.com
 facebook: https://facebook.com/piggyteammates
 instagram: https://instagram.com/piggyteammates
 youtube: https://reurl.cc/EO5zg
-subtitle: 旅行文字、圖像、影片與聲音創作者
+subtitle: 《豬豬隊友 Scott & Wendy》
 image: https://imgur.com/0xAYnQV.jpg
 ---
 

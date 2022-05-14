@@ -1,7 +1,7 @@
 ---
 title: 鯨魚律師
 facebook: https://www.facebook.com/LetUsStandUpLikeTheTaiwanese/
-subtitle: 《52赫茲的鯨魚》（小律師的非主流歷險）創作者
+subtitle: 《52赫茲的鯨魚》（小律師的非主流歷險）
 image: https://imgur.com/fYvNqpM.jpg
 ---
 

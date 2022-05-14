@@ -3,7 +3,7 @@ title: 越南女神 Lena
 website: https://lenainvietnam.com/
 facebook: https://www.facebook.com/cchahainvietnam/
 instagram: https://www.instagram.com/cchahalena/
-subtitle: 說走就走去找越南女神
+subtitle: 《說走就走去找越南女神》
 image: https://imgur.com/5fot2OS.jpg
 ---
 
