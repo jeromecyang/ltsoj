@@ -14,7 +14,10 @@
       </a>
     {% endif %}
   </div>
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  {% if show_index %}
+    {% assign prefix = forloop.rindex | append: '. ' %}
+  {% endif %}
+  <h3><a href="{{ post.url }}">{{prefix}}{{ post.title }}</a></h3>
   {% if post.subtitle %}
     <div class="subtitle"><b>{{ post.subtitle }}</b></div>
   {% endif %}
