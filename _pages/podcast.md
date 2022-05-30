@@ -13,9 +13,16 @@ title: 關於旅行熱炒店PODCAST
 <img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/2937/2937833.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
+## 讓更多的人群、地方與議題被看見
+
+世界上每個角落都有屬於自己的獨特故事，只是未必有機會被世人所知曉；這個節目的終極目標是作為一個分享的平台，讓更多的人群、地方與議題能夠被看見。
+
+<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/1243/1243420.png">
+<div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 ## 堅持分享本質，不以流量或商業為導向
 
-這個節目不以商業為目的，我們只想把背包客們自在分享的氛圍帶到節目上來，就像在青年旅社的客廳裡一樣。因此，在這裡你會聽到許多平凡旅人的分享，了解他們如何用自己的方式在世界各地走跳著！
+這個節目不以商業為目的，沒有廣告業配也沒有會員內容，在這裡你只會聽到許多平凡旅人的分享，了解他們在世界走跳時遇見的那些人事物。
 
 <img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/1974/1974119.png">
 <div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
@@ -29,8 +36,8 @@ title: 關於旅行熱炒店PODCAST
 
 ## 使用技術
 
-* 以Google Meet或[Zencastr](https://zencastr.com/)進行遠端訪談、[SoundFlower](https://github.com/mattingalls/Soundflower)回傳（loopback）、GarageBand搭配Audacity混音與編輯。
-* 主持人麥克風為[Blue Yeti](https://www.bluemic.com/en-us/products/yeti/)，於自家房間內錄音。
+* 以[Zencastr](https://zencastr.com/)進行遠端訪談、GarageBand搭配Audacity混音與編輯。
+* 主持人麥克風為[Blue Yeti](https://www.bluemic.com/en-us/products/yeti/)，於自家房間衣廚內錄音。
 * 利用[Github Pages](https://pages.github.com/)放置[RSS feed](https://ltsoj.com/podcast.xml)與音檔，並未使用任何hosting平台。
 * 以Chartable監測收聽表現。
 
@@ -38,14 +45,14 @@ title: 關於旅行熱炒店PODCAST
 
 ## 製作/主持人： Jerome Yang
 
-### 旅行愛好者、人社史地宅、碼農
+不務正業的軟體工程師，對於旅行的熱情遠遠大於寫程式，最喜歡的地方是前蘇聯/共產國家、伊斯蘭世界與世界各地的少數民族，以及潛藏於各大城市裡的多元移民文化。
 
-不務正業的軟體工程師，對於旅行的熱情遠遠大於寫程式，志在透過聲音、文字與圖像創作，聯合其他自助旅行者，將世界上較少被關注到的地方、族群與人介紹出去。累積拜訪約30多國，最喜歡的是前蘇聯國家、穆斯林世界與非洲大陸，以及潛藏於世界各大城市裡的多元移民文化。
+因為喜歡旅行、喜歡看地圖，同時又是個知識控，拜訪了許多國家之後，開始結合親身經驗與史地知識分享旅行，在COVID肆虐的2020年6月開始了「旅行熱炒店」這個PODCAST節目，嘗試用聲音帶大家去旅行，並且和各路來賓聊聊那些值得被了解的地方與議題。
 
 學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師，專業領域：前端開發（front-end development）、資料視覺化（information visualization）、地理資訊系統（geographic information system）等，但相信這些都只是手段，回應人們現實的需求才是目的。
 
 [我的 LinkedIn 頁面](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)
 
-### 播放清單：主廚 Jerome 在各大節目受訪
+## 播放清單：Jerome在各大節目受訪
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1LzK6nj1RI2bZMY5WWwzRm?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
