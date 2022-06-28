@@ -49,7 +49,9 @@ title: 關於旅行熱炒店PODCAST
 
 因為喜歡旅行、喜歡看地圖，同時又是個知識控，拜訪了許多國家之後，開始結合親身經驗與史地知識分享旅行，在COVID肆虐的2020年6月開始了「旅行熱炒店」這個PODCAST節目，嘗試用聲音帶大家去旅行，並且和各路來賓聊聊那些值得被了解的地方與議題。
 
-學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師，專業領域：前端開發（front-end development）、資料視覺化（information visualization）、地理資訊系統（geographic information system）等，但相信這些都只是手段，回應人們現實的需求才是目的。
+學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師，專業領域：前端開發（front-end development）、資料視覺化（information visualization）、地理資訊系統（geographic information system）等。
+
+平常其實就是個死上班族，每天在辦公室就想著兩件事：1.中午要吃什麼、2.好想下班。
 
 [我的 LinkedIn 頁面](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)
 
