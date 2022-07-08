@@ -4,7 +4,6 @@ layout: post
 title: 美國國家公園的正確打開方式
 permalink: 2020/04/26/us-national-parks
 image: https://imgur.com/jl3KmnM.jpg
-featured: true
 excerpt: 美國擁有不少「一輩子一定要看一次」的自然景觀，其中許多位在國家公園內，相信前去美國旅遊的各位都不會錯過；然而，你知道並不是每個國家公園都適合大眾旅遊嗎？你知道其中不少每年只有三個多月是全面開放的嗎？拜訪過美國許多國家公園的Jerome，想在這裡分享過去累積的一些心得，希望幫助大家更了解如何正確使用美國的國家公園。
 tags:
 - North America

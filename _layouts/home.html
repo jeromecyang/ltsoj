@@ -29,24 +29,28 @@ color: #ffffff;">
 </a> -->
 
 <div class="campaign">
-  <div class="slogan"><b>最新集數</b></div>
-  <div class="message">您可點選以下連結收聽我們的最新集數，或<a href="/episodes">點此瀏覽所有集數</a>。</div>
+  <div class="slogan"><b>最新 PODCAST 集數</b></div>
+  <div class="message"><a href="/episodes">點此瀏覽所有 PODCAST 集數</a></div>
 </div>
 
 {% assign use_img = true %}
-{% assign posts = site.episodes | reverse | slice: 0, 6 %}
+{% assign posts = site.episodes | reverse | slice: 0, 3 %}
 {% include post-preview-grid.html %}
 
 <div class="campaign">
-  <div class="slogan"><b>旅行記事</b></div>
-  <div class="message">您也可以透過以下精選文章，與我一起環遊世界！或<a href="all-posts">點此瀏覽所有文章</a>。</div>
+  <div class="slogan"><b>最新 BLOG 文章</b></div>
+  <div class="message"><a href="all-posts">點此瀏覽所有 BLOG 文章</a></div>
+</div>
+
+{% assign use_img = false %}
+{% assign posts = site.posts | slice: 0, 3 %}
+{% include post-preview-grid.html %}
+
+<div class="campaign">
+  <div class="slogan"><b>旅行記事精選</b></div>
 </div>
 
 {% assign use_img = false %}
 {% assign featured_posts = site.posts | where: 'featured', 'true' %}
 {% assign posts = site.data.settings.features | concat: featured_posts %}
 {% include post-preview-grid.html %}
-
-<div style="text-align: center; margin: 20px auto">
-  <a href="/all-posts">其他文章</a>
-</div>

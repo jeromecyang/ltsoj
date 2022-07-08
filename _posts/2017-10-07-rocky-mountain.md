@@ -8,7 +8,6 @@ tags:
 - Travel
 permalink: 2017/10/07/rocky-mountain
 image: https://lifetimesojournertravel.files.wordpress.com/2017/10/2c6ca-20170701_121315.jpg
-featured: true
 ---
 
 去過了黃石（Yellowstone）和大提頓（Grand Teton）之後，冰河國家公園（Glacier National Park）便成了我繼續探索洛磯山脈（Rocky Mountain）的下一個目標，但這個國家公園離所有的大城市都非常遙遠，直達國家公園門戶的班機則貴得嚇人，該怎麼前往才好呢？
