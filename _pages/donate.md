@@ -9,7 +9,7 @@ title: 小額贊助
 
 * 銀行代號 004
 * 帳號 239004125543
-* 轉帳完畢煩請私訊或 email 告知
+* 轉帳完畢煩請私訊或 email 至 travel.wok@ltsoj.com 告知
 
 ## 贊助管道：美國
 
@@ -23,4 +23,4 @@ title: 小額贊助
 
 ![](https://imgur.com/ahSXZrw.jpg)
 
-掃描以上 QR Code 或者使用 Email: jeromecyang@gmail.com
+掃描以上 QR Code
