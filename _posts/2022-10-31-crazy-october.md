@@ -9,7 +9,7 @@ tags:
 - North America
 - Taiwan
 ---
-![]([https://imgur.com/J9OxrCj.jpg](https://imgur.com/Wo0qkCE.jpg))
+![](https://imgur.com/Wo0qkCE.jpg)
 
 坊間素來有著「光輝十月」的講法，畢竟這是個節慶特別多的月份；然而對旅行熱炒店而言，2022年十月不僅是光輝燦爛，更是忙到讓主廚懷疑自己是不是瘋了！
 
