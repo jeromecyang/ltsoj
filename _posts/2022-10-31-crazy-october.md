@@ -119,7 +119,7 @@ tags:
 頒獎典禮結束後告別了四天三夜的同行夥伴，馬上搭高鐵南下跟爸媽一起吃晚餐，然後旋即衝回台北，準備搭隔天早上的飛機。
 
 ![](https://imgur.com/zpzYjCj.jpg)
-桃園機場貴賓室的牛肉麵，每次起飛前都要來一碗！很巧的是和其他兩位podcasters泰太（[泰太太想說]((https://www.instagram.com/taicountry/))）、曉芬（[喂說人話](https://www.instagram.com/humantalk2020/)）同時從桃園離開，三人在機場裡彼此揮別。
+桃園機場貴賓室的牛肉麵，每次起飛前都要來一碗！很巧的是和其他兩位podcasters泰太（[泰太太想說](https://www.instagram.com/taicountry/)）、曉芬（[喂說人話](https://www.instagram.com/humantalk2020/)）同時從桃園離開，三人在機場裡彼此揮別。
 
 ![](https://imgur.com/s8ufMRU.jpg)
 熟悉的起飛風景：桃園台地上的鐵皮屋屋頂XD。
