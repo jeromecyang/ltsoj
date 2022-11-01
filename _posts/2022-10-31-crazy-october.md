@@ -3,13 +3,13 @@ date: 2022-10-31
 layout: post
 title: 旅行熱炒店的瘋狂十月
 permalink: 2022/10/31/crazy-october
-image: https://imgur.com/J9OxrCj.jpg
+image: https://imgur.com/Wo0qkCE.jpg
 excerpt: 回台參加頒獎典禮、飛到波士頓演講、在去紐約待個幾天，整個十月竟然有整整三個禮拜不在家，想起來都覺得瘋狂！不過一路下來也是收穫滿滿。就讓主廚用流水帳的方式，和大家分享過去這31天發生的那些重要事情吧！
 tags:
 - North America
 - Taiwan
 ---
-![](https://imgur.com/J9OxrCj.jpg)
+![]([https://imgur.com/J9OxrCj.jpg](https://imgur.com/Wo0qkCE.jpg))
 
 坊間素來有著「光輝十月」的講法，畢竟這是個節慶特別多的月份；然而對旅行熱炒店而言，2022年十月不僅是光輝燦爛，更是忙到讓主廚懷疑自己是不是瘋了！
 
