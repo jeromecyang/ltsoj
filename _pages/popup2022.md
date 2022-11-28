@@ -60,3 +60,7 @@ title: 旅行熱炒店POP-UP快閃實體店來了！
 * 現場可選購飲料甜點。
 
 註：以上時間地點皆已確定，來賓後續可能仍有調整。
+
+## 報名問卷
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfqpgIKXcZ5PRpFKB3e8BS4BykJkh0lGaZG6rFCD3wm-U20HA/viewform?embedded=true" width="100%" height="1687" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
