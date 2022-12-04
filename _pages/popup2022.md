@@ -18,11 +18,9 @@ title: 旅行熱炒店POP-UP快閃實體店來了！
 
 ## 我想參加！請問如何報名？
 
-只要填寫[報名問卷](https://forms.gle/6ZSNDj72EAbsVoyF6)就可以了！當天現場來也可，但強烈建議報名，方便我們事先掌握人數。
+目前除台南（12/24）場次之外都已達到場地人數上限，因此暫停報名。台南場報名請email: travel.wok@ltsoj.com
 
 **活動完全免費**，當天現場開放場地費小額贊助。
-
- >> [報名問卷在此](https://forms.gle/6ZSNDj72EAbsVoyF6) <<
 
 ## 活動當天的流程大概是如何呢？
 
@@ -76,7 +74,3 @@ title: 旅行熱炒店POP-UP快閃實體店來了！
 - [卡嘉](/guest/katya) - EP114、EP122俄羅斯來賓、《俄語森林》粉專作者
 
 現場可選購飲料甜點。
-
-## 報名問卷
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfqpgIKXcZ5PRpFKB3e8BS4BykJkh0lGaZG6rFCD3wm-U20HA/viewform?embedded=true" width="100%" height="1687" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
