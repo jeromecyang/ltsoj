@@ -37,19 +37,3 @@ title: 關於旅行熱炒店PODCAST
 * 主持人麥克風為[Blue Yeti](https://www.bluemic.com/en-us/products/yeti/)，於自家房間衣廚內錄音。
 * 利用[Github Pages](https://pages.github.com/)放置[RSS feed](https://ltsoj.com/podcast.xml)與音檔，並未使用任何hosting平台。
 * 以Chartable監測收聽表現。
-
-<img class="flaticon" src="https://imgur.com/v9mlLpa.jpg">
-
-## 製作/主持人： Jerome Yang
-
-不務正業的軟體工程師，對於旅行的熱情遠遠大於寫程式，最喜歡的地方是前蘇聯/共產國家、伊斯蘭世界與世界各地的少數民族，以及潛藏於各大城市裡的多元移民文化。
-
-因為喜歡旅行、喜歡看地圖，同時又是個知識控，拜訪了許多國家之後，開始結合親身經驗與史地知識分享旅行，在COVID肆虐的2020年6月開始了「旅行熱炒店」這個PODCAST節目，嘗試用聲音帶大家去旅行，並且和各路來賓聊聊那些值得被了解的地方與議題。節目曾入圍僑務委員會《2022海外華文媒體報導大獎》之廣播報導類—台灣亮點節目獎。
-
-學術背景為地理學與社會學，沒讀過理工科系卻變成了工程師；不過說穿了平常其實就是個死上班族，每天在辦公室最關心兩件事：1.中午要吃什麼、2.好想下班。
-
-[我的 LinkedIn 頁面](https://www.linkedin.com/in/jeromecyang/?locale=zh_TW)
-
-## 播放清單：各大節目受訪
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1LzK6nj1RI2bZMY5WWwzRm?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
