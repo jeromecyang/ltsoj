@@ -4,11 +4,11 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 social:
-- icon: 'facebook'
+- icon: 'fa-brands fa-facebook'
   link: 'https://www.facebook.com/travel.wok'
-- icon: 'instagram'
+- icon: 'fa-brands fa-instagram'
   link: 'https://instagram.com/travel.wok'
-- icon: 'envelope'
+- icon: 'fa-solid fa-envelope'
   link: 'mailto:travel.wok@ltsoj.com'
 
 # Customize site text
