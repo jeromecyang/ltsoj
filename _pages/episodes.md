@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: 所有集數
+title: PODCAST 所有集數
 ---
 {% assign use_img = true %}
 {% assign posts = site.episodes | reverse %}

@@ -1,11 +1,15 @@
 ---
-title: 聯絡我們
+title: 合作聯繫
 ---
-### ▮ 旅行熱炒店是否接受業配廣告、商品置入、贈品抽獎等商業合作？
+
+<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/1534/1534959.png">
+<div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+### 旅行熱炒店是否接受業配廣告、商品置入、贈品抽獎等商業合作？
 
 NO。旅行熱炒店是一個非營利獨立聲音媒體，不以營利為目的也不接受商業合作，有商業合作需求者請洽其他節目 :)
 
-### ▮ 旅行熱炒店是否接受一般人報名當來賓？
+### 旅行熱炒店是否接受一般人報名當來賓？
 
 YES。
 
@@ -13,19 +17,17 @@ YES。
 
 此外，構思題材的時候，非常推薦先去瀏覽節目過去的集數，並且選擇至少3集有興趣的來聽，大概了解節目的風格、節奏和結構。
 
-> ▮ 過去來賓在報名時填寫的分享內容範例： [https://bit.ly/2Z82Pb1](https://bit.ly/2Z82Pb1)
+> 過去來賓在報名時填寫的分享內容範例： [https://bit.ly/2Z82Pb1](https://bit.ly/2Z82Pb1)
 
 謹慎構思之後請填寫[報名問卷](https://forms.gle/KCxVMRBRnHxBS3QK7)，問卷作答盡可能詳細，幫助我了解你還有你想分享的主題。有疑問歡迎在臉書、IG私訊或email到[travel.wok@ltsoj.com](mailto:travel.wok@ltsoj.com)。
 
-### ▮ 我是出版業者或新書作者，可否上旅行熱炒店宣傳作品？
+### 我是出版業者或新書作者，可否上旅行熱炒店宣傳作品？
 
 Maybe，前提是主題符合節目調性與規劃，而且同樣主題不能同時在多個節目上分享。若您也有聯繫其他性質類似的節目，請優先考慮其他節目。
 
 另外，旅行熱炒店通常將機會保留給「最缺乏能見度」的作者。若您本身已經具有一定知名度，或是作品已經有多位大咖推薦，那麼建議可以不用考慮本台，我們的宣傳效果可能還不及您本人自帶的流量。
 
-### ▮ 我可以透過哪些方式與旅行熱炒店互動？
-
-旅行熱炒店歡迎大家來一起互動交流！您可以透過以下方式與節目互動——
+### 我可以透過哪些方式與旅行熱炒店互動？
 
 * [Facebook](https://www.facebook.com/travel.wok)
 * [Instagram](https://www.instagram.com/travel.wok)
