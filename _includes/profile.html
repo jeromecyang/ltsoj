@@ -20,8 +20,8 @@
 
   {% assign guest_name = guest.id | replace: '/guest/', '' %}
   {% assign related_episodes = site.episodes | where_exp: "item", "item.guests contains guest_name" %}
-  <h3 class="related-items-title">合作集數</h3>
   <div class="related-items-list">
+    <div>合作集數</div>
     {% for episode in related_episodes %}
       <div><a href="{{episode.url}}">{{episode.episode}}</a></div>
     {% endfor %}

@@ -1,6 +1,7 @@
 .guests {
-  h1, h2, h3 {
+  h1, h2, h2::before, h3::before {
     text-align: center;
+    content: initial;
   }
 
   h3 {
@@ -13,6 +14,7 @@
     img {
       width: 30px;
       margin: 0 5px;
+      filter: opacity(70%);
     }
   }
 

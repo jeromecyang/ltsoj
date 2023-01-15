@@ -4,14 +4,15 @@ layout: default
 <div class="page-content">
   <h1>{{ page.title }}</h1>
   {% if page.date %}<blockquote>▮ {{ site.author }} / {{ page.date | date: "%Y/%m/%d" }}</blockquote>{% endif %}
-  <article>{{ content }}</article>
 
   {% assign map_name = page.id | replace: '/map/', '' %}
   {% assign related_episodes = site.episodes | where_exp: "item", "item.maps contains map_name" %}
-  <h3 class="related-items-title">相關集數</h3>
   <div class="related-items-list">
+    <div>相關集數</div>
     {% for episode in related_episodes %}
       <div><a href="{{episode.url}}">{{episode.episode}}</a></div>
     {% endfor %}
   </div>
+
+  <article>{{ content }}</article>
 </div>
