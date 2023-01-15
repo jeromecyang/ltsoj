@@ -36,8 +36,14 @@ color: #ffffff;">
 </a> -->
 
 <div class="campaign">
-  <div class="slogan"><b>最新 PODCAST 集數</b></div>
-  <div class="message"><a href="/episodes">點此瀏覽所有 PODCAST 集數</a></div>
+  <div class="slogan">PODCAST</div>
+  <div class="button-container">
+    <div class="button"><a href="/podcast">關於我們</a></div>
+    <div class="button"><a href="/host">關於主廚</a></div>
+    <div class="button"><a href="/guests">來賓陣容</a></div>
+    <div class="button"><a href="/episodes">所有集數</a></div>
+    <div class="button"><a href="/contact">合作聯繫</a></div>
+  </div>
 </div>
 
 {% assign use_img = true %}
@@ -45,8 +51,21 @@ color: #ffffff;">
 {% include post-preview-grid.html %}
 
 <div class="campaign">
-  <div class="slogan"><b>最新 BLOG 文章</b></div>
-  <div class="message"><a href="all-posts">點此瀏覽所有 BLOG 文章</a></div>
+  <div class="slogan">地圖、圖表</div>
+  <div class="button-container">
+    <div class="button"><a href="/maps">所有地圖</a></div>
+  </div>
+</div>
+
+{% assign use_img = true %}
+{% assign posts = site.maps | reverse | slice: 0, 3 %}
+{% include post-preview-grid.html %}
+
+<div class="campaign">
+  <div class="slogan">BLOG</div>
+  <div class="button-container">
+    <div class="button"><a href="/maps">所有文章</a></div>
+  </div>
 </div>
 
 {% assign use_img = false %}
@@ -54,7 +73,7 @@ color: #ffffff;">
 {% include post-preview-grid.html %}
 
 <div class="campaign">
-  <div class="slogan"><b>旅行記事精選</b></div>
+  <div class="slogan">旅行記事</div>
 </div>
 
 {% assign use_img = false %}
