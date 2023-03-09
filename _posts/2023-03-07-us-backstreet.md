@@ -40,7 +40,9 @@ excerpt: 主廚Jerome的第一本文字作品出版了！來看看這本書的�
 
 <div style="font-size: 24px; text-align: center; margin: 40px 0 20px">電子書購買</div>
 
-<div style="text-align: center">尚在製作中，敬請稍候</div>
+<a href="https://www.kobo.com/us/zh/ebook/a4EJMJ1VSju5wlxfpd8CJQ"><img src="https://kbstatic1-a.akamaihd.net/1.0.1.2991/Images/logos/rakuten-kobo-landscape.png" style="width: 152px"></a>
+
+<div style="text-align: center">其他平台尚在製作中，敬請稍候</div>
 
 ## 讀者回饋方案
 
