@@ -8,7 +8,7 @@ layout: default
   {% assign map_name = page.id | replace: '/map/', '' %}
   {% assign related_episodes = site.episodes | where_exp: "item", "item.maps contains map_name" %}
   <div class="related-items-list">
-    <div>相關集數</div>
+    {% if related_episodes.size > 0 %}<div>相關集數</div>{% endif %}
     {% for episode in related_episodes %}
       <div><a href="{{episode.url}}">{{episode.episode}}</a></div>
     {% endfor %}
