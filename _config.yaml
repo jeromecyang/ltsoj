@@ -1,8 +1,8 @@
 # Site Build Settings
 future: true
 
-# jekyll-paginate configuration
-paginate:            50
+# jekyll-paginate configuration - disabled
+# paginate:            50
 
 # Build settings
 markdown:            kramdown
