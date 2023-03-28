@@ -28,27 +28,32 @@ excerpt: 主廚Jerome的第一本文字作品出版了！來看看這本書的�
 
 這不是一本旅行景點指南，也不是一本文化觀察筆記。這是一本探索冷門地點的採訪記實，讓你跟著旅居美國多年、喜愛挖掘角落故事的Jerome，一起去發現美利堅不為人知的那一面！
 
-<div style="font-size: 24px; text-align: center; margin: 40px 0 20px">實體書線上購買</div>
+## 購買實體書
 
-<a href="https://www.books.com.tw/products/0010950525"><img src="https://imgur.com/YrgG7mI.jpg" style="width: 152px"></a>
+* [博客來](https://www.books.com.tw/products/0010950525)
+* [誠品](https://www.eslite.com/product/1001110932682340464001)
+* [讀冊生活](https://www.taaze.tw/products/11101004213.html)
+* [樂天書城](https://www.rakuten.com.tw/shop/rbook/product/2017520059805/)
 
-<a href="https://www.eslite.com/product/1001110932682340464001"><img src="https://www.eslite.com/_nuxt/img/logo_r.4f98ab7.png" style="width: 152px"></a>
+## 購買電子書
 
-<a href="https://www.taaze.tw/products/11101004213.html"><img src="https://www.taaze.tw/new_ec/rwd/include/images/A_image/btn/logo@2x.png" style="width: 152px"></a>
-
-<a href="https://www.rakuten.com.tw/shop/rbook/product/2017520059805/"><img src="https://tshop.r10s.com/fb6/a17/92a7/d252/c0b7/b177/71e2/11c5eb9d670242ac110003.png?_ex=200x200" style="width: 152px; height: 80px; object-fit: cover; object-position: 100% 20%"></a>
-
-<div style="font-size: 24px; text-align: center; margin: 40px 0 20px">電子書購買</div>
-
-<a href="https://www.kobo.com/us/zh/ebook/a4EJMJ1VSju5wlxfpd8CJQ"><img src="https://kbstatic1-a.akamaihd.net/1.0.1.2991/Images/logos/rakuten-kobo-landscape.png" style="width: 152px"></a>
-
-<div style="text-align: center">其他平台尚在製作中，敬請稍候</div>
+* [Amazon](https://bit.ly/42tunD)
+* [博客來](http://bit.ly/409XKJu)
+* [Google Play](https://bit.ly/3nmYLzn)
+* [Readmoo](https://bit.ly/42wv52N)
+* [KOBO](https://bit.ly/3F2q7R4)
+* [UDN讀書吧](http://bit.ly/3TPMcc6)
+* [BOOK WALKER](http://bit.ly/4050Uy2)
+* [Hami書城](http://bit.ly/42FrGi7)
+* [HyRead](https://bit.ly/3JFNH7V)
+* [Pubu](http://bit.ly/3FMjW45)
+* [讀冊生活](http://bit.ly/40xINkh)
 
 ## 讀者回饋方案
 
 只要購買此書，讀後在社群媒體（FB、IG等）或網路書店留下您的心得或評價，並且填寫以下表單，即可獲得主廚提供的紀念品一份！
 
-（表單製作中）
+[>> 填寫表單索取讀者回饋小禮 <<](https://forms.gle/dNK58bswZDbt27T3A)
 
 ## 目錄
 
