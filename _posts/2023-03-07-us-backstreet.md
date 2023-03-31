@@ -37,7 +37,7 @@ excerpt: 主廚Jerome的第一本文字作品出版了！來看看這本書的�
 
 ## 購買電子書
 
-* [Amazon](https://bit.ly/42tunD)
+* [Amazon](https://www.amazon.com/dp/B0BZ8DJWGZ/)
 * [博客來](http://bit.ly/409XKJu)
 * [Google Play](https://bit.ly/3nmYLzn)
 * [Readmoo](https://bit.ly/42wv52N)
