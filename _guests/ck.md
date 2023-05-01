@@ -4,6 +4,7 @@ subtitle: 中亞之心 FUN絲路
 image: https://imgur.com/mDHmYao.jpg
 facebook: https://www.facebook.com/ck.funsilkroad/
 website: https://www.taisilk.org.tw/
+highlight: true
 ---
 CK 郭麗敏，常被中亞人說長得像中亞人的台客。
 

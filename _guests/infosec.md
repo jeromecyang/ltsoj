@@ -5,6 +5,7 @@ instagram: https://www.instagram.com/infosec.zip
 website: https://infosecdecompress.com/
 subtitle: 資安工程師．《資安解壓縮》Podcaster
 image: https://infosecdecompress.com/photo.jpg
+highlight: true
 ---
 
 Jeff，「資安解壓縮」podcast製作主持人，目前於業界從事資安分析工作。
