@@ -6,7 +6,7 @@ layout: null
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:psc="https://podlove.org/simple-chapters/">
   <channel>
-    <title>旅行熱炒店</title>
+    <title>旅行熱炒店：世界地理人文知識頻道</title>
     <link>https://ltsoj.com/</link>
     <language>zh-tw</language>
     <copyright>℗ &amp; © {{site.time|date:"%Y"}} {{site.author}}</copyright>
