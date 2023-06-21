@@ -16,7 +16,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "旅行熱炒店PODCAST X JEROME"
-description:	       "一邊旅行，一邊挖掘各地多元的人群、地方與議題！"
+description:	       "一邊旅行，一邊認識各地多元的人群、地方與議題！"
 author:              "Jerome Yang"
 thumbnail:           "https://imgur.com/UcBMib5.jpg"
 website:             "https://ltsoj.com/"
