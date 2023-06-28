@@ -64,14 +64,13 @@
 
   .slogan {
     font-size: 48px;
-    margin: 10px auto;
     font-weight: 400;
   }
 
   .message {
     color: #555;
     font-size: 14px;
-    margin: 0 auto 10px;
+    margin: 0 auto;
     max-width: 720px;
   }
 
@@ -104,7 +103,7 @@
   flex-direction: column;
   justify-content: center;
   min-height: 400px;
-  background-image: url(https://imgur.com/lXSX3Ys.jpg);
+  background-color: #ff5757;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,14 +112,12 @@
   .slogan {
     font-size: 72px;
     font-weight: 500;
-    background-color: rgba(0, 0, 0, 0.5);
   }
 
   .message {
     color: #ffffff;
     font-size: 22px;
     font-weight: 400;
-    background-color: rgba(0, 0, 0, 0.5);
   }
 
   .button-container>div {
