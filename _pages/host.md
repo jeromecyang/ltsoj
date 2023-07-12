@@ -2,8 +2,10 @@
 title: 關於旅行熱炒店主廚 Jerome Yang
 ---
 
-<img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/2946/2946176.png">
-<div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<!-- <img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/2946/2946176.png">
+<div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+
+![](https://imgur.com/Jp9uV72.jpg)
 
 ### 主廚是誰？
 
@@ -13,11 +15,11 @@ Jerome Yang，旅行熱炒店的製作主持人，俗稱主廚，偶爾也被部
 
 ### 主廚的學經歷背景？
 
-高中自然組出身，不討厭數理但更喜歡社會人文，大學讀地理學與社會學，後來赴美讀碩士班時，因為獎學金考量而選擇地理資訊系統（GIS）專業，之後進入軟體科技業，從事前端使用者界面開發至今。
+高中自然組出身，不討厭數理但更喜歡社會人文，大學讀地理學與社會學，後來赴美讀碩士班時，因為獎學金考量而選擇地理資訊系統（GIS）專業，之後進入軟體科技業，從事前端使用者界面開發至今。工作以外大部分時間都在到處探索、閱讀關於世界各地的故事。
 
 ### 主廚是哪裡人？
 
-土生土長台灣人，出生成長於台北，小學時曾經三年居住在屏東恆春，但家族其實是嘉義海線人。因為從小就喜歡往外跑，對整個台灣本島都還算熟悉。
+土生土長台灣人，出生成長於台北，小學時曾經三年居住在屏東恆春，但家族其實是嘉義海線人。因為從小就喜歡往外跑，對整個台灣本島都還算熟悉。目前暫居於美國加州。
 
 ### 主廚在什麼機緣下開始旅行？
 
@@ -25,7 +27,7 @@ Jerome Yang，旅行熱炒店的製作主持人，俗稱主廚，偶爾也被部
 
 ### 主廚是全職創作者嗎？靠什麼養活自己？
 
-主廚是一位朝九晚五的死上班族，在科技業裡擔任一位小小基層工程師餬口，每天在辦公室最關心兩件事：1.中午要吃什麼、2.好想下班。
+主廚是一位朝九晚五的上班族，在科技業裡擔任一位小小基層工程師餬口，每天在辦公室最關心兩件事：1.中午要吃什麼、2.好想下班。
 
 幸運的是主廚很少加班，能夠利用下班後的餘裕製作節目。上班累了就靠創作充電，創作累了就回覆上班模式充電。
 
