@@ -21,6 +21,12 @@ author:              "Jerome Yang"
 thumbnail:           "https://imgur.com/BZpD6XW.jpg"
 website:             "https://ltsoj.com/"
 email:               "travel.wok@ltsoj.com"
+feed:
+  posts_limit: 20
+  collections:
+    - posts
+    - episodes
+    - maps
 
 # Defaults
 defaults:
