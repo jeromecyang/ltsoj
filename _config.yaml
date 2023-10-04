@@ -24,9 +24,12 @@ email:               "travel.wok@ltsoj.com"
 feed:
   posts_limit: 20
   collections:
-    - posts
-    - episodes
-    - maps
+    posts:
+      path: "/posts.xml"
+    episodes:
+      path: "/feed.xml"
+    maps:
+      path: "/maps.xml"
 
 # Defaults
 defaults:
