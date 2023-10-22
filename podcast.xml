@@ -6,23 +6,24 @@ layout: null
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:psc="https://podlove.org/simple-chapters/">
   <channel>
-    <title>旅行熱炒店：世界地理人文探索頻道</title>
-    <link>https://ltsoj.com/</link>
+    <title>{{site.title}}</title>
+    <link>{{site.website}}</link>
     <language>zh-tw</language>
     <copyright>℗ &amp; © {{site.time|date:"%Y"}} {{site.author}}</copyright>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Places &amp; Travel" />
     </itunes:category>
-    <itunes:explicit>clean</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:subtitle>{{site.description}}</itunes:subtitle>
     <itunes:author>{{site.description}}</itunes:author>
-    <itunes:summary><![CDATA[{% include podcast-intro.html %}]]></itunes:summary>
     <description><![CDATA[{% include podcast-intro.html %}]]></description>
     <image>
       <url>{{site.thumbnail}}</url>
+      <title>{{site.title}}</title>
+      <link>{{site.website}}</link>
     </image>
     <itunes:owner>
-      <itunes:name>旅行熱炒店主廚Jerome</itunes:name>
+      <itunes:name>{{site.author_title}}</itunes:name>
       <itunes:email>{{site.email}}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{site.thumbnail}}" />
@@ -30,9 +31,7 @@ layout: null
   {% for episode in episodes %}
     <item>
       <title>{{episode.title | replace: '&', '&amp;'}}</title>
-      <itunes:author>旅行熱炒店主廚Jerome</itunes:author>
-      <itunes:subtitle><![CDATA[{% include episode-description.html %}]]></itunes:subtitle>
-      <itunes:summary><![CDATA[{% include episode-description.html %}]]></itunes:summary>
+      <itunes:author>{{site.author_title}}</itunes:author>
       <itunes:image href="{{episode.image}}"/>
       <enclosure type="audio/mpeg" url="https://chtbl.com/track/782GB8/jeromecyang.github.io/{{episode.filepath}}" length="392741"/>
       <guid isPermaLink="false">{{episode.guid}}</guid>
