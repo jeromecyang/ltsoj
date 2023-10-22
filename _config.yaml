@@ -16,11 +16,12 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "旅行熱炒店：世界地理人文探索頻道"
-description:	       "跟著我們一邊旅行，一邊認識各地多元的人事物！"
+description:	       "認真深入介紹各國地理人文的旅行節目"
 author:              "Jerome Yang"
 thumbnail:           "https://imgur.com/BZpD6XW.jpg"
 website:             "https://ltsoj.com/"
 email:               "travel.wok@ltsoj.com"
+author_title:        "旅行熱炒店主廚Jerome"
 feed:
   posts_limit: 20
   collections:
