@@ -28,3 +28,11 @@ title: 關於旅行熱炒店PODCAST
 * 主持人麥克風為[Blue Yeti](https://www.bluemic.com/en-us/products/yeti/)，於自家房間衣廚內錄音。
 * 利用[Github Pages](https://pages.github.com/)放置[RSS feed](https://ltsoj.com/podcast.xml)與音檔，並未使用任何hosting平台。
 * 以Chartable監測收聽表現。
+
+### 非營利組織及教育合作
+
+* 中華航空機上個人娛樂系統聲音內容，[《旅行熱炒店EP123：從這裡出發，航向世界：當南島支架大洋舟來到台東部落》](/podcast-ep123)。
+* 寶鼎出版書籍掛名推薦，[《地圖下的風起雲湧：烽火又起》](https://www.books.com.tw/products/0010959689)。
+* One-Forty 社團法人台灣四十分之一移工教育文化協會，[《EP130 「聲」入印尼街小旅行，聽見移工的生活日常》](/podcast-ep130)
+* Teach For Taiwan 為台灣而教，於Instagram協助宣傳計畫成員招募。
+* 國際特赦組織台灣分會，[《EP119 他們在50°C艷陽下揮汗，蓋起卡達世界盃的比賽場館》](/podcast-ep119)
