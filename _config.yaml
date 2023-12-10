@@ -22,15 +22,6 @@ thumbnail:           "https://imgur.com/BZpD6XW.jpg"
 website:             "https://ltsoj.com/"
 email:               "travel.wok@ltsoj.com"
 author_title:        "旅行熱炒店主廚Jerome"
-feed:
-  posts_limit: 20
-  collections:
-    posts:
-      path: "/posts.xml"
-    episodes:
-      path: "/feed.xml"
-    maps:
-      path: "/maps.xml"
 
 # Defaults
 defaults:
