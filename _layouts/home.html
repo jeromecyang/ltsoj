@@ -12,16 +12,16 @@ title: Home
 <div class="campaign">
   <div class="slogan">PODCAST</div>
   <div class="button-container">
-    <div class="button"><a href="/podcast">關於我們</a></div>
+    <div class="button"><a href="/podcast">關於節目</a></div>
     <div class="button"><a href="/host">關於主廚</a></div>
     <div class="button"><a href="/guests">來賓陣容</a></div>
-    <div class="button"><a href="/episodes">所有集數</a></div>
+    <div class="button"><a href="/categories">目錄索引</a></div>
     <div class="button"><a href="/contact">合作聯繫</a></div>
   </div>
 </div>
 
 {% assign use_img = true %}
-{% assign posts = site.episodes | reverse | slice: 0, 3 %}
+{% assign posts = site.episodes | reverse | slice: 0, 6 %}
 {% include post-preview-grid.html %}
 
 <div class="campaign">
@@ -43,14 +43,6 @@ title: Home
 </div>
 
 {% assign use_img = false %}
-{% assign posts = site.posts | slice: 0, 3 %}
-{% include post-preview-grid.html %}
-
-<div class="campaign">
-  <div class="slogan">TRIPS</div>
-</div>
-
-{% assign use_img = false %}
 {% assign featured_posts = site.posts | where: 'featured', 'true' %}
-{% assign posts = site.data.settings.features | concat: featured_posts %}
+{% assign posts = featured_posts | concat: site.data.settings.features %}
 {% include post-preview-grid.html %}

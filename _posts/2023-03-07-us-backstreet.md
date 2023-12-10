@@ -5,6 +5,7 @@ layout: post
 permalink: 2023/03/07/us-backstreet
 image: https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/095/05/0010950525.jpg&w=300&h=300
 excerpt: 主廚Jerome的第一本文字作品出版了！來看看這本書的介紹、在哪裡可以購買，以及主廚特別提供的讀者回饋方案吧！
+featured: true
 ---
 ![](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/095/05/0010950525.jpg&w=600&h=600)
 
