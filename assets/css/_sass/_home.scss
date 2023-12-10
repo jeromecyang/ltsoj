@@ -103,11 +103,11 @@
   flex-direction: column;
   justify-content: center;
   min-height: 400px;
-  background-color: #ff5757;
+  // background-color: #ff5757;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #ffffff;
+  // color: #ffffff;
 
   .slogan {
     font-size: 72px;
@@ -115,7 +115,7 @@
   }
 
   .message {
-    color: #ffffff;
+    // color: #ffffff;
     font-size: 22px;
     font-weight: 400;
   }
@@ -123,7 +123,7 @@
   .button-container>div {
     a {
       text-decoration: none !important;
-      color: #ffffff !important;
+      color: #737373 !important;
     }
 
     i {
