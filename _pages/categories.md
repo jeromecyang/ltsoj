@@ -1,24 +1,24 @@
 ---
 layout: default
-title: 節目集數索引（依地區、議題分類）
+title: 內容索引（依地區、議題分類）
 tags:
 - Southeast Asia
 - South Asia
 - Central Asia
 - Caucasus
-- Eastern Europe
 - Middle East
 - North Africa
 - West Africa
 - East Africa
+- Eastern Europe
 - Southeastern Europe
 - Central Europe
 - Northern Europe
 - Western Europe
 - Southern Europe
 - US Northeast
-- US Midwest
 - US South
+- US Midwest
 - US West
 - Alaska
 - North America
@@ -36,19 +36,19 @@ translation:
   South Asia: 南亞
   Central Asia: 中亞
   Caucasus: 高加索
-  Eastern Europe: 東歐
   Middle East: 中東
   North Africa: 北非
   West Africa: 西非
   East Africa: 東非
+  Eastern Europe: 東歐
   Southeastern Europe: 東南歐
   Central Europe: 中歐
   Northern Europe: 北歐
   Western Europe: 西歐
   Southern Europe: 南歐
   US Northeast: 美國東北部
-  US Midwest: 美國中西部
   US South: 美國南部
+  US Midwest: 美國中西部
   US West: 美國西部
   Alaska: 阿拉斯加
   North America: 北美
