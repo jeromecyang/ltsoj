@@ -1,6 +1,47 @@
 ---
 layout: default
 title: 內容索引（依地區、議題分類）
+areas:
+  Asia:
+  - Taiwan
+  - Northeast Asia
+  - Southeast Asia
+  - South Asia
+  - Central Asia
+  - Caucasus
+  - Middle East
+  Africa:
+  - North Africa
+  - West Africa
+  - East Africa
+  Europe:
+  - Eastern Europe
+  - Southeastern Europe
+  - Central Europe
+  - Northern Europe
+  - Western Europe
+  - Southern Europe
+  Americas:
+  - US Northeast
+  - US South
+  - US Midwest
+  - US West
+  - Alaska
+  - North America
+  - Central America
+  - Caribbean
+  - South America
+  Oceania:
+  - Oceania
+topics:
+- Immigration
+- Sustainability
+- Landscape
+- Indigenous
+- Outdoor
+- Food
+- Q&A
+- Other
 tags:
 - Southeast Asia
 - South Asia
@@ -29,9 +70,19 @@ tags:
 - Northeast Asia
 - Taiwan
 - Immigration
+- Sustainability
+- Landscape
+- Indigenous
+- Outdoor
+- Food
 - Q&A
 - Other
 translation:
+  Asia: 亞洲
+  Africa: 非洲
+  Europe: 歐洲
+  Americas: 美洲
+  Oceania: 大洋洲
   Southeast Asia: 東南亞
   South Asia: 南亞
   Central Asia: 中亞
@@ -58,22 +109,50 @@ translation:
   Oceania: 大洋洲
   Northeast Asia: 東北亞
   Taiwan: 台灣
-  Immigration: 移民與難民
+  Immigration: 人口遷移
+  Sustainability: 環境與永續
+  Landscape: 特殊地景
+  Indigenous: 原住民
+  Outdoor: 戶外運動
+  Food: 飲食文化
+  Q&A: Q&A
   Other: 其他
 ---
-<div class="page-content">
-
 <h1>{{ page.title }}</h1>
 <p>旅行熱炒店至今製作過的內容，涵蓋了世界上的許多不同地區與議題。若您想快速找到關於某個地區或是議題的集數，歡迎利用下面的分類清單與地圖！</p>
 
-{% for tag in page.tags %}
-  {% assign episodes = site.episodes | where_exp: "item", "item.tags contains tag" | reverse %}
-  <h2>{{page.translation[tag]}} {{tag}} ({{episodes.size}})</h2>
-  <ul>
-  {% for episode in episodes %}
-    <li><a href="{{ episode.url }}">{{ episode.title }}</a></li>
-  {% endfor %}
-  </ul>
+### 依地區分類
+
+{% for area in page.areas %}
+  <div style="display: flex; flex-wrap: wrap">
+    {% assign continent = area[0] %}
+    {% assign regions = area[1] %}
+    <div style="margin: 8px 4px 8px 0">{{page.translation[continent]}}</div>
+    {% for region in regions %}
+    <div style="background-color: #eeeeee; margin: 4px; padding: 4px 8px; border-radius: 16px">
+      <a href="#{{region}}" style="text-decoration: none">{{page.translation[region]}}</a>
+    </div>
+    {% endfor %}
+  </div>
 {% endfor %}
 
+### 依議題分類
+
+<div style="display: flex; flex-wrap: wrap">
+  {% for topic in page.topics %}
+  <div style="background-color: #eeeeee; margin: 4px; padding: 4px 8px; border-radius: 16px">
+    <a href="#{{topic}}" style="text-decoration: none">{{page.translation[topic]}}</a>
+  </div>
+  {% endfor %}
 </div>
+---
+
+{% for tag in page.tags %}
+  {% assign episodes = site.episodes | where_exp: "item", "item.tags contains tag" | reverse %}
+  <h3 id="{{tag}}">{{page.translation[tag]}} ({{episodes.size}})</h3>
+  {% for episode in episodes %}
+  <div style="font-size: 0.9rem; margin: 8px 0">
+    <a href="{{ episode.url }}" style="text-decoration: none">{{ episode.title }}</a>
+  </div>
+  {% endfor %}
+{% endfor %}
