@@ -149,7 +149,8 @@ translation:
 
 {% for tag in page.tags %}
   {% assign episodes = site.episodes | where_exp: "item", "item.tags contains tag" | reverse %}
-  <h3 id="{{tag}}">{{page.translation[tag]}} ({{episodes.size}})</h3>
+  <div id="{{tag}}" style="position: relative; top: -56px"></div>
+  <h3>{{page.translation[tag]}} ({{episodes.size}})</h3>
   {% for episode in episodes %}
   <div style="font-size: 0.9rem; margin: 8px 0">
     <a href="{{ episode.url }}" style="text-decoration: none">{{ episode.title }}</a>
