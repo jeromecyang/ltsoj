@@ -1,10 +1,6 @@
 ---
 title: 關於旅行熱炒店主廚 Jerome Yang
 ---
-
-<!-- <img class="flaticon" src="https://cdn-icons-png.flaticon.com/512/2946/2946176.png">
-<div class="attribution">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
-
 ![](https://imgur.com/Jp9uV72.jpg)
 
 ### 主廚是誰？
@@ -53,6 +49,12 @@ Jerome Yang，旅行熱炒店的製作主持人，俗稱主廚，偶爾也被部
 
 ### 演講經歷
 
+* 國際特赦組織寫信馬拉松，2023/12/2。
+* 台灣大學地理環境資源學系，2023/12/1。
+* 東海大學工業設計學系，2023/11/30。
+* 高雄市立高雄女子高級中學，2023/11/29。
+* 新北市立林口高級中學，2023/11/28。
+* 《欣講堂》旅行講座，2023/11/26。
 * 迪威智能創作者講堂，「整個世界都是我的錄音室！極限運動與深度旅行節目主持人的創作之道」，2023/7/30。
 * 新北市立秀峰高中社會科教師研習，「旅行熱炒店——主廚旅遊經驗與教學實務結合」，2022/12/21。
 * 2022紐英崙中華專業人員協會年會，「用聲音帶大家去旅行，一位背包客的 Podcast 創作之路」，2022/10/22。
@@ -61,6 +63,7 @@ Jerome Yang，旅行熱炒店的製作主持人，俗稱主廚，偶爾也被部
 
 ### 非營利組織及教育合作
 
+* ICRT 台北國際社區廣播電台，[《SP9 挑戰用英文介紹大稻埕歷史與旅行！與ICRT合作特別篇》](/podcast-sp009)
 * 中華航空機上個人娛樂系統聲音內容，[《旅行熱炒店EP123：從這裡出發，航向世界：當南島支架大洋舟來到台東部落》](/podcast-ep123)。
 * 寶鼎出版書籍掛名推薦，[《地圖下的風起雲湧：烽火又起》](https://www.books.com.tw/products/0010959689)。
 * One-Forty 社團法人台灣四十分之一移工教育文化協會，[《EP130 「聲」入印尼街小旅行，聽見移工的生活日常》](/podcast-ep130)
