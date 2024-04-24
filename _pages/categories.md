@@ -51,6 +51,7 @@ tags:
 - North Africa
 - West Africa
 - East Africa
+- Southern Africa
 - Eastern Europe
 - Southeastern Europe
 - Central Europe
@@ -91,6 +92,7 @@ translation:
   North Africa: 北非
   West Africa: 西非
   East Africa: 東非
+  Southern Africa: 南部非洲
   Eastern Europe: 東歐
   Southeastern Europe: 東南歐
   Central Europe: 中歐
