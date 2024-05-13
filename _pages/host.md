@@ -39,6 +39,12 @@ Jerome Yang，旅行熱炒店的製作主持人，俗稱主廚，偶爾也被部
 
 沒有，製作這個節目之前沒有製作聲音媒體經驗，現在一邊做一邊向前輩們學習。
 
+### 可以邀請主廚演講嗎？
+
+當然可以，非常樂意！不過要留意的是，主廚大部分時候在美國工作，若是其他地區的演講通常僅能以線上進行。台灣部分若要邀請實體演講，歡迎利用返台期間（通常為每年的年底）邀約。
+
+以下主題演講都歡迎邀約：深度史地人文分享、自助旅行經驗、社會與環境議題、社會科教學、聲音與圖文創作等。
+
 ### 播放清單：主廚於各大節目受訪
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1LzK6nj1RI2bZMY5WWwzRm?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -49,6 +55,7 @@ Jerome Yang，旅行熱炒店的製作主持人，俗稱主廚，偶爾也被部
 
 ### 演講經歷
 
+* 成功大學創意產業研究所，「Travel Creativity: Embrace Local Culture and Enrich Your Journeys!」（英語演講），2024/5/7。
 * 高雄市立小港高級中學，「人生就是一趟自助旅行：大圭亞那地區旅行分享」，2024/4/2。
 * 台北市立數位實驗高級中學，「前進美洲西海岸：俄羅斯、西班牙，以及翻山越嶺、飄洋過海而來的人」，2024/3/20。
 * 新北市立林口高級中學，「前進美洲西海岸：俄羅斯、西班牙，以及翻山越嶺、飄洋過海而來的人」，2024/3/12。
