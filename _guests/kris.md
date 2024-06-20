@@ -1,7 +1,7 @@
 ---
 title: Kris
 subtitle: 旅見步鮮
-image: https://imgur.com/yblNJqt.jpg
+image: https://imgur.com/7jicl2b.jpg
 instagram: https://www.instagram.com/krzyszmitjeong88/
 website: https://crossing.cw.com.tw/author/1227
 ---
