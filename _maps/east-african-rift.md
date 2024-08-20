@@ -1,10 +1,10 @@
 ---
 date: 2021-10-10
 title: 湖泊、火山與國界的幕後推手，東非大裂谷
-image: https://imgur.com/N28R2fu.jpg
+image: https://i.imgur.com/N28R2fu.jpg
 ---
 
-![](https://imgur.com/N28R2fu.jpg)
+![](https://i.imgur.com/N28R2fu.jpg)
 
 在EP72中，我們介紹了馬拉威境內最重要的水體：馬拉威湖。如果我們把地圖打開，會發現除了馬拉威湖之外，還有好幾個長條狀的水體如圖爾卡納湖、坦干依克湖等，它們的形成，背後都有一位共同的幕後推手：東非大裂谷（East African Rift）。
 

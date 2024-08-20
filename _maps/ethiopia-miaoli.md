@@ -1,9 +1,9 @@
 ---
 date: 2022-01-03
 title: 苗栗共和國與衣索比亞聯邦民主共和國
-image: https://imgur.com/XMmRL7d.jpg
+image: https://i.imgur.com/XMmRL7d.jpg
 ---
-![](https://imgur.com/XMmRL7d.jpg)
+![](https://i.imgur.com/XMmRL7d.jpg)
 
 由於多位讀者/聽眾表示第一眼看到衣索比亞以為是苗栗國的行政區劃，故製作此圖讓各位看倌鑑定一下到底像不像。純粹博君一笑，切勿認真謝謝🤪
 

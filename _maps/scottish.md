@@ -1,9 +1,9 @@
 ---
 date: 2021-02-09
 title: 蘇格蘭的三種本地語言
-image: https://imgur.com/LQ9j0ir.jpg
+image: https://i.imgur.com/LQ9j0ir.jpg
 ---
 
-![](https://imgur.com/LQ9j0ir.jpg)
+![](https://i.imgur.com/LQ9j0ir.jpg)
 
 蘇格蘭雖然主要通行語言是英文，其實當地還有兩種本地語言：一種是源自古愛爾蘭語的蘇格蘭蓋爾語，是一種凱爾特語言（Celtic language），與愛爾蘭語接近，但是目前使用者極少；另一種是源自古英語的蘇格蘭語，和當代英語結構上相似，但在發音與用字上有所不同，英語使用者可以理解部分，推薦熟悉英文的人可以去找影片，看看自己能夠聽懂多少。

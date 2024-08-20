@@ -1,10 +1,10 @@
 ---
 date: 2021-03-27
 title: 我在火車上待了128小時：橫貫歐亞大陸旅行
-image: https://imgur.com/FvPF0Qd.jpg
+image: https://i.imgur.com/FvPF0Qd.jpg
 ---
 
-![](https://imgur.com/FvPF0Qd.jpg)
+![](https://i.imgur.com/FvPF0Qd.jpg)
 
 EP44裡分享的西伯利亞鐵路旅行，事實上是我2018年橫貫歐亞大陸旅行的其中一部份；加上解鎖地球EP60與EP61分享的中亞段、以及還未分享過的中國段，就是這趟旅程的全貌。因此既然要配合節目內容畫地圖，那就乾脆全程都畫出來好了～
 

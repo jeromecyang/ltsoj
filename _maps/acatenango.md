@@ -1,10 +1,10 @@
 ---
 date: 2021-02-02
 title: 娘娘不要走火山絕交事件現場
-image: https://imgur.com/rq0ypC8.jpg
+image: https://i.imgur.com/rq0ypC8.jpg
 ---
 
-![](https://imgur.com/rq0ypC8.jpg)
+![](https://i.imgur.com/rq0ypC8.jpg)
 
 EP36的搭配服用圖說來啦！！
 

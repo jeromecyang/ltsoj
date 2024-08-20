@@ -1,9 +1,9 @@
 ---
 date: 2022-05-22
 title: 滋養中南半島的母親之河，湄公河
-image: https://imgur.com/GiUHY6J.jpg
+image: https://i.imgur.com/GiUHY6J.jpg
 ---
-![](https://imgur.com/GiUHY6J.jpg)
+![](https://i.imgur.com/GiUHY6J.jpg)
 
 湄公河雖然貴為亞洲第七長河，但或許因為在漢族世界觀裡重要性不如黃河、長江，印象中地理課本不會將它整條完整畫出；因此作為EP102的補充，我找出了湄公河的流路，並且將途中經過的地點一一標出，發現幾件有趣的事情：
 

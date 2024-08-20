@@ -1,10 +1,10 @@
 ---
 date: 2020-12-20
 title: 國際特快車：連結多個移民社區的紐約地鐵7號線
-image: https://imgur.com/mmfU6u5.jpg
+image: https://i.imgur.com/mmfU6u5.jpg
 ---
 
-![](https://imgur.com/mmfU6u5.jpg)
+![](https://i.imgur.com/mmfU6u5.jpg)
 
 紐約地鐵7號線因為經過多個移民社區，素有「國際特快車」之稱，而且這條路線還被規劃為國家步道系統的一部份，可見其在歷史上的重要性。透過將地鐵路線與人口數據相疊，我們可以更進一步看到7號線沿線的人口組成變化。
 

@@ -1,10 +1,10 @@
 ---
 date: 2020-08-05
 title: 克里米亞半島
-image: https://imgur.com/YH3tQnf.jpg
+image: https://i.imgur.com/YH3tQnf.jpg
 ---
 
-![](https://imgur.com/YH3tQnf.jpg)
+![](https://i.imgur.com/YH3tQnf.jpg)
 
 正如同墾丁之於台灣、沖繩之於日本，克里米亞對於前蘇聯與俄羅斯人來說，就是個陽光普照、舒適宜人的濱海度假勝地！或許也是因為這樣，才讓1945年2月的雅爾達會議在此舉行，讓史達林、邱吉爾與羅斯福一起到這裡開趴，畢竟整個東歐擁有溫暖冬天的地方並不多。
 

@@ -1,10 +1,10 @@
 ---
 date: 2021-06-02
 title: 從馬拉喀什前進撒哈拉沙漠之路，標準撒哈拉沙漠團路線簡圖
-image: https://imgur.com/5DWu1vS.jpg
+image: https://i.imgur.com/5DWu1vS.jpg
 ---
 
-![](https://imgur.com/5DWu1vS.jpg)
+![](https://i.imgur.com/5DWu1vS.jpg)
 
 在EP52裡，我們介紹了標準的撒哈拉行程：從第一大城馬拉喀什出發，翻過亞特拉斯山，沿路停靠多個景店之後，於第二天下午抵達沙漠邊緣的門戶城市梅如卡（Merzouga），騎著駱駝前往沙丘群另一端的帳篷營地過夜。為了幫助大家了解這段行程以及沿路的地景，就簡單以這張地圖，作為這集節目的補充。
 

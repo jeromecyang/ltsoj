@@ -1,10 +1,10 @@
 ---
 date: 2020-11-19
 title: 最接近第三次世界大戰的時刻：古巴飛彈危機
-image: https://imgur.com/pR1hdV7.jpg
+image: https://i.imgur.com/pR1hdV7.jpg
 ---
 
-![](https://imgur.com/pR1hdV7.jpg)
+![](https://i.imgur.com/pR1hdV7.jpg)
 
 聽完了ep.22裡面古巴飛彈危機的前因後果，身為地圖控馬上就開始手癢，想來挑戰用一張圖把這個事件大致講清楚，於是就有了這個搭配服用圖表！
 

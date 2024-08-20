@@ -1,9 +1,9 @@
 ---
 date: 2022-06-21
 title: 第二次世界大戰期間美國強制拘留日裔人士
-image: https://imgur.com/oSzGl13.jpg
+image: https://i.imgur.com/oSzGl13.jpg
 ---
-![](https://imgur.com/oSzGl13.jpg)
+![](https://i.imgur.com/oSzGl13.jpg)
 
 1942年2月19日，美國總統羅斯福（Franklin D. Roosevelt）簽署9066號行政命令，以危害國家安全為由，要求居住於美國西海岸的近12萬日裔人士遷移到內陸的安置中心，強制拘留則在當年3月27日展開。他們的待遇或許不像同時期納粹手下的猶太裔，或是蘇聯境內的韓裔、克里米亞韃靼人那樣悲慘，但仍是美國歷史上相當黑暗的一章。
 

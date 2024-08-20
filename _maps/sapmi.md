@@ -1,10 +1,10 @@
 ---
 date: 2021-01-30
 title: Sápmi：歐盟境內唯一原住民薩米人的家園
-image: https://imgur.com/U3YKfat.jpg
+image: https://i.imgur.com/U3YKfat.jpg
 ---
 
-![](https://imgur.com/U3YKfat.jpg)
+![](https://i.imgur.com/U3YKfat.jpg)
 
 ep.34與ep.35這兩集我們提到薩米人的現況，包括位於極圈內的傳統領域、橫跨四個國家的分佈（挪威、瑞典、芬蘭、俄羅斯）、民族意識的興起、成立議會與學校等等；透過這張地圖，希望可以把這些資訊與分佈的地點整理在一起，讓大家一目瞭然！也可以順便觀察一下，他們的家園有多大一塊是位於北極圈內。
 

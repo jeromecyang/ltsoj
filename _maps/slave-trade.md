@@ -1,10 +1,10 @@
 ---
 date: 2020-08-31
 title: 被出賣的那些人：大西洋奴隸貿易的出發地與目的地
-image: https://imgur.com/UUXGawE.jpg
+image: https://i.imgur.com/UUXGawE.jpg
 ---
 
-![](https://imgur.com/UUXGawE.jpg)
+![](https://i.imgur.com/UUXGawE.jpg)
 
 在EP.10、EP.11兩集節目裡，我們聊到「大西洋奴隸貿易」（Atlantic Slave Trade，1514-1866），於是我就去找了「奴隸航行資料庫」（Slave Voyages Database）裡面的數據來製圖，讓大家用視覺了解這些被迫遠渡重洋的人究竟是從哪裡來、往哪裡去。
 

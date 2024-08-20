@@ -1,10 +1,10 @@
 ---
 date: 2021-04-06
 title: 智利百內國家公園W Trek健行路線
-image: https://imgur.com/6KTRl8b.jpg
+image: https://i.imgur.com/6KTRl8b.jpg
 ---
 
-![](https://imgur.com/6KTRl8b.jpg)
+![](https://i.imgur.com/6KTRl8b.jpg)
 
 聽完EP.45裡Stanley分享後，照例去找了W Trek的路徑圖，加上一些重要的觀景與住宿點，在這裡跟大家分享。也要特別感謝Stanley額外補充了一些資訊，讓本圖的內容更完整。
 

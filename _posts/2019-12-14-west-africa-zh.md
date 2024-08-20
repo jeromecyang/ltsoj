@@ -6,7 +6,7 @@ title: 西非三國（貝南、多哥、迦納）自助旅行經驗與攻略分�
 tags:
 - West Africa
 permalink: 2019/12/14/west-africa-zh
-image: 'https://imgur.com/JoLD34z.jpg'
+image: 'https://i.imgur.com/JoLD34z.jpg'
 ---
 
 西非可以說是全世界旅遊難度最高、也最少遊客踏足的地區。這裡沒有什麼「一輩子一定要去一次」的景點、旅遊資訊非常稀少，再加上基礎設施的缺乏以及與其他地區的文化差異⋯⋯種種因素都使得西非旅行充滿挑戰；然而，這裡有著別的地方看不到的文化景觀、往昔非洲帝國的遺跡，以及見證奴隸貿易歷史的場景，再加上還未被觀光業污染的太嚴重，這使得西非具有一種讓人覺得「因為神秘、因此更應該前往」的獨特魅力。
@@ -34,7 +34,7 @@ image: 'https://imgur.com/JoLD34z.jpg'
   * [Accra, Ghana 迦納首都與西非先進大城](#accra阿克拉迦納首都與西非先進大城)  
 * [（四）後記](#四後記)
 
-![](https://imgur.com/JoLD34z.jpg)
+![](https://i.imgur.com/JoLD34z.jpg)
 *迦納Cape Coast附近的海岸*
 
 # （一）前言與簡介
@@ -64,22 +64,22 @@ image: 'https://imgur.com/JoLD34z.jpg'
 
 4. 近距離觀察非洲的真正樣貌：今日西非雖然相對貧窮，卻早已不是20幾年前公益廣告裡孩童瘦到見骨的那種面貌，許多國家從獨立早期的混亂中慢慢甦醒，同時卻又持續和高失業率、低經濟發展程度纏鬥著；中國雖然在此大手筆投資，換得的卻是族群之間更強烈的張力。這都是親自拜訪之後才能了解的真實面貌。
 
-![](https://imgur.com/JnooqAQ.jpg)
+![](https://i.imgur.com/JnooqAQ.jpg)
 *貝南的水上聚落Ganvie，至今仍然完整的延續著與水共生的生活方式*
 
 ![](https://www.culturesofwestafrica.com/wp-content/uploads/2019/06/TataSomba-Front-View-min.jpg)
 *位在貝南與多哥北部的Tata Somba民居，是屬於Tammari/Somba族人的獨特建築形式（可惜這次無緣造訪）。[圖片來源](https://www.culturesofwestafrica.com/tata-somba-batammaliba-architecture/)*
 
-![](https://imgur.com/uYN9GCE.jpg)
+![](https://i.imgur.com/uYN9GCE.jpg)
 *Cape Coast Castle，英國人所建的堡壘，當年準備被送往每週的奴隸暫時被囚禁處*
 
-![](https://imgur.com/tI472TD.jpg)
+![](https://i.imgur.com/tI472TD.jpg)
 *Mole National Park的吉普車莽原遊程*
 
-![](https://imgur.com/0rfJWtO.jpg)
+![](https://i.imgur.com/0rfJWtO.jpg)
 *當然，靠海的西非還是有不少悠閒的海灘景點*
 
-![](https://imgur.com/FlIWFPD.jpg)
+![](https://i.imgur.com/FlIWFPD.jpg)
 *真實西非的樣貌，真的要親自來過才能體會*
 
 # （二）出發前準備
@@ -100,7 +100,7 @@ image: 'https://imgur.com/JoLD34z.jpg'
 
 一般來說，從與西非關係密切的國家飛往西非城市比較容易，票價也比較親民，其中一個不錯的策略是先飛到前殖民國家的大城市（例如倫敦、巴黎等），然後再從這些城市飛往西非大城。以我自己的買票經驗來說，原本從美國波士頓來回至少要1,200USD，拆成兩張分開的來回機票（波士頓——倫敦，倫敦——西非）之後省了超過300USD。
 
-![](https://imgur.com/8V8wTg3.jpg)
+![](https://i.imgur.com/8V8wTg3.jpg)
 *貝南的對外門戶科托努機場*
 
 ## 貨幣
@@ -133,7 +133,7 @@ image: 'https://imgur.com/JoLD34z.jpg'
 
 * 迦納·Mole National Park·[Mole Motel](https://molemotelgh.com/home/park/)：居高臨下可以遠眺莽原的平價住宿點，宿舍床位附早餐一晚100GHC，設有餐廳與游泳池，工作人員都相當友善，硬體上來說已經有點年紀，但仍然非常乾淨舒服。
 
-![](https://imgur.com/2OKBnHG.jpg)
+![](https://i.imgur.com/2OKBnHG.jpg)
 *可以一邊居高臨下望著莽原與野生動物、一邊泡在游泳池裡消暑的平價選擇Mole Motel。*
 
 ## 城市間交通
@@ -144,17 +144,17 @@ image: 'https://imgur.com/JoLD34z.jpg'
 
 * 除此之外最方便的則是城市之間的私人運輸，從大巴士、小巴士、廂型車到一班轎車都有，在迦納叫做tro-tro，在其他國家則叫做bush taxi，通常會在集中城市裡的某個特定地點（例如市場或主要交叉路口）發車，坐滿即開；價格一般來說有市場行情，因此殺價空間不大，只要確定自己沒有因為是外國人而被超收費用就好。以下是我搭乘幾段路程的價格：科托努→Ouidah，共乘計程車1,500CFA；Ouidah→Hilla-condji（貝南多哥邊界），共乘計程車2,000CFA；Aflao（多哥迦納邊界）→阿克拉，共乘計程車50GHC；Tamale→Wa，廂型車35GHC；Sawla→Kumasi，廂型車55GHC；Kumasi→Cape Coast，空調大巴45GHC；Cape Coast→阿克拉，空調廂型車25GHC。
 
-![](https://imgur.com/yAIP4U4.jpg)
+![](https://i.imgur.com/yAIP4U4.jpg)
 *STC與VIP這兩家公司的大巴是迦納最安全可靠的交通方式，可惜班次並不多*
 
-![](https://imgur.com/Uu6ytZk.jpg)
+![](https://i.imgur.com/Uu6ytZk.jpg)
 *更常用的方式是和當地人共乘計程車或小巴*
 
 ## 城市內交通
 
 * 貝南與多哥都是以moto-taxi或計程車為主，moto-taxi短程起跳價200CFA，隨距離增加。務必在上車前先將價錢談妥。迦納moto-taxi比較少見，以計程車為主，其中阿克拉與Kumasi兩個城市有Uber，價格比一般計程車還低，也比較可靠，強烈推薦使用！
 
-![](https://imgur.com/LEEjkuD.jpg)
+![](https://i.imgur.com/LEEjkuD.jpg)
 *在貝南與多哥，moto-taxi是比計程車更常見的交通工具，圖中穿著黃色衣服者都是科托努的合法moto-taxi司機*
 
 ## 預算
@@ -247,29 +247,29 @@ image: 'https://imgur.com/JoLD34z.jpg'
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3082.3120055399795!2d2.4253287808115105!3d6.370061958551866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjInMTIuNSJOIDLCsDI1JzMxLjYiRQ!5e1!3m2!1sen!2sus!4v1576353128850!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 *從科托努往西的bush taxi搭車地點，鄰近Marche Saint-Michel*
 
-![](https://imgur.com/rPskgQb.jpg)
+![](https://i.imgur.com/rPskgQb.jpg)
 *科托努聖母院內部一景，正前方牆壁的用色意外的非常極簡、後現代，但外牆則是相當的繽紛*
 
-![](https://imgur.com/c0z2qMr.jpg)
+![](https://i.imgur.com/c0z2qMr.jpg)
 *Dantokpa Market內景象*
 
 ## Ganvie：與水共生的湖中聚落
 
 Ganvie是位於貝南最大城科托努（Cotonou）近郊的一座水上村莊，由一群不願被達荷美王國（Dahomey Kingdom）奴役的居民在18世紀建造，至今仍然住了多達20,000人，家家戶戶都住在水上並且靠船隻進出。雖然許多旅遊指南或網路文章都稱之為「西非的威尼斯」，我卻建議大家不要用威尼斯的眼光來看這裡，因為它不僅僅是個建造在水上的聚落，這裡人們的生活和整個生態系融為一體，這是威尼斯見不到的。
 
-![](https://imgur.com/mHLUanY.jpg)
+![](https://i.imgur.com/mHLUanY.jpg)
 *乘坐遊船參觀Ganvie這個村落*
 
-![](https://imgur.com/np0AmL4.jpg)
+![](https://i.imgur.com/np0AmL4.jpg)
 *Ganvie村內的水上市集，無論小販或是客人都是划船前來*
 
-![](https://imgur.com/PbzMi6u.jpg)
+![](https://i.imgur.com/PbzMi6u.jpg)
 *所有的交通與生活都發生在水上，因此家家戶戶都有船隻，而且每個人都得會划船*
 
-![](https://imgur.com/8yj0qDG.jpg)
+![](https://i.imgur.com/8yj0qDG.jpg)
 *村內典型民居*
 
-![](https://imgur.com/UnV4cco.jpg)
+![](https://i.imgur.com/UnV4cco.jpg)
 *每年9月到11月間為淡水季，布袋蓮會大量生長，漁民也趁這時候在湖裡布網捕魚；之後海水會取代淡水，讓布袋蓮大量死亡，成為養份提供給下一個生長季，如此循環不止。*
 
 ### 如何抵達Ganvie
@@ -289,7 +289,7 @@ Calavi-Kpota交叉路口，叫車時可以跟司機說想前往此地。
 <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3964.5896932489177!2d2.354898813926624!3d6.446693025842054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d6.445931!2d2.354206!4m3!3m2!1d6.4474437!2d2.359969!5e0!3m2!1sen!2sus!4v1575735440602!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 *從交叉路口走到碼頭的路線*
 
-![](https://imgur.com/d5ekjs3.jpg)
+![](https://i.imgur.com/d5ekjs3.jpg)
 *前往Ganvie碼頭的入口處*
 
 ## Ouidah：販奴歷史與巫毒文化
@@ -303,25 +303,25 @@ Ouidah在貝南算是觀光客必定會停留的城市，以販奴歷史及巫�
 
 以上景點除了無歸之門位在市區南邊4公里處的海灘旁，必須另外找moto-taxi前往（500CFA，看個人殺價功力）之外，都在步行可以到達的範圍之內。
 
-![](https://imgur.com/zyvpIjT.jpg)
+![](https://i.imgur.com/zyvpIjT.jpg)
 *Zinsou Foundation，Ouidah市區裡首屈一指的藝術博物館，相當值得一看！*
 
-![](https://imgur.com/7NvMa1d.jpg)
+![](https://i.imgur.com/7NvMa1d.jpg)
 *Ouidah Museum of History，原為葡萄牙人建立的堡壘，做為奴隸交易的據點使用，現提供文物展示以及導覽，個人覺得推薦！*
 
-![](https://imgur.com/lOq1oTn.jpg)
+![](https://i.imgur.com/lOq1oTn.jpg)
 *Python Temple個人覺得是個過譽的景點。圖為出口處的紀念品販賣區。*
 
-![](https://imgur.com/qbTPUBQ.jpg)
+![](https://i.imgur.com/qbTPUBQ.jpg)
 *無歸之門（Gate of No Return），當年奴隸離開家鄉被送往美洲的地方。*
 
-![](https://imgur.com/dW2DSr3.jpg)
+![](https://i.imgur.com/dW2DSr3.jpg)
 *無歸之門附近的千禧年之門Mémorial du grand jubilé de l'an 2000*
 
-![](https://imgur.com/Egeonbg.jpg)
+![](https://i.imgur.com/Egeonbg.jpg)
 *無歸之門附近鄉間早晨風景*
 
-![](https://imgur.com/8IhHVuW.jpg)
+![](https://i.imgur.com/8IhHVuW.jpg)
 *無歸之門附近鄉間早晨風景*
 
 ### 如何抵達Ouidah
@@ -338,13 +338,13 @@ Ouidah位在貝南的沿海公路大動脈上，因此交通並不困難。由�
 
 出入境程序並不難，抵達Hilla-condji後跟著人潮往前走，走出貝南之前先到左手邊的灰色小屋蓋出境章，然後走過兩國之間的邊境區，接著進入多哥之後右邊會有一間外國人辦理落地簽的小木屋，移民官員會以全手動的方式幫你辦落地簽（10,000CFA），然後前往另一間小屋進行入境登記就完成。要注意的是邊界附近的銀行並不提供換錢服務，如果一定要換錢只能找黑市，儘可能只換小額。
 
-![](https://imgur.com/FfLnBHD.jpg)
+![](https://i.imgur.com/FfLnBHD.jpg)
 *貝南境內路上風景*
 
-![](https://imgur.com/vVwnmB7.jpg)
+![](https://i.imgur.com/vVwnmB7.jpg)
 *進入邊境區之前的在貝南側的景色，外國人必須在左側的灰色小屋處蓋出境章*
 
-![](https://imgur.com/8zI5oLN.jpg)
+![](https://i.imgur.com/8zI5oLN.jpg)
 *多哥的國門，辦理落地簽證以及入境的地點位在門右側的白色小屋旁*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3083.0802667440353!2d1.62785251392599!3d6.240836228118215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x10238f4c2a75c4b5%3A0xdc431dd96efe7ebb!2sParc%20auto%20taxi%20Hillacondji%20frontiere!3m2!1d6.2405671!2d1.6338331!4m5!1s0x10238f272b28ff4b%3A0x14be76893931c59!2sParc%20Auto%20taxi!3m2!1d6.2411417!2d1.6264334999999999!5e1!3m2!1sen!2sus!4v1576375414264!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -354,19 +354,19 @@ Ouidah位在貝南的沿海公路大動脈上，因此交通並不困難。由�
 
 在第一次世界大戰之前，多哥是德國的殖民地，當時殖民的行政中心就位於多哥湖邊的Togoville這個聚落；到了今天，Togoville已經成為一個連主要道路都不會經過的小村，但由於這段歷史淵源，加上當地曾有聖母馬利亞顯靈的記事，仍有一些旅行者會選擇特別前往。這個地方雖然看起來平凡，教堂內富有西非色彩的聖像畫，以及搭船過湖的有趣經驗，仍是值得造訪的理由（不過以可看度來說，個人覺得Ganvie還是相對比較有特色）。
 
-![](https://imgur.com/ru3rfyM.jpg)
+![](https://i.imgur.com/ru3rfyM.jpg)
 *前往Togoville必須坐船，從湖上遠遠就可以望見教堂與十字架。*
 
-![](https://imgur.com/zfNzXd4.jpg)
+![](https://i.imgur.com/zfNzXd4.jpg)
 *教堂前廣場的壁畫，紀念聖母在此顯靈的事蹟。*
 
-![](https://imgur.com/Fq6Skdj.jpg)
+![](https://i.imgur.com/Fq6Skdj.jpg)
 *教堂內景象，可以見到畫風和西方截然不同的聖像畫。*
 
-![](https://imgur.com/FVDpKio.jpg)
+![](https://i.imgur.com/FVDpKio.jpg)
 *教堂內景象，可以見到畫風和西方截然不同的聖像畫。*
 
-![](https://imgur.com/9zecDJ7.jpg)
+![](https://i.imgur.com/9zecDJ7.jpg)
 *Togoville村內一隅*
 
 ### 如何抵達Togoville
@@ -386,13 +386,13 @@ Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市�
 
 市區值得一看的地方是市中心的大市集（Marche Grand）以及聖心堂（Cathédrale du Sacré-Cœur de Lomé），也有旅遊指南推薦市區東北方的巫毒教市場Akodessawa Fetish Market。
 
-![](https://imgur.com/bxXW4aQ.jpg)
+![](https://i.imgur.com/bxXW4aQ.jpg)
 *Lome市區旁的海灘，實際上環境和治安都沒有照片上看起來那麼好就是了。*
 
-![](https://imgur.com/WkWSel0.jpg)
+![](https://i.imgur.com/WkWSel0.jpg)
 *當地人在臨海道路旁收網*
 
-![](https://imgur.com/j7Y7gs5.jpg)
+![](https://i.imgur.com/j7Y7gs5.jpg)
 *聖心堂與前方的大市集*
 
 ### 多哥與迦納邊界
@@ -402,7 +402,7 @@ Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市�
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1541.9129279316699!2d1.1975447078424035!3d6.112823065853938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d6.1135106!2d1.2003017999999999!4m5!1s0x10215f743054aac5%3A0xf23ea647ce70f55!2sIntercity%20STC%20Coaches%20LTD%20Bus%20Terminal%2C%20Aflao!3m2!1d6.1121167!2d1.1969834!5e1!3m2!1sen!2sus!4v1576375910258!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 *從多哥入境迦納的步行路線，起點為邊境區的大門，終點為迦納側的計程車與巴士停車場*
 
-![](https://imgur.com/2BtuCUF.jpg)
+![](https://i.imgur.com/2BtuCUF.jpg)
 *進入迦納之後的道路風景*
 
 ## Mole National Park & Larabanga Mosque：小資背包客的莽原之旅，以及西非最古老的清真寺
@@ -411,28 +411,28 @@ Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市�
 
 公園外的Larabanga Mosque則是西非最重要的伊斯蘭聖地。相傳建造於1421年的清真寺，至今仍然維持著以泥土與木桿建造的蘇丹——撒赫爾形式（[Sudano-Sahelian](https://en.wikipedia.org/wiki/Sudano-Sahelian_architecture)），是目前少數外來遊客可以輕易拜訪的同類型建築。（在附近國家如尼日、布吉納法索與馬利境內還有更多而且更加壯觀的同類型建築，但這幾個國家目前局勢非常不穩定，並不適合遊客前往。）
 
-![](https://imgur.com/nHas1YU.jpg)
+![](https://i.imgur.com/nHas1YU.jpg)
 *Larabanga Mosque，伊斯蘭教在西非最重要的聖地。*
 
-![](https://imgur.com/P0D1Exc.jpg)
+![](https://i.imgur.com/P0D1Exc.jpg)
 *Larabanga Mosque的西側（女性）入口*
 
-![](https://imgur.com/4KzpQmu.jpg)
+![](https://i.imgur.com/4KzpQmu.jpg)
 *Mole附近的Mognori生態村，在此可以進入泥造的房屋內參觀。*
 
-![](https://imgur.com/tI472TD.jpg)
+![](https://i.imgur.com/tI472TD.jpg)
 *Mole提供價格相對親民的吉普車莽原遊程*
 
-![](https://imgur.com/lAVU7vY.jpg)
+![](https://i.imgur.com/lAVU7vY.jpg)
 *在Mole期間看到的野生動物*
 
-![](https://imgur.com/cHwPj5h.jpg)
+![](https://i.imgur.com/cHwPj5h.jpg)
 *在Mole期間看到的野生動物*
 
-![](https://imgur.com/ZQNcxZP.jpg)
+![](https://i.imgur.com/ZQNcxZP.jpg)
 *Mole Motel居高臨下，可以眺望莽原全景，早晨及黃昏在這裡就可以直接看到動物。*
 
-![](https://imgur.com/ETaVibi.jpg)
+![](https://i.imgur.com/ETaVibi.jpg)
 *Mole Motel的設施，有些年代了但整體而言非常乾淨舒服。*
 
 ### 如何抵達Larabanga與Mole National Park
@@ -442,7 +442,7 @@ Lome雖然是多哥的首都，地點卻直接貼著迦納的邊界。雖然市�
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6018.941507047553!2d-0.22728321058138834!3d5.564017924000679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2f3094cf26f7512!2sAccra%20Intercity%20STC%20Coached%20Ltd%20Bus%20Terminal!5e0!3m2!1sen!2sus!4v1576376331247!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 *從阿克拉前往Tamale的STC發車站，是位在環道上的總站*
 
-![](https://imgur.com/w1v5owE.jpg)
+![](https://i.imgur.com/w1v5owE.jpg)
 *前往Tamale的巴士在途中休息的景象，時間為午夜，路旁仍然熱鬧滾滾*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1012.8471556251957!2d-0.8431796754649917!3d9.406623564672236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfd43c89678d9751%3A0x945995ab64f8df7f!2sMain%20Tro-Tro%20Station!5e1!3m2!1sen!2sus!4v1576376444042!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -473,10 +473,10 @@ Larabanga擁有西非現存最古老的清真寺，加上位在Mole National Par
 
 蘇丹——撒赫爾形式的清真寺目前在迦納僅存6座，全都位在北部。想要深入了解及建築形式以及脈絡，推薦[The Hauns in Africa](https://haunsinafrica.com/)部落格的文章[Ancient Mosques of Ghana](https://haunsinafrica.com/tag/ancient-mosques-of-ghana/)。
 
-![](https://imgur.com/UT3ND7v.jpg)
+![](https://i.imgur.com/UT3ND7v.jpg)
 *前往庫馬西路上所見*
 
-![](https://imgur.com/3wGGk7p.jpg)
+![](https://i.imgur.com/3wGGk7p.jpg)
 *前往庫馬西路上所見*
 
 ## Kumasi 庫馬西：前殖民時代迦納輝煌歷史的見證
@@ -487,16 +487,16 @@ Larabanga擁有西非現存最古老的清真寺，加上位在Mole National Par
 
 此外，位在庫馬西市中心的超大市集Kejetia也值得造訪，適合去體驗一下西非大型市集的宏大規模已經人聲鼎沸的感覺，還可以買到富有當地特色的紡織品。
 
-![](https://imgur.com/jWlKf6U.jpg)
+![](https://i.imgur.com/jWlKf6U.jpg)
 *今日的阿散蒂宮殿並非原本的型態，而是在國王流放回歸之後，由英國人提供的20世紀建築。*
 
-![](https://imgur.com/UERAWyU.jpg)
+![](https://i.imgur.com/UERAWyU.jpg)
 *庫馬西市中心的超大市集Kejetia*
 
-![](https://imgur.com/9MCmXoe.jpg)
+![](https://i.imgur.com/9MCmXoe.jpg)
 *Kejetia一隅*
 
-![](https://imgur.com/EKxCFGS.jpg)
+![](https://i.imgur.com/EKxCFGS.jpg)
 *在Asafo車站等車時所見到兜售零嘴與便當的小販，那個便當的高度實在讓人佩服⋯⋯*
 
 ### 如何前往Kumasi
@@ -514,25 +514,25 @@ Cape Coast最早是由葡萄牙人在1555年建立的貿易據點，後來易手
 
 距離Cape Coast不遠的地方還有另一個堡壘Elmina Castle，由葡萄牙人建於1482年（也就是在哥倫布到達美洲大陸之前），西非最老的據點與歐洲堡壘，與Cape Coast Castle類似但兩者各有其擁護者（但我本次行程沒有前往Elmina）；北邊Kakum National Park的樹冠層步道（Canopy Walk）是另一個熱門目的地，資訊參考下面的介紹。
 
-![](https://imgur.com/hYpiCxz.jpg)
+![](https://i.imgur.com/hYpiCxz.jpg)
 *從Cape Coast海灘望向堡壘*
 
-![](https://imgur.com/QJdnDTc.jpg)
+![](https://i.imgur.com/QJdnDTc.jpg)
 *一大早出門散步，見到Castle東側傳統漁村的風景*
 
-![](https://imgur.com/aeLhKA0.jpg)
+![](https://i.imgur.com/aeLhKA0.jpg)
 *Castle對面，迦納最早的聖公會（Anglican Church）*
 
-![](https://imgur.com/tOku5ph.jpg)
+![](https://i.imgur.com/tOku5ph.jpg)
 *不遠處的循理會（Methodist Church），格局和新英格蘭所見到的類似，然而色彩卻更為繽紛。*
 
-![](https://imgur.com/iOn5Bf9.jpg)
+![](https://i.imgur.com/iOn5Bf9.jpg)
 *參觀Cape Coast Castle內部*
 
-![](https://imgur.com/jbY5TKP.jpg)
+![](https://i.imgur.com/jbY5TKP.jpg)
 *Cape Coast Castle裡的地窖，等待被運往美洲的奴隸們居住的地方，環境極其惡劣*
 
-![](https://imgur.com/avpPw4J.jpg)
+![](https://i.imgur.com/avpPw4J.jpg)
 *在Cape Coast Castle附近玩樂的孩童*
 
 ### 如何前往Cape Coast
@@ -548,10 +548,10 @@ Cape Coast位在迦納的沿海大動脈上，從各大城市包括阿克拉、�
 
 公園基本入園費為每人2GHC，樹冠層步道每人60GHC，學生為40GHC。前往樹冠層步道入口必須先經過約10分鐘步程的森林步道，稍有緩坡但基本上好走，一般運動鞋即可應付。
 
-![](https://imgur.com/XT2MZIg.jpg)
+![](https://i.imgur.com/XT2MZIg.jpg)
 *Kakum National Park的樹冠層步道*
 
-![](https://imgur.com/9QdprLl.jpg)
+![](https://i.imgur.com/9QdprLl.jpg)
 *Kakum National Park的樹冠層步道*
 
 ### 如何前往Kakum National Park
@@ -564,16 +564,16 @@ Cape Coast位在迦納的沿海大動脈上，從各大城市包括阿克拉、�
 
 阿克拉算是比較新的城市，相對來說歷史和文化就不是那麼豐富，但值得一遊的是位在海邊的聚落Jamestown，相當程度地保留了都市化以前的風貌，和Cape Coast有些類似。
 
-![](https://imgur.com/qekm3f9.jpg)
+![](https://i.imgur.com/qekm3f9.jpg)
 *阿克拉市區最老的區域Jamestown，海邊的燈塔*
 
-![](https://imgur.com/O1XA6zt.jpg)
+![](https://i.imgur.com/O1XA6zt.jpg)
 *阿克拉市區最老的區域Jamestown，聚落一角*
 
-![](https://imgur.com/ZNHRzKm.jpg)
+![](https://i.imgur.com/ZNHRzKm.jpg)
 *阿克拉市區仍然可以見到英國殖民時期留下的建築*
 
-![](https://imgur.com/qTqCFtl.jpg)
+![](https://i.imgur.com/qTqCFtl.jpg)
 *嶄新的國家門面阿克拉機場，國際（第三）航廈兩年前才剛完工*
 
 # （四）後記

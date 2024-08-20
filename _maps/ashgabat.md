@@ -1,10 +1,10 @@
 ---
 date: 2021-03-21
 title: 阿什哈巴特：不可思議的白色大理石之都
-image: https://imgur.com/HtCVKkg.jpg
+image: https://i.imgur.com/HtCVKkg.jpg
 ---
 
-![](https://imgur.com/HtCVKkg.jpg)
+![](https://i.imgur.com/HtCVKkg.jpg)
 
 聽完豬豬隊友分享，迫不及待地去找了土庫曼首都阿什哈巴特的照片與衛星空照圖來看。不得不說，真的太精彩了！在這裡簡單做個地圖，搭配豬豬隊友的攝影作品，跟大家分享一下這個有趣的城市。
 

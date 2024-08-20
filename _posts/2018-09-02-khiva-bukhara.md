@@ -10,7 +10,7 @@ tags:
 - Soviet
 - Travel
 permalink: 2018/09/02/khiva-bukhara
-image: https://imgur.com/amGQQdC.jpg
+image: https://i.imgur.com/amGQQdC.jpg
 ---
 
 ## 關於烏茲別克的古城希瓦（Khiva）
@@ -21,7 +21,7 @@ image: https://imgur.com/amGQQdC.jpg
 
 之所以被保留的如此完整，原因之一是這個汗國存續了很久（雖然19世紀後半就成為俄羅斯保護國），甚至到了20世紀初都還是由可汗統治，直到1920年才被共產勢力推翻，距今不過100年。因此宮殿、經學院、清真寺、城牆與民居保存狀態都不錯，走在期間彷彿還能感受到一個世紀前汗國的風華。
 
-![](https://imgur.com/amGQQdC.jpg)
+![](https://i.imgur.com/amGQQdC.jpg)
 *從Ark Citadel上看到的希瓦全景。*
 
 ### 文章內容目錄
@@ -48,10 +48,10 @@ image: https://imgur.com/amGQQdC.jpg
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9775457.735536199!2d56.71761124254037!3d40.646078626316026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x41dfa410e650c89d%3A0x7b95d3fdbffb218!2sItchan%20Kala%20west%20gate!5e0!3m2!1sen!2sus!4v1585356959034!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 *希瓦在中亞的地理位置（地圖中的座標為古城的主要入口西門所在）。*
 
-![](https://imgur.com/He6LROg.jpg)
+![](https://i.imgur.com/He6LROg.jpg)
 *從塔什干前往希瓦的列車上。詳細故事請[點此](https://www.facebook.com/travel.wok/posts/130983687765587)。*
 
-![](https://imgur.com/diXytcZ.jpg)
+![](https://i.imgur.com/diXytcZ.jpg)
 *在路途中，當地人毫無保留的和我分享食物。詳細故事請[點此](https://www.facebook.com/travel.wok/posts/130983687765587)。*
 
 ## 烏爾根奇（Urgench）轉車
@@ -107,10 +107,10 @@ image: https://imgur.com/amGQQdC.jpg
 
 **3. 宣禮塔（minaret）**，挺拔高大的圓塔，用途是叫喚伊斯蘭教徒前往禮拜。希瓦擁有一棟56.6公尺高、排名全球第10（[維基百科上的列表](https://en.wikipedia.org/wiki/List_of_tallest_minarets)）的Islam Khoja Minaret，但最知名的地標卻是一棟開了工卻從未完成的小宣禮塔Kalta Minor，原本預計要蓋到70至80公尺高，卻在蓋到29公尺時就停工，已經蓋好的部分一點都不像是宣禮塔，反而比較像是一個大水槽，但因為這個大水槽的青藍色表面實在太過漂亮，因此成為希瓦最知名的地標。
 
-![](https://imgur.com/xUe0eb7.jpg)
+![](https://i.imgur.com/xUe0eb7.jpg)
 *像是個大水槽的希瓦地標小宣禮塔Kalta Minor*
 
-![](https://imgur.com/u6G5ZDR.jpg)
+![](https://i.imgur.com/u6G5ZDR.jpg)
 *希瓦最高的宣禮塔，56.6公尺高的Islam Khoja Minaret，排名世界第10（[維基百科上的列表](https://en.wikipedia.org/wiki/List_of_tallest_minarets)）。*
 
 在希瓦的這段時間，我把整座城繞了好幾次，試圖捕捉它在不同時間的不同面貌，也和好幾種不同的人擦身而過。
@@ -139,13 +139,13 @@ image: https://imgur.com/amGQQdC.jpg
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/abf97-f5612480.jpg)
 *Kunya-Ark Citadel裡的高台，得先進入城堡中並且被收兩次錢才能上去*
 
-![](https://imgur.com/amGQQdC.jpg)
+![](https://i.imgur.com/amGQQdC.jpg)
 *高台上所見的古城全景*
 
-![](https://imgur.com/H2YILIS.jpg)
+![](https://i.imgur.com/H2YILIS.jpg)
 *原本請當地人幫我照相，結果得到的卻是我們都入了鏡的合照！*
 
-![](https://imgur.com/icuP6Fz.jpg)
+![](https://i.imgur.com/icuP6Fz.jpg)
 *宮殿內部雖然已經空無一物，牆面以及天花板的裝飾還是非常值得一看！*
 
 ## 再次回到城裡漫步
@@ -160,7 +160,7 @@ image: https://imgur.com/amGQQdC.jpg
 ![](https://lifetimesojournertravel.files.wordpress.com/2018/09/8269b-f5259648.jpg)
 *城牆上的風景又是另一種風貌。*
 
-![](https://imgur.com/7Si2SPt.jpg)
+![](https://i.imgur.com/7Si2SPt.jpg)
 *夜裡的小宣禮塔Kalta Minor，打上了燈光在建築群中更加顯眼*
 
 ## Jerome的不負責任心得
@@ -175,6 +175,6 @@ image: https://imgur.com/amGQQdC.jpg
 
 *本文是我在2018年獨自用42天時間跨越歐亞大陸之遊記連載的一部份，其他文章請見[跨越歐亞大旅行](/grand-trip)文章列表。*
 
-![](https://imgur.com/bpWMU8n.jpg)
+![](https://i.imgur.com/bpWMU8n.jpg)
 *夜間點燈之後的經學院。*
 

@@ -3,7 +3,7 @@ date: 2020-04-18
 layout: post
 title: 前蘇聯國家練習曲：拉脫維亞與愛沙尼亞火車慢遊
 permalink: 2020/04/18/latvia-estonia
-image: https://imgur.com/IS91F2g.jpg
+image: https://i.imgur.com/IS91F2g.jpg
 featured: true
 excerpt: 2017年5月下旬，只去過西歐與南歐的我，決定往未知的方向前進，以「波羅的海3-1小國」為跨入前蘇聯國家的第一步。短短幾天的火車旅行，讓我對這幾個在強權之間求生存的小國留下不錯的印象，也就此愛上在前蘇聯/共產國家裡自助旅行。
 tags:
@@ -26,10 +26,10 @@ tags:
 * [後記：前蘇聯國家的迷人之處](#後記前蘇聯國家的迷人之處)
 * [附錄：波羅的海三小國實用資訊與攻略](#附錄波羅的海三小國實用資訊與攻略)
 
-![](https://imgur.com/IS91F2gl.jpg)
+![](https://i.imgur.com/IS91F2gl.jpg)
 *坐火車玩拉脫維亞與愛沙尼亞，是個緩慢但可深入體驗在地的旅行方式。*
 
-![](https://imgur.com/9HAoP17l.jpg)
+![](https://i.imgur.com/9HAoP17l.jpg)
 *我的波羅的海鐵路旅行路線與行程表。*
 
 # 里加，啟程
@@ -53,19 +53,19 @@ tags:
 >
 > 出發前我特別到後站的中央市場買了些麵包。建於1920年、有著四個超醒目拱頂的建築是全歐洲最大的市場，幾乎什麼都買得到而且價格便宜，很適合愛逛市場的旅人來此尋寶。
 
-![](https://imgur.com/rUsEqjf.jpg)
+![](https://i.imgur.com/rUsEqjf.jpg)
 *里加中央車站月台上遲遲不開的火車。*
 
-![](https://imgur.com/X2Y0LsCl.jpg)
+![](https://i.imgur.com/X2Y0LsCl.jpg)
 *里加中央市場，歐洲第一大市場建築。*
 
-![](https://imgur.com/yegC2TRl.jpg)
+![](https://i.imgur.com/yegC2TRl.jpg)
 *里加中央市場內一景。*
 
-![](https://imgur.com/5FGZp3gl.jpg)
+![](https://i.imgur.com/5FGZp3gl.jpg)
 *充滿中世紀風味的里加舊城。*
 
-![](https://imgur.com/zkkmscZl.jpg)
+![](https://i.imgur.com/zkkmscZl.jpg)
 *在有點躁熱難耐的車廂裡一直等一直等。*
 
 # 錫古爾達，中世紀的戰爭痕跡
@@ -94,16 +94,16 @@ tags:
 >
 > [https://www.latvia.travel/en/tourism-center/gauja-national-park-visitor-centre-gutmans-cave](https://www.latvia.travel/en/tourism-center/gauja-national-park-visitor-centre-gutmans-cave)
 
-![](https://imgur.com/KqkQ5Rnl.jpg)
+![](https://i.imgur.com/KqkQ5Rnl.jpg)
 *Gauja國家公園裡的沼澤地。*
 
-![](https://imgur.com/GTIh9gBl.jpg)
+![](https://i.imgur.com/GTIh9gBl.jpg)
 *Turaida城堡內一景。*
 
-![](https://imgur.com/mYlYoGul.jpg)
+![](https://i.imgur.com/mYlYoGul.jpg)
 *Turaida城堡與周圍的Gauja國家公園全景。*
 
-![](https://imgur.com/fjJtwpcl.jpg)
+![](https://i.imgur.com/fjJtwpcl.jpg)
 *錫古爾達車站。*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d34608.94841567749!2d24.811196344434713!3d57.170235274637946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x46e94fc8c55fddf3%3A0x9d68669e85264352!2sSigulda!3m2!1d57.1539!2d24.8553!4m5!1s0x46e951d0fc8cc4f5%3A0xa7e2920e37bd8e8e!2sTuraida%20Museum%20Reserve%2C%20Turaidas%20iela%2010%2C%20Turaida%2C%20Krimuldas%20pagasts%2C%20LV-2150%2C%20Latvia!3m2!1d57.186666699999996!2d24.847222199999997!5e0!3m2!1sen!2sus!4v1587247104078!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -125,19 +125,19 @@ tags:
 
 > 參觀資訊詳見**賽西斯城堡官網**： [https://cesupils.lv/en/](https://cesupils.lv/en/)
 
-![](https://imgur.com/qFN9ihPl.jpg)
+![](https://i.imgur.com/qFN9ihPl.jpg)
 *賽西斯教堂廣場上的露天餐廳。*
 
-![](https://imgur.com/1j2m3fOl.jpg)
+![](https://i.imgur.com/1j2m3fOl.jpg)
 *高聳但有點斑駁的聖約翰教堂。*
 
-![](https://imgur.com/GkD8Y3hl.jpg)
+![](https://i.imgur.com/GkD8Y3hl.jpg)
 *賽西斯鎮上一景。*
 
-![](https://imgur.com/pvBRrOXl.jpg)
+![](https://i.imgur.com/pvBRrOXl.jpg)
 *賽西斯城堡。*
 
-![](https://imgur.com/1oW3h9Rl.jpg)
+![](https://i.imgur.com/1oW3h9Rl.jpg)
 *遊客可以自己提著蠟燭燈，在城堡裡自由探索。*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d4364.635980221279!2d25.272546318279367!3d57.31271377598581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x46ebe19b29fd9e35%3A0x3b5f7e997dc5e8a0!2sCesis!3m2!1d57.314!2d25.2833!4m3!3m2!1d57.3119575!2d25.271383!5e0!3m2!1sen!2sus!4v1587248210966!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -153,19 +153,19 @@ Valga完全突破了我對國境的想像——雖有一座巨大的鐵路站場
 
 > **愛沙尼亞鐵路官網**上不但有時刻表與路線圖，還可以直接線上買票，在火車上驗票時出示手機即可，網上購票還有優惠！ [https://elron.ee/en/](https://elron.ee/en/)
 
-![](https://imgur.com/rOu7qmdl.jpg)
+![](https://i.imgur.com/rOu7qmdl.jpg)
 *列車一路向北，穿過北國森林。*
 
-![](https://imgur.com/40oZt9Il.jpg)
+![](https://i.imgur.com/40oZt9Il.jpg)
 *沿路偶爾出現的聚落風景。*
 
-![](https://imgur.com/x3p6Ciul.jpg)
+![](https://i.imgur.com/x3p6Ciul.jpg)
 *Valga車站是兩國邊境，只要從右邊的火車走到左邊就完成出入境。*
 
-![](https://imgur.com/OgL92Evl.jpg)
+![](https://i.imgur.com/OgL92Evl.jpg)
 *Valga巨大的鐵路站場。*
 
-![](https://imgur.com/mlIkrsEl.jpg)
+![](https://i.imgur.com/mlIkrsEl.jpg)
 *愛沙尼亞的火車內部，充滿著新穎的設計。*
 
 # 塔爾圖，宗教改革的傷痕
@@ -177,19 +177,19 @@ Valga完全突破了我對國境的想像——雖有一座巨大的鐵路站場
 當晚就在市政府附近的餐廳用餐，晚上為了打發時間，決定到東南邊十字路口的新城區，想看看塔爾圖的另外一面，因此踏入了一家頗大的連鎖書店。不像美國那些書越來越少、人潮越來越冷清的Barnes & Noble，這裡的書店可是活躍的很，內部還充滿著獨樹一格的裝飾，讓我十分羨慕。
 
 
-![](https://imgur.com/bVJDV1dl.jpg)
+![](https://i.imgur.com/bVJDV1dl.jpg)
 *用色相當溫暖熱情的市政府。*
 
-![](https://imgur.com/dOopL2dl.jpg)
+![](https://i.imgur.com/dOopL2dl.jpg)
 *已經成為廢墟的塔爾圖大教堂。*
 
-![](https://imgur.com/0qyVCofl.jpg)
+![](https://i.imgur.com/0qyVCofl.jpg)
 *已經成為廢墟的塔爾圖大教堂。*
 
-![](https://imgur.com/YUjALoWl.jpg)
+![](https://i.imgur.com/YUjALoWl.jpg)
 *塔爾圖市區內一景。*
 
-![](https://imgur.com/0dnMTS7l.jpg)
+![](https://i.imgur.com/0dnMTS7l.jpg)
 *塔爾圖新城裡的書店，規模大而且充滿各種有趣的裝飾。*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d6565.122637625409!2d26.710322076989392!3d58.37802676281926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e2!4m5!1s0x46eb371c3a18e555%3A0x35376726046ff64!2sTartu!3m2!1d58.373817599999995!2d26.706737099999998!4m5!1s0x46eb36e0d13e0c43%3A0xeccc78e5eafbf35!2sTartu%20City%20Goverment%2C%20Raekoja%20plats%201a%2C%2051003%20Tartu%2C%20Estonia!3m2!1d58.380021899999996!2d26.721923999999998!4m5!1s0x46eb36e3d94a0bb7%3A0x3c3dcec505065432!2sToomkirik!3m2!1d58.3802847!2d26.714384499999998!5e0!3m2!1sen!2sus!4v1587254616792!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -203,13 +203,13 @@ Valga完全突破了我對國境的想像——雖有一座巨大的鐵路站場
 
 即使是新開的壽司餐廳，竟然都只敢在玻璃上貼上白底黑字的幾個字母，不知道是因為怕破壞地景的協調性，還是在這裡住久了、審美觀也跟著改變了呢？
 
-![](https://imgur.com/oddkE9gl.jpg)
+![](https://i.imgur.com/oddkE9gl.jpg)
 *在塔爾圖車站等待出發。*
 
-![](https://imgur.com/gIRfCjNl.jpg)
+![](https://i.imgur.com/gIRfCjNl.jpg)
 *帕迪斯基在冷戰時期是禁區，如今只留下逐漸傾圮的各式建築。*
 
-![](https://imgur.com/zbjytETl.jpg)
+![](https://i.imgur.com/zbjytETl.jpg)
 *標準蘇聯式集合住宅，充滿著千篇一律感。*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d260163.34287026667!2d24.127310198212346!3d59.374247546444536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x4692937cd8240d4f%3A0x79b91a603df19920!2sTallinn!3m2!1d59.439986399999995!2d24.7371067!4m5!1s0x4692a71c17413a73%3A0x9bf98fd21ed16712!2sPaldiski%2C%2076805%20Harju%20maakond%2C%20Estonia!3m2!1d59.344013399999994!2d24.061218999999998!5e0!3m2!1sen!2sus!4v1587254807235!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -230,22 +230,22 @@ Valga完全突破了我對國境的想像——雖有一座巨大的鐵路站場
 > 另外大推塔林近郊景點**愛沙尼亞露天博物館**（Estonian Open Air Museum，[https://evm.ee/eng/home](https://evm.ee/eng/home)），偌大的園區裡保存了數十棟來自愛沙尼亞各地的傳統建築，裡面還擺設了各種生活用品，配上身著傳統服裝工作人員現場講解，是個非常值得一去的地方！
 
 
-![](https://imgur.com/EVvNuTnl.jpg)
+![](https://i.imgur.com/EVvNuTnl.jpg)
 *鐵道旅行的終點：塔林車站。*
 
-![](https://imgur.com/n49q4kLl.jpg)
+![](https://i.imgur.com/n49q4kLl.jpg)
 *塔林舊城入口，雖然保存得相當完整，觀光氣息也相當濃厚。*
 
-![](https://imgur.com/qq5mgIdl.jpg)
+![](https://i.imgur.com/qq5mgIdl.jpg)
 *從Kohtuotsa觀景台居高臨下看塔林舊城全景。*
 
-![](https://imgur.com/lGukdiQl.jpg)
+![](https://i.imgur.com/lGukdiQl.jpg)
 *一街之隔的Rotermann Quarter，充滿各種大膽創意、新舊融合的建築設計。*
 
-![](https://imgur.com/YlNK77ol.jpg)
+![](https://i.imgur.com/YlNK77ol.jpg)
 *一街之隔的Rotermann Quarter，充滿各種大膽創意、新舊融合的建築設計。*
 
-![](https://imgur.com/GWcCLm1l.jpg)
+![](https://i.imgur.com/GWcCLm1l.jpg)
 *推薦延伸景點：愛沙尼亞露天博物館。*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d4057.466892470146!2d24.740431777754686!3d59.43752007678723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d59.4365947!2d24.7500309!4m5!1s0x469293628a3836dd%3A0xdf1cd557c506a804!2sKohtuotsa%20viewing%20platform%2C%20Kohtu%2012%2C%2010130%20Tallinn%2C%20Estonia!3m2!1d59.437735999999994!2d24.742206499999998!5e0!3m2!1sen!2sus!4v1587254931279!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -259,7 +259,7 @@ Valga完全突破了我對國境的想像——雖有一座巨大的鐵路站場
 
 然而，光是共產遺跡仍不足以如此吸引我，另一個重要原因是這些地方的人們——我們或許喜歡把俄羅斯或附近國家的人稱為「戰鬥民族」，彷彿他們都很難親近，殊不知他們其實只是更加直率，背後還有著藏不住的熱情，旅行久了之後反而會開始愛上這種直接而坦誠的性格呢！
 
-![](https://imgur.com/IEZdF6il.jpg)
+![](https://i.imgur.com/IEZdF6il.jpg)
 就是這趟波羅的海火車旅行，讓我徹底迷上了前蘇聯國家，接下來幾年裡去了好幾次。圖為隔（2018）年5月在烏茲別克首都塔什干市集所攝。
 
 # 附錄：波羅的海三小國實用資訊與攻略
@@ -336,7 +336,7 @@ Day 4 (5/30/2017)
 Day 5 (5/31/2017)
 塔林→赫爾辛基
 
-![](https://imgur.com/9HAoP17l.jpg)
+![](https://i.imgur.com/9HAoP17l.jpg)
 *我的波羅的海鐵路旅行路線與行程表。*
 
 感謝您的閱讀！喜歡這篇文章的話歡迎分享，也麻煩幫[Jerome的臉書專頁](https://www.facebook.com/travel.wok/)以及[Instagram](https://www.instagram.com/travel.wok/)按讚/追蹤唷！

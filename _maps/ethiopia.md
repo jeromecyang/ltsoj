@@ -1,9 +1,9 @@
 ---
 date: 2022-01-02
 title: 依照族群與語言劃分的衣索比亞行政區與人口
-image: https://imgur.com/Iuf2qjr.jpg
+image: https://i.imgur.com/Iuf2qjr.jpg
 ---
-![](https://imgur.com/Iuf2qjr.jpg)
+![](https://i.imgur.com/Iuf2qjr.jpg)
 
 衣索比亞是個聯邦國家，目前（2022年）由11個州（region）與2個特別市組成。由於這些行政區劃是根據國內的語言與族群分佈而制定，因此每個州的大小相當不均，從人口超過3000萬的奧羅米亞州（Oromia），一直到僅有23萬人的哈勒爾州（Harari）。
 

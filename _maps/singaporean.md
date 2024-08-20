@@ -1,9 +1,9 @@
 ---
 date: 2023-05-12
 title: 新加坡人的族群組成
-image: https://imgur.com/uAD5qnQ.jpg
+image: https://i.imgur.com/uAD5qnQ.jpg
 ---
-![](https://imgur.com/uAD5qnQ.jpg)
+![](https://i.imgur.com/uAD5qnQ.jpg)
 
 🇸🇬 當我第一眼看到新加坡人口普查數據的時候，整個人欣喜若狂：「Ｘ，挖到寶了！！！」
 

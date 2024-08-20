@@ -1,10 +1,10 @@
 ---
 date: 2021-08-11
 title: 米國人的第二名語言：美國各郡在英語之外最多人使用的語言
-image: https://imgur.com/Hm28sfK.jpg
+image: https://i.imgur.com/Hm28sfK.jpg
 ---
 
-![](https://imgur.com/Hm28sfK.jpg)
+![](https://i.imgur.com/Hm28sfK.jpg)
 
 ❗❗ 注意：服用本圖前務必詳讀服用指示，若因不當使用導致不良反應，本店恕不負責 ❗❗
 

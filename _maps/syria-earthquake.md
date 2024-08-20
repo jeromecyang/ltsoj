@@ -1,9 +1,9 @@
 ---
 date: 2023-02-10
 title: 2/6土耳其敘利亞地震，影響了哪些省份與人口？
-image: https://imgur.com/DmIAjh5.jpg
+image: https://i.imgur.com/DmIAjh5.jpg
 ---
-![](https://imgur.com/DmIAjh5.jpg)
+![](https://i.imgur.com/DmIAjh5.jpg)
 
 當國際重大災害發生時，我們常常以「XX國發生OO」一句話來概括；然而災害影響的常常是特定區域，而非整個國家，此時如果我們能更詳細了解影響的範圍，以及那裡的地理特徵，就能更準確的掌握最新資訊，並且將關注度與資源放在最重要的地方。
 

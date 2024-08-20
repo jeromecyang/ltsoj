@@ -1,14 +1,14 @@
 ---
 date: 2021-08-08
 title: 冰河國家公園 Many Glacier 健行步道推薦
-image: https://imgur.com/rYjnWFf.jpg
+image: https://i.imgur.com/rYjnWFf.jpg
 ---
 
-![](https://imgur.com/rYjnWFf.jpg)
+![](https://i.imgur.com/rYjnWFf.jpg)
 
-![](https://imgur.com/oF1iWuk.jpg)
+![](https://i.imgur.com/oF1iWuk.jpg)
 
-![](https://imgur.com/bbn9gy6.jpg)
+![](https://i.imgur.com/bbn9gy6.jpg)
 
 EP63節目中我們提到，冰河國家公園可說是「健行者的天堂」；而在諸多步道中，Cheryl最推薦的是Grinnell Glacier Trail，我個人私心喜歡的則是Iceberg Trail，正好這兩條都位於公園東側的「Many Glacier」區域裡，因此就在這裡用3D立體影像套疊步道路線，希望讓大家稍微有一點身歷其境的感覺 :)
 

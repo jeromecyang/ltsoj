@@ -1,10 +1,10 @@
 ---
 date: 2021-08-03
 title: 斯里蘭卡兩大主要族群：僧伽羅與泰米爾
-image: https://imgur.com/wUxZyiR.jpg
+image: https://i.imgur.com/wUxZyiR.jpg
 ---
 
-![](https://imgur.com/wUxZyiR.jpg)
+![](https://i.imgur.com/wUxZyiR.jpg)
 
 EP62是旅行熱炒店進入南亞地區的第一集（如果不算EP50裡面提到伊本．巴圖塔在印度、斯里蘭卡與馬爾地夫之間的無限輪迴的話）。身為一個沒去過、對南亞史地也不太熟的人，對於僧伽羅（Sinhalese）與泰米爾（Tamils）各自的歷史脈絡，以及今日在斯里蘭卡的分布也非常好奇，於是整理了一些數據和重要資訊跟大家分享。
 

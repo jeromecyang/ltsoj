@@ -1,9 +1,9 @@
 ---
 date: 2023-01-07
 title: 台灣人搬家都搬到哪去了？社會增加率最高的20個鄉鎮市區
-image: https://imgur.com/jCnLq6b.jpg
+image: https://i.imgur.com/jCnLq6b.jpg
 ---
-![](https://imgur.com/jCnLq6b.jpg)
+![](https://i.imgur.com/jCnLq6b.jpg)
 
 雖然我自認為對這片土地還算熟悉，但旅外超過10年，偶爾還是會出現「啊，這不是我認識的台灣～～～！」的時刻，這時候就會發現自己得重新了解台灣。
 

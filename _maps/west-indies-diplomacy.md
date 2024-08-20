@@ -1,9 +1,9 @@
 ---
 date: 2021-11-16
 title: 中華民國在西印度群島的邦交國與前邦交國
-image: https://imgur.com/rJllrZa.jpg
+image: https://i.imgur.com/rJllrZa.jpg
 ---
-![](https://imgur.com/rJllrZa.jpg)
+![](https://i.imgur.com/rJllrZa.jpg)
 
 目前台灣（中華民國）在西印度群島共有4個邦交國，曾經建交過、後來斷交的則有6個，而這其實已經涵蓋西印度群島的大部分國家了！畢竟大家別忘了，目前這裡的許多地區仍未成為獨立國家，實際可以「建交」的對象並沒有想像的多；此外，有3個國家是從未與中華民國建交的，而他們正好都位於群島的最東側。
 

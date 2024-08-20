@@ -1,7 +1,7 @@
 ---
 title: 卡嘉
 subtitle: 俄語森林
-image: https://imgur.com/dCHfBxv.jpg
+image: https://i.imgur.com/dCHfBxv.jpg
 instagram: https://www.instagram.com/russian.forest
 facebook: https://www.facebook.com/RUSSIANFOREST.TW
 highlight: true

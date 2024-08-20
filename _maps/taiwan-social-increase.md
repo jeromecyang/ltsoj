@@ -1,9 +1,9 @@
 ---
 date: 2023-01-08
 title: 台灣人搬家都搬到哪去了？續篇：2017-2021年總社會增加人數最多的20個鄉鎮市區
-image: https://imgur.com/emRddR7.jpg
+image: https://i.imgur.com/emRddR7.jpg
 ---
-![](https://imgur.com/emRddR7.jpg)
+![](https://i.imgur.com/emRddR7.jpg)
 
 昨天分享[以社會增加率畫出的圖](/map/taiwan-social-increase-rate)後收到一些迴響，相信大家也很好奇，如果以社會增加人數來畫的話又是如何？於是主廚馬上去找了同樣五個年度社會增加人數，直接加總便可看出這五個年度的總變化量。
 

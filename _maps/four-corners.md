@@ -1,9 +1,9 @@
 ---
 date: 2022-11-18
 title: 廣袤紅土大地上的家園，走入美國西南四角落區的原住民文化遺址
-image: https://imgur.com/xUTyLC7.jpg
+image: https://i.imgur.com/xUTyLC7.jpg
 ---
-![](https://imgur.com/xUTyLC7.jpg)
+![](https://i.imgur.com/xUTyLC7.jpg)
 
 對於有旅行收集癖的人來說，50個州、63座國家公園都是常見的目標，比較偏門的人如我則還會對5片海外屬地、21個加州的西班牙傳教所（Missions）有興趣，當然西南部的原住民文化遺跡也不會放過！
 
@@ -15,20 +15,20 @@ image: https://imgur.com/xUTyLC7.jpg
 
 （圖片除特別說明外，皆由EP121來賓Coyote提供。）
 
-![](https://imgur.com/efgASd7.jpg)
+![](https://i.imgur.com/efgASd7.jpg)
 
-![](https://imgur.com/uVV0sXj.jpg)
+![](https://i.imgur.com/uVV0sXj.jpg)
 
-![](https://imgur.com/hHGcqVo.jpg)
+![](https://i.imgur.com/hHGcqVo.jpg)
 
-![](https://imgur.com/dWse3ez.jpg)
+![](https://i.imgur.com/dWse3ez.jpg)
 
-![](https://imgur.com/lv8qPVH.jpg)
+![](https://i.imgur.com/lv8qPVH.jpg)
 
-![](https://imgur.com/gQAplZs.jpg)
+![](https://i.imgur.com/gQAplZs.jpg)
 
-![](https://imgur.com/jbGqnYb.jpg)
+![](https://i.imgur.com/jbGqnYb.jpg)
 
-![](https://imgur.com/ri1AgQS.jpg)
+![](https://i.imgur.com/ri1AgQS.jpg)
 
-![](https://imgur.com/iEOTwz3.jpg)
+![](https://i.imgur.com/iEOTwz3.jpg)

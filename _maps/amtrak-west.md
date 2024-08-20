@@ -1,9 +1,9 @@
 ---
 date: 2022-06-01
 title: 美國西部長途列車與國家公園分佈
-image: https://imgur.com/nxtIhLG.jpg
+image: https://i.imgur.com/nxtIhLG.jpg
 ---
-![](https://imgur.com/nxtIhLG.jpg)
+![](https://i.imgur.com/nxtIhLG.jpg)
 
 在EP103的最後，我推薦了好幾條Amtrak的長途列車路線，其中大多位於地廣人稀的美國西部；為了更清楚顯示這幾條路線的走向，並且整理它們的起點、終點、里程與所需時間，就決定乾脆做張圖來跟大家分享！
 

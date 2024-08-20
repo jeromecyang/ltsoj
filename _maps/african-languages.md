@@ -1,9 +1,9 @@
 ---
 date: 2022-08-26
 title: 非洲的主要語系，與較多人使用的語言分佈
-image: https://imgur.com/zB91pl1.jpg
+image: https://i.imgur.com/zB91pl1.jpg
 ---
-![](https://imgur.com/zB91pl1.jpg)
+![](https://i.imgur.com/zB91pl1.jpg)
 
 在EP113裡，我們用了一些篇幅介紹坦尚尼亞的國家語言——史瓦希利語，還順便進行了問候語教學，但不知道大家是否會好奇，史瓦希利語到底是屬於哪個語系？而非洲其他地區的語言又是怎樣呢？
 

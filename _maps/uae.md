@@ -1,9 +1,9 @@
 ---
 date: 2023-04-27
 title: 阿拉伯聯合大公國的七個酋長國
-image: https://imgur.com/Q6xEaXg.jpg
+image: https://i.imgur.com/Q6xEaXg.jpg
 ---
-![](https://imgur.com/Q6xEaXg.jpg)
+![](https://i.imgur.com/Q6xEaXg.jpg)
 
 記得小學在看百科全書的時候，如果問我對哪個國家最有興趣，我會毫不猶豫地回答「阿拉伯聯合大公國（酋長國）」，原因是：名稱很長、看起來很酷（標準的中二邏輯🤣🤣🤣
 

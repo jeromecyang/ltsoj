@@ -1,9 +1,9 @@
 ---
 date: 2021-11-15
 title: 西印度群島至今仍存在的非本地政權
-image: https://imgur.com/QYd2u78.jpg
+image: https://i.imgur.com/QYd2u78.jpg
 ---
-![](https://imgur.com/QYd2u78.jpg)
+![](https://i.imgur.com/QYd2u78.jpg)
 
 節目中我們提到過去西印度群島上西方列強百家爭鳴的歷史，經過長期的去殖民化，今天很大一部份的前殖民地已經成為獨立國家；然而就數量來說，目前西印度群島仍然是世界上海外領土最密集的地方。系列圖的第二張，就讓我們來看看這些海外領土分布在哪裡，以及他們和統治國家的關係。
 

@@ -1,8 +1,8 @@
 ---
 date: 2023-03-09
 title: El Camino Real：加州版的朝聖之路與21間傳教所
-image: https://imgur.com/WyQ8WAM.jpg
+image: https://i.imgur.com/WyQ8WAM.jpg
 ---
-![](https://imgur.com/WyQ8WAM.jpg)
+![](https://i.imgur.com/WyQ8WAM.jpg)
 
 成為資訊業重鎮之前的矽谷（它當時當然不叫矽谷），是片平凡的土地，放眼望去是連綿不斷的果園，果園裡來自世界各國的移工揮汗勞動著，果樹之間藏著一條從西班牙殖民時期延續至今的路徑「皇家大道」，小鎮中心可以找到矗立超過兩個世紀的古老教堂。

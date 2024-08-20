@@ -1,9 +1,9 @@
 ---
 date: 2022-11-04
 title: 2022卡達FIFA世界盃比賽場館
-image: https://imgur.com/0SL94Px.jpg
+image: https://i.imgur.com/0SL94Px.jpg
 ---
-![](https://imgur.com/0SL94Px.jpg)
+![](https://i.imgur.com/0SL94Px.jpg)
 
 本國人口33萬的卡達 🇶🇦
 擁有足以容納38萬觀眾的世界盃場館 ⚽
@@ -19,6 +19,6 @@ image: https://imgur.com/0SL94Px.jpg
 
 這些就是我們嘗試在EP119裡回答的問題！在這集節目中，我想做的不是簡單的活動宣傳，而是將整個海灣國家移工社會的脈絡與現況，在節目上深入淺出的呈現給大家！兩位來賓也非常專業的和我們分享了這些資訊。因此主持人在此強烈呼籲大家去聽聽看，保證對於海灣國家會有更深一層的了解！
 
-![](https://imgur.com/qHnIrLT.jpg)
+![](https://i.imgur.com/qHnIrLT.jpg)
 
-![](https://imgur.com/SKXfCsa.jpg)
+![](https://i.imgur.com/SKXfCsa.jpg)

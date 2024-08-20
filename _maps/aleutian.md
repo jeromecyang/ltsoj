@@ -1,10 +1,10 @@
 ---
 date: 2021-07-27
 title: 北太平洋上的項鍊：阿留申群島
-image: https://imgur.com/dxakYYs.jpg
+image: https://i.imgur.com/dxakYYs.jpg
 ---
 
-![](https://imgur.com/dxakYYs.jpg)
+![](https://i.imgur.com/dxakYYs.jpg)
 
 真的是畫了這張圖，才深刻感受到這條弧線有多麽優美！
 

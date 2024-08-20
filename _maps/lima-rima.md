@@ -1,10 +1,10 @@
 ---
 date: 2021-05-04
 title: 從Lima到Rima：不同的南島語言如何稱呼數字「5」
-image: https://imgur.com/IuPKgOJ.jpg
+image: https://i.imgur.com/IuPKgOJ.jpg
 ---
 
-![](https://imgur.com/IuPKgOJ.jpg)
+![](https://i.imgur.com/IuPKgOJ.jpg)
 
 EP.49我們聊到台灣和拉帕努伊（復活節島）之間的關連——拉帕努伊是南島語系擴張的最遠境界，而台灣則是目前可以追溯到南島民族最早的居住地；換句話說，假設南島語系是一棵大樹，那麼台灣就是樹根，而拉帕努伊則是這棵樹頂端最突出的那根末梢。
 

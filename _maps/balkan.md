@@ -1,10 +1,10 @@
 ---
 date: 2020-12-16
 title: 當國界與族群界線無法重合：巴爾幹半島的族群版圖
-image: https://imgur.com/s7FYEsI.jpg
+image: https://i.imgur.com/s7FYEsI.jpg
 ---
 
-![](https://imgur.com/s7FYEsI.jpg)
+![](https://i.imgur.com/s7FYEsI.jpg)
 
 生活在20/21世紀，國族主義下的教育常常讓我們以為，一個理想的國家就是以單一民族為主體、「一個民族—一個國家」這樣對應著；然而在旅行過程中我們卻往往發現：總是無法對應的族群和國家，似乎才是這個世界的常態，ep.27介紹的巴爾幹半島就是個很好的例子。
 

@@ -1,10 +1,10 @@
 ---
 date: 2020-11-12
 title: 客家就是我家：客家人如何在天涯海角落地生根
-image: https://imgur.com/707s8nN.jpg
+image: https://i.imgur.com/707s8nN.jpg
 ---
 
-![](https://imgur.com/707s8nN.jpg)
+![](https://i.imgur.com/707s8nN.jpg)
 
 台灣社會對於「客家」往往有著一些刻板印象，彷彿它就是保守、刻苦、節儉的同義詞；殊不知翻開華人移民歷史，客家人其實是勇闖天涯海角的先鋒！他們不只擴散的範圍遠大於福佬人，而且落地生根之後還成為各國的達官顯要，至今仍左右著許多地方的政治與經濟發展！
 
@@ -31,8 +31,8 @@ image: https://imgur.com/707s8nN.jpg
 #全家就是你家
 #客家就是我家
 
-![](https://imgur.com/tge4rIV.jpg)
+![](https://i.imgur.com/tge4rIV.jpg)
 
-![](https://imgur.com/lhvoqzf.jpg)
+![](https://i.imgur.com/lhvoqzf.jpg)
 
-![](https://imgur.com/aCFff8g.jpg)
+![](https://i.imgur.com/aCFff8g.jpg)

@@ -1,9 +1,9 @@
 ---
 date: 2021-12-19
 title: 從埃及、蘇丹、衣索比亞、肯亞到坦尚尼亞的陸路旅行路線圖
-image: https://imgur.com/9U9zZRz.jpg
+image: https://i.imgur.com/9U9zZRz.jpg
 ---
-![](https://imgur.com/9U9zZRz.jpg)
+![](https://i.imgur.com/9U9zZRz.jpg)
 
 長途陸路旅行最大的魅力，就是可以在旅途中慢慢感受周遭景物的「漸變」，像是：植被越來越茂密、人們的輪廓越來越深、經濟發展程度越來越高⋯⋯等，而這也是為什麼我心裡一直有個好幾趟「夢幻長途旅行」——想要親自感受並且記錄下這些漸變的過程，這集喬克的路線當然也在我想過的清單中。
 

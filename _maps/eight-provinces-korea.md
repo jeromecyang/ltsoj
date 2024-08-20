@@ -1,10 +1,10 @@
 ---
 date: 2021-09-12
 title: 朝鮮八道：1945年，南北分治之前的行政區劃
-image: https://imgur.com/6cCxr42.jpg
+image: https://i.imgur.com/6cCxr42.jpg
 ---
 
-![](https://imgur.com/6cCxr42.jpg)
+![](https://i.imgur.com/6cCxr42.jpg)
 
 從我有記憶以來，朝鮮半島就是南北分治的狀態（廢話！難道我是二戰那年代出生的人嗎😂），這讓我製作本集節目的時候不禁開始好奇：在南北分治之前的朝鮮半島，又是長什麼樣子呢🤔 ？
 

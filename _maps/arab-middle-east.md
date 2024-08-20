@@ -1,10 +1,10 @@
 ---
 date: 2020-09-23
 title: 阿拉伯國家？中東國家？或者以上皆是？
-image: https://imgur.com/VRx6IrP.jpg
+image: https://i.imgur.com/VRx6IrP.jpg
 ---
 
-![](https://imgur.com/VRx6IrP.jpg)
+![](https://i.imgur.com/VRx6IrP.jpg)
 
 既然我們是一個禮拜只出一次餐的熱炒店，那麼中間空檔當然就得來點小菜給大家墊個胃。本週小菜是：一張圖了解「阿拉伯國家」與「中東國家」的區別！
 

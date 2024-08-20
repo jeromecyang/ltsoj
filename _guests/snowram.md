@@ -1,7 +1,7 @@
 ---
 title: 雪羊
 subtitle: 山岳作家與攝影師
-image: https://imgur.com/EFuPwRk.jpg
+image: https://i.imgur.com/EFuPwRk.jpg
 facebook: https://www.facebook.com/snowram
 instagram: https://www.instagram.com/snow_ram
 youtube: https://youtube.com/channel/UCxj-p-7t0dYTAmJ4AxyQzvQ

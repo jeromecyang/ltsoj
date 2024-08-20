@@ -1,9 +1,9 @@
 ---
 date: 2023-03-16
 title: 紐約市各區居民的最大宗海外出生地
-image: https://imgur.com/2yzkbJR.jpg
+image: https://i.imgur.com/2yzkbJR.jpg
 ---
-![](https://imgur.com/2yzkbJR.jpg)
+![](https://i.imgur.com/2yzkbJR.jpg)
 
 作為第三次新書分享會的前導，先和大家分享一張地圖作為熱身，順便先來看看紐約這座超級移民大城的文化版圖。
 

@@ -1,10 +1,10 @@
 ---
 date: 2020-08-19
 title: 東非漫威宇宙之歷史連動
-image: https://imgur.com/paVsPS0.jpg
+image: https://i.imgur.com/paVsPS0.jpg
 ---
 
-![](https://imgur.com/paVsPS0.jpg)
+![](https://i.imgur.com/paVsPS0.jpg)
 
 製作ep.8與ep.9的過程中我一直在想，啊我們一直說漫威宇宙漫威宇宙的，有沒有可能用一張圖表展現出那種「各個不同角色/故事彼此穿越/連動」的感覺呢？
 

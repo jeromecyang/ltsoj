@@ -1,10 +1,10 @@
 ---
 date: 2021-05-27
 title: 從氣候分區認識摩洛哥
-image: https://imgur.com/UcJvTsn.jpg
+image: https://i.imgur.com/UcJvTsn.jpg
 ---
 
-![](https://imgur.com/UcJvTsn.jpg)
+![](https://i.imgur.com/UcJvTsn.jpg)
 
 聽完了EP52、EP53，一起來上點 #摩洛哥地理課 吧！
 

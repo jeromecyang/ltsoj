@@ -1,10 +1,10 @@
 ---
 date: 2021-02-28
 title: 蒙古國與圖瓦共和國
-image: https://imgur.com/WMjGiot.jpg
+image: https://i.imgur.com/WMjGiot.jpg
 ---
 
-![](https://imgur.com/WMjGiot.jpg)
+![](https://i.imgur.com/WMjGiot.jpg)
 
 本圖是旅行熱炒店PODCAST EP40的搭配服用圖表，圖上除了蒙古國的行政區劃與重要地形之外，也標示了本集來賓珮岑在節目中分享的兩趟深度旅行路線：
 

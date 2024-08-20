@@ -1,9 +1,9 @@
 ---
 date: 2022-01-09
 title: 因為截彎取直而被保留下來的66號公路舊線
-image: https://imgur.com/QYmHRNz.jpg
+image: https://i.imgur.com/QYmHRNz.jpg
 ---
-![](https://imgur.com/QYmHRNz.jpg)
+![](https://i.imgur.com/QYmHRNz.jpg)
 
 身為一個地圖控，從小的樂趣之一就是抓著戶外生活出版的地圖集，到處尋找台灣各地被截彎取直的「舊路」痕跡；從西部鄉鎮隨處可見的台X線外環道，到東部台9線越拉越直的關山鹿野「14公里直線加速賽道」（誤），這種路線拉正的歷史痕跡比比皆是。也是因為如此，從我開始知道有66號公路開始，就會在美國地圖上如法炮製的尋找這種遺留下來的舊路。
 

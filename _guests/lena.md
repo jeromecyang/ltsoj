@@ -4,7 +4,7 @@ website: https://lenainvietnam.com/
 facebook: https://www.facebook.com/cchahainvietnam/
 instagram: https://www.instagram.com/cchahalena/
 subtitle: 《說走就走去找越南女神》
-image: https://imgur.com/5fot2OS.jpg
+image: https://i.imgur.com/5fot2OS.jpg
 highlight: true
 ---
 

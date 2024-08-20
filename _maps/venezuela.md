@@ -1,10 +1,10 @@
 ---
 date: 2021-07-14
 title: 被遺忘的難民熱點：委內瑞拉人大量出走中
-image: https://imgur.com/UBnMPV6.jpg
+image: https://i.imgur.com/UBnMPV6.jpg
 ---
 
-![](https://imgur.com/UBnMPV6.jpg)
+![](https://i.imgur.com/UBnMPV6.jpg)
 
 做完ep.54與ep.56兩集難民主題之後，注意到過去幾年委內瑞拉成為急起直追的難民熱點，便順手找了些數據想做個圖跟大家分享。不過既然碰到自己不熟悉的領域，就得花更多時間去了解、處理數據，然後⋯⋯就拖到現在惹 😅
 

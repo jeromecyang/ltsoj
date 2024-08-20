@@ -1,9 +1,9 @@
 ---
 date: 2022-08-12
 title: 將近六個月過去，現在的他們家在何方？
-image: https://imgur.com/YhezCns.jpg
+image: https://i.imgur.com/YhezCns.jpg
 ---
-![](https://imgur.com/YhezCns.jpg)
+![](https://i.imgur.com/YhezCns.jpg)
 
 開戰之初，烏克蘭情勢是全球焦點，當時我也製作了幾張圖分享當時難民遷移的動向；如今將近半年過去，或許是個回來關注烏克蘭的好機會。讓我們一起來看看最新的數據吧！
 

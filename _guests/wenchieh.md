@@ -1,7 +1,7 @@
 ---
 title: 吳文捷
 subtitle: 旅行作家．《旅行小事》創辦人
-image: https://imgur.com/h2f8OpR.jpg
+image: https://i.imgur.com/h2f8OpR.jpg
 facebook: https://www.facebook.com/wuwenchieh0917
 website: https://backpackinglifeguide.com
 instagram: https://instagram.com/ilfaudrarepartir

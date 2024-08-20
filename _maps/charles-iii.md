@@ -1,9 +1,9 @@
 ---
 date: 2023-05-08
 title: 日前接受加冕的查爾斯三世，究竟擔任了多少國家的元首？
-image: https://imgur.com/1BPtCep.jpg
+image: https://i.imgur.com/1BPtCep.jpg
 ---
-![](https://imgur.com/1BPtCep.jpg)
+![](https://i.imgur.com/1BPtCep.jpg)
 
 前幾天看著英國國王接受加冕的新聞，內心突然浮出這個問題；順手查了資料，結果發現這個問題其實沒有想像中的那麼簡單，因此又可以來作圖啦～！😂😂
 

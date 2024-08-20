@@ -1,9 +1,9 @@
 ---
 date: 2021-11-19
 title: 朝見聖雅各的多種選擇，聖雅各之路重要路線概覽
-image: https://imgur.com/biSy88A.jpg
+image: https://i.imgur.com/biSy88A.jpg
 ---
-![](https://imgur.com/biSy88A.jpg)
+![](https://i.imgur.com/biSy88A.jpg)
 
 傳統上來說，聖雅各之路並沒有特別規劃的路線，朝聖者從歐洲各地出發，匯聚於朝聖的目的地，聖地牙哥-德孔波斯特拉（Santiago de Compostela）；然而隨著近代觀光的發展，一些較熱門的路線被整理了出來，成為今天朝聖者依循的路線，像是最熱門的法國之路，以及排名第二的葡萄牙之路。
 

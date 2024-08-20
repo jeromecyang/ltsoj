@@ -1,9 +1,9 @@
 ---
 date: 2023-04-09
 title: 海外領土、王室屬地與構成國如何組成聯合王國？
-image: https://imgur.com/sAoTIxh.jpg
+image: https://i.imgur.com/sAoTIxh.jpg
 ---
-![](https://imgur.com/sAoTIxh.jpg)
+![](https://i.imgur.com/sAoTIxh.jpg)
 
 🚢 週末有點閑暇，來聊聊英國的「王室屬地」與「海外領土」吧！
 

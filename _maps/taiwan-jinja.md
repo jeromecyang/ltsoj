@@ -1,10 +1,10 @@
 ---
 date: 2021-02-17
 title: 神社在台灣
-image: https://imgur.com/NSuW1GZ.jpg
+image: https://i.imgur.com/NSuW1GZ.jpg
 ---
 
-![](https://imgur.com/NSuW1GZ.jpg)
+![](https://i.imgur.com/NSuW1GZ.jpg)
 
 EP38的搭配服用地圖終於來了！毫無意外的，當然就是做全台灣的神社分佈圖啦！廢話不多說，以下摘錄幾個重點——
 

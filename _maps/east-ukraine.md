@@ -1,10 +1,10 @@
 ---
 date: 2020-07-29
 title: 「不顧基輔反對」從烏克蘭獨立的兩小國：盧甘斯克、頓內次克
-image: https://imgur.com/Dd2T18d.jpg
+image: https://i.imgur.com/Dd2T18d.jpg
 ---
 
-![](https://imgur.com/Dd2T18d.jpg)
+![](https://i.imgur.com/Dd2T18d.jpg)
 
 在我們以為不太會有戰火的歐洲大陸上，這場「頓巴斯戰爭」（War in Donbass，2014--）已經造成超過1萬平民喪生、近150萬人流離失所。隨便google一下，跳出來的便是各種貨真價實的戰爭場景，甚至還有2012年剛蓋好、2014年就被炸爛的國際機場。此外，眾所皆知的馬航MH17也是被烏東的親俄勢力給擊落的。
 

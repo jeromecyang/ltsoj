@@ -1,9 +1,9 @@
 ---
 date: 2023-02-13
 title: 俄羅斯的貨幣盧布紙鈔上都印了那些地方？
-image: https://imgur.com/Rfq1Syq.jpg
+image: https://i.imgur.com/Rfq1Syq.jpg
 ---
-![](https://imgur.com/Rfq1Syq.jpg)
+![](https://i.imgur.com/Rfq1Syq.jpg)
 
 在EP128中，旅居俄羅斯多年的卡嘉別出心裁的設計了「跟著鈔票遊俄羅斯」的分享，讓我們跟著鈔票上的地點走了一圈俄羅斯，更令人驚訝的是這些地方她竟然全、部、都、去、過！！！行動力之強令人讚嘆。
 
@@ -29,9 +29,9 @@ image: https://imgur.com/Rfq1Syq.jpg
 
 （勘誤：地圖上的5盧布與50盧布放反了，兩者應對調）
 
-![](https://imgur.com/KD7eZRI.jpg)
+![](https://i.imgur.com/KD7eZRI.jpg)
 
-![](https://imgur.com/Rnuh6xc.jpg)
+![](https://i.imgur.com/Rnuh6xc.jpg)
 
-![](https://imgur.com/9b9gtaZ.jpg)
+![](https://i.imgur.com/9b9gtaZ.jpg)
 

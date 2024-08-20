@@ -1,10 +1,10 @@
 ---
 date: 2021-02-09
 title: 蘇格蘭與英格蘭邊界到底在哪裡？
-image: https://imgur.com/VeDKAgJ.jpg
+image: https://i.imgur.com/VeDKAgJ.jpg
 ---
 
-![](https://imgur.com/VeDKAgJ.jpg)
+![](https://i.imgur.com/VeDKAgJ.jpg)
 
 歷史上曾經出現過的兩道長城——從羅馬帝國時代建立的安東尼長城與哈德良長城，其實都不是兩國的真正分界。目前的邊界建立於1237年的約克條約，介於兩道長城之間，至今僅有小幅變動。
 

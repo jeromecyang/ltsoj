@@ -1,10 +1,10 @@
 ---
 date: 2021-03-31
 title: 從西伯利亞、中國西北、中亞到東南歐的連續體：突厥語系
-image: https://imgur.com/i9mRq0a.jpg
+image: https://i.imgur.com/i9mRq0a.jpg
 ---
 
-![](https://imgur.com/i9mRq0a.jpg)
+![](https://i.imgur.com/i9mRq0a.jpg)
 
 這組地圖嘗試把「突厥語系」的分佈以及其中幾個重要的語言，用簡單的地圖呈現給大家。內亞/中亞是一塊廣大而且複雜的土地，要系統化的去理解它的歷史文化並不容易；而語言分類框架雖然只是其中一個面向，卻能夠讓我們稍稍理解幾個主要族群/國家之間的關係——誰和誰擁有共同的語言來源、誰和誰語言相近到不用翻譯也能彼此對話等等。
 
@@ -14,15 +14,15 @@ image: https://imgur.com/i9mRq0a.jpg
 
 在此特別感謝和我合作的來賓珮岑、豬豬隊友，以及訪問我的解鎖地球尚傑，還有一路支持我們創作的每一位聽眾！期待藉由這一系列節目，讓我們未來聽到「＿＿斯坦」的時候，心裡能浮現更加清晰一點的圖像，也能夠意識到這些地方正在面臨的挑戰，以及值得我們去關注的那些事件。
 
-![](https://imgur.com/RIr6eAB.jpg)
+![](https://i.imgur.com/RIr6eAB.jpg)
 
-![](https://imgur.com/6xceQfq.jpg)
+![](https://i.imgur.com/6xceQfq.jpg)
 
-![](https://imgur.com/k2BbhoN.jpg)
+![](https://i.imgur.com/k2BbhoN.jpg)
 
-![](https://imgur.com/hxbTvIY.jpg)
+![](https://i.imgur.com/hxbTvIY.jpg)
 
-![](https://imgur.com/6n7MywT.jpg)
+![](https://i.imgur.com/6n7MywT.jpg)
 
 🛠️ 本圖製作的技術細節
 

@@ -1,7 +1,7 @@
 ---
 title: Shawn
 subtitle: 第18屆外交替代役男
-image: https://imgur.com/Ioq32DK.jpg
+image: https://i.imgur.com/Ioq32DK.jpg
 website: https://vocus.cc/salon/65ce1669fd89780001128a5c
 instagram: https://www.instagram.com/yeecshawnla/
 ---

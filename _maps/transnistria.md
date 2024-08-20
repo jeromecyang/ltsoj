@@ -1,10 +1,10 @@
 ---
 date: 2020-07-22
 title: 德涅斯特河沿岸（德左）
-image: https://imgur.com/I2CxNiL.jpg
+image: https://i.imgur.com/I2CxNiL.jpg
 ---
 
-![](https://imgur.com/I2CxNiL.jpg)
+![](https://i.imgur.com/I2CxNiL.jpg)
 
 這張是我們節目中提到「活生生的前蘇聯博物館」、夾在烏克蘭與摩爾多瓦中間的「德涅斯特河沿岸」（德左），另一個地位和台灣一樣尷尬的特殊國家（誤
 

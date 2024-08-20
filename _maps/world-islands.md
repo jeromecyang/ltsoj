@@ -1,10 +1,10 @@
 ---
 date: 2021-04-14
 title: 這是一張世界地圖（當所有大陸都消失、只剩下島嶼時）
-image: https://imgur.com/5u43S2j.jpg
+image: https://i.imgur.com/5u43S2j.jpg
 ---
 
-![](https://imgur.com/5u43S2j.jpg)
+![](https://i.imgur.com/5u43S2j.jpg)
 
 對於旅行熱炒店的節目主題，我一向都很順其自然，通常就是按照錄音的順序一集一集播出，不會配合時令去調整主題；不過，如果正好碰到可以連成一氣的相關主題，還是會進行一些微調，讓相關的主題可以一氣呵成連續播出。
 

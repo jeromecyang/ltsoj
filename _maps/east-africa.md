@@ -1,10 +1,10 @@
 ---
 date: 2020-08-11
 title: 跟著我們一起認識四個非洲國家
-image: https://imgur.com/yRPBrlq.jpg
+image: https://i.imgur.com/yRPBrlq.jpg
 ---
 
-![](https://imgur.com/yRPBrlq.jpg)
+![](https://i.imgur.com/yRPBrlq.jpg)
 
 南撒哈拉非洲的多數國家有許多類似之處：在19世紀末到二次大戰之間被歐洲國家殖民、獨立之後隨即開始劇烈的內部衝突、經歷多位獨裁者的領導，至今無論在社會發展還是經濟上仍持續掙扎中。EP8介紹的烏干達與南蘇丹如此，EP9登場的盧安達與剛果民主共和國亦然。
 

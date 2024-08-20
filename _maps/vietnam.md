@@ -1,10 +1,10 @@
 ---
 date: 2021-05-15
 title: 一起認識越南的地理分區
-image: https://imgur.com/iCaM6tA.jpg
+image: https://i.imgur.com/iCaM6tA.jpg
 ---
 
-![](https://imgur.com/iCaM6tA.jpg)
+![](https://i.imgur.com/iCaM6tA.jpg)
 
 其實我真的不熟越南。
 
@@ -21,11 +21,11 @@ image: https://imgur.com/iCaM6tA.jpg
 
 其他的基本資訊，就請直接參考圖上說明囉！也歡迎所有去過越南的強者們幫忙補充一下～
 
-![](https://imgur.com/mN3in35.jpg)
+![](https://i.imgur.com/mN3in35.jpg)
 
-![](https://imgur.com/J0loMrL.jpg)
+![](https://i.imgur.com/J0loMrL.jpg)
 
-![](https://imgur.com/YaI96Vo.jpg)
+![](https://i.imgur.com/YaI96Vo.jpg)
 
 [網路互動版本連結](https://www.google.com/maps/d/viewer?mid=1dWpeuAbU7qRo4abW3rOCccHl2Y6zSYvW)
 

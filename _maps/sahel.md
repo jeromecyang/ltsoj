@@ -1,10 +1,10 @@
 ---
 date: 2021-10-03
 title: 兩個重要地理概念「薩赫爾」、「法屬西非」，與非洲年雨量分佈
-image: https://imgur.com/t2yUU6l.jpg
+image: https://i.imgur.com/t2yUU6l.jpg
 ---
 
-![](https://imgur.com/t2yUU6l.jpg)
+![](https://i.imgur.com/t2yUU6l.jpg)
 
 聽完EP.71，相信各位可以從農藝專家甲殼哥的分享中，感覺到在布吉納法索種植水稻是多麽艱鉅的任務！既然農業終究離不開氣候與自然環境，這集的搭配服用地圖，就讓我們來年雨量圖出發，了解布吉納法索所涵蓋的「薩赫爾」在整個非洲氣候版圖上的位置！
 

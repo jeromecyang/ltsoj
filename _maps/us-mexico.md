@@ -1,9 +1,9 @@
 ---
 date: 2023-06-03
 title: 那些試圖跨越美墨邊界的人們
-image: https://imgur.com/rKoFTJs.jpg
+image: https://i.imgur.com/rKoFTJs.jpg
 ---
-![](https://imgur.com/rKoFTJs.jpg)
+![](https://i.imgur.com/rKoFTJs.jpg)
 
 最近我們簡單介紹了美墨邊境現況、美國的庇護申請制度，以及近期移民的一些趨勢。在這裡加碼補充一些數據和各位分享——
 

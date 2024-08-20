@@ -1,7 +1,7 @@
 ---
 title: One-Forty
 subtitle: 關注東南亞移工的非營利組織
-image: https://imgur.com/o7Y4Z50.jpg
+image: https://i.imgur.com/o7Y4Z50.jpg
 highlight: true
 ---
 One-Forty（社團法人台灣四十分之一移工教育文化協會）是一個關注東南亞移工的非營利組織，致力於培力東南亞移工，讓他們能透過教育與學習累積自己，回鄉後有能力經濟獨立、打破貧窮的惡性循環，同時也定期籌劃各式文化交流活動，創造台灣人與東南亞移工互相認識的機會，進而學習尊重與同理。

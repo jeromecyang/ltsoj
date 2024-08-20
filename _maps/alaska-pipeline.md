@@ -1,10 +1,10 @@
 ---
 date: 2021-08-25
 title: 阿拉斯加油管與聯邦政府所屬自然保護區
-image: https://imgur.com/QAnSbU5.jpg
+image: https://i.imgur.com/QAnSbU5.jpg
 ---
 
-![](https://imgur.com/QAnSbU5.jpg)
+![](https://i.imgur.com/QAnSbU5.jpg)
 
 美國的自然保護區有許多種，分屬聯邦政府下轄的不同單位，除了我們最熟悉的國家公園管理局（National Park Service，簡稱NPS）之外，國家森林局（US Forest Service）以及國家魚類及野生動物管理局（National Fish and Wildlife Foundation）也擁有不少保護區，這些單位管理的土地全部加起來，面積相當可觀。
 

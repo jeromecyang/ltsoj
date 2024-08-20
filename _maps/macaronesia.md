@@ -1,9 +1,9 @@
 ---
 date: 2023-04-04
 title: 歐洲人航向西方的前哨站：馬卡羅尼西亞
-image: https://imgur.com/CsAHR3t.jpg
+image: https://i.imgur.com/CsAHR3t.jpg
 ---
-![](https://imgur.com/CsAHR3t.jpg)
+![](https://i.imgur.com/CsAHR3t.jpg)
 
 地理課上講到太平洋，相信大家一定對三個「ＸＸ尼西亞」相當熟悉，但你有聽過在大西洋上的「馬卡羅尼西亞」（Macaronesia）嗎？
 

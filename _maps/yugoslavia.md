@@ -1,10 +1,10 @@
 ---
 date: 2021-07-11
 title: 政治實體中有政治實體：南斯拉夫的聯邦體制（1974-1992）
-image: https://imgur.com/9Nxk1b4.jpg
+image: https://i.imgur.com/9Nxk1b4.jpg
 ---
 
-![](https://imgur.com/9Nxk1b4.jpg)
+![](https://i.imgur.com/9Nxk1b4.jpg)
 
 「一個國家、兩種文字、三種語言、四種宗教、五個民族、六個共和國、七個鄰國、八個政治實體。」*
 

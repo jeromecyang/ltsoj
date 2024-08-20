@@ -1,10 +1,10 @@
 ---
 date: 2021-09-19
 title: 第一次世界大戰之後，如果色佛爾和約真的付諸實行，安納托利亞今日面貌可能會是？
-image: https://imgur.com/yNOBf9p.jpg
+image: https://i.imgur.com/yNOBf9p.jpg
 ---
 
-![](https://imgur.com/yNOBf9p.jpg)
+![](https://i.imgur.com/yNOBf9p.jpg)
 
 色佛爾和約（Treaty of Sèvres）是第一次世界大戰結束後，戰敗的鄂圖曼土耳其與協約國（主要為英、法、義）在1920年簽訂的條約，決定鄂圖曼土耳其的領土分割。這份和約後來被土耳其國民運動者（Turkish Nationalist）視為喪權辱國，在凱末爾（Mustafa Kemal Atatürk）領導下對外出兵、試圖對協約國施加壓力，最終導致各方都已簽字的色佛爾和約未實行，改以1923年重新簽訂的洛桑條約（Treaty of Lausanne）取代。
 

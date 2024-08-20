@@ -1,9 +1,9 @@
 ---
 date: 2022-04-09
 title: 印度尼西亞，34個省級行政區的主要宗教版圖
-image: https://imgur.com/Fgsl1If.jpg
+image: https://i.imgur.com/Fgsl1If.jpg
 ---
-![](https://imgur.com/Fgsl1If.jpg)
+![](https://i.imgur.com/Fgsl1If.jpg)
 
 印尼雖為世俗國家，國民卻有信仰宗教之義務，受國家認可之宗教則有六個：伊斯蘭教、新教、天主教、印度教、佛教和儒教。一起來看看在34個省級行政區裡，是哪個宗教佔主導地位吧！
 

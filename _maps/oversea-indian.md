@@ -1,9 +1,9 @@
 ---
 date: 2022-06-26
 title: 這13個國家/地區，超過15%的人口為海外印度裔！
-image: https://imgur.com/wtD79K5.jpg
+image: https://i.imgur.com/wtD79K5.jpg
 ---
-![](https://imgur.com/wtD79K5.jpg)
+![](https://i.imgur.com/wtD79K5.jpg)
 
 斐濟和模里西斯，兩個距離遙遠看似八竿子打不著的國家，卻因為同樣被英國殖民過、同樣曾經移入大量來自印度的契約勞工，因此在人口組成上有相似之處。
 

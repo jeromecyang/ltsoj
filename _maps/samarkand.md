@@ -1,21 +1,21 @@
 ---
 date: 2022-08-02
 title: 帖木兒王朝的帝都，撒馬爾罕城市散策
-image: https://imgur.com/LVG7WIV.jpg
+image: https://i.imgur.com/LVG7WIV.jpg
 ---
-![](https://imgur.com/LVG7WIV.jpg)
+![](https://i.imgur.com/LVG7WIV.jpg)
 
 這集節目中，我們花了不少時間聊撒馬爾罕，包括那些在伊斯蘭建築之外的古老歷史；不過話說回來，這座城市最值得矚目的還是帖木兒帝國時期的華麗建築們！而這些主要的據點又正好可以被完美的串成一線，因此作為補充，就讓我們跟著地圖還有照片一起在撒馬爾罕街頭走走，感受一下當年帝國的非凡氣勢吧！
 
 ### 🚏 1. 帖木兒紀念碑 Amir Timur Monument
 
-![](https://imgur.com/ZWU6uMC.jpg)
+![](https://i.imgur.com/ZWU6uMC.jpg)
 
 位在市中心圓環的帖木兒雕像，周圍是寬敞的道路與林蔭，蘇聯式的政府機關建築、學院與表演廳幾乎都集中在這區，如同台北的博愛特區一樣，是撒馬爾罕今日的行政中樞所在。
 
 ### 🚏 2. 帖木兒陵墓 Gur-i Amir
 
-![](https://imgur.com/v9M7MUa.jpg)
+![](https://i.imgur.com/v9M7MUa.jpg)
 
 Gur-e Amir 是波斯語「王陵」的意思，裡面除了帖木兒本人，還埋葬了他的兩位兒子與兩位孫子，包括下面會提到的烏魯伯格，以及他的老師。建築首先在1504年完工，後來又經歷多次擴建成為目前規模。目前看到的建築面貌是蘇聯晚期到烏茲別克獨立後重建的結果。
 
@@ -23,7 +23,7 @@ Gur-e Amir 是波斯語「王陵」的意思，裡面除了帖木兒本人，還
 
 ### 🚏 3. 雷吉斯坦 Registan
 
-![](https://imgur.com/690LCic.jpg)
+![](https://i.imgur.com/690LCic.jpg)
 
 由三座經學院圍繞而成的巨大華麗廣場：
 
@@ -35,7 +35,7 @@ Gur-e Amir 是波斯語「王陵」的意思，裡面除了帖木兒本人，還
 
 ### 🚏 4. 比比哈努姆清真寺/陵墓 Bibi-Khanym Mosque/Mausoleum
 
-![](https://imgur.com/Mbe269x.jpg)
+![](https://i.imgur.com/Mbe269x.jpg)
 
 清真寺建於西元15世紀帖木兒從出征印度回來之後，立志打造為帝都規模最大的清真寺。正門裡面高達35公尺，中庭長78公尺、寬64公尺，是伊斯蘭世界裡少見的規模。建築特色之一是主要的圓頂隱藏在後方，從正門進入後無法見到。
 
@@ -43,13 +43,13 @@ Gur-e Amir 是波斯語「王陵」的意思，裡面除了帖木兒本人，還
 
 ### 🚏 5. 西阿卜市集 Siyob Bazaar
 
-![](https://imgur.com/5xcLd3u.jpg)
+![](https://i.imgur.com/5xcLd3u.jpg)
 
 緊鄰比比哈努姆，是撒馬爾罕最大的市集，從生鮮、雜貨到香料應有盡有，也很適合遊客們來此用餐或尋寶。
 
 ### 🚏 6. 皇家陵園 Shah-i-Zinda
 
-![](https://imgur.com/zbVKa45.jpg)
+![](https://i.imgur.com/zbVKa45.jpg)
 
 由超過20座陵墓組成的建築群，最早的建於11世紀，之後一路擴展到19世紀，走在期間彷彿置身於一座異次元中的城市。
 
@@ -57,7 +57,7 @@ Shah-i-Zinda 意為「活著的王」，指的是先知穆罕默德的表親 Qut
 
 ### 🚏 7. 哈茲拉希茲爾清真寺 Hazrat Khizr Mosque
 
-![](https://imgur.com/xKRldoq.jpg)
+![](https://i.imgur.com/xKRldoq.jpg)
 
 最早建於西元8世紀，是阿拉伯征服撒馬爾罕之後興建的第一座清真寺，地基下面埋藏著過去其他宗教的廟宇。在蒙古入侵時被毀，一直到19世紀末才重建。位在一個視野非常好的制高點上，從露天迴廊可以眺望前面提到的幾個景點。
 
@@ -65,7 +65,7 @@ Shah-i-Zinda 意為「活著的王」，指的是先知穆罕默德的表親 Qut
 
 ### 🚏 8. 阿弗拉西阿卜博物館 Afrosiyob Museum
 
-![](https://imgur.com/sB7PZWl.jpg)
+![](https://i.imgur.com/sB7PZWl.jpg)
 
 旁邊就是阿弗拉西阿卜（Afrosiyob）古城蹟。在蒙古入侵之前，這裡是撒馬爾罕的城區所在，目前是全世界最大的考古遺址之一，出土了不少壁畫，而這些歷史與考古成果被集中在博物館中提供遊客參觀。如同節目中所提，裡面還有出土唐高宗與武則天的壁畫！
 
@@ -75,6 +75,6 @@ Shah-i-Zinda 意為「活著的王」，指的是先知穆罕默德的表親 Qut
 
 ### 🚏 9. 烏魯伯格天文台 Ulugh Beg Observatory
 
-![](https://imgur.com/CRoYkJV.jpg)
+![](https://i.imgur.com/CRoYkJV.jpg)
 
 烏魯伯格（Ulugh Beg）是帖木兒的孫子，也是帝國的第三代統治者。他不僅是蘇丹，同時也通曉數學與天文。1420年在建造了這座天文台，裡面有當時全世界最大的象限儀，累積了30年的觀測成果後出版了《烏魯伯格天文表》，影響力足以與托勒密相提並論。

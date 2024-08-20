@@ -3,7 +3,7 @@ title: 郭璨宇
 facebook: https://www.facebook.com/KeYuanTraveller
 website: https://dailycold.tw
 subtitle: 《每日一冷》Mr Holiday
-image: https://imgur.com/tCajSwm.jpg
+image: https://i.imgur.com/tCajSwm.jpg
 highlight: true
 ---
 

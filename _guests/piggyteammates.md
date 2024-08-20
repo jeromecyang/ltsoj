@@ -5,7 +5,7 @@ facebook: https://facebook.com/piggyteammates
 instagram: https://instagram.com/piggyteammates
 youtube: https://reurl.cc/EO5zg
 subtitle: 《豬豬隊友 Scott & Wendy》
-image: https://imgur.com/0xAYnQV.jpg
+image: https://i.imgur.com/0xAYnQV.jpg
 highlight: true
 ---
 

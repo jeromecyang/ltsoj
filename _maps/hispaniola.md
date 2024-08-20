@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
 title: 同島不同命：海地與多明尼加共和國
-image: https://imgur.com/uox3bin.jpg
+image: https://i.imgur.com/uox3bin.jpg
 ---
 
-![](https://imgur.com/uox3bin.jpg)
+![](https://i.imgur.com/uox3bin.jpg)
 
 過去一個月隨著台灣本土病例的增加，「同島一命」突然成了流行語；然而位在地球另一端的兩個國家海地與多明尼加共和國，不只「同島不同命」，在許多方面都可說是天差地遠！配合Ep.55的內容，這裡就讓我們簡單認識一下這兩個國家的異同，以及為何會形成如此巨大的落差。
 

@@ -1,9 +1,9 @@
 ---
 date: 2022-02-13
 title: 法屬印度支那的構成，保護國、殖民地與租界
-image: https://imgur.com/buCW07i.jpg
+image: https://i.imgur.com/buCW07i.jpg
 ---
-![](https://imgur.com/buCW07i.jpg)
+![](https://i.imgur.com/buCW07i.jpg)
 
 存在於1887-1954間的法國屬地聯邦「印度支那」，範圍大致等同於今天的越南、柬埔寨與寮國，然而在聯邦時期它並不是由這三塊領土構成！作為EP89的補充，我們來簡單認識一下法屬印度支那的構成。
 

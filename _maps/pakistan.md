@@ -1,10 +1,10 @@
 ---
 date: 2021-11-03
 title: 巴基斯坦四省，與另外2+1個一級行政區
-image: https://imgur.com/vFErB3l.jpg
+image: https://i.imgur.com/vFErB3l.jpg
 ---
 
-![](https://imgur.com/vFErB3l.jpg)
+![](https://i.imgur.com/vFErB3l.jpg)
 
 擁有超過2億人口的巴基斯坦，人口數在全球排名第5。我們可能會直覺地認為，這麼大的一個國家，應該會有數量不少的一級行政區吧？然而令人意外的是，巴基斯坦的一級行政區竟然只有4個省，外加兩個自治區與一個首都特區，如此而已！究竟為何會如此？
 

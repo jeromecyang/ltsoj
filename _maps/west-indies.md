@@ -1,9 +1,9 @@
 ---
 date: 2021-11-13
 title: 西印度群島組成國家/地區與島群分佈
-image: https://imgur.com/ZkFINCl.jpg
+image: https://i.imgur.com/ZkFINCl.jpg
 ---
-![](https://imgur.com/ZkFINCl.jpg)
+![](https://i.imgur.com/ZkFINCl.jpg)
 
 要系統性解鎖西印度群島，尤其是其中的小安地列斯群島（Lesser Antilles）部分，對我來說其實相當不容易——
 

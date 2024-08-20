@@ -1,10 +1,10 @@
 ---
 date: 2020-10-24
 title: 海洋奇緣，從台灣出發！——南島語系如何走向全世界
-image: https://imgur.com/w0MF7eq.jpg
+image: https://i.imgur.com/w0MF7eq.jpg
 ---
 
-![](https://imgur.com/w0MF7eq.jpg)
+![](https://i.imgur.com/w0MF7eq.jpg)
 
 ➤ 近年來「南島語族」這個詞在台灣越來越紅，大家都知道它表示台灣和多數太平洋島國具有某種連結，但這個連結在歷史上究竟是如何發生的呢？
 

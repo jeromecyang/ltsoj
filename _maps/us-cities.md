@@ -1,9 +1,9 @@
 ---
 date: 2022-03-29
 title: 米國城市10強爭奪戰（1920-2020）
-image: https://imgur.com/mnSkcYS.jpg
+image: https://i.imgur.com/mnSkcYS.jpg
 ---
-![](https://imgur.com/mnSkcYS.jpg)
+![](https://i.imgur.com/mnSkcYS.jpg)
 
 在EP91中，來賓 Jerry 鉅細彌遺地說明了聖路易的興衰，如何從排名全國第四的大城、風光舉辦奧運和世博的盛況，邁入令人不勝唏噓的衰老狀態。而事實上不只是聖路易，隨著城市結構改變與人口重心轉移，美國的前十大城市排名在過去100年變動不少，就讓我們透過這張圖，一起來看看這些城市排名的高低起伏吧！
 

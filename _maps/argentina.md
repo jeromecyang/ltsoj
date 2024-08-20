@@ -1,9 +1,9 @@
 ---
 title: 阿根廷七大地理區與柯本氣候類型分布
-image: https://imgur.com/zY8MLTZ.jpg
+image: https://i.imgur.com/zY8MLTZ.jpg
 date: 2022-03-21
 ---
-![](https://imgur.com/zY8MLTZ.jpg)
+![](https://i.imgur.com/zY8MLTZ.jpg)
 
 對於EP93該搭配什麼地圖，其實讓我猶豫許久，一方面自己對阿根廷真的太不熟，另一方面則是這個國家實在太大、內部的地理現象太複雜，很難用短短幾句話說清楚；最後決定畫出七大地理區，並且套疊柯本氣候類型分佈，讓大家可以一邊看著圖、一邊去感受各個地理區裡的氣候現象，以及塑造出的地形景觀。
 

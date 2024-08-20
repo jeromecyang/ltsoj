@@ -1,9 +1,9 @@
 ---
 date: 2022-01-18
 title: 六堆，到底在哪裡？用聚落確切位置呈現的六堆地圖
-image: https://imgur.com/iemcQdg.jpg
+image: https://i.imgur.com/iemcQdg.jpg
 ---
-![](https://imgur.com/iemcQdg.jpg)
+![](https://i.imgur.com/iemcQdg.jpg)
 
 現今網路上流傳的六堆分佈圖，大多是根據今天鄉鎮市區的範圍繪製，雖然能呈現大致位置，但卻有著一個基本的問題：目前的鄉鎮市區，是日治時代出現的區劃，然而六堆早在那之前就已經出現了！因此若要跳脫近代行政區劃、畫出更精確的六堆位置，就得把原本六堆裡的聚落一個一個找出來。
 
@@ -32,8 +32,8 @@ image: https://imgur.com/iemcQdg.jpg
 ### 附註
 圖上所繪為朱一貴事件(1721)後之聚落分佈，取自石萬壽「乾隆以前臺灣南部客家人的墾殖」（刊於《臺灣文獻》第37卷第4期，1986年12月）文中之圖2，經過數化轉為地理資訊格式。
 
-![](https://imgur.com/LCHalib.jpg)
+![](https://i.imgur.com/LCHalib.jpg)
 
-![](https://imgur.com/jxJdbiw.jpg)
+![](https://i.imgur.com/jxJdbiw.jpg)
 
-![](https://imgur.com/iEG3KBe.jpg)
+![](https://i.imgur.com/iEG3KBe.jpg)

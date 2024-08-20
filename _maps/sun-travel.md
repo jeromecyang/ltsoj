@@ -1,9 +1,9 @@
 ---
 date: 2022-07-25
 title: 革命已經成功，同志們可以回家了！1911年，孫文提前結束的美國募款之旅
-image: https://imgur.com/WsPUdPU.jpg
+image: https://i.imgur.com/WsPUdPU.jpg
 ---
-![](https://imgur.com/WsPUdPU.jpg)
+![](https://i.imgur.com/WsPUdPU.jpg)
 
 「我也是看了報紙，才知道武昌起義成功的！」
 

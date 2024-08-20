@@ -1,10 +1,10 @@
 ---
 date: 2021-07-04
 title: 從波羅的海、黑海到亞得里亞海都略懂：斯拉夫語族
-image: https://imgur.com/rwPR46H.jpg
+image: https://i.imgur.com/rwPR46H.jpg
 ---
 
-![](https://imgur.com/rwPR46H.jpg)
+![](https://i.imgur.com/rwPR46H.jpg)
 
 在EP58中，我們簡短討論了幾個不同的斯拉夫語言、它們之間的關聯，以及這些關聯如何反映在塞爾維亞與俄羅斯之間微妙的關係上。這回就透過這張圖，來幫大家整理一下幾個主要的斯拉夫語言，以及各自使用的書寫系統！
 

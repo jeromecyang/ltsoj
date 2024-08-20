@@ -1,10 +1,10 @@
 ---
 date: 2021-05-18
 title: 我的越南鄰居：那些生活在你我身邊的越南朋友
-image: https://imgur.com/JLAIKKj.jpg
+image: https://i.imgur.com/JLAIKKj.jpg
 ---
 
-![](https://imgur.com/zTRtM7s.jpg)
+![](https://i.imgur.com/zTRtM7s.jpg)
 
 之所以會下定決心要製作EP51，其實是因為吃了 #雞肉飯配越南河粉 的緣故？ 🤣（以下宵夜文警告XD）
 
@@ -24,9 +24,9 @@ image: https://imgur.com/JLAIKKj.jpg
 
 至於來自越南的移工與新住民究竟有多少人？他們生活在哪些地方？不妨利用這幾張圖稍微瞭解一下吧！
 
-![](https://imgur.com/JLAIKKj.jpg)
+![](https://i.imgur.com/JLAIKKj.jpg)
 
-![](https://imgur.com/N6NBSQ1.jpg)
+![](https://i.imgur.com/N6NBSQ1.jpg)
 
 移工地圖顯示比例為「越南移工佔全體移工之比例」，由淺至深分別為0-20%、20-40%、40%以上。
 新住民地圖顯示比例為「越南新住民佔全體新住民之比例」，由淺至深分別為0-20%、20-30%、30%以上。
@@ -42,4 +42,4 @@ https://www.ris.gov.tw/app/portal/346
 
 （以上皆為2021年3月底之數據）
 
-![](https://imgur.com/o5cxSHd.jpg)
+![](https://i.imgur.com/o5cxSHd.jpg)

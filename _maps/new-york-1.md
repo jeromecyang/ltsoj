@@ -1,14 +1,14 @@
 ---
 date: 2020-10-09
 title: 偽出國正夯，一起在紐約環遊世界吧！
-image: https://imgur.com/e9Bdtit.jpg
+image: https://i.imgur.com/e9Bdtit.jpg
 ---
 
-![](https://imgur.com/e9Bdtit.jpg)
+![](https://i.imgur.com/e9Bdtit.jpg)
 
 俗稱大蘋果的美國紐約，海納百川地容納了來自世界各地的移民，是地表文化最多元的城市；然而許多人對它的了解，僅止於法拉盛或K-town等知名度較高的區域，這讓Jerome決定要製作這集，把大蘋果裡更多有趣的角落分享出去！比搭機環島更便宜、更貼近地表的偽出國旅行，發現你不知道、旅遊書也不會寫的紐約，現在就跟著Jerome一起出發吧！ Let's go!!!
 
-![](https://imgur.com/FPsGFVP.jpg)
+![](https://i.imgur.com/FPsGFVP.jpg)
 
 No.1 曼哈頓小福州 East Broadway (2:01)
 
@@ -16,7 +16,7 @@ No.1 曼哈頓小福州 East Broadway (2:01)
 
 另一個值得補充的是，由於曼哈頓華人區擁擠且生活環境較差，目前多數福州移民已經搬遷至位在布魯克林區日落公園(Sunset Park)第八大道上的「次世代小福州」，那邊現在福州人店家的數量已經超過曼哈頓了，有時間也很推薦去走走！
 
-![](https://imgur.com/JqDRxwR.jpg)
+![](https://i.imgur.com/JqDRxwR.jpg)
 
 No.2 世界第二西藏首都 Jackson Heights (12:48)
 
@@ -26,7 +26,7 @@ No.2 世界第二西藏首都 Jackson Heights (12:48)
 
 除了這個南亞移民區之外，往東走馬上可以進入拉丁美洲移民區，往西不遠處則是菲律賓移民區，其間還穿插著中國人以及韓國人開的店家，外加一間希臘正教教堂，稱之為美國文化最多元的區域應該是毋庸置疑的！
 
-![](https://imgur.com/qiXM8pJ.jpg)
+![](https://i.imgur.com/qiXM8pJ.jpg)
 
 No.3 嘻哈文化發源聖地 Bronx (19:25)
 
@@ -52,7 +52,7 @@ No.4 非裔文藝復興重鎮 Harlem (22:19)
 
 ❣️ 溫馨提醒：Bronx與Harlem都不算是所謂的景點或觀光區，有心前往的話請多看多觀察，尊重當地人的日常生活節奏，若要拍照請低調。
 
-![](https://imgur.com/18dXyuH.jpg)
+![](https://i.imgur.com/18dXyuH.jpg)
 
 No.5 前蘇聯絲路風情 Brighton Beach (26:15)
 
@@ -66,7 +66,7 @@ No.5 前蘇聯絲路風情 Brighton Beach (26:15)
 
 當然既然叫做Brighton Beach，海灘還是有的，即使在疫情中人潮仍然不少；不過或許是因為真的很少遊客來，個人感覺海灘在這裡就只是個家旁邊的戶外空間，沒有什麼觀光氛圍。推薦大家要來的話，可以先到地鐵站旁的Tashkent Supermarket買好熟食，然後帶到沙灘這邊，悠閒的一邊看海一邊吃，絕對是一大享受。
 
-![](https://imgur.com/k4oEHM2.jpg)
+![](https://i.imgur.com/k4oEHM2.jpg)
 
 No.6 小圭亞那 Liberty Avenue (32:33)
 

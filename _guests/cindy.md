@@ -2,7 +2,7 @@
 title: Cindy
 facebook: https://www.facebook.com/cindymauritius
 subtitle: 《模里西斯我的家 Cindy's Home In Paradise》
-image: https://imgur.com/2vOXeko.jpg
+image: https://i.imgur.com/2vOXeko.jpg
 highlight: true
 ---
 

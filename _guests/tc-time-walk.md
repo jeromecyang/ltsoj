@@ -1,7 +1,7 @@
 ---
 title: TC Time Walk
 subtitle: 台中時空漫步
-image: https://imgur.com/SdAbkGe.jpg
+image: https://i.imgur.com/SdAbkGe.jpg
 website: https://tctimewalk.com
 facebook: https://www.facebook.com/TCTimeWalk
 instagram: https://www.instagram.com/tc_time_walk_

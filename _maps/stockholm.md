@@ -1,10 +1,10 @@
 ---
 date: 2021-04-11
 title: 我都唸IKEA！斯德哥爾摩市區地圖
-image: https://imgur.com/4L1PSRF.jpg
+image: https://i.imgur.com/4L1PSRF.jpg
 ---
 
-![](https://imgur.com/4L1PSRF.jpg)
+![](https://i.imgur.com/4L1PSRF.jpg)
 
 斯德哥爾摩地圖，特別以深黑色粗體標示幾個節目中提到的地點，其餘重要景點、地標在圖上也有顯示。這就是斯德哥爾摩的市中心了，我本人沒去過，但看著地圖上的形勢以及Google Maps上密密麻麻的標記，也稍微可以想像當地的樣貌了。
 

@@ -1,9 +1,9 @@
 ---
 date: 2022-05-18
 title: 伊朗的族群版圖
-image: https://imgur.com/ulykKWB.jpg
+image: https://i.imgur.com/ulykKWB.jpg
 ---
-![](https://imgur.com/ulykKWB.jpg)
+![](https://i.imgur.com/ulykKWB.jpg)
 
 伊朗是個豐富的國家，有不少值得拿來做圖的主題；不過既然這集號稱是「伊朗概論」，那我們還是先從最基本的族群版圖講起吧！
 

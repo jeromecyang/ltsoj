@@ -1,10 +1,10 @@
 ---
 date: 2021-04-30
 title: 他們向南，一路航行，來到最遙遠的境界：拉帕努伊
-image: https://imgur.com/CrA9irZ.jpg
+image: https://i.imgur.com/CrA9irZ.jpg
 ---
 
-![](https://imgur.com/CrA9irZ.jpg)
+![](https://i.imgur.com/CrA9irZ.jpg)
 
 聽完EP.49的拉帕努伊（復活節島），地圖控的例行公事又來啦！這次是用Google Earth出圖之後再稍做調色。雖然配色實在不怎麼討喜，但要表現出一座海島的地形多變（尤其是那一個個可愛的火山口！！），還是要靠Google Earth的3D數值模型加上衛星影像比較有fu這樣～
 

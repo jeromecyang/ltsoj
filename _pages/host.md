@@ -1,7 +1,7 @@
 ---
 title: 關於旅行熱炒店主廚 Jerome Yang
 ---
-![](https://imgur.com/Jp9uV72.jpg)
+![](https://i.imgur.com/Jp9uV72.jpg)
 
 ### 主廚是誰？
 

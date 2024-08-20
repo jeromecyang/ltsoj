@@ -1,10 +1,10 @@
 ---
 date: 2021-07-18
 title: 弓頭鯨遷徙路線與阿拉斯加捕鯨部落
-image: https://imgur.com/jeet9mv.jpg
+image: https://i.imgur.com/jeet9mv.jpg
 ---
 
-![](https://imgur.com/jeet9mv.jpg)
+![](https://i.imgur.com/jeet9mv.jpg)
 
 原本只是抱著好奇心想去看看Nalukataq而飛到Utqiagvik (Barrow)，沒想到卻不小心入了個大坑。
 

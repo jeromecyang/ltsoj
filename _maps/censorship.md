@@ -1,10 +1,10 @@
 ---
 date: 2020-11-02
 title: 你的網路不是你的網路：那些實施網路審查的國家們
-image: https://imgur.com/al3HKGP.jpg
+image: https://i.imgur.com/al3HKGP.jpg
 ---
 
-![](https://imgur.com/al3HKGP.jpg)
+![](https://i.imgur.com/al3HKGP.jpg)
 
 網路審查（Internet censorship）是指「透過立法規管和官方倡議等手段，來控制或禁止人們於網際網路之上所觀看、存取、發表的內容」，而每個國家由於其制度與政情不同，也有著程度不一的網路審查。
 

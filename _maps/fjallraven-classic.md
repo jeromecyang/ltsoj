@@ -1,9 +1,9 @@
 ---
 date: 2022-01-29
 title: Fjällräven Classic Sweden，跟著瑞典戶外品牌行走國王小徑北段的110公里健行
-image: https://imgur.com/OaPZ5f3.jpg
+image: https://i.imgur.com/OaPZ5f3.jpg
 ---
-![](https://imgur.com/OaPZ5f3.jpg)
+![](https://i.imgur.com/OaPZ5f3.jpg)
 
 我常常覺得地圖具有一種神奇的魔力——即使只是一條路線、幾個點，搭配底下的地形、山脈、水系，就算還是簡單到不行的幾何圖形，卻能讓人擁有神遊當地的感覺！不知道大家是否能從圖上感受到，那110公里完全是走在無人的荒野、身邊是峽灣與冰河地形作伴的體驗呢？ :)
 

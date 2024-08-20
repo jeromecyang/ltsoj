@@ -1,10 +1,10 @@
 ---
 date: 2021-06-09
 title: 敘利亞，被10年內戰撕裂的家園
-image: https://imgur.com/5e8JpjU.jpg
+image: https://i.imgur.com/5e8JpjU.jpg
 ---
 
-![](https://imgur.com/5e8JpjU.jpg)
+![](https://i.imgur.com/5e8JpjU.jpg)
 
 敘利亞內戰的特別之處，在於它不只是「政府軍——反對派」兩大勢力的交鋒，同時也捲入了伊斯蘭國，以及東北部由庫德人以及其他少數民族組成的另一股勢力「敘利亞民主力量」。從2011年開始的10年內戰，四大陣營在不同時間點的勢力消長，徹底的改變了敘利亞的面貌，最終形成圖上顯示的2021年2月的形勢——
 

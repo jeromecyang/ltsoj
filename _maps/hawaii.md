@@ -1,9 +1,9 @@
 ---
 date: 2021-12-14
 title: 旅遊書上通常不太會提的那4個夏威夷冷門島嶼
-image: https://imgur.com/RxkeuRb.jpg
+image: https://i.imgur.com/RxkeuRb.jpg
 ---
-![](https://imgur.com/RxkeuRb.jpg)
+![](https://i.imgur.com/RxkeuRb.jpg)
 
 夏威夷有幾個島？航空公司或旅遊業者的答案通常會是：4個，也就是那4個面積較大、佔整個夏威夷超過99%人口的島嶼；然而在這4個島嶼之外，還有另外4個（現在或歷史上）有人居住的島嶼，包括本集的主角摩洛凱島。一起用這張圖來認識一下他們吧！
 

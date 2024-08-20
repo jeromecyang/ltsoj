@@ -1,12 +1,12 @@
 ---
 date: 2021-11-07
 title: 用統計數字認識巴基斯坦——貧窮率、成人識字率之性別平等指數
-image: https://imgur.com/G4ihWL0.jpg
+image: https://i.imgur.com/G4ihWL0.jpg
 ---
 
-![](https://imgur.com/G4ihWL0.jpg)
+![](https://i.imgur.com/G4ihWL0.jpg)
 
-![](https://imgur.com/uIvJXmp.jpg)
+![](https://i.imgur.com/uIvJXmp.jpg)
 
 每次製作一集節目，除了花時間研究該地的歷史地理之外，我也很喜歡尋找該地的統計資料，看看裡面有沒有什麼有趣的現象，因此這次巴基斯坦也不例外——或許是因為擁有過去英國殖民留下的制度基礎，巴基斯坦的人口統計數據相對完整而且容易查詢（而且還是英文！），我從裡面挑選了兩個指標來跟大家分享一下——
 

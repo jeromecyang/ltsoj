@@ -1,9 +1,9 @@
 ---
 date: 2023-03-03
 title: 重返冷戰最前線，阿留申群島
-image: https://imgur.com/WEA7PCQ.jpg
+image: https://i.imgur.com/WEA7PCQ.jpg
 ---
-![](https://imgur.com/WEA7PCQ.jpg)
+![](https://i.imgur.com/WEA7PCQ.jpg)
 
 每次翻開地圖，看見懸掛於亞洲與美洲之間的那條島鏈，你是否也曾好奇那裡有著怎樣的風景、住著怎樣的人？你知道阿留申群島曾經差點成為日本登陸美洲大陸的跳板嗎？走進群島裡廢棄營舍，會發現怎樣的秘密與寶藏？
 

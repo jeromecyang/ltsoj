@@ -2,7 +2,7 @@
 title: 張凱絲 Casey Chang
 website: https://www.caseygotravel.com/
 subtitle: 旅遊作家、咖啡師與水彩插畫家
-image: https://imgur.com/0iiPuAV.jpg
+image: https://i.imgur.com/0iiPuAV.jpg
 facebook: https://www.facebook.com/caseygotravel
 instagram: https://www.instagram.com/caseygotravel
 youtube: https://www.youtube.com/channel/UCGlqxGa60cHcU6VxBg2si_Q

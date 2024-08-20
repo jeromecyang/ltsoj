@@ -1,10 +1,10 @@
 ---
 date: 2020-10-20
 title: 迪士尼如何匯集玻里尼西亞各文化打造動畫《海洋奇緣》
-image: https://imgur.com/8jDTcZU.jpg
+image: https://i.imgur.com/8jDTcZU.jpg
 ---
 
-![](https://imgur.com/8jDTcZU.jpg)
+![](https://i.imgur.com/8jDTcZU.jpg)
 
 ep.18講到大溪地，而近年跟大溪地最有關聯的知名影視作品，絕對是迪士尼2016年的動畫片《海洋奇緣》！本週的搭配服用地圖，就來呈現一下迪士尼如何融合玻里尼西亞的不同島國文化，創造出片中的「莫圖努伊島」。
 

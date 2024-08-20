@@ -1,7 +1,7 @@
 ---
 title: 張育軒
 subtitle: 《說說伊朗》
-image: https://imgur.com/yYekWuZ.jpg
+image: https://i.imgur.com/yYekWuZ.jpg
 facebook: https://www.facebook.com/talkpersia
 website: https://medium.com/cultureofpersia
 youtube: https://www.youtube.com/channel/UCRn-ZypcBGYSZs5aw_msVyw/featured

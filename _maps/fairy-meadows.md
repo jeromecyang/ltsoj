@@ -1,10 +1,10 @@
 ---
 date: 2021-03-17
 title: Fairy Meadows與Nanga Prabat健行
-image: https://imgur.com/P8VgYmv.jpg
+image: https://i.imgur.com/P8VgYmv.jpg
 ---
 
-![](https://imgur.com/P8VgYmv.jpg)
+![](https://i.imgur.com/P8VgYmv.jpg)
 
 在巴基斯坦的高山健行是什麼感覺？
 

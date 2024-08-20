@@ -1,9 +1,9 @@
 ---
 title: 北高加索地區的８個共和國（與２片喬治亞爭議領土）
-image: https://imgur.com/Nfa58qa.jpg
+image: https://i.imgur.com/Nfa58qa.jpg
 date: 2022-05-01
 ---
-![](https://imgur.com/Nfa58qa.jpg)
+![](https://i.imgur.com/Nfa58qa.jpg)
 
 北高加索地區雖然幾乎全為俄羅斯領土，但內部其實有多達8個自治共和國，分歧的程度不亞於南高加索地區！這麼複雜的一塊土地，怎樣理解才能比較有個頭緒呢？
 

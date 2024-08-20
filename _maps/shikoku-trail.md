@@ -1,10 +1,10 @@
 ---
 date: 2021-09-06
 title: 日本的朝聖之路，四國八十八箇所
-image: https://imgur.com/C5WHXk2.jpg
+image: https://i.imgur.com/C5WHXk2.jpg
 ---
 
-![](https://imgur.com/C5WHXk2.jpg)
+![](https://i.imgur.com/C5WHXk2.jpg)
 
 不知道是不是因為來賓講得太精彩、又是台灣人最愛的日本旅行題材，EP67的迴響頗為熱烈！但這個以「日本版朝聖之路」為主題的集數，怎麼可以沒有地圖呢？
 
