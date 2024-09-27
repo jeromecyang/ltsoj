@@ -33,7 +33,7 @@ layout: null
       <title>{{episode.title | replace: '&', '&amp;'}}</title>
       <itunes:author>{{site.author_title}}</itunes:author>
       <itunes:image href="{{episode.image}}"/>
-      <enclosure type="audio/mpeg" url="https://chtbl.com/track/782GB8/jeromecyang.github.io/{{episode.filepath}}" length="392741"/>
+      <enclosure type="audio/mpeg" url="https://jeromecyang.github.io/{{episode.filepath}}" length="392741"/>
       <guid isPermaLink="false">{{episode.guid}}</guid>
       <link>https://ltsoj.com{{episode.url}}</link>
       <pubDate>{{episode.date|date:'%s'|date_to_rfc822}}</pubDate>
