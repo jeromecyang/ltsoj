@@ -1,5 +1,6 @@
 ---
 title: Samson 三順
+subtitle: 渴望被旅行救贖的無聊工程師
 image: https://i.imgur.com/2I9iXJS.png
 instagram: https://instagram.com/samsonnn_travelholic
 ---
