@@ -5,6 +5,8 @@ image: https://i.imgur.com/j6rBU6z.png
 website: https://linktr.ee/hakkaluna
 facebook: https://www.facebook.com/Medusa.1st.princess/
 instagram: https://instagram.com/hakkaluna
+highlight: true
+order: 10
 ---
 客家小瑪 (Hakka Luna)，作家 / 歷史老師 / 博士生 的 / slash / 人生。曾經當過馬來西亞第一位台灣籍的華文獨立中學校長。也是資深印度粉，當過特派員到印度訪問大明星。有一個podcast 節目《海外村民集會所》。東南亞、印度、南亞及伊斯蘭世界是主要守備範圍。目前是作家兼還在寫博士論文的歷史老師。
 

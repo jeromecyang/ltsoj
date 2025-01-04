@@ -5,6 +5,7 @@ image: https://i.imgur.com/mDHmYao.jpg
 facebook: https://www.facebook.com/ck.funsilkroad/
 website: https://www.taisilk.org.tw/
 highlight: true
+order: 14
 ---
 CK 郭麗敏，常被中亞人說長得像中亞人的台客。
 
