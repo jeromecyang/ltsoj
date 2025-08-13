@@ -43,20 +43,20 @@ featured: true
 * North Carolina	北卡羅來納州 [EP231](/podcast-ep231)
 * North Dakota	北達科他州 [EP144](/podcast-ep144)
 * Ohio	俄亥俄州 [EP233](/podcast-ep233)
-* Oklahoma	奧克拉荷馬州 EP236 （製作中）
-* Oregon	奧勒岡州 EP237 （製作中）
+* Oklahoma	奧克拉荷馬州 [EP236](/podcast-ep236)
+* Oregon	奧勒岡州 EP237 [EP237](/podcast-ep237)
 * Pennsylvania	賓夕法尼亞州 [EP179](/podcast-ep179)
 * Rhode Island	羅德島州 [EP195](/podcast-ep195)
 * South Carolina	南卡羅來納州 [EP231](/podcast-ep231)
 * South Dakota	南達科他州 [EP235](/podcast-ep235)
 * Tennessee	田納西州 [EP234](/podcast-ep234)
-* Texas	德克薩斯州 EP236 （製作中）
+* Texas	德克薩斯州 [EP236](/podcast-ep236)
 * Utah	猶他州 [EP163](/podcast-ep163)
 * Vermont	佛蒙特州 [EP219](/podcast-ep219)
 * Virginia	維吉尼亞州 [EP220](/podcast-ep220)
-* Washington	華盛頓州 EP237 （製作中）
+* Washington	華盛頓州 [EP237](/podcast-ep237)
 * West Virginia	西維吉尼亞州 [EP223](/podcast-ep223)
 * Wisconsin	威斯康辛州 [EP235](/podcast-ep235)
 * Wyoming	懷俄明州 [EP233](/podcast-ep233)
 * 新春特別篇：美式中餐 [EP217](/podcast-ep217)
-* 最終完結篇：在50州之外 EP238 （製作中）
+* 完結篇：特區與領地 [EP238](/podcast-ep238)
