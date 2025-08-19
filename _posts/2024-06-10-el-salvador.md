@@ -150,7 +150,7 @@ featured: true
 
 ### Day 2 (5/26) 塔祖馬爾金字塔（Tazumal）與花之路（Ruta de las Flores）
 
-* 從Santa Ana搭乘前往Chalchuapa的281巴士（費用 0.35 USD）即可抵達Tazumal，遺址園區直接就位於Chalchuapa市區走路可達，外國人入園費用 6 USD。遺址園區內可以見到不同時期加蓋的金字塔結構，另有一座小小博物館展示出土文物。
+* 從Santa Ana搭乘前往Chalchuapa的218巴士（費用 0.35 USD）即可抵達Tazumal，遺址園區直接就位於Chalchuapa市區走路可達，外國人入園費用 6 USD。遺址園區內可以見到不同時期加蓋的金字塔結構，另有一座小小博物館展示出土文物。
 
 ![](https://i.imgur.com/9w7JqOC.jpg)
 *塔祖馬爾金字塔*
