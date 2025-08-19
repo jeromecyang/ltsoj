@@ -169,6 +169,9 @@ featured: true
   * Concepción de Ataco被山丘環繞，稍微脫離主要幹道，石板街道讓聚落很有古味。
   * Juayua是最熱門聚落，中心廣場附近滿滿的攤販，住宿選項非常多，不少人會到附近的七座瀑布健行，或是參加咖啡園導覽。
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242.03650580266932!2d-89.84306722378615!3d13.92379041374463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6297670e178b3b%3A0x4b5581a55c9ea33!2sParada%20de%20Autobuses%20249%20y%20MB20!5e0!3m2!1sen!2sus!4v1755581523921!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+*花之路巴士（249）在 Chalchuapa 的乘車地點，同樣地點也可以搭20號抵達Ataco*
+
 ![](https://i.imgur.com/iTs7Eku.jpg)
 *個人覺得最有古味的Concepción de Ataco*
 
